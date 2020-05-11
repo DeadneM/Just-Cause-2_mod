@@ -1,0 +1,13 @@
+Bin Editor - FINDarkside
+GibbedsTools Binconverter - Rick (rick 'at' gibbed 'dot' us)
+Icons - http://www.visualpharm.com/must_have_icon_set/
+
+-----------------------------------------------------------------------
+
+Dictionary:
+
+1. FINDarkside - 483 entries
+2. Box-o-Aces - 58 entries
+
+If you have made new entries to the dictionary, send me your dictionary files here, and i'll put you in the dictionary and update the dictionary on jc2mods: 
+http://www.justcause2mods.com/forum/14-modifications/22380-bin-editor

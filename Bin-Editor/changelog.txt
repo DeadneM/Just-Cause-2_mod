@@ -1,0 +1,12 @@
+1.12 9.3.2015
+- Fixed bug which caused program to think it's located in system32
+
+1.11 10.8.2014
+- Fixed bug with automatic paring
+
+1.10   8.8.2014
+- Automatically parsing the field text for right data type to avoid binconverter crashes
+
+1.01   4.8.2014
+- Fixed bug with listing dropdown menu files (It listed all files in Dictionary folder)
+

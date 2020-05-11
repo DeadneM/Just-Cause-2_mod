@@ -1,0 +1,34 @@
+Error: Something is missing
+Solution: Are you sure that you have extracted the file and haven't deleted anything? If yes to both, report a bug here:http://www.justcause2mods.com/forum/14-modifications/22380-bin-editor
+
+-----------------------------------------------------------------------
+
+Menus:
+
+File
+	New File - Open default bin file, bin file will be saved in the specified saving location, and not in the location where you loaded the bin file
+	Open - Open one of you own bin files
+	Save - Saves your currently open file to the location you can find in Settings -> Save location
+	Save & Reload - Save and reload the file to see te changes you made for dictionary
+
+Dictionary
+	Save - Saves dictionary
+	Add entry - Add entries to dictionary by manually entering the ID and explanation
+	Add multiple entries - Same as before, but for adding more than one entry
+
+View
+	Hide unknown fields - Hides fields that don't have explanation in dictionary
+	Hide treeview - Shows only fields you can edit without indentation
+
+Settings
+	Save location - The location where the bin file will be saved
+		Default - path to the program\Dropzone
+		Alternative save location
+		Select new location
+
+-----------------------------------------------------------------------
+
+Notes: 
+- You need to save & reload too see the changes if you set a new entry with dropdown menu file
+- Add entries to dictionary by double clicking the field
+- Dropdown menu files need to have "d" as their first character for them to show up in the list while choosing dropdown menu files.

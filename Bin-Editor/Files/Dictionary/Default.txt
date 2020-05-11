@@ -1,0 +1,69 @@
+F538A02D:Reel in sparks 2[dEffects.txt]
+E691F700:Zoom
+E2E51819:Pump shotgun mag size
+ADB6D249:Dual hook detach effect[dEffects.txt]
+CC8F5957:Units count:Amounts of units spawned on wave
+8E43B31E:Grip angle?
+2A925441:Wire tightness:Big value makes objects fly when you attach them to something or pull them. Doesnt apply to humans.
+72104687:Max distance you hook will stick to objects, you still need to change hook ammo max distance from ammunition.bin
+fireeffectid:Fire effect[dEffects.txt]
+E5B4E435:Faction mission normal
+D57278D7:Wire durability object to object?
+5C63149F:Chaos and money per settlement?
+7C387BC0:Slingshot sparks[dEffects.txt]
+object_impulse:Object impulse:The force you hit objects with
+320B8CD2:Wire detach:Smaller value = wire will detach earlier while on parachute
+19F1AA22:Wave time
+BC79634F:Dual hook deploy[dEffects.txt]
+1BB6CC1A:Metal?
+6ABC2382:Assault rifle mag size
+F0F41244:Cash stash?
+7A4EF581:Reel in speed while on parachute
+7F2EEED0:Smg mag size
+2F2DF916:Beretta mag:Beretta mag size
+8AC4606D:Longer burning effect
+E0742B0E:Machinegun mag size
+AFDC73EB:Spawnrate:Time between spawning units
+BBC51E2B:Decals
+54236B22:Particle effect
+CA6EC803:Sound fx
+54236B23:Smoking barrel fx
+54236B24:Barrel distortion
+1C676632:Revolver mag size
+42FBDDAC:Cash stash payout
+bullet_fire_effect_id:Bullet fire effect[dEffects.txt]
+570310C8:Dynamic lighting effect
+EE46694E:Chaos unlock for heat levels
+64FCC13D:Grenade launcher mag size
+537A05D4:Reel in speed without parachute
+6BCC7C5A:Hook detach[dEffects.txt]
+B55417AE:Pull force:Adjusts the force you can pull people with grapple hook
+damage:Melee damage
+7CADF27D:Melee effect[dEffects.txt]
+DB9D6690:Hook miss effect[dEffects.txt]
+584F80D9:Radius damage
+554F5CC5:Extra camera shake for others nearby
+584F80D7:Shockwave after fuel shaft explosion test
+2AFEC29A:Mission payout?
+A3AA34EA:Glass type?
+939BD170:Sniper mag size
+CE1B500F:Physical rumble
+A3AA34EB:Ice chinks
+9A9FE6CD:Grass? Flowers? Shrubs?
+A73771BF:Parachute drag force?:0 makes enemies fly when you grapple hook to them while on parachute
+bullet_impact_effect_id:Bullet impact effect[dEffects.txt]
+4F467932:Stone
+45502899:Rocket launcher mag size
+half_extent:Blow things upwards?
+52ED688C:Grenade explosion effect[dEffects.txt]
+7DEAFFA6:Reel in sparks[dEffects.txt]
+EB00E73C:Faction mission harded
+BD26370E:Quick time event counter for hijacks
+14B862D2:Grenade warning effect?[dEffects.txt]
+5A9B3B81:Grenade trail effect[dEffects.txt]
+CDB1D09B:Agency mission payouts
+character_impulse:Character impulse:The force you hit people with
+B5815612:Sawed off shotgun mag size
+89316902:Civilians?
+effect_id:Effect[dEffects.txt]
+314B5CDE:Race event payout?
