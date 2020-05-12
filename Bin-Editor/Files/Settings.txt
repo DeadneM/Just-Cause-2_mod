@@ -1,5 +1,5 @@
-Alternative save location:C:\Users\DeYuS\Documents\1&@JEUX\JustCause2\Bin-Editor\Dropzone
-Use alternative save location:0
+Alternative save location:C:\Users\DeYuS\Documents\1&@JEUX\JustCause2\_SAVES
+Use alternative save location:1
 Save xml:0
 Save on exit:0
-Last file:C:\Users\DeYuS\Documents\1&@JEUX\JustCause2\Bin-Editor\Dropzone\weapons.bin
+Last file:C:\Users\DeYuS\Documents\1&@JEUX\JustCause2\_SAVES\JustCause2Save10.sav
