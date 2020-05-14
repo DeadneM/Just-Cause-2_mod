@@ -1,0 +1,1198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object name="decorations">
+			<value name="spawn_distance" type="float">120</value>
+			<object id="0A35901D">
+				<value name="spawn_distance" type="float">150</value>
+				<object id="3F5DDFF8">
+					<value id="0651A976" type="int">-1</value>
+					<value id="07D03F75" type="string"></value>
+					<value id="138B2A05" type="string"></value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="264AF6B1" type="string"></value>
+					<value id="2BE18AF6" type="int">1</value>
+					<value id="3736EF24" type="string">structures\general_structures\objects\go200\go200-i1.lod</value>
+					<value id="3E7459DB" type="int">1</value>
+					<value id="40D17DBA" type="int">1</value>
+					<value id="4BCCA534" type="string"></value>
+					<value id="565401D3" type="int">1</value>
+					<value id="5EE2AB5F" type="string">models\structures\general_structures\objects\go200\go200_lod1-i1_col.pfx</value>
+					<value id="618CBEFB" type="string"></value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="6840B4BD" type="float">15</value>
+					<value id="692808C5" type="int">2</value>
+					<value id="6CECC776" type="float">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="71B5147D" type="int">0</value>
+					<value id="74B52F92" type="float">0</value>
+					<value id="7ABA5C0F" type="vec">0,0,0</value>
+					<value id="7AF6155F" type="string"></value>
+					<value id="81330A30" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="8F432ADA" type="int">1</value>
+					<value id="903F1B0E" type="string"></value>
+					<value id="9F3018AB" type="string"></value>
+					<value id="A2A1A88B" type="string"></value>
+					<value id="C70CB3C4" type="int">1</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="C88066F0" type="float">0</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="E6566044" type="float">0</value>
+					<value id="EBB7BE13" type="float">0</value>
+					<value id="EE52AE1C" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="F6B3CBBB" type="float">0</value>
+					<value name="_class" type="string">CDamageableObject</value>
+					<value name="_object_id" type="int">-53885743</value>
+					<value name="collision" type="string">models\structures\general_structures\objects\go200\go200_lod1-i1_col.pfx</value>
+					<value name="collision_effect_id_impact" type="int">357</value>
+					<value name="collision_effect_id_roll" type="int">-1</value>
+					<value name="collision_effect_id_slide" type="int">-1</value>
+					<value name="filename" type="string">structures\general_structures\objects\go200\go200-i1.lod</value>
+					<value name="fixed" type="int">1</value>
+					<value name="health" type="float">35</value>
+					<value name="invulnerable" type="int">0</value>
+					<value name="max_health" type="float">35</value>
+					<value name="name" type="string">RoadMarkerStick</value>
+					<value name="on_hit" type="string"></value>
+					<value name="resetable" type="int">1</value>
+					<value name="targetable" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="190AFE08">
+				<object id="18C038DC">
+					<value id="0651A976" type="int">92</value>
+					<value id="07D03F75" type="string"></value>
+					<value id="138B2A05" type="string">local::lightoff</value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="264AF6B1" type="string"></value>
+					<value id="2BE18AF6" type="int">1</value>
+					<value id="3736EF24" type="string">structures\general_structures\objects\go063\go063-f_dst.lod</value>
+					<value id="3E7459DB" type="int">1</value>
+					<value id="40D17DBA" type="int">1</value>
+					<value id="4BCCA534" type="string"></value>
+					<value id="565401D3" type="int">1</value>
+					<value id="5EE2AB5F" type="string">models\structures\general_structures\objects\go063\go063_lod1-f_dst_col.pfx</value>
+					<value id="618CBEFB" type="string"></value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="6840B4BD" type="float">10</value>
+					<value id="692808C5" type="int">2</value>
+					<value id="6CECC776" type="float">0</value>
+					<value id="71B5147D" type="int">0</value>
+					<value id="74B52F92" type="float">0</value>
+					<value id="7ABA5C0F" type="vec">0,0,0</value>
+					<value id="7AF6155F" type="string"></value>
+					<value id="81330A30" type="int">1</value>
+					<value id="8F432ADA" type="int">1</value>
+					<value id="903F1B0E" type="string"></value>
+					<value id="9F3018AB" type="string"></value>
+					<value id="A2A1A88B" type="string"></value>
+					<value id="C70CB3C4" type="int">1</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="C8350F95" type="int">3</value>
+					<value id="C88066F0" type="float">0</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="E6566044" type="float">0</value>
+					<value id="EBB7BE13" type="float">10</value>
+					<value id="EE52AE1C" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="F6B3CBBB" type="float">0</value>
+					<value name="_class" type="string">CDamageableObject</value>
+					<value name="_object_id" type="int">415250652</value>
+					<value name="collision" type="string">models\structures\general_structures\objects\go063\go063_lod1-f_col.pfx</value>
+					<value name="collision_effect_id_impact" type="int">171</value>
+					<value name="collision_effect_id_roll" type="int">-1</value>
+					<value name="collision_effect_id_slide" type="int">360</value>
+					<value name="filename" type="string">structures\general_structures\objects\go063\go063-f.lod</value>
+					<value name="fixed" type="int">1</value>
+					<value name="health" type="float">60</value>
+					<value name="invulnerable" type="int">0</value>
+					<value name="max_health" type="float">60</value>
+					<value name="name" type="string">dao</value>
+					<value name="on_hit" type="string"></value>
+					<value name="resetable" type="int">1</value>
+					<value name="targetable" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+				<object id="780E9BBE">
+					<value id="1523C5BF" type="string"></value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="8B8062F5" type="float">0.2</value>
+					<value id="9BD6FA33" type="string"></value>
+					<value id="AF2C988F" type="string">local::lightoff location::poweroff</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="D93FD02E" type="float">0.2</value>
+					<value name="_class" type="string">CDynamicLightObject</value>
+					<value name="_object_id" type="int">2014223294</value>
+					<value name="constant_attenuation" type="float">1</value>
+					<value name="diffuse" type="vec4">1,0.85,0.55,1</value>
+					<value name="duration" type="float">-1</value>
+					<value name="enabled" type="int">1</value>
+					<value name="linear_attenuation" type="float">0.1</value>
+					<value name="multiplier" type="float">3</value>
+					<value name="name" type="string">dli.light</value>
+					<value name="priority" type="int">0</value>
+					<value name="quadratic_attenuation" type="float">0.2</value>
+					<value name="radius" type="float">5</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0.75,0</value>
+				</object>
+				<object id="A2325000">
+					<value id="1970E210" type="int">1</value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="692808C5" type="int">0</value>
+					<value id="6AE15077" type="int">0</value>
+					<value id="78F0D481" type="int">0</value>
+					<value id="8D4F3F1B" type="int">0</value>
+					<value id="97C00BBD" type="string"></value>
+					<value id="9D2AC6FC" type="int">0</value>
+					<value id="B9638394" type="int">0</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="D337272A" type="int">0</value>
+					<value id="D3E83257" type="string"></value>
+					<value id="E1C7BB88" type="int">2</value>
+					<value id="E3F8D556" type="string"></value>
+					<value id="F23C5BDC" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="FF56399E" type="int">0</value>
+					<value name="_class" type="string">CSimpleRigidObject</value>
+					<value name="_object_id" type="int">-1573761024</value>
+					<value name="clip" type="int">1</value>
+					<value name="collision" type="string"></value>
+					<value name="collision_effect_id_impact" type="int">-1</value>
+					<value name="collision_effect_id_roll" type="int">-1</value>
+					<value name="collision_effect_id_slide" type="int">-1</value>
+					<value name="dynamic" type="int">0</value>
+					<value name="fade_out" type="string"></value>
+					<value name="filename" type="string">structures\general_structures\objects\go063\go063-f2.lod</value>
+					<value name="fixed" type="int">0</value>
+					<value name="mission_name" type="string"></value>
+					<value name="name" type="string">sro.GO63f2</value>
+					<value name="pre_draw" type="int">0</value>
+					<value name="save" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="2064198F">
+				<object id="023C058E">
+					<value id="1970E210" type="int">1</value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="692808C5" type="int">0</value>
+					<value id="6AE15077" type="int">0</value>
+					<value id="78F0D481" type="int">0</value>
+					<value id="8D4F3F1B" type="int">0</value>
+					<value id="97C00BBD" type="string"></value>
+					<value id="9D2AC6FC" type="int">0</value>
+					<value id="B9638394" type="int">0</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="D337272A" type="int">0</value>
+					<value id="D3E83257" type="string"></value>
+					<value id="E1C7BB88" type="int">2</value>
+					<value id="E3F8D556" type="string"></value>
+					<value id="F23C5BDC" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="FF56399E" type="int">0</value>
+					<value name="_class" type="string">CSimpleRigidObject</value>
+					<value name="_object_id" type="int">37488014</value>
+					<value name="clip" type="int">1</value>
+					<value name="collision" type="string"></value>
+					<value name="collision_effect_id_impact" type="int">415</value>
+					<value name="collision_effect_id_roll" type="int">-1</value>
+					<value name="collision_effect_id_slide" type="int">-1</value>
+					<value name="dynamic" type="int">0</value>
+					<value name="fade_out" type="string"></value>
+					<value name="filename" type="string">structures\general_structures\objects\go063\go063-k.lod</value>
+					<value name="fixed" type="int">1</value>
+					<value name="mission_name" type="string"></value>
+					<value name="name" type="string">sro.base</value>
+					<value name="pre_draw" type="int">0</value>
+					<value name="save" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -5.684342E-14,0,0</value>
+				</object>
+				<object id="472A8252">
+					<value id="1523C5BF" type="string"></value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="8B8062F5" type="float">0.2</value>
+					<value id="9BD6FA33" type="string"></value>
+					<value id="AF2C988F" type="string">local::destroyed location::poweroff</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="D93FD02E" type="float">0.2</value>
+					<value name="_class" type="string">CDynamicLightObject</value>
+					<value name="_object_id" type="int">1193968210</value>
+					<value name="constant_attenuation" type="float">1</value>
+					<value name="diffuse" type="vec4">0.7,1,0.5,0</value>
+					<value name="duration" type="float">-1</value>
+					<value name="enabled" type="int">1</value>
+					<value name="linear_attenuation" type="float">0.1</value>
+					<value name="multiplier" type="float">8</value>
+					<value name="name" type="string">dli</value>
+					<value name="priority" type="int">0</value>
+					<value name="quadratic_attenuation" type="float">0.01</value>
+					<value name="radius" type="float">15</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,8,-5</value>
+				</object>
+				<object id="76A15F2C">
+					<value id="0651A976" type="int">92</value>
+					<value id="07D03F75" type="string"></value>
+					<value id="138B2A05" type="string">local::destroyed</value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="264AF6B1" type="string"></value>
+					<value id="2BE18AF6" type="int">1</value>
+					<value id="3736EF24" type="string">structures\general_structures\objects\go063\go063-k1_dst.lod</value>
+					<value id="3E7459DB" type="int">1</value>
+					<value id="40D17DBA" type="int">1</value>
+					<value id="4BCCA534" type="string"></value>
+					<value id="565401D3" type="int">1</value>
+					<value id="5EE2AB5F" type="string">models\structures\general_structures\objects\go063\go063_lod1-k1_dst_col.pfx</value>
+					<value id="618CBEFB" type="string"></value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="6840B4BD" type="float">10</value>
+					<value id="692808C5" type="int">2</value>
+					<value id="6CECC776" type="float">0</value>
+					<value id="71B5147D" type="int">0</value>
+					<value id="74B52F92" type="float">0</value>
+					<value id="7ABA5C0F" type="vec">0,0.1,0</value>
+					<value id="7AF6155F" type="string"></value>
+					<value id="81330A30" type="int">1</value>
+					<value id="8F432ADA" type="int">1</value>
+					<value id="903F1B0E" type="string"></value>
+					<value id="9F3018AB" type="string"></value>
+					<value id="A2A1A88B" type="string"></value>
+					<value id="C70CB3C4" type="int">1</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="C8350F95" type="int">3</value>
+					<value id="C88066F0" type="float">0</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="E6566044" type="float">0</value>
+					<value id="EBB7BE13" type="float">0</value>
+					<value id="EE52AE1C" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="F6B3CBBB" type="float">0</value>
+					<value name="_class" type="string">CDamageableObject</value>
+					<value name="_object_id" type="int">1990287148</value>
+					<value name="collision" type="string">models\structures\general_structures\objects\go063\go063_lod1-k1_col.pfx</value>
+					<value name="collision_effect_id_impact" type="int">415</value>
+					<value name="collision_effect_id_roll" type="int">-1</value>
+					<value name="collision_effect_id_slide" type="int">-1</value>
+					<value name="filename" type="string">structures\general_structures\objects\go063\go063-k1.lod</value>
+					<value name="fixed" type="int">1</value>
+					<value name="health" type="float">100</value>
+					<value name="invulnerable" type="int">0</value>
+					<value name="max_health" type="float">100</value>
+					<value name="name" type="string">dao</value>
+					<value name="on_hit" type="string"></value>
+					<value name="resetable" type="int">1</value>
+					<value name="targetable" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="22EA16EE">
+				<value name="spawn_distance" type="float">120</value>
+				<object id="C60B07CF">
+					<value id="0651A976" type="int">253</value>
+					<value id="07D03F75" type="string"></value>
+					<value id="138B2A05" type="string"></value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="264AF6B1" type="string"></value>
+					<value id="2BE18AF6" type="int">1</value>
+					<value id="3736EF24" type="string"></value>
+					<value id="3E7459DB" type="int">1</value>
+					<value id="40D17DBA" type="int">1</value>
+					<value id="4BCCA534" type="string"></value>
+					<value id="565401D3" type="int">1</value>
+					<value id="5EE2AB5F" type="string"></value>
+					<value id="618CBEFB" type="string"></value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="6840B4BD" type="float">0</value>
+					<value id="692808C5" type="int">2</value>
+					<value id="6CECC776" type="float">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="71B5147D" type="int">0</value>
+					<value id="74B52F92" type="float">0</value>
+					<value id="7ABA5C0F" type="vec">0,0,0</value>
+					<value id="7AF6155F" type="string"></value>
+					<value id="81330A30" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="8F432ADA" type="int">1</value>
+					<value id="903F1B0E" type="string"></value>
+					<value id="9F3018AB" type="string"></value>
+					<value id="A2A1A88B" type="string"></value>
+					<value id="C70CB3C4" type="int">1</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="C88066F0" type="float">5</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="E6566044" type="float">0</value>
+					<value id="EBB7BE13" type="float">0</value>
+					<value id="EE52AE1C" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="F6B3CBBB" type="float">0</value>
+					<value name="_class" type="string">CDamageableObject</value>
+					<value name="_object_id" type="int">-972355633</value>
+					<value name="collision" type="string">models\structures\general_structures\objects\go178\go178_lod1-a_col.pfx</value>
+					<value name="filename" type="string">structures\general_structures\objects\go178\go178-a.lod</value>
+					<value name="fixed" type="int">1</value>
+					<value name="health" type="float">40</value>
+					<value name="invulnerable" type="int">0</value>
+					<value name="max_health" type="float">40</value>
+					<value name="name" type="string">CityFenceWood</value>
+					<value name="on_hit" type="string"></value>
+					<value name="resetable" type="int">1</value>
+					<value name="targetable" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="25D173A6">
+				<value name="spawn_distance" type="float">150</value>
+				<object id="3F5DDFF8">
+					<value id="0651A976" type="int">295</value>
+					<value id="07D03F75" type="string"></value>
+					<value id="138B2A05" type="string"></value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="264AF6B1" type="string"></value>
+					<value id="2BE18AF6" type="int">1</value>
+					<value id="3736EF24" type="string">structures\general_structures\objects\go200\go200-j_dst.lod</value>
+					<value id="3E7459DB" type="int">1</value>
+					<value id="40D17DBA" type="int">1</value>
+					<value id="4BCCA534" type="string"></value>
+					<value id="565401D3" type="int">1</value>
+					<value id="5EE2AB5F" type="string">models\structures\general_structures\objects\go200\go200_lod1-j_dst_col.pfx</value>
+					<value id="618CBEFB" type="string"></value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="6840B4BD" type="float">15</value>
+					<value id="692808C5" type="int">2</value>
+					<value id="6CECC776" type="float">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="71B5147D" type="int">0</value>
+					<value id="74B52F92" type="float">0</value>
+					<value id="7ABA5C0F" type="vec">0,0,0</value>
+					<value id="7AF6155F" type="string"></value>
+					<value id="81330A30" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="8F432ADA" type="int">0</value>
+					<value id="903F1B0E" type="string"></value>
+					<value id="9F3018AB" type="string"></value>
+					<value id="A2A1A88B" type="string"></value>
+					<value id="C70CB3C4" type="int">1</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="C88066F0" type="float">0</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="E6566044" type="float">0</value>
+					<value id="EBB7BE13" type="float">0</value>
+					<value id="EE52AE1C" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="F6B3CBBB" type="float">0</value>
+					<value name="_class" type="string">CDamageableObject</value>
+					<value name="_object_id" type="int">-53885743</value>
+					<value name="collision" type="string">models\structures\general_structures\objects\go200\go200_lod1-j_col.pfx</value>
+					<value name="filename" type="string">structures\general_structures\objects\go200\go200-j.lod</value>
+					<value name="fixed" type="int">0</value>
+					<value name="health" type="float">150</value>
+					<value name="invulnerable" type="int">0</value>
+					<value name="max_health" type="float">150</value>
+					<value name="name" type="string">MileStone</value>
+					<value name="on_hit" type="string"></value>
+					<value name="resetable" type="int">1</value>
+					<value name="targetable" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="3C74758C">
+				<value name="spawn_distance" type="float">350</value>
+				<object id="3F5DDFF8">
+					<value id="0651A976" type="int">92</value>
+					<value id="07D03F75" type="string"></value>
+					<value id="138B2A05" type="string">local::destroyed</value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="264AF6B1" type="string"></value>
+					<value id="2BE18AF6" type="int">1</value>
+					<value id="3736EF24" type="string">structures\general_structures\objects\go063\go063-b_dst.lod</value>
+					<value id="3E7459DB" type="int">1</value>
+					<value id="40D17DBA" type="int">1</value>
+					<value id="4BCCA534" type="string"></value>
+					<value id="565401D3" type="int">1</value>
+					<value id="5EE2AB5F" type="string">models\structures\general_structures\objects\go063\go063_lod1-b_dst_col.pfx</value>
+					<value id="618CBEFB" type="string"></value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="6840B4BD" type="float">15</value>
+					<value id="692808C5" type="int">2</value>
+					<value id="6CECC776" type="float">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="71B5147D" type="int">0</value>
+					<value id="74B52F92" type="float">0</value>
+					<value id="7ABA5C0F" type="vec">0,0,0</value>
+					<value id="7AF6155F" type="string"></value>
+					<value id="81330A30" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="8F432ADA" type="int">1</value>
+					<value id="903F1B0E" type="string"></value>
+					<value id="9F3018AB" type="string"></value>
+					<value id="A2A1A88B" type="string"></value>
+					<value id="C70CB3C4" type="int">1</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="C8350F95" type="int">3</value>
+					<value id="C88066F0" type="float">0</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="E6566044" type="float">0</value>
+					<value id="E79AA679" type="int">1</value>
+					<value id="EBB7BE13" type="float">0</value>
+					<value id="EE52AE1C" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="F6B3CBBB" type="float">0</value>
+					<value name="_class" type="string">CDamageableObject</value>
+					<value name="_object_id" type="int">-29167305</value>
+					<value name="collision" type="string">models\structures\general_structures\objects\go063\go063_lod1-b_col.pfx</value>
+					<value name="collision_effect_id_impact" type="int">415</value>
+					<value name="collision_effect_id_roll" type="int">-1</value>
+					<value name="collision_effect_id_slide" type="int">-1</value>
+					<value name="filename" type="string">structures\general_structures\objects\go063\go063-b.lod</value>
+					<value name="fixed" type="int">1</value>
+					<value name="health" type="float">100</value>
+					<value name="invulnerable" type="int">0</value>
+					<value name="max_health" type="float">100</value>
+					<value name="name" type="string">StreetlightMedium</value>
+					<value name="on_hit" type="string"></value>
+					<value name="resetable" type="int">1</value>
+					<value name="targetable" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+				<object id="56B7D9FF">
+					<value id="1523C5BF" type="string"></value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8B8062F5" type="float">0.2</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="9BD6FA33" type="string"></value>
+					<value id="AF2C988F" type="string">local::destroyed location::poweroff</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="D93FD02E" type="float">0.2</value>
+					<value id="E79AA679" type="int">1</value>
+					<value name="_class" type="string">CDynamicLightObject</value>
+					<value name="_object_id" type="int">-1047479378</value>
+					<value name="constant_attenuation" type="float">1</value>
+					<value name="diffuse" type="vec4">0.95,0.9,0.5,1</value>
+					<value name="duration" type="float">-1</value>
+					<value name="enabled" type="int">1</value>
+					<value name="linear_attenuation" type="float">0.1</value>
+					<value name="multiplier" type="float">4</value>
+					<value name="name" type="string">dli</value>
+					<value name="priority" type="int">0</value>
+					<value name="quadratic_attenuation" type="float">0.01</value>
+					<value name="radius" type="float">8</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,4,-4</value>
+				</object>
+			</object>
+			<object id="4203A230">
+				<object id="16E31525">
+					<value id="0651A976" type="int">92</value>
+					<value id="07D03F75" type="string"></value>
+					<value id="138B2A05" type="string"></value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="264AF6B1" type="string"></value>
+					<value id="2BE18AF6" type="int">1</value>
+					<value id="3736EF24" type="string">structures\general_structures\buildings\gb253\gb253-a1.lod</value>
+					<value id="3E7459DB" type="int">1</value>
+					<value id="40D17DBA" type="int">1</value>
+					<value id="4BCCA534" type="string"></value>
+					<value id="565401D3" type="int">1</value>
+					<value id="5EE2AB5F" type="string">models\structures\general_structures\buildings\gb253\gb253_lod1-a1_col.pfx</value>
+					<value id="618CBEFB" type="string"></value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="6840B4BD" type="float">15</value>
+					<value id="692808C5" type="int">2</value>
+					<value id="6CECC776" type="float">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="71B5147D" type="int">0</value>
+					<value id="74B52F92" type="float">0</value>
+					<value id="7ABA5C0F" type="vec">0,0,0</value>
+					<value id="7AF6155F" type="string"></value>
+					<value id="81330A30" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="8F432ADA" type="int">1</value>
+					<value id="903F1B0E" type="string"></value>
+					<value id="9F3018AB" type="string"></value>
+					<value id="A2A1A88B" type="string"></value>
+					<value id="C70CB3C4" type="int">1</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="C88066F0" type="float">0</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="E6566044" type="float">0</value>
+					<value id="EBB7BE13" type="float">0</value>
+					<value id="EE52AE1C" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="F6B3CBBB" type="float">0</value>
+					<value name="_class" type="string">CDamageableObject</value>
+					<value name="_object_id" type="int">383980837</value>
+					<value name="collision" type="string">models\structures\general_structures\buildings\gb253\gb253_lod1-a1_col.pfx</value>
+					<value name="filename" type="string">structures\general_structures\buildings\gb253\gb253-a1.lod</value>
+					<value name="fixed" type="int">1</value>
+					<value name="health" type="float">100</value>
+					<value name="invulnerable" type="int">0</value>
+					<value name="max_health" type="float">100</value>
+					<value name="name" type="string">CDamageableObject1</value>
+					<value name="on_hit" type="string"></value>
+					<value name="resetable" type="int">1</value>
+					<value name="targetable" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+				<object id="57A76A1E">
+					<value id="0D16695C" type="string">structures\general_structures\buildings\gb253\gb253-a3.lod</value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="68AE3D85" type="string">structures\general_structures\buildings\gb253\gb253-a4.lod</value>
+					<value id="692808C5" type="int">2</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8B3FB170" type="int">0</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="988D375B" type="string">structures\general_structures\buildings\gb253\gb253-a2.lod</value>
+					<value id="D337272A" type="int">0</value>
+					<value name="_class" type="string">CTrafficLight</value>
+					<value name="_object_id" type="int">1470589470</value>
+					<value name="filename" type="string"></value>
+					<value name="name" type="string">CTrafficLight1</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+					<object id="56B7D9FF">
+						<value id="1523C5BF" type="string"></value>
+						<value id="1F2624DB" type="int">1</value>
+						<value id="702B9F2D" type="int">1</value>
+						<value id="86116420" type="int">1</value>
+						<value id="8B8062F5" type="float">0.2</value>
+						<value id="8D18B9E4" type="int">1</value>
+						<value id="9BD6FA33" type="string"></value>
+						<value id="AF2C988F" type="string"></value>
+						<value id="D337272A" type="int">0</value>
+						<value id="D93FD02E" type="float">0.2</value>
+						<value name="_class" type="string">CDynamicLightObject</value>
+						<value name="_object_id" type="int">198797254</value>
+						<value name="constant_attenuation" type="float">1</value>
+						<value name="diffuse" type="vec4">1,0,0,1</value>
+						<value name="duration" type="float">-1</value>
+						<value name="enabled" type="int">1</value>
+						<value name="linear_attenuation" type="float">0.2</value>
+						<value name="name" type="string">DynamicLightObject1</value>
+						<value name="priority" type="int">0</value>
+						<value name="quadratic_attenuation" type="float">0.02</value>
+						<value name="radius" type="float">-1</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,2,0</value>
+					</object>
+				</object>
+			</object>
+			<object id="484BF40F">
+				<value name="spawn_distance" type="float">120</value>
+				<object id="4B6B7CA6">
+					<value id="0651A976" type="int">332</value>
+					<value id="07D03F75" type="string"></value>
+					<value id="138B2A05" type="string"></value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="264AF6B1" type="string"></value>
+					<value id="2BE18AF6" type="int">1</value>
+					<value id="3736EF24" type="string">structures\city_structures\cs_cables-a.lod</value>
+					<value id="3E7459DB" type="int">1</value>
+					<value id="40D17DBA" type="int">1</value>
+					<value id="4BCCA534" type="string"></value>
+					<value id="565401D3" type="int">1</value>
+					<value id="5EE2AB5F" type="string">models\structures\city_structures\cs_cables_lod1-a_col.pfx</value>
+					<value id="618CBEFB" type="string"></value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="6840B4BD" type="float">10</value>
+					<value id="692808C5" type="int">2</value>
+					<value id="6CECC776" type="float">1000000</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="71B5147D" type="int">0</value>
+					<value id="74B52F92" type="float">1000000</value>
+					<value id="7ABA5C0F" type="vec">0,8.5,0</value>
+					<value id="7AF6155F" type="string"></value>
+					<value id="81330A30" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="8F432ADA" type="int">1</value>
+					<value id="903F1B0E" type="string"></value>
+					<value id="9F3018AB" type="string"></value>
+					<value id="A2A1A88B" type="string"></value>
+					<value id="C70CB3C4" type="int">1</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="C8350F95" type="int">3</value>
+					<value id="C88066F0" type="float">60</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="E6566044" type="float">0</value>
+					<value id="EBB7BE13" type="float">0</value>
+					<value id="EE52AE1C" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="F6B3CBBB" type="float">1000000</value>
+					<value name="_class" type="string">CDamageableObject</value>
+					<value name="_object_id" type="int">1265335462</value>
+					<value name="collision" type="string">models\structures\city_structures\cs_cables_lod1-a_col.pfx</value>
+					<value name="collision_effect_id_impact" type="int">357</value>
+					<value name="collision_effect_id_roll" type="int">-1</value>
+					<value name="collision_effect_id_slide" type="int">-1</value>
+					<value name="filename" type="string">structures\city_structures\cs_cables-a.lod</value>
+					<value name="fixed" type="int">1</value>
+					<value name="health" type="float">60</value>
+					<value name="invulnerable" type="int">0</value>
+					<value name="max_health" type="float">60</value>
+					<value name="name" type="string">dao.pole</value>
+					<value name="on_hit" type="string"></value>
+					<value name="resetable" type="int">1</value>
+					<value name="targetable" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="5BCCF9B4">
+				<object id="BA968516">
+					<value id="1F2624DB" type="int">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="D337272A" type="int">0</value>
+					<value name="_class" type="string">CPlantedTree</value>
+					<value name="_object_id" type="int">-1164540650</value>
+					<value name="filename" type="string">vegetation\zone_0\jungle_T11_palmS-Whole.lod</value>
+					<value name="forcedraw" type="int">1</value>
+					<value name="name" type="string">CPlantedTree1</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="744F11B6">
+				<object id="BA968516">
+					<value id="1F2624DB" type="int">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="D337272A" type="int">0</value>
+					<value name="_class" type="string">CPlantedTree</value>
+					<value name="_object_id" type="int">-1164540650</value>
+					<value name="filename" type="string">vegetation\zone_0\Jungle_G09_BeachRocksS-whole.lod</value>
+					<value name="forcedraw" type="int">1</value>
+					<value name="name" type="string">CPlantedTree1</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="77ED8E00">
+				<value name="spawn_distance" type="float">120</value>
+				<object id="C190BBAE">
+					<value id="1523C5BF" type="string"></value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="8B8062F5" type="float">0.2</value>
+					<value id="9BD6FA33" type="string"></value>
+					<value id="AF2C988F" type="string">local::destroyed location::poweroff</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="D93FD02E" type="float">0.2</value>
+					<value id="E79AA679" type="int">1</value>
+					<value name="_class" type="string">CDynamicLightObject</value>
+					<value name="_object_id" type="int">-1047479378</value>
+					<value name="constant_attenuation" type="float">1</value>
+					<value name="diffuse" type="vec4">0.9647059,0.8862745,0.4784314,1</value>
+					<value name="duration" type="float">-1</value>
+					<value name="enabled" type="int">1</value>
+					<value name="linear_attenuation" type="float">0.1</value>
+					<value name="multiplier" type="float">2</value>
+					<value name="name" type="string">dli</value>
+					<value name="priority" type="int">0</value>
+					<value name="quadratic_attenuation" type="float">0.01</value>
+					<value name="radius" type="float">6</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,4,-4</value>
+				</object>
+				<object id="DD91A73F">
+					<value id="1970E210" type="int">1</value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="692808C5" type="int">0</value>
+					<value id="6AE15077" type="int">0</value>
+					<value id="78F0D481" type="int">0</value>
+					<value id="8D4F3F1B" type="int">0</value>
+					<value id="976B6A1D" type="string">{290E74B5-2B2C-45E8-8478-DDB62955DCAD}</value>
+					<value id="97C00BBD" type="string"></value>
+					<value id="9D2AC6FC" type="int">0</value>
+					<value id="B9638394" type="int">0</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="D337272A" type="int">0</value>
+					<value id="D3E83257" type="string"></value>
+					<value id="E1C7BB88" type="int">2</value>
+					<value id="E3F8D556" type="string"></value>
+					<value id="E79AA679" type="int">1</value>
+					<value id="F23C5BDC" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="FF56399E" type="int">0</value>
+					<value name="_class" type="string">CSimpleRigidObject</value>
+					<value name="_object_id" type="int">-577657025</value>
+					<value name="clip" type="int">1</value>
+					<value name="collision" type="string"></value>
+					<value name="collision_effect_id_impact" type="int">-1</value>
+					<value name="collision_effect_id_roll" type="int">-1</value>
+					<value name="collision_effect_id_slide" type="int">-1</value>
+					<value name="dynamic" type="int">0</value>
+					<value name="fade_out" type="string"></value>
+					<value name="filename" type="string">structures\general_structures\objects\go063\go063-k.lod</value>
+					<value name="fixed" type="int">0</value>
+					<value name="mission_name" type="string"></value>
+					<value name="name" type="string">sro.go063b2</value>
+					<value name="pre_draw" type="int">0</value>
+					<value name="save" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+				<object id="FE42F137">
+					<value id="0651A976" type="int">92</value>
+					<value id="07D03F75" type="string"></value>
+					<value id="138B2A05" type="string">local::destroyed</value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="264AF6B1" type="string"></value>
+					<value id="2BE18AF6" type="int">1</value>
+					<value id="3736EF24" type="string">structures\general_structures\objects\go063\go063-b_dst.lod</value>
+					<value id="3E7459DB" type="int">1</value>
+					<value id="40D17DBA" type="int">1</value>
+					<value id="4BCCA534" type="string"></value>
+					<value id="565401D3" type="int">1</value>
+					<value id="5EE2AB5F" type="string">models\structures\general_structures\objects\go063\go063_lod1-b_dst_col.pfx</value>
+					<value id="618CBEFB" type="string"></value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="6840B4BD" type="float">15</value>
+					<value id="692808C5" type="int">2</value>
+					<value id="6CECC776" type="float">0</value>
+					<value id="71B5147D" type="int">0</value>
+					<value id="74B52F92" type="float">0</value>
+					<value id="7ABA5C0F" type="vec">0,0,0</value>
+					<value id="7AF6155F" type="string"></value>
+					<value id="81330A30" type="int">1</value>
+					<value id="8F432ADA" type="int">1</value>
+					<value id="903F1B0E" type="string"></value>
+					<value id="9F3018AB" type="string"></value>
+					<value id="A2A1A88B" type="string"></value>
+					<value id="C70CB3C4" type="int">1</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="C8350F95" type="int">3</value>
+					<value id="C88066F0" type="float">0</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="E6566044" type="float">0</value>
+					<value id="E79AA679" type="int">1</value>
+					<value id="EBB7BE13" type="float">0</value>
+					<value id="EE52AE1C" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="F6B3CBBB" type="float">0</value>
+					<value name="_class" type="string">CDamageableObject</value>
+					<value name="_object_id" type="int">-29167305</value>
+					<value name="collision" type="string">models\structures\general_structures\objects\go063\go063_lod1-b_col.pfx</value>
+					<value name="collision_effect_id_impact" type="int">415</value>
+					<value name="collision_effect_id_roll" type="int">-1</value>
+					<value name="collision_effect_id_slide" type="int">-1</value>
+					<value name="filename" type="string">structures\general_structures\objects\go063\go063-b.lod</value>
+					<value name="fixed" type="int">1</value>
+					<value name="health" type="float">100</value>
+					<value name="invulnerable" type="int">0</value>
+					<value name="max_health" type="float">100</value>
+					<value name="name" type="string">dao</value>
+					<value name="on_hit" type="string"></value>
+					<value name="resetable" type="int">1</value>
+					<value name="targetable" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="92F03E6E">
+				<value name="spawn_distance" type="float">150</value>
+				<object id="57A16261">
+					<value id="1970E210" type="int">1</value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="692808C5" type="int">2</value>
+					<value id="6AE15077" type="int">0</value>
+					<value id="78F0D481" type="int">0</value>
+					<value id="8D4F3F1B" type="int">0</value>
+					<value id="97C00BBD" type="string"></value>
+					<value id="9D2AC6FC" type="int">0</value>
+					<value id="B9638394" type="int">0</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="D337272A" type="int">0</value>
+					<value id="D3E83257" type="string"></value>
+					<value id="E1C7BB88" type="int">1</value>
+					<value id="E3F8D556" type="string"></value>
+					<value id="F23C5BDC" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="FF56399E" type="int">0</value>
+					<value name="_class" type="string">CSimpleRigidObject</value>
+					<value name="_object_id" type="int">1470194273</value>
+					<value name="clip" type="int">1</value>
+					<value name="collision" type="string">models\structures\general_structures\objects\go058\go058_lod1-a_col.pfx</value>
+					<value name="collision_effect_id_impact" type="int">415</value>
+					<value name="collision_effect_id_roll" type="int">-1</value>
+					<value name="collision_effect_id_slide" type="int">360</value>
+					<value name="dynamic" type="int">1</value>
+					<value name="fade_out" type="string"></value>
+					<value name="filename" type="string">structures\general_structures\objects\go058\go058-a.lod</value>
+					<value name="fixed" type="int">0</value>
+					<value name="mission_name" type="string"></value>
+					<value name="name" type="string">sro.GO058</value>
+					<value name="pre_draw" type="int">0</value>
+					<value name="save" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+					<object id="168EAC55">
+						<value id="23E10147" type="int">0</value>
+						<value id="505A648E" type="int">0</value>
+						<value id="578CCC6B" type="float">1</value>
+						<value id="5BF10709" type="int">0</value>
+						<value id="9A2C8886" type="int">0</value>
+						<value id="FCC1DFD2" type="int">0</value>
+						<value name="_class" type="string">SPhysicsParams</value>
+						<value name="_object_id" type="int">-1119573525</value>
+						<value name="angular_damping" type="float">0.1</value>
+						<value name="buoyancy" type="float">2.5</value>
+						<value name="center_of_mass" type="vec">0,0,0</value>
+						<value name="drag" type="float">300</value>
+						<value name="gravity" type="float">9.81</value>
+						<value name="linear_damping" type="float">0.25</value>
+						<value name="mass" type="float">10</value>
+						<value name="name" type="string">php</value>
+						<value name="radius" type="float">0.5</value>
+						<value name="side_area" type="float">1</value>
+					</object>
+				</object>
+			</object>
+			<object id="968C2FB8">
+				<object id="BA968516">
+					<value id="1F2624DB" type="int">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="D337272A" type="int">0</value>
+					<value name="_class" type="string">CPlantedTree</value>
+					<value name="_object_id" type="int">-1164540650</value>
+					<value name="filename" type="string">vegetation\zone_0\Jungle_B04_SnakeplantS-Whole.lod</value>
+					<value name="forcedraw" type="int">1</value>
+					<value name="name" type="string">CPlantedTree1</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="9C063192">
+				<object id="BA968516">
+					<value id="1F2624DB" type="int">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="D337272A" type="int">0</value>
+					<value name="_class" type="string">CPlantedTree</value>
+					<value name="_object_id" type="int">-1164540650</value>
+					<value name="filename" type="string">vegetation\zone_0\Jungle_B14_understoryXS-whole.lod</value>
+					<value name="forcedraw" type="int">1</value>
+					<value name="name" type="string">CPlantedTree1</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="C0DE4D7A">
+				<object id="BA968516">
+					<value id="1F2624DB" type="int">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="D337272A" type="int">0</value>
+					<value name="_class" type="string">CPlantedTree</value>
+					<value name="_object_id" type="int">-1164540650</value>
+					<value name="filename" type="string">vegetation\zone_0\Jungle_B13_understoryS-Whole.lod</value>
+					<value name="forcedraw" type="int">1</value>
+					<value name="name" type="string">CPlantedTree1</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="CC0694E0">
+				<object id="BA968516">
+					<value id="1F2624DB" type="int">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="D337272A" type="int">0</value>
+					<value name="_class" type="string">CPlantedTree</value>
+					<value name="_object_id" type="int">-1164540650</value>
+					<value name="filename" type="string">vegetation\zone_0\Jungle_B03_SnakeplantM-Whole.lod</value>
+					<value name="forcedraw" type="int">1</value>
+					<value name="name" type="string">CPlantedTree1</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="D194219F">
+				<object id="BA968516">
+					<value id="1F2624DB" type="int">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="D337272A" type="int">0</value>
+					<value name="_class" type="string">CPlantedTree</value>
+					<value name="_object_id" type="int">-1164540650</value>
+					<value name="filename" type="string">vegetation\zone_0\jungle_T12_palmM-Whole.lod</value>
+					<value name="forcedraw" type="int">1</value>
+					<value name="name" type="string">CPlantedTree1</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="D27CF694">
+				<value name="spawn_distance" type="float">120</value>
+				<object id="5EFC3FCA">
+					<value id="1970E210" type="int">1</value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="692808C5" type="int">1</value>
+					<value id="6AE15077" type="int">0</value>
+					<value id="78F0D481" type="int">0</value>
+					<value id="8D4F3F1B" type="int">0</value>
+					<value id="97C00BBD" type="string"></value>
+					<value id="9D2AC6FC" type="int">0</value>
+					<value id="B9638394" type="int">0</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="D337272A" type="int">0</value>
+					<value id="D3E83257" type="string"></value>
+					<value id="E1C7BB88" type="int">2</value>
+					<value id="E3F8D556" type="string"></value>
+					<value id="F23C5BDC" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="FF56399E" type="int">0</value>
+					<value name="_class" type="string">CSimpleRigidObject</value>
+					<value name="_object_id" type="int">1593589706</value>
+					<value name="clip" type="int">1</value>
+					<value name="collision" type="string">models\structures\general_structures\objects\go225\go225_lod1-a_col.pfx</value>
+					<value name="collision_effect_id_impact" type="int">289</value>
+					<value name="collision_effect_id_roll" type="int">288</value>
+					<value name="collision_effect_id_slide" type="int">359</value>
+					<value name="dynamic" type="int">1</value>
+					<value name="fade_out" type="string"></value>
+					<value name="filename" type="string">structures\general_structures\objects\go225\go225-a.lod</value>
+					<value name="fixed" type="int">0</value>
+					<value name="mission_name" type="string"></value>
+					<value name="name" type="string">sro.GO225</value>
+					<value name="pre_draw" type="int">0</value>
+					<value name="save" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="DDE55AA3">
+				<object id="BA968516">
+					<value id="1F2624DB" type="int">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="D337272A" type="int">0</value>
+					<value name="_class" type="string">CPlantedTree</value>
+					<value name="_object_id" type="int">-1164540650</value>
+					<value name="filename" type="string">vegetation\zone_0\jungle_T13_palmL-Whole.lod</value>
+					<value name="forcedraw" type="int">1</value>
+					<value name="name" type="string">CPlantedTree1</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="E93C6AFF">
+				<value name="spawn_distance" type="float">350</value>
+				<object id="325F76ED">
+					<value id="0651A976" type="int">-1</value>
+					<value id="07D03F75" type="string"></value>
+					<value id="138B2A05" type="string">local::destroyed</value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="264AF6B1" type="string"></value>
+					<value id="2BE18AF6" type="int">1</value>
+					<value id="3736EF24" type="string">structures\general_structures\objects\go200\go200-g1_dst.lod</value>
+					<value id="3E7459DB" type="int">1</value>
+					<value id="40D17DBA" type="int">1</value>
+					<value id="4BCCA534" type="string"></value>
+					<value id="565401D3" type="int">1</value>
+					<value id="5EE2AB5F" type="string">models\structures\general_structures\objects\go200\go200_lod1-g1_dst_col.pfx</value>
+					<value id="618CBEFB" type="string"></value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="6840B4BD" type="float">15</value>
+					<value id="692808C5" type="int">2</value>
+					<value id="6CECC776" type="float">0</value>
+					<value id="71B5147D" type="int">0</value>
+					<value id="74B52F92" type="float">0</value>
+					<value id="7ABA5C0F" type="vec">0,0,0</value>
+					<value id="7AF6155F" type="string"></value>
+					<value id="81330A30" type="int">1</value>
+					<value id="8F432ADA" type="int">1</value>
+					<value id="903F1B0E" type="string"></value>
+					<value id="9F3018AB" type="string"></value>
+					<value id="A2A1A88B" type="string"></value>
+					<value id="C70CB3C4" type="int">1</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="C8350F95" type="int">3</value>
+					<value id="C88066F0" type="float">0</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="E6566044" type="float">0</value>
+					<value id="EBB7BE13" type="float">0</value>
+					<value id="EE52AE1C" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="F6B3CBBB" type="float">0</value>
+					<value name="_class" type="string">CDamageableObject</value>
+					<value name="_object_id" type="int">845117165</value>
+					<value name="collision" type="string">models\structures\general_structures\objects\go200\go200_lod1-g1_col.pfx</value>
+					<value name="collision_effect_id_impact" type="int">415</value>
+					<value name="collision_effect_id_roll" type="int">-1</value>
+					<value name="collision_effect_id_slide" type="int">-1</value>
+					<value name="filename" type="string">structures\general_structures\objects\go200\go200-g1.lod</value>
+					<value name="fixed" type="int">1</value>
+					<value name="health" type="float">100</value>
+					<value name="invulnerable" type="int">0</value>
+					<value name="max_health" type="float">100</value>
+					<value name="name" type="string">dao.go200g1</value>
+					<value name="on_hit" type="string"></value>
+					<value name="resetable" type="int">1</value>
+					<value name="targetable" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="F3BDA5E6">
+				<object id="BA968516">
+					<value id="1F2624DB" type="int">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="D337272A" type="int">0</value>
+					<value name="_class" type="string">CPlantedTree</value>
+					<value name="_object_id" type="int">-1164540650</value>
+					<value name="filename" type="string">vegetation\zone_0\Jungle_G10_BeachRocksXS-whole.lod</value>
+					<value name="forcedraw" type="int">1</value>
+					<value name="name" type="string">CPlantedTree1</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object id="FE652448">
+				<value name="spawn_distance" type="float">150</value>
+				<object id="3F5DDFF8">
+					<value id="0651A976" type="int">-1</value>
+					<value id="07D03F75" type="string"></value>
+					<value id="138B2A05" type="string"></value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="264AF6B1" type="string"></value>
+					<value id="2BE18AF6" type="int">1</value>
+					<value id="3736EF24" type="string">structures\general_structures\objects\go200\go200-i2.lod</value>
+					<value id="3E7459DB" type="int">1</value>
+					<value id="40D17DBA" type="int">1</value>
+					<value id="4BCCA534" type="string"></value>
+					<value id="565401D3" type="int">1</value>
+					<value id="5EE2AB5F" type="string">models\structures\general_structures\objects\go200\go200_lod1-i2_col.pfx</value>
+					<value id="618CBEFB" type="string"></value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="6840B4BD" type="float">15</value>
+					<value id="692808C5" type="int">2</value>
+					<value id="6CECC776" type="float">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="71B5147D" type="int">0</value>
+					<value id="74B52F92" type="float">0</value>
+					<value id="7ABA5C0F" type="vec">0,0,0</value>
+					<value id="7AF6155F" type="string"></value>
+					<value id="81330A30" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="8F432ADA" type="int">1</value>
+					<value id="903F1B0E" type="string"></value>
+					<value id="9F3018AB" type="string"></value>
+					<value id="A2A1A88B" type="string"></value>
+					<value id="C70CB3C4" type="int">1</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="C88066F0" type="float">0</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="E6566044" type="float">0</value>
+					<value id="EBB7BE13" type="float">0</value>
+					<value id="EE52AE1C" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="F6B3CBBB" type="float">0</value>
+					<value name="_class" type="string">CDamageableObject</value>
+					<value name="_object_id" type="int">-53885743</value>
+					<value name="collision" type="string">models\structures\general_structures\objects\go200\go200_lod1-i2_col.pfx</value>
+					<value name="collision_effect_id_impact" type="int">357</value>
+					<value name="collision_effect_id_roll" type="int">-1</value>
+					<value name="collision_effect_id_slide" type="int">-1</value>
+					<value name="filename" type="string">structures\general_structures\objects\go200\go200-i2.lod</value>
+					<value name="fixed" type="int">1</value>
+					<value name="health" type="float">35</value>
+					<value name="invulnerable" type="int">0</value>
+					<value name="max_health" type="float">35</value>
+					<value name="name" type="string">CurveMarkerStick</value>
+					<value name="on_hit" type="string"></value>
+					<value name="resetable" type="int">1</value>
+					<value name="targetable" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+			<object name="decoration_0">
+				<value name="spawn_distance" type="float">120</value>
+				<object id="5D8B0D48">
+					<value id="1523C5BF" type="string"></value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="8B8062F5" type="float">0.2</value>
+					<value id="9BD6FA33" type="string"></value>
+					<value id="AF2C988F" type="string">local::destroyed location::poweroff</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="D93FD02E" type="float">0.2</value>
+					<value name="_class" type="string">CDynamicLightObject</value>
+					<value name="_object_id" type="int">1569393992</value>
+					<value name="constant_attenuation" type="float">1</value>
+					<value name="diffuse" type="vec4">1,1,0.6,1</value>
+					<value name="duration" type="float">-1</value>
+					<value name="enabled" type="int">1</value>
+					<value name="linear_attenuation" type="float">0.1</value>
+					<value name="multiplier" type="float">3.5</value>
+					<value name="name" type="string">dli</value>
+					<value name="priority" type="int">0</value>
+					<value name="quadratic_attenuation" type="float">0.05</value>
+					<value name="radius" type="float">11</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,4.6,-1.5</value>
+				</object>
+				<object id="93945BB6">
+					<value id="0651A976" type="int">92</value>
+					<value id="07D03F75" type="string"></value>
+					<value id="138B2A05" type="string">local::destroyed</value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="264AF6B1" type="string"></value>
+					<value id="2BE18AF6" type="int">1</value>
+					<value id="3736EF24" type="string">structures\general_structures\objects\go063\go063-l_dst.lod</value>
+					<value id="3E7459DB" type="int">1</value>
+					<value id="40D17DBA" type="int">1</value>
+					<value id="4BCCA534" type="string"></value>
+					<value id="565401D3" type="int">1</value>
+					<value id="5EE2AB5F" type="string">models\structures\general_structures\objects\go063\go063_lod1-l_dst_col.pfx</value>
+					<value id="618CBEFB" type="string"></value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="6840B4BD" type="float">10</value>
+					<value id="692808C5" type="int">2</value>
+					<value id="6CECC776" type="float">0</value>
+					<value id="71B5147D" type="int">0</value>
+					<value id="74B52F92" type="float">0</value>
+					<value id="7ABA5C0F" type="vec">0,0,0</value>
+					<value id="7AF6155F" type="string"></value>
+					<value id="81330A30" type="int">1</value>
+					<value id="8F432ADA" type="int">1</value>
+					<value id="903F1B0E" type="string"></value>
+					<value id="9F3018AB" type="string"></value>
+					<value id="A2A1A88B" type="string"></value>
+					<value id="C70CB3C4" type="int">1</value>
+					<value id="C7CA479B" type="string"></value>
+					<value id="C8350F95" type="int">3</value>
+					<value id="C88066F0" type="float">0</value>
+					<value id="D337272A" type="int">0</value>
+					<value id="E6566044" type="float">0</value>
+					<value id="EBB7BE13" type="float">0</value>
+					<value id="EE52AE1C" type="string"></value>
+					<value id="F68F92D4" type="string"></value>
+					<value id="F6B3CBBB" type="float">0</value>
+					<value name="_class" type="string">CDamageableObject</value>
+					<value name="_object_id" type="int">-1818993738</value>
+					<value name="collision" type="string">models\structures\general_structures\objects\go063\go063_lod1-l_col.pfx</value>
+					<value name="collision_effect_id_impact" type="int">357</value>
+					<value name="collision_effect_id_roll" type="int">-1</value>
+					<value name="collision_effect_id_slide" type="int">-1</value>
+					<value name="filename" type="string">structures\general_structures\objects\go063\go063-l.lod</value>
+					<value name="fixed" type="int">1</value>
+					<value name="health" type="float">50</value>
+					<value name="invulnerable" type="int">0</value>
+					<value name="max_health" type="float">50</value>
+					<value name="name" type="string">dao</value>
+					<value name="on_hit" type="string"></value>
+					<value name="resetable" type="int">1</value>
+					<value name="targetable" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				</object>
+			</object>
+		</object>
+	</object>
+</root>

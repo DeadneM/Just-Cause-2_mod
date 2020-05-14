@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object id="6B51122F">
+			<object id="00A2C7CA">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">2</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_me_roach_dif.dds</value>
+				<value name="id" type="string">6</value>
+				<value name="type" type="int">1</value>
+			</object>
+			<object id="05B44A41">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">3</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_sh_ular_dif.dds</value>
+				<value name="id" type="string">44</value>
+				<value name="type" type="int">32</value>
+			</object>
+			<object id="07C10CE7">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_s_u_airfield_dif.dds</value>
+				<value name="id" type="string">34</value>
+				<value name="type" type="int">27</value>
+			</object>
+			<object id="0C8B684C">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_car_red_dif.dds</value>
+				<value name="id" type="string">60</value>
+				<value name="type" type="int">46</value>
+			</object>
+			<object id="0CDE20CB">
+				<value id="0376C1AF" type="int">1</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_s_r_base_c_dif.dds</value>
+				<value name="id" type="string">51</value>
+				<value name="type" type="int">24</value>
+			</object>
+			<object id="0E7AB2F3">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_s_u_harbour_dif.dds</value>
+				<value name="id" type="string">37</value>
+				<value name="type" type="int">28</value>
+			</object>
+			<object id="0F1A45EC">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_car_orange_dif.dds</value>
+				<value name="id" type="string">60</value>
+				<value name="type" type="int">40</value>
+			</object>
+			<object id="110A3590">
+				<value id="7A8B3DFF" type="int">1</value>
+				<value id="F1DA0260" type="string">gui\minimapicons\hud_icon_objective_clamp_green_dif.dds</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\minimapicons\hud_icon_objective_green_dif.dds</value>
+				<value name="id" type="string">1</value>
+				<value name="type" type="int">52</value>
+			</object>
+			<object id="134F19DB">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">1</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_sh_reapers_c_dif.dds</value>
+				<value name="id" type="string">46</value>
+				<value name="type" type="int">32</value>
+			</object>
+			<object id="1D967D07">
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_collect_dif.dds</value>
+				<value name="id" type="string">1</value>
+				<value name="type" type="int">8</value>
+			</object>
+			<object id="20BB8A9D">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_s_u_village_dif.dds</value>
+				<value name="id" type="string">38</value>
+				<value name="type" type="int">30</value>
+			</object>
+			<object id="25ED337B">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_foot_orange_dif.dds</value>
+				<value name="id" type="string">61</value>
+				<value name="type" type="int">41</value>
+			</object>
+			<object id="298E7357">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_s_u_village_c_dif.dds</value>
+				<value name="id" type="string">56</value>
+				<value name="type" type="int">30</value>
+			</object>
+			<object id="2EEAA9DF">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="7A8B3DFF" type="int">1</value>
+				<value id="F1DA0260" type="string">Gui\MiniMapIcons\hud_icon_wp_clamp_dif.dds</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">Gui\MiniMapIcons\hud_icon_waypoint_dif.dds</value>
+				<value name="id" type="string">49</value>
+				<value name="type" type="int">33</value>
+			</object>
+			<object id="2F1F6DA6">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">2</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_sh_t_ro_dif.dds</value>
+				<value name="id" type="string">23</value>
+				<value name="type" type="int">4</value>
+			</object>
+			<object id="3159E678">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">3</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_me_ular_dif.dds</value>
+				<value name="id" type="string">2</value>
+				<value name="type" type="int">1</value>
+			</object>
+			<object id="321601F4">
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_collect_dif.dds</value>
+				<value name="id" type="string">1</value>
+				<value name="type" type="int">9</value>
+			</object>
+			<object id="33BE6ACC">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value id="A3CB3B39" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">3</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_me_ular_dif.dds</value>
+				<value name="id" type="string">66</value>
+				<value name="type" type="int">1</value>
+			</object>
+			<object id="33E39C2E">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_s_u_city_c_dif.dds</value>
+				<value name="id" type="string">5</value>
+				<value name="type" type="int">29</value>
+			</object>
+			<object id="341AC144">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">3</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_sh_ular_c_dif.dds</value>
+				<value name="id" type="string">48</value>
+				<value name="type" type="int">32</value>
+			</object>
+			<object id="36A83534">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_gun_orange_dif.dds</value>
+				<value name="id" type="string">64</value>
+				<value name="type" type="int">45</value>
+			</object>
+			<object id="39BB215F">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_s_u_air_c_dif.dds</value>
+				<value name="id" type="string">53</value>
+				<value name="type" type="int">27</value>
+			</object>
+			<object id="3CFEE38C">
+				<value id="0376C1AF" type="int">1</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_s_r_air_c_dif.dds</value>
+				<value name="id" type="string">50</value>
+				<value name="type" type="int">25</value>
+			</object>
+			<object id="41C91DDF">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_boat_red_dif.dds</value>
+				<value name="id" type="string">63</value>
+				<value name="type" type="int">49</value>
+			</object>
+			<object id="4BFF4899">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">1</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_cp_start_dif.dds</value>
+				<value name="id" type="string">31</value>
+				<value name="type" type="int">17</value>
+			</object>
+			<object id="4E3449A6">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">3</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_me_ular_dif.dds</value>
+				<value name="id" type="string">3</value>
+				<value name="type" type="int">3</value>
+			</object>
+			<object id="52E1C53C">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_s_u_city_dif.dds</value>
+				<value name="id" type="string">39</value>
+				<value name="type" type="int">29</value>
+			</object>
+			<object id="548F5F6D">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">2</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_sh_roaches_dif.dds</value>
+				<value name="id" type="string">43</value>
+				<value name="type" type="int">32</value>
+			</object>
+			<object id="550FFCC3">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_car_yellow_dif.dds</value>
+				<value name="id" type="string">60</value>
+				<value name="type" type="int">34</value>
+			</object>
+			<object id="55BC57A0">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">1</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_challenge_c_dif.dds</value>
+				<value name="id" type="string">57</value>
+				<value name="type" type="int">17</value>
+			</object>
+			<object id="583E30B9">
+				<value id="0376C1AF" type="int">1</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_s_r_military_base_dif.dds</value>
+				<value name="id" type="string">35</value>
+				<value name="type" type="int">24</value>
+			</object>
+			<object id="59A64845">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">2</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_challenge_c_dif.dds</value>
+				<value name="id" type="string">58</value>
+				<value name="type" type="int">17</value>
+			</object>
+			<object id="5EB6F866">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">2</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_cp_start_dif.dds</value>
+				<value name="id" type="string">25</value>
+				<value name="type" type="int">17</value>
+			</object>
+			<object id="6A5D2FAE">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">2</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_sh_roaches_c_dif.dds</value>
+				<value name="id" type="string">47</value>
+				<value name="type" type="int">32</value>
+			</object>
+			<object id="6BB10622">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">1</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_sh_t_re_dif.dds</value>
+				<value name="id" type="string">22</value>
+				<value name="type" type="int">4</value>
+			</object>
+			<object id="6E53FC41">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">3</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_challenge_c_dif.dds</value>
+				<value name="id" type="string">59</value>
+				<value name="type" type="int">17</value>
+			</object>
+			<object id="7550736A">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_sh_dif.dds</value>
+				<value name="id" type="string">41</value>
+				<value name="type" type="int">32</value>
+			</object>
+			<object id="77900C3E">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_s_u_harbour_c_dif.dds</value>
+				<value name="id" type="string">54</value>
+				<value name="type" type="int">28</value>
+			</object>
+			<object id="7A44E322">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_gun_yellow_dif.dds</value>
+				<value name="id" type="string">64</value>
+				<value name="type" type="int">38</value>
+			</object>
+			<object id="7BF43713">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_heli_yellow_dif.dds</value>
+				<value name="id" type="string">62</value>
+				<value name="type" type="int">36</value>
+			</object>
+			<object id="7C6CD160">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value id="A3CB3B39" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">3</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_me_ular_dif.dds</value>
+				<value name="id" type="string">67</value>
+				<value name="type" type="int">3</value>
+			</object>
+			<object id="82304C84">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">1</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_me_reapers_dif.dds</value>
+				<value name="id" type="string">9</value>
+				<value name="type" type="int">1</value>
+			</object>
+			<object id="88807D9E">
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_collect_dif.dds</value>
+				<value name="id" type="string">1</value>
+				<value name="type" type="int">10</value>
+			</object>
+			<object id="89046392">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value id="A3CB3B39" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">1</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_me_reapers_dif.dds</value>
+				<value name="id" type="string">70</value>
+				<value name="type" type="int">1</value>
+			</object>
+			<object id="933F1FF6">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_cp_free_dif.dds</value>
+				<value name="id" type="string">26</value>
+				<value name="type" type="int">22</value>
+			</object>
+			<object id="94D251F3">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_cp_bonus_dif.dds</value>
+				<value name="id" type="string">30</value>
+				<value name="type" type="int">19</value>
+			</object>
+			<object id="9587C34F">
+				<value id="0376C1AF" type="int">1</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_s_r_harbour_c_dif.dds</value>
+				<value name="id" type="string">52</value>
+				<value name="type" type="int">26</value>
+			</object>
+			<object id="9786BA53">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">3</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_sh_t_ul_dif.dds</value>
+				<value name="id" type="string">21</value>
+				<value name="type" type="int">4</value>
+			</object>
+			<object id="9C8EECF8">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_challenge_c_dif.dds</value>
+				<value name="id" type="string">57</value>
+				<value name="type" type="int">17</value>
+			</object>
+			<object id="A536D71D">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value id="A3CB3B39" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_km_brief_dif.dds</value>
+				<value name="id" type="string">65</value>
+				<value name="type" type="int">2</value>
+			</object>
+			<object id="A647E76C">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">1</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_sh_reapers_dif.dds</value>
+				<value name="id" type="string">42</value>
+				<value name="type" type="int">32</value>
+			</object>
+			<object id="AD0F62FF">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_cp_nonvehicle_dif.dds</value>
+				<value name="id" type="string">28</value>
+				<value name="type" type="int">20</value>
+			</object>
+			<object id="BB12281E">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">2</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_me_roach_dif.dds</value>
+				<value name="id" type="string">7</value>
+				<value name="type" type="int">3</value>
+			</object>
+			<object id="BB388908">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">3</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_cp_start_dif.dds</value>
+				<value name="id" type="string">32</value>
+				<value name="type" type="int">17</value>
+			</object>
+			<object id="C3860E2F">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_sh_c_dif.dds</value>
+				<value name="id" type="string">45</value>
+				<value name="type" type="int">32</value>
+			</object>
+			<object id="C406B681">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_heli_orange_dif.dds</value>
+				<value name="id" type="string">62</value>
+				<value name="type" type="int">42</value>
+			</object>
+			<object id="C8205FBC">
+				<value id="7A8B3DFF" type="int">1</value>
+				<value id="F1DA0260" type="string">Gui\MiniMapIcons\hud_icon_objective_clamp_dif.dds</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_objective_dif.dds</value>
+				<value name="id" type="string">1</value>
+				<value name="type" type="int">15</value>
+			</object>
+			<object id="CDB472AF">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_km_brief_dif.dds</value>
+				<value name="id" type="string">5</value>
+				<value name="type" type="int">2</value>
+			</object>
+			<object id="CE6C285D">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value id="A3CB3B39" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">2</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_me_roach_dif.dds</value>
+				<value name="id" type="string">69</value>
+				<value name="type" type="int">3</value>
+			</object>
+			<object id="CE6D2B35">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_boat_orange_dif.dds</value>
+				<value name="id" type="string">63</value>
+				<value name="type" type="int">43</value>
+			</object>
+			<object id="CF5D7789">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value id="A3CB3B39" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">1</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_me_reapers_dif.dds</value>
+				<value name="id" type="string">71</value>
+				<value name="type" type="int">3</value>
+			</object>
+			<object id="D3091A65">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_gun_red_dif.dds</value>
+				<value name="id" type="string">64</value>
+				<value name="type" type="int">51</value>
+			</object>
+			<object id="D4F7C520">
+				<value id="0376C1AF" type="int">1</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_s_r_airfield_dif.dds</value>
+				<value name="id" type="string">33</value>
+				<value name="type" type="int">25</value>
+			</object>
+			<object id="DF23E0BA">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">1</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_me_reapers_dif.dds</value>
+				<value name="id" type="string">10</value>
+				<value name="type" type="int">3</value>
+			</object>
+			<object id="E1C2686B">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_cp_start_dif.dds</value>
+				<value name="id" type="string">25</value>
+				<value name="type" type="int">17</value>
+			</object>
+			<object id="E6A6B9CD">
+				<value id="0376C1AF" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_cp_destruct_dif.dds</value>
+				<value name="id" type="string">29</value>
+				<value name="type" type="int">23</value>
+			</object>
+			<object id="E81A76A4">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value id="A3CB3B39" type="int">0</value>
+				<value name="completed" type="int">1</value>
+				<value name="faction" type="int">2</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_me_roach_dif.dds</value>
+				<value name="id" type="string">68</value>
+				<value name="type" type="int">1</value>
+			</object>
+			<object id="E8EE1823">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_foot_red_dif.dds</value>
+				<value name="id" type="string">61</value>
+				<value name="type" type="int">47</value>
+			</object>
+			<object id="E99799FE">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_boat_yellow_dif.dds</value>
+				<value name="id" type="string">63</value>
+				<value name="type" type="int">37</value>
+			</object>
+			<object id="EA2C850F">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_cp_vehicle_dif.dds</value>
+				<value name="id" type="string">27</value>
+				<value name="type" type="int">21</value>
+			</object>
+			<object id="ECFA45A8">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_heli_red_dif.dds</value>
+				<value name="id" type="string">62</value>
+				<value name="type" type="int">48</value>
+			</object>
+			<object id="F1BEC45D">
+				<value id="0376C1AF" type="int">1</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_s_r_harbour_dif.dds</value>
+				<value name="id" type="string">36</value>
+				<value name="type" type="int">26</value>
+			</object>
+			<object id="F6EA65DF">
+				<value id="0376C1AF" type="int">0</value>
+				<value id="A0BDC527" type="int">0</value>
+				<value name="completed" type="int">0</value>
+				<value name="faction" type="int">0</value>
+				<value name="icon_file" type="string">gui\MiniMapIcons\hud_icon_foot_yellow_dif.dds</value>
+				<value name="id" type="string">61</value>
+				<value name="type" type="int">35</value>
+			</object>
+		</object>
+	</object>
+</root>

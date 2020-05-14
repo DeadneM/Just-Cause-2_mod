@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<value name="texture" type="string">global_grass_DIF.dds</value>
+		<object id="D99A4E2D">
+			<object name="0">
+				<value id="090D5EE6" type="float">0.75</value>
+				<value id="146014AF" type="float">0.5</value>
+				<value id="2CA49D2E" type="float">1.2</value>
+				<value id="2EAD7FC9" type="float">15</value>
+				<value id="30F8F3E1" type="float">0</value>
+				<value id="33F3EF7B" type="float">11</value>
+				<value id="4A584A79" type="float">0.51</value>
+				<value id="755A3E9E" type="string"></value>
+				<value id="7F0240B5" type="int">1</value>
+				<value id="8643DB23" type="float">1</value>
+				<value id="87EEB199" type="float">0.1</value>
+				<value id="D83854C9" type="float">0.25</value>
+				<value id="F873E6D4" type="float">0.6</value>
+				<value name="height" type="float">0.4</value>
+				<value name="name" type="string">Grass_Arctic_00</value>
+				<value name="width" type="float">0.7</value>
+			</object>
+		</object>
+	</object>
+</root>

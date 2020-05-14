@@ -1,0 +1,2849 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object name="weapon_upgrades">
+			<object name="Assault">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">2.5</value>
+					<value name="level_1" type="float">2.3</value>
+					<value name="level_2" type="float">2.1</value>
+					<value name="level_3" type="float">1.9</value>
+					<value name="level_4" type="float">1.7</value>
+					<value name="level_5" type="float">1.5</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">29</value>
+					<value name="level_1" type="float">32</value>
+					<value name="level_2" type="float">36</value>
+					<value name="level_3" type="float">41</value>
+					<value name="level_4" type="float">46</value>
+					<value name="level_5" type="float">51</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">31</value>
+					<value name="level_1" type="float">35</value>
+					<value name="level_2" type="float">39</value>
+					<value name="level_3" type="float">44</value>
+					<value name="level_4" type="float">49</value>
+					<value name="level_5" type="float">55</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.1091</value>
+					<value name="level_1" type="float">0.1061</value>
+					<value name="level_2" type="float">0.1031</value>
+					<value name="level_3" type="float">0.1001</value>
+					<value name="level_4" type="float">0.0971</value>
+					<value name="level_5" type="float">0.0941</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">103</value>
+					<value name="level_1" type="float">108</value>
+					<value name="level_2" type="float">113</value>
+					<value name="level_3" type="float">118</value>
+					<value name="level_4" type="float">123</value>
+					<value name="level_5" type="float">128</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">20</value>
+					<value name="level_1" type="float">22</value>
+					<value name="level_2" type="float">24</value>
+					<value name="level_3" type="float">26</value>
+					<value name="level_4" type="float">28</value>
+					<value name="level_5" type="float">30</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0.07</value>
+					<value name="level_1" type="float">0.07</value>
+					<value name="level_2" type="float">0.07</value>
+					<value name="level_3" type="float">0.07</value>
+					<value name="level_4" type="float">0.07</value>
+					<value name="level_5" type="float">0.07</value>
+				</object>
+			</object>
+			<object name="Beretta Handgun">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">2.2</value>
+					<value name="level_1" type="float">1.96</value>
+					<value name="level_2" type="float">1.72</value>
+					<value name="level_3" type="float">1.48</value>
+					<value name="level_4" type="float">1.24</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">16</value>
+					<value name="level_1" type="float">18</value>
+					<value name="level_2" type="float">20</value>
+					<value name="level_3" type="float">22</value>
+					<value name="level_4" type="float">25</value>
+					<value name="level_5" type="float">28</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">18</value>
+					<value name="level_1" type="float">20</value>
+					<value name="level_2" type="float">23</value>
+					<value name="level_3" type="float">25</value>
+					<value name="level_4" type="float">28</value>
+					<value name="level_5" type="float">32</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.12</value>
+					<value name="level_1" type="float">0.116</value>
+					<value name="level_2" type="float">0.112</value>
+					<value name="level_3" type="float">0.108</value>
+					<value name="level_4" type="float">0.104</value>
+					<value name="level_5" type="float">0.1</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">80</value>
+					<value name="level_1" type="float">85</value>
+					<value name="level_2" type="float">90</value>
+					<value name="level_3" type="float">95</value>
+					<value name="level_4" type="float">100</value>
+					<value name="level_5" type="float">105</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">12</value>
+					<value name="level_1" type="float">14</value>
+					<value name="level_2" type="float">16</value>
+					<value name="level_3" type="float">18</value>
+					<value name="level_4" type="float">20</value>
+					<value name="level_5" type="float">22</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0.07</value>
+					<value name="level_1" type="float">0.07</value>
+					<value name="level_2" type="float">0.07</value>
+					<value name="level_3" type="float">0.07</value>
+					<value name="level_4" type="float">0.07</value>
+					<value name="level_5" type="float">0.07</value>
+				</object>
+			</object>
+			<object name="BigCannon">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0.9</value>
+					<value name="level_1" type="float">0.9</value>
+					<value name="level_2" type="float">0.9</value>
+					<value name="level_3" type="float">0.9</value>
+					<value name="level_4" type="float">0.9</value>
+					<value name="level_5" type="float">0.9</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.2</value>
+					<value name="level_1" type="float">0.2</value>
+					<value name="level_2" type="float">0.2</value>
+					<value name="level_3" type="float">0.2</value>
+					<value name="level_4" type="float">0.2</value>
+					<value name="level_5" type="float">0.2</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="Bubble_Gun">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.0667</value>
+					<value name="level_1" type="float">0.0667</value>
+					<value name="level_2" type="float">0.0667</value>
+					<value name="level_3" type="float">0.0667</value>
+					<value name="level_4" type="float">0.0667</value>
+					<value name="level_5" type="float">0.0667</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">100</value>
+					<value name="level_1" type="float">100</value>
+					<value name="level_2" type="float">100</value>
+					<value name="level_3" type="float">100</value>
+					<value name="level_4" type="float">100</value>
+					<value name="level_5" type="float">100</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="Cannon">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">4</value>
+					<value name="level_1" type="float">3.5</value>
+					<value name="level_2" type="float">3</value>
+					<value name="level_3" type="float">2.5</value>
+					<value name="level_4" type="float">2</value>
+					<value name="level_5" type="float">1.5</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">600</value>
+					<value name="level_1" type="float">600</value>
+					<value name="level_2" type="float">600</value>
+					<value name="level_3" type="float">600</value>
+					<value name="level_4" type="float">600</value>
+					<value name="level_5" type="float">600</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">600</value>
+					<value name="level_1" type="float">600</value>
+					<value name="level_2" type="float">600</value>
+					<value name="level_3" type="float">600</value>
+					<value name="level_4" type="float">600</value>
+					<value name="level_5" type="float">600</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.45</value>
+					<value name="level_1" type="float">0.45</value>
+					<value name="level_2" type="float">0.45</value>
+					<value name="level_3" type="float">0.45</value>
+					<value name="level_4" type="float">0.45</value>
+					<value name="level_5" type="float">0.45</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="CannonARVE">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">1500</value>
+					<value name="level_1" type="float">1500</value>
+					<value name="level_2" type="float">1500</value>
+					<value name="level_3" type="float">1500</value>
+					<value name="level_4" type="float">1500</value>
+					<value name="level_5" type="float">1500</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.1</value>
+					<value name="level_1" type="float">0.1</value>
+					<value name="level_2" type="float">0.1</value>
+					<value name="level_3" type="float">0.1</value>
+					<value name="level_4" type="float">0.1</value>
+					<value name="level_5" type="float">0.1</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">10000</value>
+					<value name="level_1" type="float">10000</value>
+					<value name="level_2" type="float">10000</value>
+					<value name="level_3" type="float">10000</value>
+					<value name="level_4" type="float">10000</value>
+					<value name="level_5" type="float">10000</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+			</object>
+			<object name="CannonHover">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">4</value>
+					<value name="level_1" type="float">3.5</value>
+					<value name="level_2" type="float">3</value>
+					<value name="level_3" type="float">2.5</value>
+					<value name="level_4" type="float">2</value>
+					<value name="level_5" type="float">1.5</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">1500</value>
+					<value name="level_1" type="float">1500</value>
+					<value name="level_2" type="float">1500</value>
+					<value name="level_3" type="float">1500</value>
+					<value name="level_4" type="float">1500</value>
+					<value name="level_5" type="float">1500</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.5</value>
+					<value name="level_1" type="float">0.5</value>
+					<value name="level_2" type="float">0.5</value>
+					<value name="level_3" type="float">0.5</value>
+					<value name="level_4" type="float">0.5</value>
+					<value name="level_5" type="float">0.5</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="CannonLAVE">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">4</value>
+					<value name="level_1" type="float">3.5</value>
+					<value name="level_2" type="float">3</value>
+					<value name="level_3" type="float">2.5</value>
+					<value name="level_4" type="float">2</value>
+					<value name="level_5" type="float">1.5</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">1500</value>
+					<value name="level_1" type="float">1500</value>
+					<value name="level_2" type="float">1500</value>
+					<value name="level_3" type="float">1500</value>
+					<value name="level_4" type="float">1500</value>
+					<value name="level_5" type="float">1500</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.75</value>
+					<value name="level_1" type="float">0.75</value>
+					<value name="level_2" type="float">0.75</value>
+					<value name="level_3" type="float">0.75</value>
+					<value name="level_4" type="float">0.75</value>
+					<value name="level_5" type="float">0.75</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="CannonLAVE_V016">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">4</value>
+					<value name="level_1" type="float">3.5</value>
+					<value name="level_2" type="float">3</value>
+					<value name="level_3" type="float">2.5</value>
+					<value name="level_4" type="float">2</value>
+					<value name="level_5" type="float">1.5</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">1500</value>
+					<value name="level_1" type="float">1500</value>
+					<value name="level_2" type="float">1500</value>
+					<value name="level_3" type="float">1500</value>
+					<value name="level_4" type="float">1500</value>
+					<value name="level_5" type="float">1500</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.75</value>
+					<value name="level_1" type="float">0.75</value>
+					<value name="level_2" type="float">0.75</value>
+					<value name="level_3" type="float">0.75</value>
+					<value name="level_4" type="float">0.75</value>
+					<value name="level_5" type="float">0.75</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="CannonTUKTUK">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">4</value>
+					<value name="level_1" type="float">3.5</value>
+					<value name="level_2" type="float">3</value>
+					<value name="level_3" type="float">2.5</value>
+					<value name="level_4" type="float">2</value>
+					<value name="level_5" type="float">1.5</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">1500</value>
+					<value name="level_1" type="float">1500</value>
+					<value name="level_2" type="float">1500</value>
+					<value name="level_3" type="float">1500</value>
+					<value name="level_4" type="float">1500</value>
+					<value name="level_5" type="float">1500</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">1.25</value>
+					<value name="level_1" type="float">1.25</value>
+					<value name="level_2" type="float">1.25</value>
+					<value name="level_3" type="float">1.25</value>
+					<value name="level_4" type="float">1.25</value>
+					<value name="level_5" type="float">1.25</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">2000</value>
+					<value name="level_1" type="float">2000</value>
+					<value name="level_2" type="float">2000</value>
+					<value name="level_3" type="float">2000</value>
+					<value name="level_4" type="float">2000</value>
+					<value name="level_5" type="float">2000</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="Flak">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">1.5</value>
+					<value name="level_1" type="float">1.5</value>
+					<value name="level_2" type="float">1.5</value>
+					<value name="level_3" type="float">1.5</value>
+					<value name="level_4" type="float">1.5</value>
+					<value name="level_5" type="float">1.5</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">200</value>
+					<value name="level_1" type="float">200</value>
+					<value name="level_2" type="float">200</value>
+					<value name="level_3" type="float">200</value>
+					<value name="level_4" type="float">200</value>
+					<value name="level_5" type="float">200</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">200</value>
+					<value name="level_1" type="float">200</value>
+					<value name="level_2" type="float">200</value>
+					<value name="level_3" type="float">200</value>
+					<value name="level_4" type="float">200</value>
+					<value name="level_5" type="float">200</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.18</value>
+					<value name="level_1" type="float">0.18</value>
+					<value name="level_2" type="float">0.18</value>
+					<value name="level_3" type="float">0.18</value>
+					<value name="level_4" type="float">0.18</value>
+					<value name="level_5" type="float">0.18</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">100</value>
+					<value name="level_1" type="float">100</value>
+					<value name="level_2" type="float">100</value>
+					<value name="level_3" type="float">100</value>
+					<value name="level_4" type="float">100</value>
+					<value name="level_5" type="float">100</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">500</value>
+					<value name="level_1" type="float">500</value>
+					<value name="level_2" type="float">500</value>
+					<value name="level_3" type="float">500</value>
+					<value name="level_4" type="float">500</value>
+					<value name="level_5" type="float">500</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="Grapplinghook">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">2.5</value>
+					<value name="level_1" type="float">2.5</value>
+					<value name="level_2" type="float">2.5</value>
+					<value name="level_3" type="float">2.5</value>
+					<value name="level_4" type="float">2.5</value>
+					<value name="level_5" type="float">2.5</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">50</value>
+					<value name="level_1" type="float">50</value>
+					<value name="level_2" type="float">50</value>
+					<value name="level_3" type="float">50</value>
+					<value name="level_4" type="float">50</value>
+					<value name="level_5" type="float">50</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="GrenadeLauncher">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">225</value>
+					<value name="level_1" type="float">250</value>
+					<value name="level_2" type="float">275</value>
+					<value name="level_3" type="float">300</value>
+					<value name="level_4" type="float">325</value>
+					<value name="level_5" type="float">350</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">225</value>
+					<value name="level_1" type="float">250</value>
+					<value name="level_2" type="float">275</value>
+					<value name="level_3" type="float">300</value>
+					<value name="level_4" type="float">325</value>
+					<value name="level_5" type="float">350</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.325</value>
+					<value name="level_1" type="float">0.305</value>
+					<value name="level_2" type="float">0.285</value>
+					<value name="level_3" type="float">0.265</value>
+					<value name="level_4" type="float">0.245</value>
+					<value name="level_5" type="float">0.225</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">500</value>
+					<value name="level_1" type="float">550</value>
+					<value name="level_2" type="float">600</value>
+					<value name="level_3" type="float">650</value>
+					<value name="level_4" type="float">700</value>
+					<value name="level_5" type="float">750</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">5</value>
+					<value name="level_1" type="float">6</value>
+					<value name="level_2" type="float">7</value>
+					<value name="level_3" type="float">8</value>
+					<value name="level_4" type="float">9</value>
+					<value name="level_5" type="float">10</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="HeavyMachineGun">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">80</value>
+					<value name="level_1" type="float">80</value>
+					<value name="level_2" type="float">80</value>
+					<value name="level_3" type="float">80</value>
+					<value name="level_4" type="float">80</value>
+					<value name="level_5" type="float">80</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">80</value>
+					<value name="level_1" type="float">80</value>
+					<value name="level_2" type="float">80</value>
+					<value name="level_3" type="float">80</value>
+					<value name="level_4" type="float">80</value>
+					<value name="level_5" type="float">80</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.1332</value>
+					<value name="level_1" type="float">0.1332</value>
+					<value name="level_2" type="float">0.1332</value>
+					<value name="level_3" type="float">0.1332</value>
+					<value name="level_4" type="float">0.1332</value>
+					<value name="level_5" type="float">0.1332</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">120</value>
+					<value name="level_1" type="float">120</value>
+					<value name="level_2" type="float">120</value>
+					<value name="level_3" type="float">120</value>
+					<value name="level_4" type="float">120</value>
+					<value name="level_5" type="float">120</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">500</value>
+					<value name="level_1" type="float">500</value>
+					<value name="level_2" type="float">500</value>
+					<value name="level_3" type="float">500</value>
+					<value name="level_4" type="float">500</value>
+					<value name="level_5" type="float">500</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0.1</value>
+					<value name="level_1" type="float">0.1</value>
+					<value name="level_2" type="float">0.1</value>
+					<value name="level_3" type="float">0.1</value>
+					<value name="level_4" type="float">0.1</value>
+					<value name="level_5" type="float">0.1</value>
+				</object>
+			</object>
+			<object name="MachineGun">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">1.8</value>
+					<value name="level_1" type="float">1.6</value>
+					<value name="level_2" type="float">1.4</value>
+					<value name="level_3" type="float">1.2</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">0.8</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">35</value>
+					<value name="level_1" type="float">39</value>
+					<value name="level_2" type="float">44</value>
+					<value name="level_3" type="float">49</value>
+					<value name="level_4" type="float">55</value>
+					<value name="level_5" type="float">62</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">45</value>
+					<value name="level_1" type="float">50</value>
+					<value name="level_2" type="float">56</value>
+					<value name="level_3" type="float">63</value>
+					<value name="level_4" type="float">71</value>
+					<value name="level_5" type="float">79</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.13</value>
+					<value name="level_1" type="float">0.1237</value>
+					<value name="level_2" type="float">0.1174</value>
+					<value name="level_3" type="float">0.1111</value>
+					<value name="level_4" type="float">0.1048</value>
+					<value name="level_5" type="float">0.0985</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">103</value>
+					<value name="level_1" type="float">108</value>
+					<value name="level_2" type="float">113</value>
+					<value name="level_3" type="float">118</value>
+					<value name="level_4" type="float">123</value>
+					<value name="level_5" type="float">128</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">26</value>
+					<value name="level_1" type="float">29</value>
+					<value name="level_2" type="float">32</value>
+					<value name="level_3" type="float">35</value>
+					<value name="level_4" type="float">38</value>
+					<value name="level_5" type="float">41</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0.1</value>
+					<value name="level_1" type="float">0.1</value>
+					<value name="level_2" type="float">0.1</value>
+					<value name="level_3" type="float">0.1</value>
+					<value name="level_4" type="float">0.1</value>
+					<value name="level_5" type="float">0.1</value>
+				</object>
+			</object>
+			<object name="MachinegunARVE">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0.55</value>
+					<value name="level_1" type="float">0.55</value>
+					<value name="level_2" type="float">0.55</value>
+					<value name="level_3" type="float">0.55</value>
+					<value name="level_4" type="float">0.55</value>
+					<value name="level_5" type="float">0.55</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">80</value>
+					<value name="level_1" type="float">80</value>
+					<value name="level_2" type="float">80</value>
+					<value name="level_3" type="float">80</value>
+					<value name="level_4" type="float">80</value>
+					<value name="level_5" type="float">80</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">80</value>
+					<value name="level_1" type="float">80</value>
+					<value name="level_2" type="float">80</value>
+					<value name="level_3" type="float">80</value>
+					<value name="level_4" type="float">80</value>
+					<value name="level_5" type="float">80</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.1332</value>
+					<value name="level_1" type="float">0.1332</value>
+					<value name="level_2" type="float">0.1332</value>
+					<value name="level_3" type="float">0.1332</value>
+					<value name="level_4" type="float">0.1332</value>
+					<value name="level_5" type="float">0.1332</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+			</object>
+			<object name="MachineGunLAVE">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">2.5</value>
+					<value name="level_1" type="float">2.5</value>
+					<value name="level_2" type="float">2.5</value>
+					<value name="level_3" type="float">2.5</value>
+					<value name="level_4" type="float">2.5</value>
+					<value name="level_5" type="float">2.5</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">80</value>
+					<value name="level_1" type="float">80</value>
+					<value name="level_2" type="float">80</value>
+					<value name="level_3" type="float">80</value>
+					<value name="level_4" type="float">80</value>
+					<value name="level_5" type="float">80</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">80</value>
+					<value name="level_1" type="float">80</value>
+					<value name="level_2" type="float">80</value>
+					<value name="level_3" type="float">80</value>
+					<value name="level_4" type="float">80</value>
+					<value name="level_5" type="float">80</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.1332</value>
+					<value name="level_1" type="float">0.1332</value>
+					<value name="level_2" type="float">0.1332</value>
+					<value name="level_3" type="float">0.1332</value>
+					<value name="level_4" type="float">0.1332</value>
+					<value name="level_5" type="float">0.1332</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">100</value>
+					<value name="level_1" type="float">100</value>
+					<value name="level_2" type="float">100</value>
+					<value name="level_3" type="float">100</value>
+					<value name="level_4" type="float">100</value>
+					<value name="level_5" type="float">100</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">34</value>
+					<value name="level_1" type="float">40</value>
+					<value name="level_2" type="float">46</value>
+					<value name="level_3" type="float">52</value>
+					<value name="level_4" type="float">58</value>
+					<value name="level_5" type="float">64</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0.1</value>
+					<value name="level_1" type="float">0.1</value>
+					<value name="level_2" type="float">0.1</value>
+					<value name="level_3" type="float">0.1</value>
+					<value name="level_4" type="float">0.1</value>
+					<value name="level_5" type="float">0.1</value>
+				</object>
+			</object>
+			<object name="Minigun">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">120</value>
+					<value name="level_1" type="float">120</value>
+					<value name="level_2" type="float">120</value>
+					<value name="level_3" type="float">120</value>
+					<value name="level_4" type="float">120</value>
+					<value name="level_5" type="float">120</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">120</value>
+					<value name="level_1" type="float">120</value>
+					<value name="level_2" type="float">120</value>
+					<value name="level_3" type="float">120</value>
+					<value name="level_4" type="float">120</value>
+					<value name="level_5" type="float">120</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.05</value>
+					<value name="level_1" type="float">0.05</value>
+					<value name="level_2" type="float">0.05</value>
+					<value name="level_3" type="float">0.05</value>
+					<value name="level_4" type="float">0.05</value>
+					<value name="level_5" type="float">0.05</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">100</value>
+					<value name="level_1" type="float">100</value>
+					<value name="level_2" type="float">100</value>
+					<value name="level_3" type="float">100</value>
+					<value name="level_4" type="float">100</value>
+					<value name="level_5" type="float">100</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="MinigunARVE">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">4</value>
+					<value name="level_1" type="float">3.5</value>
+					<value name="level_2" type="float">3</value>
+					<value name="level_3" type="float">2.5</value>
+					<value name="level_4" type="float">2</value>
+					<value name="level_5" type="float">1.5</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">250</value>
+					<value name="level_1" type="float">250</value>
+					<value name="level_2" type="float">250</value>
+					<value name="level_3" type="float">250</value>
+					<value name="level_4" type="float">250</value>
+					<value name="level_5" type="float">250</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">250</value>
+					<value name="level_1" type="float">250</value>
+					<value name="level_2" type="float">250</value>
+					<value name="level_3" type="float">250</value>
+					<value name="level_4" type="float">250</value>
+					<value name="level_5" type="float">250</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.05</value>
+					<value name="level_1" type="float">0.05</value>
+					<value name="level_2" type="float">0.05</value>
+					<value name="level_3" type="float">0.05</value>
+					<value name="level_4" type="float">0.05</value>
+					<value name="level_5" type="float">0.05</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">100</value>
+					<value name="level_1" type="float">100</value>
+					<value name="level_2" type="float">100</value>
+					<value name="level_3" type="float">100</value>
+					<value name="level_4" type="float">100</value>
+					<value name="level_5" type="float">100</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+			</object>
+			<object name="MinigunLAVE">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0.75</value>
+					<value name="level_1" type="float">0.75</value>
+					<value name="level_2" type="float">0.75</value>
+					<value name="level_3" type="float">0.75</value>
+					<value name="level_4" type="float">0.75</value>
+					<value name="level_5" type="float">0.75</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">80</value>
+					<value name="level_1" type="float">80</value>
+					<value name="level_2" type="float">80</value>
+					<value name="level_3" type="float">80</value>
+					<value name="level_4" type="float">80</value>
+					<value name="level_5" type="float">80</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">80</value>
+					<value name="level_1" type="float">80</value>
+					<value name="level_2" type="float">80</value>
+					<value name="level_3" type="float">80</value>
+					<value name="level_4" type="float">80</value>
+					<value name="level_5" type="float">80</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.05</value>
+					<value name="level_1" type="float">0.05</value>
+					<value name="level_2" type="float">0.05</value>
+					<value name="level_3" type="float">0.05</value>
+					<value name="level_4" type="float">0.05</value>
+					<value name="level_5" type="float">0.05</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">100</value>
+					<value name="level_1" type="float">100</value>
+					<value name="level_2" type="float">100</value>
+					<value name="level_3" type="float">100</value>
+					<value name="level_4" type="float">100</value>
+					<value name="level_5" type="float">100</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+			</object>
+			<object name="MinigunTank">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0.75</value>
+					<value name="level_1" type="float">0.75</value>
+					<value name="level_2" type="float">0.75</value>
+					<value name="level_3" type="float">0.75</value>
+					<value name="level_4" type="float">0.75</value>
+					<value name="level_5" type="float">0.75</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">80</value>
+					<value name="level_1" type="float">80</value>
+					<value name="level_2" type="float">80</value>
+					<value name="level_3" type="float">80</value>
+					<value name="level_4" type="float">80</value>
+					<value name="level_5" type="float">80</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">80</value>
+					<value name="level_1" type="float">80</value>
+					<value name="level_2" type="float">80</value>
+					<value name="level_3" type="float">80</value>
+					<value name="level_4" type="float">80</value>
+					<value name="level_5" type="float">80</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.05</value>
+					<value name="level_1" type="float">0.05</value>
+					<value name="level_2" type="float">0.05</value>
+					<value name="level_3" type="float">0.05</value>
+					<value name="level_4" type="float">0.05</value>
+					<value name="level_5" type="float">0.05</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">100</value>
+					<value name="level_1" type="float">100</value>
+					<value name="level_2" type="float">100</value>
+					<value name="level_3" type="float">100</value>
+					<value name="level_4" type="float">100</value>
+					<value name="level_5" type="float">100</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">250</value>
+					<value name="level_1" type="float">250</value>
+					<value name="level_2" type="float">250</value>
+					<value name="level_3" type="float">250</value>
+					<value name="level_4" type="float">250</value>
+					<value name="level_5" type="float">250</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="MinigunVehicle">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">120</value>
+					<value name="level_1" type="float">120</value>
+					<value name="level_2" type="float">120</value>
+					<value name="level_3" type="float">120</value>
+					<value name="level_4" type="float">120</value>
+					<value name="level_5" type="float">120</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">120</value>
+					<value name="level_1" type="float">120</value>
+					<value name="level_2" type="float">120</value>
+					<value name="level_3" type="float">120</value>
+					<value name="level_4" type="float">120</value>
+					<value name="level_5" type="float">120</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.05</value>
+					<value name="level_1" type="float">0.05</value>
+					<value name="level_2" type="float">0.05</value>
+					<value name="level_3" type="float">0.05</value>
+					<value name="level_4" type="float">0.05</value>
+					<value name="level_5" type="float">0.05</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">100</value>
+					<value name="level_1" type="float">100</value>
+					<value name="level_2" type="float">100</value>
+					<value name="level_3" type="float">100</value>
+					<value name="level_4" type="float">100</value>
+					<value name="level_5" type="float">100</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="Onehand Shotgun">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">3</value>
+					<value name="level_1" type="float">2.8</value>
+					<value name="level_2" type="float">2.6</value>
+					<value name="level_3" type="float">2.4</value>
+					<value name="level_4" type="float">2.2</value>
+					<value name="level_5" type="float">2</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">12.5</value>
+					<value name="level_1" type="float">14</value>
+					<value name="level_2" type="float">15.7</value>
+					<value name="level_3" type="float">17.6</value>
+					<value name="level_4" type="float">19.7</value>
+					<value name="level_5" type="float">22</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">13</value>
+					<value name="level_1" type="float">14.6</value>
+					<value name="level_2" type="float">16.3</value>
+					<value name="level_3" type="float">18.3</value>
+					<value name="level_4" type="float">20.5</value>
+					<value name="level_5" type="float">22.9</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.4</value>
+					<value name="level_1" type="float">0.38</value>
+					<value name="level_2" type="float">0.36</value>
+					<value name="level_3" type="float">0.34</value>
+					<value name="level_4" type="float">0.32</value>
+					<value name="level_5" type="float">0.3</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">20</value>
+					<value name="level_1" type="float">21</value>
+					<value name="level_2" type="float">22</value>
+					<value name="level_3" type="float">23</value>
+					<value name="level_4" type="float">24</value>
+					<value name="level_5" type="float">25</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">3</value>
+					<value name="level_1" type="float">4</value>
+					<value name="level_2" type="float">5</value>
+					<value name="level_3" type="float">6</value>
+					<value name="level_4" type="float">7</value>
+					<value name="level_5" type="float">8</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0.12</value>
+					<value name="level_1" type="float">0.12</value>
+					<value name="level_2" type="float">0.12</value>
+					<value name="level_3" type="float">0.12</value>
+					<value name="level_4" type="float">0.12</value>
+					<value name="level_5" type="float">0.12</value>
+				</object>
+			</object>
+			<object name="PanayRocketLauncher">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1100</value>
+					<value name="level_2" type="float">1200</value>
+					<value name="level_3" type="float">1300</value>
+					<value name="level_4" type="float">1400</value>
+					<value name="level_5" type="float">1500</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">1100</value>
+					<value name="level_1" type="float">1200</value>
+					<value name="level_2" type="float">1300</value>
+					<value name="level_3" type="float">1400</value>
+					<value name="level_4" type="float">1500</value>
+					<value name="level_5" type="float">1600</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.3</value>
+					<value name="level_1" type="float">0.7</value>
+					<value name="level_2" type="float">0.6</value>
+					<value name="level_3" type="float">0.5</value>
+					<value name="level_4" type="float">0.4</value>
+					<value name="level_5" type="float">0.3</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">600</value>
+					<value name="level_1" type="float">1100</value>
+					<value name="level_2" type="float">1200</value>
+					<value name="level_3" type="float">1300</value>
+					<value name="level_4" type="float">1400</value>
+					<value name="level_5" type="float">1500</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">116</value>
+					<value name="level_1" type="float">116</value>
+					<value name="level_2" type="float">116</value>
+					<value name="level_3" type="float">116</value>
+					<value name="level_4" type="float">116</value>
+					<value name="level_5" type="float">116</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="Revolver">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">1.8</value>
+					<value name="level_1" type="float">1.6</value>
+					<value name="level_2" type="float">1.4</value>
+					<value name="level_3" type="float">1.2</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">0.8</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">65</value>
+					<value name="level_1" type="float">73</value>
+					<value name="level_2" type="float">82</value>
+					<value name="level_3" type="float">91</value>
+					<value name="level_4" type="float">102</value>
+					<value name="level_5" type="float">115</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">85</value>
+					<value name="level_1" type="float">95</value>
+					<value name="level_2" type="float">107</value>
+					<value name="level_3" type="float">119</value>
+					<value name="level_4" type="float">134</value>
+					<value name="level_5" type="float">150</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">0.95</value>
+					<value name="level_2" type="float">0.9</value>
+					<value name="level_3" type="float">0.85</value>
+					<value name="level_4" type="float">0.8</value>
+					<value name="level_5" type="float">0.75</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">103</value>
+					<value name="level_1" type="float">108</value>
+					<value name="level_2" type="float">113</value>
+					<value name="level_3" type="float">118</value>
+					<value name="level_4" type="float">123</value>
+					<value name="level_5" type="float">128</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">7</value>
+					<value name="level_1" type="float">8</value>
+					<value name="level_2" type="float">9</value>
+					<value name="level_3" type="float">10</value>
+					<value name="level_4" type="float">11</value>
+					<value name="level_5" type="float">12</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0.5</value>
+					<value name="level_1" type="float">0.5</value>
+					<value name="level_2" type="float">0.5</value>
+					<value name="level_3" type="float">0.5</value>
+					<value name="level_4" type="float">0.5</value>
+					<value name="level_5" type="float">0.5</value>
+				</object>
+			</object>
+			<object name="RocketARVE">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0.75</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1.9</value>
+					<value name="level_5" type="float">2</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.5</value>
+					<value name="level_1" type="float">0.5</value>
+					<value name="level_2" type="float">0.5</value>
+					<value name="level_3" type="float">0.5</value>
+					<value name="level_4" type="float">0.5</value>
+					<value name="level_5" type="float">0.5</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">5</value>
+					<value name="level_1" type="float">5</value>
+					<value name="level_2" type="float">5</value>
+					<value name="level_3" type="float">5</value>
+					<value name="level_4" type="float">5</value>
+					<value name="level_5" type="float">5</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="RocketLauncher">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">750</value>
+					<value name="level_1" type="float">800</value>
+					<value name="level_2" type="float">850</value>
+					<value name="level_3" type="float">900</value>
+					<value name="level_4" type="float">950</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">750</value>
+					<value name="level_1" type="float">800</value>
+					<value name="level_2" type="float">850</value>
+					<value name="level_3" type="float">900</value>
+					<value name="level_4" type="float">950</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.8</value>
+					<value name="level_1" type="float">0.7</value>
+					<value name="level_2" type="float">0.6</value>
+					<value name="level_3" type="float">0.5</value>
+					<value name="level_4" type="float">0.4</value>
+					<value name="level_5" type="float">0.3</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1100</value>
+					<value name="level_2" type="float">1200</value>
+					<value name="level_3" type="float">1300</value>
+					<value name="level_4" type="float">1400</value>
+					<value name="level_5" type="float">1500</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">3</value>
+					<value name="level_1" type="float">4</value>
+					<value name="level_2" type="float">5</value>
+					<value name="level_3" type="float">6</value>
+					<value name="level_4" type="float">7</value>
+					<value name="level_5" type="float">8</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="RocketLAVE">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">750</value>
+					<value name="level_1" type="float">750</value>
+					<value name="level_2" type="float">750</value>
+					<value name="level_3" type="float">750</value>
+					<value name="level_4" type="float">750</value>
+					<value name="level_5" type="float">750</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">2</value>
+					<value name="level_1" type="float">3</value>
+					<value name="level_2" type="float">4</value>
+					<value name="level_3" type="float">5</value>
+					<value name="level_4" type="float">6</value>
+					<value name="level_5" type="float">7</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="SAM">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">4</value>
+					<value name="level_1" type="float">3.5</value>
+					<value name="level_2" type="float">3</value>
+					<value name="level_3" type="float">2.5</value>
+					<value name="level_4" type="float">2</value>
+					<value name="level_5" type="float">1.5</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.5</value>
+					<value name="level_1" type="float">0.5</value>
+					<value name="level_2" type="float">0.5</value>
+					<value name="level_3" type="float">0.5</value>
+					<value name="level_4" type="float">0.5</value>
+					<value name="level_5" type="float">0.5</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">25</value>
+					<value name="level_1" type="float">25</value>
+					<value name="level_2" type="float">25</value>
+					<value name="level_3" type="float">25</value>
+					<value name="level_4" type="float">25</value>
+					<value name="level_5" type="float">25</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">5</value>
+					<value name="level_1" type="float">5</value>
+					<value name="level_2" type="float">5</value>
+					<value name="level_3" type="float">5</value>
+					<value name="level_4" type="float">5</value>
+					<value name="level_5" type="float">5</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0.2</value>
+					<value name="level_1" type="float">0.2</value>
+					<value name="level_2" type="float">0.2</value>
+					<value name="level_3" type="float">0.2</value>
+					<value name="level_4" type="float">0.2</value>
+					<value name="level_5" type="float">0.2</value>
+				</object>
+			</object>
+			<object name="Scorpion_SMG">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">4</value>
+					<value name="level_1" type="float">3.8</value>
+					<value name="level_2" type="float">3.6</value>
+					<value name="level_3" type="float">3.4</value>
+					<value name="level_4" type="float">3.2</value>
+					<value name="level_5" type="float">3</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">16</value>
+					<value name="level_1" type="float">18</value>
+					<value name="level_2" type="float">20</value>
+					<value name="level_3" type="float">22</value>
+					<value name="level_4" type="float">25</value>
+					<value name="level_5" type="float">28</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">18</value>
+					<value name="level_1" type="float">20</value>
+					<value name="level_2" type="float">23</value>
+					<value name="level_3" type="float">25</value>
+					<value name="level_4" type="float">28</value>
+					<value name="level_5" type="float">32</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.0667</value>
+					<value name="level_1" type="float">0.0642</value>
+					<value name="level_2" type="float">0.0617</value>
+					<value name="level_3" type="float">0.0592</value>
+					<value name="level_4" type="float">0.0567</value>
+					<value name="level_5" type="float">0.0542</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">80</value>
+					<value name="level_1" type="float">83</value>
+					<value name="level_2" type="float">86</value>
+					<value name="level_3" type="float">89</value>
+					<value name="level_4" type="float">92</value>
+					<value name="level_5" type="float">95</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">30</value>
+					<value name="level_1" type="float">32</value>
+					<value name="level_2" type="float">34</value>
+					<value name="level_3" type="float">36</value>
+					<value name="level_4" type="float">38</value>
+					<value name="level_5" type="float">40</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0.07</value>
+					<value name="level_1" type="float">0.07</value>
+					<value name="level_2" type="float">0.07</value>
+					<value name="level_3" type="float">0.07</value>
+					<value name="level_4" type="float">0.07</value>
+					<value name="level_5" type="float">0.07</value>
+				</object>
+			</object>
+			<object name="Sentry_Gun">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">4</value>
+					<value name="level_1" type="float">3.5</value>
+					<value name="level_2" type="float">3</value>
+					<value name="level_3" type="float">2.5</value>
+					<value name="level_4" type="float">2</value>
+					<value name="level_5" type="float">1.5</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">80</value>
+					<value name="level_1" type="float">80</value>
+					<value name="level_2" type="float">80</value>
+					<value name="level_3" type="float">80</value>
+					<value name="level_4" type="float">80</value>
+					<value name="level_5" type="float">80</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.01</value>
+					<value name="level_1" type="float">0.01</value>
+					<value name="level_2" type="float">0.01</value>
+					<value name="level_3" type="float">0.01</value>
+					<value name="level_4" type="float">0.01</value>
+					<value name="level_5" type="float">0.01</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">50</value>
+					<value name="level_1" type="float">50</value>
+					<value name="level_2" type="float">50</value>
+					<value name="level_3" type="float">50</value>
+					<value name="level_4" type="float">50</value>
+					<value name="level_5" type="float">50</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="Shotgun (pump action)">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">2.5</value>
+					<value name="level_1" type="float">2.25</value>
+					<value name="level_2" type="float">2</value>
+					<value name="level_3" type="float">1.75</value>
+					<value name="level_4" type="float">1.5</value>
+					<value name="level_5" type="float">1.25</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">12.5</value>
+					<value name="level_1" type="float">14</value>
+					<value name="level_2" type="float">15.7</value>
+					<value name="level_3" type="float">17.6</value>
+					<value name="level_4" type="float">19.7</value>
+					<value name="level_5" type="float">22</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">13</value>
+					<value name="level_1" type="float">14.6</value>
+					<value name="level_2" type="float">16.3</value>
+					<value name="level_3" type="float">18.3</value>
+					<value name="level_4" type="float">20.5</value>
+					<value name="level_5" type="float">22.9</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.325</value>
+					<value name="level_1" type="float">0.3</value>
+					<value name="level_2" type="float">0.275</value>
+					<value name="level_3" type="float">0.25</value>
+					<value name="level_4" type="float">0.225</value>
+					<value name="level_5" type="float">0.2</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">20</value>
+					<value name="level_1" type="float">21</value>
+					<value name="level_2" type="float">22</value>
+					<value name="level_3" type="float">23</value>
+					<value name="level_4" type="float">24</value>
+					<value name="level_5" type="float">25</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">6</value>
+					<value name="level_1" type="float">8</value>
+					<value name="level_2" type="float">10</value>
+					<value name="level_3" type="float">12</value>
+					<value name="level_4" type="float">14</value>
+					<value name="level_5" type="float">16</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0.11</value>
+					<value name="level_1" type="float">0.11</value>
+					<value name="level_2" type="float">0.11</value>
+					<value name="level_3" type="float">0.11</value>
+					<value name="level_4" type="float">0.11</value>
+					<value name="level_5" type="float">0.11</value>
+				</object>
+			</object>
+			<object name="Sniper">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">125</value>
+					<value name="level_1" type="float">140</value>
+					<value name="level_2" type="float">157</value>
+					<value name="level_3" type="float">176</value>
+					<value name="level_4" type="float">197</value>
+					<value name="level_5" type="float">220</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">150</value>
+					<value name="level_1" type="float">168</value>
+					<value name="level_2" type="float">188</value>
+					<value name="level_3" type="float">211</value>
+					<value name="level_4" type="float">236</value>
+					<value name="level_5" type="float">264</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">1.5</value>
+					<value name="level_1" type="float">1.4</value>
+					<value name="level_2" type="float">1.3</value>
+					<value name="level_3" type="float">1.2</value>
+					<value name="level_4" type="float">1.1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">125</value>
+					<value name="level_1" type="float">130</value>
+					<value name="level_2" type="float">135</value>
+					<value name="level_3" type="float">140</value>
+					<value name="level_4" type="float">145</value>
+					<value name="level_5" type="float">150</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">4</value>
+					<value name="level_1" type="float">5</value>
+					<value name="level_2" type="float">6</value>
+					<value name="level_3" type="float">7</value>
+					<value name="level_4" type="float">8</value>
+					<value name="level_5" type="float">9</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="V022-VHLMG_L">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0.75</value>
+					<value name="level_1" type="float">0.75</value>
+					<value name="level_2" type="float">0.75</value>
+					<value name="level_3" type="float">0.75</value>
+					<value name="level_4" type="float">0.75</value>
+					<value name="level_5" type="float">0.75</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">75</value>
+					<value name="level_1" type="float">75</value>
+					<value name="level_2" type="float">75</value>
+					<value name="level_3" type="float">75</value>
+					<value name="level_4" type="float">75</value>
+					<value name="level_5" type="float">75</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.1</value>
+					<value name="level_1" type="float">0.1</value>
+					<value name="level_2" type="float">0.1</value>
+					<value name="level_3" type="float">0.1</value>
+					<value name="level_4" type="float">0.1</value>
+					<value name="level_5" type="float">0.1</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">50</value>
+					<value name="level_1" type="float">50</value>
+					<value name="level_2" type="float">50</value>
+					<value name="level_3" type="float">50</value>
+					<value name="level_4" type="float">50</value>
+					<value name="level_5" type="float">50</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+			</object>
+			<object name="V022-VHLMG_R">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0.75</value>
+					<value name="level_1" type="float">0.75</value>
+					<value name="level_2" type="float">0.75</value>
+					<value name="level_3" type="float">0.75</value>
+					<value name="level_4" type="float">0.75</value>
+					<value name="level_5" type="float">0.75</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">75</value>
+					<value name="level_1" type="float">75</value>
+					<value name="level_2" type="float">75</value>
+					<value name="level_3" type="float">75</value>
+					<value name="level_4" type="float">75</value>
+					<value name="level_5" type="float">75</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.1</value>
+					<value name="level_1" type="float">0.1</value>
+					<value name="level_2" type="float">0.1</value>
+					<value name="level_3" type="float">0.1</value>
+					<value name="level_4" type="float">0.1</value>
+					<value name="level_5" type="float">0.1</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">50</value>
+					<value name="level_1" type="float">50</value>
+					<value name="level_2" type="float">50</value>
+					<value name="level_3" type="float">50</value>
+					<value name="level_4" type="float">50</value>
+					<value name="level_5" type="float">50</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+			</object>
+			<object name="V022-VHLRKT">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">750</value>
+					<value name="level_1" type="float">750</value>
+					<value name="level_2" type="float">750</value>
+					<value name="level_3" type="float">750</value>
+					<value name="level_4" type="float">750</value>
+					<value name="level_5" type="float">750</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">1500</value>
+					<value name="level_1" type="float">1500</value>
+					<value name="level_2" type="float">1500</value>
+					<value name="level_3" type="float">1500</value>
+					<value name="level_4" type="float">1500</value>
+					<value name="level_5" type="float">1500</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">2</value>
+					<value name="level_1" type="float">3</value>
+					<value name="level_2" type="float">4</value>
+					<value name="level_3" type="float">5</value>
+					<value name="level_4" type="float">6</value>
+					<value name="level_5" type="float">7</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="V023-VHLMG_L">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0.75</value>
+					<value name="level_1" type="float">0.75</value>
+					<value name="level_2" type="float">0.75</value>
+					<value name="level_3" type="float">0.75</value>
+					<value name="level_4" type="float">0.75</value>
+					<value name="level_5" type="float">0.75</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">75</value>
+					<value name="level_1" type="float">75</value>
+					<value name="level_2" type="float">75</value>
+					<value name="level_3" type="float">75</value>
+					<value name="level_4" type="float">75</value>
+					<value name="level_5" type="float">75</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.1</value>
+					<value name="level_1" type="float">0.1</value>
+					<value name="level_2" type="float">0.1</value>
+					<value name="level_3" type="float">0.1</value>
+					<value name="level_4" type="float">0.1</value>
+					<value name="level_5" type="float">0.1</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">50</value>
+					<value name="level_1" type="float">50</value>
+					<value name="level_2" type="float">50</value>
+					<value name="level_3" type="float">50</value>
+					<value name="level_4" type="float">50</value>
+					<value name="level_5" type="float">50</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+			</object>
+			<object name="V023-VHLMG_R">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0.75</value>
+					<value name="level_1" type="float">0.75</value>
+					<value name="level_2" type="float">0.75</value>
+					<value name="level_3" type="float">0.75</value>
+					<value name="level_4" type="float">0.75</value>
+					<value name="level_5" type="float">0.75</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">75</value>
+					<value name="level_1" type="float">75</value>
+					<value name="level_2" type="float">75</value>
+					<value name="level_3" type="float">75</value>
+					<value name="level_4" type="float">75</value>
+					<value name="level_5" type="float">75</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.1</value>
+					<value name="level_1" type="float">0.1</value>
+					<value name="level_2" type="float">0.1</value>
+					<value name="level_3" type="float">0.1</value>
+					<value name="level_4" type="float">0.1</value>
+					<value name="level_5" type="float">0.1</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">50</value>
+					<value name="level_1" type="float">50</value>
+					<value name="level_2" type="float">50</value>
+					<value name="level_3" type="float">50</value>
+					<value name="level_4" type="float">50</value>
+					<value name="level_5" type="float">50</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+			</object>
+			<object name="V023-VHLRKT">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">750</value>
+					<value name="level_1" type="float">750</value>
+					<value name="level_2" type="float">750</value>
+					<value name="level_3" type="float">750</value>
+					<value name="level_4" type="float">750</value>
+					<value name="level_5" type="float">750</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">1500</value>
+					<value name="level_1" type="float">1500</value>
+					<value name="level_2" type="float">1500</value>
+					<value name="level_3" type="float">1500</value>
+					<value name="level_4" type="float">1500</value>
+					<value name="level_5" type="float">1500</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">20</value>
+					<value name="level_1" type="float">30</value>
+					<value name="level_2" type="float">40</value>
+					<value name="level_3" type="float">50</value>
+					<value name="level_4" type="float">60</value>
+					<value name="level_5" type="float">70</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="V024-VHLMG_L">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">2.5</value>
+					<value name="level_1" type="float">2.5</value>
+					<value name="level_2" type="float">2.5</value>
+					<value name="level_3" type="float">2.5</value>
+					<value name="level_4" type="float">2.5</value>
+					<value name="level_5" type="float">2.5</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">75</value>
+					<value name="level_1" type="float">75</value>
+					<value name="level_2" type="float">75</value>
+					<value name="level_3" type="float">75</value>
+					<value name="level_4" type="float">75</value>
+					<value name="level_5" type="float">75</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.025</value>
+					<value name="level_1" type="float">0.025</value>
+					<value name="level_2" type="float">0.025</value>
+					<value name="level_3" type="float">0.025</value>
+					<value name="level_4" type="float">0.025</value>
+					<value name="level_5" type="float">0.025</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">50</value>
+					<value name="level_1" type="float">50</value>
+					<value name="level_2" type="float">50</value>
+					<value name="level_3" type="float">50</value>
+					<value name="level_4" type="float">50</value>
+					<value name="level_5" type="float">50</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">34</value>
+					<value name="level_1" type="float">40</value>
+					<value name="level_2" type="float">46</value>
+					<value name="level_3" type="float">52</value>
+					<value name="level_4" type="float">58</value>
+					<value name="level_5" type="float">64</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0.1</value>
+					<value name="level_1" type="float">0.1</value>
+					<value name="level_2" type="float">0.1</value>
+					<value name="level_3" type="float">0.1</value>
+					<value name="level_4" type="float">0.1</value>
+					<value name="level_5" type="float">0.1</value>
+				</object>
+			</object>
+			<object name="V024-VHLMG_R">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">2.5</value>
+					<value name="level_1" type="float">2.5</value>
+					<value name="level_2" type="float">2.5</value>
+					<value name="level_3" type="float">2.5</value>
+					<value name="level_4" type="float">2.5</value>
+					<value name="level_5" type="float">2.5</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">75</value>
+					<value name="level_1" type="float">75</value>
+					<value name="level_2" type="float">75</value>
+					<value name="level_3" type="float">75</value>
+					<value name="level_4" type="float">75</value>
+					<value name="level_5" type="float">75</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.025</value>
+					<value name="level_1" type="float">0.025</value>
+					<value name="level_2" type="float">0.025</value>
+					<value name="level_3" type="float">0.025</value>
+					<value name="level_4" type="float">0.025</value>
+					<value name="level_5" type="float">0.025</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">50</value>
+					<value name="level_1" type="float">50</value>
+					<value name="level_2" type="float">50</value>
+					<value name="level_3" type="float">50</value>
+					<value name="level_4" type="float">50</value>
+					<value name="level_5" type="float">50</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">34</value>
+					<value name="level_1" type="float">40</value>
+					<value name="level_2" type="float">46</value>
+					<value name="level_3" type="float">52</value>
+					<value name="level_4" type="float">58</value>
+					<value name="level_5" type="float">64</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0.1</value>
+					<value name="level_1" type="float">0.1</value>
+					<value name="level_2" type="float">0.1</value>
+					<value name="level_3" type="float">0.1</value>
+					<value name="level_4" type="float">0.1</value>
+					<value name="level_5" type="float">0.1</value>
+				</object>
+			</object>
+			<object name="V039-VHLGL_L">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">225</value>
+					<value name="level_1" type="float">250</value>
+					<value name="level_2" type="float">275</value>
+					<value name="level_3" type="float">300</value>
+					<value name="level_4" type="float">325</value>
+					<value name="level_5" type="float">350</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">225</value>
+					<value name="level_1" type="float">250</value>
+					<value name="level_2" type="float">275</value>
+					<value name="level_3" type="float">300</value>
+					<value name="level_4" type="float">325</value>
+					<value name="level_5" type="float">350</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.325</value>
+					<value name="level_1" type="float">0.305</value>
+					<value name="level_2" type="float">0.285</value>
+					<value name="level_3" type="float">0.265</value>
+					<value name="level_4" type="float">0.245</value>
+					<value name="level_5" type="float">0.225</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">500</value>
+					<value name="level_1" type="float">550</value>
+					<value name="level_2" type="float">600</value>
+					<value name="level_3" type="float">650</value>
+					<value name="level_4" type="float">700</value>
+					<value name="level_5" type="float">750</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">5</value>
+					<value name="level_1" type="float">6</value>
+					<value name="level_2" type="float">7</value>
+					<value name="level_3" type="float">8</value>
+					<value name="level_4" type="float">9</value>
+					<value name="level_5" type="float">10</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="V039-VHLGL_R">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">225</value>
+					<value name="level_1" type="float">250</value>
+					<value name="level_2" type="float">275</value>
+					<value name="level_3" type="float">300</value>
+					<value name="level_4" type="float">325</value>
+					<value name="level_5" type="float">350</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">225</value>
+					<value name="level_1" type="float">250</value>
+					<value name="level_2" type="float">275</value>
+					<value name="level_3" type="float">300</value>
+					<value name="level_4" type="float">325</value>
+					<value name="level_5" type="float">350</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.325</value>
+					<value name="level_1" type="float">0.305</value>
+					<value name="level_2" type="float">0.285</value>
+					<value name="level_3" type="float">0.265</value>
+					<value name="level_4" type="float">0.245</value>
+					<value name="level_5" type="float">0.225</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">500</value>
+					<value name="level_1" type="float">550</value>
+					<value name="level_2" type="float">600</value>
+					<value name="level_3" type="float">650</value>
+					<value name="level_4" type="float">700</value>
+					<value name="level_5" type="float">750</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">5</value>
+					<value name="level_1" type="float">6</value>
+					<value name="level_2" type="float">7</value>
+					<value name="level_3" type="float">8</value>
+					<value name="level_4" type="float">9</value>
+					<value name="level_5" type="float">10</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="V039-VHLMG">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0.75</value>
+					<value name="level_1" type="float">0.75</value>
+					<value name="level_2" type="float">0.75</value>
+					<value name="level_3" type="float">0.75</value>
+					<value name="level_4" type="float">0.75</value>
+					<value name="level_5" type="float">0.75</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">75</value>
+					<value name="level_1" type="float">75</value>
+					<value name="level_2" type="float">75</value>
+					<value name="level_3" type="float">75</value>
+					<value name="level_4" type="float">75</value>
+					<value name="level_5" type="float">75</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.1</value>
+					<value name="level_1" type="float">0.1</value>
+					<value name="level_2" type="float">0.1</value>
+					<value name="level_3" type="float">0.1</value>
+					<value name="level_4" type="float">0.1</value>
+					<value name="level_5" type="float">0.1</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">50</value>
+					<value name="level_1" type="float">50</value>
+					<value name="level_2" type="float">50</value>
+					<value name="level_3" type="float">50</value>
+					<value name="level_4" type="float">50</value>
+					<value name="level_5" type="float">50</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+			</object>
+			<object name="V059_MG">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0.55</value>
+					<value name="level_1" type="float">0.55</value>
+					<value name="level_2" type="float">0.55</value>
+					<value name="level_3" type="float">0.55</value>
+					<value name="level_4" type="float">0.55</value>
+					<value name="level_5" type="float">0.55</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">150</value>
+					<value name="level_1" type="float">150</value>
+					<value name="level_2" type="float">150</value>
+					<value name="level_3" type="float">150</value>
+					<value name="level_4" type="float">150</value>
+					<value name="level_5" type="float">150</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">150</value>
+					<value name="level_1" type="float">150</value>
+					<value name="level_2" type="float">150</value>
+					<value name="level_3" type="float">150</value>
+					<value name="level_4" type="float">150</value>
+					<value name="level_5" type="float">150</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.05</value>
+					<value name="level_1" type="float">0.05</value>
+					<value name="level_2" type="float">0.05</value>
+					<value name="level_3" type="float">0.05</value>
+					<value name="level_4" type="float">0.05</value>
+					<value name="level_5" type="float">0.05</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">50</value>
+					<value name="level_1" type="float">50</value>
+					<value name="level_2" type="float">50</value>
+					<value name="level_3" type="float">50</value>
+					<value name="level_4" type="float">50</value>
+					<value name="level_5" type="float">50</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+			</object>
+			<object name="V089-VHLMG_L">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0.75</value>
+					<value name="level_1" type="float">0.75</value>
+					<value name="level_2" type="float">0.75</value>
+					<value name="level_3" type="float">0.75</value>
+					<value name="level_4" type="float">0.75</value>
+					<value name="level_5" type="float">0.75</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">75</value>
+					<value name="level_1" type="float">75</value>
+					<value name="level_2" type="float">75</value>
+					<value name="level_3" type="float">75</value>
+					<value name="level_4" type="float">75</value>
+					<value name="level_5" type="float">75</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.1</value>
+					<value name="level_1" type="float">0.1</value>
+					<value name="level_2" type="float">0.1</value>
+					<value name="level_3" type="float">0.1</value>
+					<value name="level_4" type="float">0.1</value>
+					<value name="level_5" type="float">0.1</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">50</value>
+					<value name="level_1" type="float">50</value>
+					<value name="level_2" type="float">50</value>
+					<value name="level_3" type="float">50</value>
+					<value name="level_4" type="float">50</value>
+					<value name="level_5" type="float">50</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+			</object>
+			<object name="V089-VHLMG_R">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0.75</value>
+					<value name="level_1" type="float">0.75</value>
+					<value name="level_2" type="float">0.75</value>
+					<value name="level_3" type="float">0.75</value>
+					<value name="level_4" type="float">0.75</value>
+					<value name="level_5" type="float">0.75</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">75</value>
+					<value name="level_1" type="float">75</value>
+					<value name="level_2" type="float">75</value>
+					<value name="level_3" type="float">75</value>
+					<value name="level_4" type="float">75</value>
+					<value name="level_5" type="float">75</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.1</value>
+					<value name="level_1" type="float">0.1</value>
+					<value name="level_2" type="float">0.1</value>
+					<value name="level_3" type="float">0.1</value>
+					<value name="level_4" type="float">0.1</value>
+					<value name="level_5" type="float">0.1</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">50</value>
+					<value name="level_1" type="float">50</value>
+					<value name="level_2" type="float">50</value>
+					<value name="level_3" type="float">50</value>
+					<value name="level_4" type="float">50</value>
+					<value name="level_5" type="float">50</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">1000</value>
+					<value name="level_1" type="float">1000</value>
+					<value name="level_2" type="float">1000</value>
+					<value name="level_3" type="float">1000</value>
+					<value name="level_4" type="float">1000</value>
+					<value name="level_5" type="float">1000</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+			</object>
+			<object name="V089-VHLRKT">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">750</value>
+					<value name="level_1" type="float">750</value>
+					<value name="level_2" type="float">750</value>
+					<value name="level_3" type="float">750</value>
+					<value name="level_4" type="float">750</value>
+					<value name="level_5" type="float">750</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">1</value>
+					<value name="level_1" type="float">1</value>
+					<value name="level_2" type="float">1</value>
+					<value name="level_3" type="float">1</value>
+					<value name="level_4" type="float">1</value>
+					<value name="level_5" type="float">1</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">1500</value>
+					<value name="level_1" type="float">1500</value>
+					<value name="level_2" type="float">1500</value>
+					<value name="level_3" type="float">1500</value>
+					<value name="level_4" type="float">1500</value>
+					<value name="level_5" type="float">1500</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">2</value>
+					<value name="level_1" type="float">3</value>
+					<value name="level_2" type="float">4</value>
+					<value name="level_3" type="float">5</value>
+					<value name="level_4" type="float">6</value>
+					<value name="level_5" type="float">7</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+			<object name="Vulcan">
+				<object id="6A1FB54C">
+					<value name="level_0" type="float">4</value>
+					<value name="level_1" type="float">3.5</value>
+					<value name="level_2" type="float">3</value>
+					<value name="level_3" type="float">2.5</value>
+					<value name="level_4" type="float">2</value>
+					<value name="level_5" type="float">1.5</value>
+				</object>
+				<object name="damage">
+					<value name="level_0" type="float">80</value>
+					<value name="level_1" type="float">80</value>
+					<value name="level_2" type="float">80</value>
+					<value name="level_3" type="float">80</value>
+					<value name="level_4" type="float">80</value>
+					<value name="level_5" type="float">80</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="firerate">
+					<value name="level_0" type="float">0.01</value>
+					<value name="level_1" type="float">0.01</value>
+					<value name="level_2" type="float">0.01</value>
+					<value name="level_3" type="float">0.01</value>
+					<value name="level_4" type="float">0.01</value>
+					<value name="level_5" type="float">0.01</value>
+				</object>
+				<object name="impulse">
+					<value name="level_0" type="float">60</value>
+					<value name="level_1" type="float">60</value>
+					<value name="level_2" type="float">60</value>
+					<value name="level_3" type="float">60</value>
+					<value name="level_4" type="float">60</value>
+					<value name="level_5" type="float">60</value>
+				</object>
+				<object name="magazinesize">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+				<object name="stability">
+					<value name="level_0" type="float">0</value>
+					<value name="level_1" type="float">0</value>
+					<value name="level_2" type="float">0</value>
+					<value name="level_3" type="float">0</value>
+					<value name="level_4" type="float">0</value>
+					<value name="level_5" type="float">0</value>
+				</object>
+			</object>
+		</object>
+	</object>
+</root>

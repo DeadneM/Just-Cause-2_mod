@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object name="vehicles">
+			<object name="vehicle_1">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">2</value>
+				<value name="chaos" type="int">1</value>
+				<value name="description" type="string">dlc_name_txt_11</value>
+				<value name="entity" type="string">lave.v999_dlc-monstertruck.ee</value>
+				<value name="id" type="int">11</value>
+				<value name="item_id" type="string">v999</value>
+				<value name="name" type="string">dlc_name_txt_11</value>
+				<value name="parameter_0" type="vec2">75,75</value>
+				<value name="parameter_1" type="vec2">60,60</value>
+				<value name="parameter_2" type="vec2">50,50</value>
+				<value name="parameter_3" type="vec2">50,50</value>
+				<value name="price" type="int">750</value>
+				<value name="type" type="int">1</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_monster.dds</value>
+				</object>
+			</object>
+		</object>
+		<object name="weapons" />
+	</object>
+</root>
