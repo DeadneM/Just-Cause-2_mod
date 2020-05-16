@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object id="7F245B02">
+			<object id="0D038313">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">50</value>
+				<value id="C5E74756" type="float">40</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value id="E6A2043F" type="string">CIVILIAN_NPC_KILLED_BY_PLAYER</value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="1463C544">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="268CF8CE">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">50</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="2C6EAFCA">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">50</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="321DEED6">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">25</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value id="E6A2043F" type="string">CIVILIAN_VEHICLE_HIT_BY_VEHICLE</value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="355DF81D">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value id="E6A2043F" type="string">CIVILIAN_PLAYER_ON_VEHICLE</value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="3EB61980">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">20</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="4075C8B0">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">25</value>
+				<value id="C5E74756" type="float">30</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">2</value>
+			</object>
+			<object id="50E6844A">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">1</value>
+				<value id="AF48444D" type="int">50</value>
+				<value id="C5E74756" type="float">50</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value id="E6A2043F" type="string">CIVILIAN_EXPLOSION_TRIGGERED_BY_PLAYER</value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="55B0626F">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">1</value>
+			</object>
+			<object id="5AAF7C23">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">20</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="5AFE914F">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">50</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="965039E1">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">1</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="96A83491">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">100</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">1</value>
+			</object>
+			<object id="B2D2F1ED">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">1</value>
+			</object>
+			<object id="C433A5FD">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">1</value>
+				<value id="AF48444D" type="int">30</value>
+				<value id="C5E74756" type="float">70</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value id="E6A2043F" type="string">CIVILIAN_SHOTS_FIRED</value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="D249E946">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">25</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="FB08A449">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">25</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value id="E6A2043F" type="string">CIVILIAN_STOLE_MY_VEHICLE</value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+		</object>
+		<object id="8C4886F1">
+			<object id="0D038313">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">100</value>
+				<value id="C5E74756" type="float">100</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value id="E6A2043F" type="string">CIVILIAN_NPC_KILLED_BY_PLAYER</value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="268CF8CE">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">0</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="2C6EAFCA">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">0</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="321DEED6">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">0</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value id="E6A2043F" type="string">CIVILIAN_VEHICLE_HIT_BY_VEHICLE</value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="355DF81D">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">0</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value id="E6A2043F" type="string">CIVILIAN_PLAYER_ON_VEHICLE</value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="3EB61980">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">0</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="4075C8B0">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">0</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">2</value>
+			</object>
+			<object id="50E6844A">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">0</value>
+				<value id="8164A165" type="int">1</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">50</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value id="E6A2043F" type="string">CIVILIAN_EXPLOSION_TRIGGERED_BY_PLAYER</value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="5AAF7C23">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">0</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="5AFE914F">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">0</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="965039E1">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">0</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="96A83491">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">100</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">100</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">1</value>
+			</object>
+			<object id="B2D2F1ED">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">0</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">1</value>
+			</object>
+			<object id="C433A5FD">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">0</value>
+				<value id="8164A165" type="int">1</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">70</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value id="E6A2043F" type="string">CIVILIAN_SHOTS_FIRED</value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="D249E946">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">0</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+			<object id="FB08A449">
+				<value id="46CF0430" type="string"></value>
+				<value id="4B6D962E" type="int">0</value>
+				<value id="8164A165" type="int">0</value>
+				<value id="AF48444D" type="int">0</value>
+				<value id="C5E74756" type="float">0</value>
+				<value id="D5C5CDFB" type="string"></value>
+				<value id="E6A2043F" type="string">CIVILIAN_STOLE_MY_VEHICLE</value>
+				<value name="Delay" type="float">0.5</value>
+			</object>
+		</object>
+		<object id="F16AB128">
+			<value id="0C696881" type="float">5</value>
+			<value id="14E6141A" type="float">2</value>
+			<value id="1E0E90E0" type="float">2.5</value>
+			<value id="5FCA5910" type="int">1</value>
+			<value id="67098E8F" type="float">120</value>
+			<value id="6E4E7DA7" type="float">73</value>
+			<value id="9825A437" type="float">5</value>
+		</object>
+	</object>
+</root>

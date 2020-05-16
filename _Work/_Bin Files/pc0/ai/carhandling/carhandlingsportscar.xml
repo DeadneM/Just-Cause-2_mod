@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object id="B357A898">
+			<value id="0A4B1A83" type="float">0</value>
+			<value id="13A47625" type="float">0</value>
+			<value id="13CC3196" type="float">0</value>
+			<value id="21E99978" type="float">0</value>
+			<value id="2D21C8EE" type="float">0</value>
+			<value id="2E62E815" type="float">0</value>
+			<value id="3556B575" type="float">0</value>
+			<value id="395041C7" type="float">0</value>
+			<value id="74FCA306" type="float">0</value>
+			<value id="90ABFA1D" type="float">0</value>
+			<value id="96217187" type="float">0</value>
+			<value id="9F2E0D1F" type="float">0</value>
+			<value id="AC651370" type="float">0</value>
+			<value id="B2DB08C7" type="float">0</value>
+			<value id="BA2D7885" type="float">0</value>
+			<value id="C2BB2BB8" type="float">0</value>
+			<value id="D5A7808D" type="float">0</value>
+			<value id="E5FBB93B" type="float">0</value>
+			<value id="E6F29771" type="float">0</value>
+			<value id="E87474B3" type="float">0</value>
+			<value id="EADCD1A2" type="float">0</value>
+		</object>
+		<object id="E5812A28">
+			<value id="0A4B1A83" type="float">0</value>
+			<value id="13A47625" type="float">0</value>
+			<value id="13CC3196" type="float">0</value>
+			<value id="21E99978" type="float">0</value>
+			<value id="2D21C8EE" type="float">0</value>
+			<value id="2E62E815" type="float">0</value>
+			<value id="3556B575" type="float">0</value>
+			<value id="395041C7" type="float">0</value>
+			<value id="74FCA306" type="float">0</value>
+			<value id="90ABFA1D" type="float">0</value>
+			<value id="96217187" type="float">0</value>
+			<value id="9F2E0D1F" type="float">0</value>
+			<value id="AC651370" type="float">0</value>
+			<value id="B2DB08C7" type="float">0</value>
+			<value id="BA2D7885" type="float">0</value>
+			<value id="C2BB2BB8" type="float">0</value>
+			<value id="D5A7808D" type="float">0</value>
+			<value id="E5FBB93B" type="float">0</value>
+			<value id="E6F29771" type="float">0</value>
+			<value id="E87474B3" type="float">0</value>
+			<value id="EADCD1A2" type="float">0</value>
+		</object>
+		<object id="EF307CF2">
+			<value id="0A4B1A83" type="float">0</value>
+			<value id="13A47625" type="float">0</value>
+			<value id="13CC3196" type="float">0</value>
+			<value id="21E99978" type="float">0</value>
+			<value id="2D21C8EE" type="float">0</value>
+			<value id="2E62E815" type="float">0</value>
+			<value id="3556B575" type="float">0</value>
+			<value id="395041C7" type="float">0</value>
+			<value id="74FCA306" type="float">0</value>
+			<value id="90ABFA1D" type="float">0</value>
+			<value id="96217187" type="float">0</value>
+			<value id="9F2E0D1F" type="float">0</value>
+			<value id="AC651370" type="float">0</value>
+			<value id="B2DB08C7" type="float">0</value>
+			<value id="BA2D7885" type="float">0</value>
+			<value id="C2BB2BB8" type="float">0</value>
+			<value id="D5A7808D" type="float">0</value>
+			<value id="E5FBB93B" type="float">0</value>
+			<value id="E6F29771" type="float">0</value>
+			<value id="E87474B3" type="float">0</value>
+			<value id="EADCD1A2" type="float">0</value>
+		</object>
+		<object name="General">
+			<value id="51913459" type="float">2</value>
+			<value id="55798669" type="float">1</value>
+		</object>
+	</object>
+</root>

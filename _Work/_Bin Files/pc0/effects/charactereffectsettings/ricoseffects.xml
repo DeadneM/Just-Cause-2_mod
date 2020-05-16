@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object name="effect_settings">
+			<value name="number_of_effects" type="int">6</value>
+			<object id="2950B680">
+				<value id="0C95B065" type="int">1</value>
+				<value id="3004E6E9" type="int">1</value>
+				<value id="F4607B30" type="int">1</value>
+				<value name="attached_to_bone" type="string">RightFoot</value>
+				<value name="effect_id" type="int">267</value>
+				<value name="offset_mat" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				<value name="start_event" type="string">fx_wall_dust</value>
+				<value name="stop_event" type="string"></value>
+				<value name="uid" type="int">3</value>
+			</object>
+			<object id="2B10BD1E">
+				<value name="attached_to_bone" type="string">AttachHandLeft</value>
+				<value name="effect_id" type="int">11</value>
+				<value name="offset_mat" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				<value name="start_event" type="string">grapplefire</value>
+				<value name="uid" type="int">7</value>
+			</object>
+			<object id="A797991C">
+				<value name="attached_to_bone" type="string">AttachHandLeft</value>
+				<value name="effect_id" type="int">358</value>
+				<value name="offset_mat" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				<value name="start_event" type="string">snd_melee_attack</value>
+				<value name="uid" type="int">8</value>
+			</object>
+			<object name="character_fall_small">
+				<value id="0C95B065" type="int">1</value>
+				<value id="3004E6E9" type="int">1</value>
+				<value id="F4607B30" type="int">0</value>
+				<value name="attached_to_bone" type="string">RightFoot</value>
+				<value name="effect_id" type="int">94</value>
+				<value name="offset_mat" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				<value name="start_event" type="string">character_fall_small</value>
+				<value name="stop_event" type="string"></value>
+				<value name="uid" type="int">2</value>
+			</object>
+			<object name="rumble_and_shake_large">
+				<value name="effect_id" type="int">207</value>
+				<value name="start_event" type="string">rumble_and_shake_large</value>
+				<value name="uid" type="int">6</value>
+			</object>
+			<object name="rumble_and_shake_light">
+				<value name="effect_id" type="int">205</value>
+				<value name="start_event" type="string">rumble_and_shake_light</value>
+				<value name="uid" type="int">4</value>
+			</object>
+			<object name="rumble_and_shake_medium">
+				<value name="effect_id" type="int">206</value>
+				<value name="start_event" type="string">rumble_and_shake_medium</value>
+				<value name="uid" type="int">5</value>
+			</object>
+		</object>
+	</object>
+</root>

@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<value id="02EA20F5" type="float">0.3</value>
+		<value id="03841CE5" type="float">12</value>
+		<value id="05AE500F" type="int">1</value>
+		<value id="06173B87" type="float">5</value>
+		<value id="06EDF792" type="float">14</value>
+		<value id="09518C76" type="float">-0.1</value>
+		<value id="0B669C9E" type="float">8</value>
+		<value id="0B989D5C" type="float">12</value>
+		<value id="0D2455CD" type="float">13</value>
+		<value id="0E18C0F8" type="float">4</value>
+		<value id="0E3375BB" type="float">1</value>
+		<value id="10EB4E78" type="float">10</value>
+		<value id="11465D9D" type="float">75</value>
+		<value id="11D69166" type="float">10</value>
+		<value id="125CEDA0" type="float">100</value>
+		<value id="127F2BA5" type="float">197</value>
+		<value id="1427CB5A" type="float">1</value>
+		<value id="1444A262" type="float">0.25</value>
+		<value id="1525BCC4" type="float">10</value>
+		<value id="19926587" type="float">25</value>
+		<value id="1C7D6B4A" type="float">15</value>
+		<value id="1D28846F" type="float">15</value>
+		<value id="1D3EE92F" type="float">20</value>
+		<value id="1E0C5FE6" type="float">0.55</value>
+		<value id="1F50D26E" type="float">5</value>
+		<value id="2191FC0E" type="float">3</value>
+		<value id="22811B78" type="float">0.5</value>
+		<value id="241DFD78" type="float">0.1</value>
+		<value id="26643798" type="float">85</value>
+		<value id="277D56BC" type="float">10</value>
+		<value id="28CAD36E" type="float">175</value>
+		<value id="28E28D44" type="int">1</value>
+		<value id="2B1016A3" type="float">2.5</value>
+		<value id="2B14FF7C" type="float">3990</value>
+		<value id="2B8B87B5" type="float">4000</value>
+		<value id="2EF7BCCD" type="int">356</value>
+		<value id="2FC936A0" type="float">2</value>
+		<value id="30A44647" type="float">60</value>
+		<value id="34A3123A" type="float">0.1</value>
+		<value id="36E97CE7" type="float">7.5</value>
+		<value id="37E2A06B" type="int">10000</value>
+		<value id="39AF400B" type="float">0.5</value>
+		<value id="3A89775A" type="float">4</value>
+		<value id="3B81DAD5" type="float">8</value>
+		<value id="3C25BD18" type="float">80</value>
+		<value id="3E834FCE" type="float">20</value>
+		<value id="403BC25A" type="float">200</value>
+		<value id="425C2727" type="float">1</value>
+		<value id="44AF3A34" type="float">10</value>
+		<value id="45406224" type="float">1</value>
+		<value id="45FB0E53" type="float">5</value>
+		<value id="4621E006" type="float">1.5</value>
+		<value id="46BF5CE7" type="float">10</value>
+		<value id="47662732" type="float">0</value>
+		<value id="48A9F4BF" type="float">4</value>
+		<value id="4B635993" type="int">250</value>
+		<value id="4B712244" type="float">199.5</value>
+		<value id="4D9C2B66" type="float">50</value>
+		<value id="4DBC14FF" type="float">4</value>
+		<value id="4DBF7C0A" type="float">1</value>
+		<value id="50184F3E" type="float">5</value>
+		<value id="52A93170" type="float">7000</value>
+		<value id="53EA01E2" type="float">75</value>
+		<value id="5412D659" type="float">2</value>
+		<value id="55501CA0" type="int">0</value>
+		<value id="56D8D461" type="float">5</value>
+		<value id="57BBEAD4" type="float">45</value>
+		<value id="57EC15FC" type="float">4</value>
+		<value id="584B07E4" type="float">2</value>
+		<value id="5A871044" type="float">5</value>
+		<value id="5B05BED1" type="float">1</value>
+		<value id="5B5A9020" type="float">6</value>
+		<value id="5DFDE42D" type="float">1</value>
+		<value id="61558D7A" type="float">0.5</value>
+		<value id="615F40CF" type="float">5</value>
+		<value id="62751942" type="float">12</value>
+		<value id="628BF08F" type="float">20</value>
+		<value id="635CD909" type="float">17</value>
+		<value id="645C596F" type="float">2</value>
+		<value id="664A7715" type="int">10</value>
+		<value id="666A9AC8" type="float">40</value>
+		<value id="6CF3111B" type="float">5</value>
+		<value id="7072E763" type="float">100</value>
+		<value id="718E5F46" type="int">2</value>
+		<value id="7192490B" type="float">8</value>
+		<value id="71B13E23" type="float">15</value>
+		<value id="753BD441" type="float">5</value>
+		<value id="762C6812" type="float">5</value>
+		<value id="77B055A0" type="float">2.5</value>
+		<value id="789A178D" type="float">0.5</value>
+		<value id="7945F76D" type="float">20</value>
+		<value id="7ADEE211" type="float">2</value>
+		<value id="7C41E236" type="float">1</value>
+		<value id="7D82F2C1" type="float">1.5</value>
+		<value id="7D9B6A03" type="float">0.5</value>
+		<value id="7EA6FBDB" type="float">0.5</value>
+		<value id="8124DB3D" type="float">3.5</value>
+		<value id="821EFE44" type="float">1</value>
+		<value id="822D40F7" type="int">251</value>
+		<value id="8271BE53" type="int">0</value>
+		<value id="82DAD6AB" type="float">3.5</value>
+		<value id="830DA282" type="float">10</value>
+		<value id="838B21B7" type="float">8</value>
+		<value id="845B396E" type="float">2</value>
+		<value id="84927A07" type="float">50</value>
+		<value id="86221B0A" type="float">-0.25</value>
+		<value id="86CCD324" type="float">8</value>
+		<value id="8BA2AEB1" type="float">8</value>
+		<value id="8D30FDC9" type="float">0.01</value>
+		<value id="91634A74" type="float">2</value>
+		<value id="91FAEF79" type="float">10</value>
+		<value id="92E9B13A" type="float">0.5</value>
+		<value id="94030729" type="float">10</value>
+		<value id="951AEE3D" type="float">5</value>
+		<value id="9957A41F" type="float">20</value>
+		<value id="99FB31B0" type="float">15</value>
+		<value id="9A55E6C1" type="float">0.91</value>
+		<value id="9BF8A9E3" type="float">35</value>
+		<value id="9C0281B5" type="float">10</value>
+		<value id="A0E0499D" type="float">2</value>
+		<value id="A42FFFAB" type="float">0.2</value>
+		<value id="A4C7BFDA" type="float">50</value>
+		<value id="A523A523" type="float">7</value>
+		<value id="A5D7FB6D" type="float">0.35</value>
+		<value id="A9B0B813" type="int">403</value>
+		<value id="AA4E09B1" type="float">1</value>
+		<value id="AC87B95D" type="float">8</value>
+		<value id="ADBFA5BC" type="float">150</value>
+		<value id="B717E99D" type="float">20</value>
+		<value id="B85F6535" type="float">35</value>
+		<value id="B87DF0F6" type="float">-0.5</value>
+		<value id="B89ED6DE" type="int">2</value>
+		<value id="B8C79A23" type="float">2</value>
+		<value id="BADE1CFC" type="float">100</value>
+		<value id="BC36A256" type="float">3</value>
+		<value id="BD8B2260" type="float">1500</value>
+		<value id="BFBD5CBC" type="float">7</value>
+		<value id="BFE8FE62" type="float">3</value>
+		<value id="C4A4E00D" type="float">5</value>
+		<value id="C59320E2" type="float">10</value>
+		<value id="C5E47548" type="float">75</value>
+		<value id="C88C039A" type="float">2</value>
+		<value id="C8903258" type="float">8</value>
+		<value id="C9A8AAA6" type="float">0.6</value>
+		<value id="CB369B9E" type="int">1</value>
+		<value id="CB77B863" type="float">0.3</value>
+		<value id="CEA5F5DA" type="float">6</value>
+		<value id="D492F14F" type="float">0.5</value>
+		<value id="D5EAF891" type="float">15</value>
+		<value id="D7CF831E" type="float">45</value>
+		<value id="D7FE315A" type="float">4</value>
+		<value id="DB8EBDD1" type="float">3</value>
+		<value id="DDC00B94" type="float">30</value>
+		<value id="DF9042D0" type="float">8</value>
+		<value id="E21A89A4" type="float">13</value>
+		<value id="E44DB661" type="float">0.8</value>
+		<value id="E4B99004" type="float">1.5</value>
+		<value id="E5328801" type="float">4</value>
+		<value id="E6032851" type="float">3</value>
+		<value id="E8FEEA08" type="float">50</value>
+		<value id="EA3E27C7" type="int">280</value>
+		<value id="EA582ADC" type="float">2</value>
+		<value id="EBDE0982" type="float">18</value>
+		<value id="EE767C74" type="float">125</value>
+		<value id="EEC76765" type="float">0.3</value>
+		<value id="EF8AF9B9" type="float">4</value>
+		<value id="F10DA28D" type="float">15</value>
+		<value id="F1E4D9BA" type="float">50</value>
+		<value id="F4EF1D80" type="float">10</value>
+		<value id="F5AF109A" type="float">0.5</value>
+		<value id="F8D7DE91" type="float">0.6</value>
+		<value id="F9E07114" type="float">5</value>
+		<value id="FA909C9B" type="float">10</value>
+		<value id="FB5DC1DA" type="float">3</value>
+		<value id="FC703F48" type="float">50</value>
+		<value id="FE74EAD2" type="int">1</value>
+		<value id="FF4A27F0" type="float">55</value>
+		<value name="HitReaction_ExplosionImpulseMultiplier" type="float">1</value>
+		<value name="HitReaction_ExtremeImpactForce" type="float">150</value>
+		<value name="HitReaction_ExtremeImpactMultiplier" type="float">2</value>
+		<value name="HitReaction_ImpactForceDecaySpeed" type="float">1000</value>
+		<value name="HitReaction_MajorImpactForce" type="float">1</value>
+		<value name="HitReaction_MajorImpactMultiplier" type="float">1</value>
+		<value name="HitReaction_MaxImpactForce" type="float">1000</value>
+		<value name="HitReaction_MinorImpactMultiplier" type="float">1</value>
+		<value name="HitReaction_StuntFallOffImpactForce" type="float">100</value>
+		<value name="ImpactDamageFactor" type="float">20</value>
+		<value name="ImpactDamageThreshold" type="float">10</value>
+		<object id="2244891A">
+			<value id="054FC7F0" type="float">65</value>
+			<value id="0DB48784" type="float">5</value>
+			<value id="19BB0CC8" type="float">3</value>
+			<value id="3CB3A61D" type="float">6</value>
+			<value id="3D9A965C" type="float">5</value>
+			<value id="549D5320" type="float">70</value>
+			<value id="6045F91A" type="float">2</value>
+			<value id="66C9BB6E" type="float">2</value>
+			<value id="6A610A2C" type="float">0.25</value>
+			<value id="6D2579DA" type="float">0</value>
+			<value id="7B2DD80E" type="float">10</value>
+			<value id="974672D8" type="float">125</value>
+			<value id="975B0ADB" type="float">1</value>
+			<value id="9CDA23BC" type="float">5</value>
+			<value id="B270486E" type="float">10</value>
+			<value id="B320B122" type="float">4</value>
+			<value id="B9030023" type="float">30</value>
+			<value id="DE7BB0B3" type="float">5</value>
+			<value id="E60C81D6" type="int">0</value>
+			<value id="F9409535" type="float">4</value>
+		</object>
+		<object id="36555BC8">
+			<value id="06983997" type="string">CarHandlingCivilian</value>
+			<value id="5F89C46B" type="string">CarHandlingCombat</value>
+			<value id="9DF14294" type="string">CarHandlingSportsCar</value>
+			<value id="BD1F4077" type="string">CarHandlingRoaming</value>
+			<value name="Default" type="string">CarHandlingDefault</value>
+		</object>
+		<object id="4239CAE6">
+			<value id="0DB20924" type="float">8</value>
+			<value id="5AF8B77C" type="float">-1.1</value>
+			<value id="961EA953" type="float">0.25</value>
+			<value id="A4F8733E" type="float">4</value>
+			<value id="D3D10F27" type="float">4</value>
+		</object>
+		<object id="7B8FF985">
+			<object id="95A7AA14">
+				<object id="20151664">
+					<value id="0258E506" type="float">1</value>
+					<value id="1E3915A6" type="float">2</value>
+					<value id="9EA28F75" type="float">3</value>
+				</object>
+				<object id="E046D429">
+					<value id="0258E506" type="float">1</value>
+					<value id="1E3915A6" type="float">2</value>
+					<value id="9EA28F75" type="float">0</value>
+				</object>
+			</object>
+		</object>
+		<object id="9264208F">
+			<value id="A84B9B40" type="float">40</value>
+		</object>
+		<object id="BB030BE8">
+			<value id="45938742" type="float">-1</value>
+			<value id="E3FB416B" type="float">1</value>
+		</object>
+		<object id="FAFA7110">
+			<value id="44492757" type="float">45</value>
+			<value id="6AC81465" type="float">90</value>
+		</object>
+	</object>
+</root>

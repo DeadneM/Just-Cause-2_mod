@@ -1,0 +1,840 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="Raw" endian="Little">
+	<object>
+		<object name="spawn_settings">
+			<object name="debug_menu">
+				<object name="arve">
+					<object id="0008B43F">
+						<value name="entity" type="string">Exported\Vehicles\ARVE\ARVE.V009_Civil_Helicopter_2.ee</value>
+					</object>
+					<object id="0669B6A6">
+						<value name="entity" type="string">Exported\Vehicles\ARVE\ARVE.V010_Personal_Propellerplane.ee</value>
+					</object>
+					<object id="1926F3CC">
+						<value name="entity" type="string">Exported\Vehicles\ARVE\ARVE.V067_Speedplane.ee</value>
+						<value id="1973DA22" type="string">WeaponUpgrade0</value>
+						<value id="65BFDE31" type="string">WeaponUpgrade1</value>
+						<value id="D3560DF7" type="string">FullyUpgraded</value>
+						<value id="F47C9C7C" type="string">Default</value>
+					</object>
+					<object id="28910EAC">
+						<value name="entity" type="string">Exported\Vehicles\ARVE\ARVE.V073_DLC_Jet.ee</value>
+					</object>
+					<object id="2A088A9D">
+						<value name="entity" type="string">Exported\Vehicles\ARVE\ARVE.V061_AttackHeli.ee</value>
+						<value id="1973DA22" type="string">WeaponUpgrade0</value>
+						<value id="22B14411" type="string">Mission</value>
+						<value id="65BFDE31" type="string">WeaponUpgrade1</value>
+						<value id="D3560DF7" type="string">FullyUpgraded</value>
+						<value id="F47C9C7C" type="string">Default</value>
+					</object>
+					<object id="37F6342D">
+						<value name="entity" type="string">Exported\Vehicles\ARVE\ARVE.V062_Chopper.ee</value>
+					</object>
+					<object id="4CB688C8">
+						<value name="entity" type="string">Exported\Vehicles\ARVE\ARVE.V064_Personal_Jet.ee</value>
+					</object>
+					<object id="763843C9">
+						<value name="entity" type="string">Exported\Vehicles\ARVE\ARVE.V072_Cargo_Plane.ee</value>
+					</object>
+					<object id="8C44BB41">
+						<value name="entity" type="string">Exported\Vehicles\ARVE\ARVE.V009_Military_Helicopter.ee</value>
+						<value id="1973DA22" type="string">Armed</value>
+						<value id="65BFDE31" type="string">UnArmed</value>
+						<value id="F47C9C7C" type="string">Dome</value>
+					</object>
+					<object id="932A7E0E">
+						<value name="entity" type="string">Exported\Vehicles\ARVE\ARVE.V061_BlackMarket.ee</value>
+						<value id="1973DA22" type="string">WeaponUpgrade0</value>
+						<value id="22B14411" type="string">Mission</value>
+						<value id="65BFDE31" type="string">WeaponUpgrade1</value>
+						<value id="D3560DF7" type="string">FullyUpgraded</value>
+						<value id="F47C9C7C" type="string">Default</value>
+					</object>
+					<object id="9592A5B5">
+						<value name="entity" type="string">Exported\Vehicles\ARVE\ARVE.V071_Jet_Fighter.ee</value>
+					</object>
+					<object id="9C9DC99F">
+						<value name="entity" type="string">Exported\Vehicles\ARVE\ARVE.V009_Civil_Helicopter.ee</value>
+					</object>
+					<object id="A5690BFE">
+						<value name="entity" type="string">Exported\Vehicles\ARVE\ARVE.V059_Civilian_Helicopter.ee</value>
+						<value id="1973DA22" type="string">WeaponUpgrade0</value>
+						<value id="22B14411" type="string">Mission</value>
+						<value id="65BFDE31" type="string">WeaponUpgrade1</value>
+						<value id="D3560DF7" type="string">FullyUpgraded</value>
+						<value id="F47C9C7C" type="string">Default</value>
+					</object>
+					<object id="CCF31B1B">
+						<value name="entity" type="string">Exported\Vehicles\ARVE\ARVE.V076_Jet_Blackplane.ee</value>
+					</object>
+					<object id="E4E63064">
+						<value name="entity" type="string">Exported\Vehicles\ARVE\ARVE.V060_AttackHeli.ee</value>
+					</object>
+				</object>
+				<object name="lave">
+					<object id="034AC82A">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V028_Luxuary_Sportcar.ee</value>
+						<value id="1973DA22" type="string">Cab</value>
+						<value id="65BFDE31" type="string">Hardtop</value>
+					</object>
+					<object id="05566018">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V007_Heavy.ee</value>
+					</object>
+					<object id="17B572E9">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V025_SportCar.ee</value>
+						<value id="1973DA22" type="string">Cab</value>
+						<value id="65BFDE31" type="string">Hardtop</value>
+						<value id="F47C9C7C" type="string">Softtop</value>
+					</object>
+					<object id="222E855E">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V004_Truck_Buss.ee</value>
+					</object>
+					<object id="26B6E6C4">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V056_ATV_World.ee</value>
+						<value id="1973DA22" type="string">Sport</value>
+						<value id="65BFDE31" type="string">Civil</value>
+						<value id="F47C9C7C" type="string">Gimp</value>
+					</object>
+					<object id="26DC6B23">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V002_Police.ee</value>
+					</object>
+					<object id="283CB732">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V005_TukTuk_Civ.ee</value>
+					</object>
+					<object id="28B6DC7C">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V024_SportsCar.ee</value>
+						<value id="1973DA22" type="string">Default</value>
+						<value id="65BFDE31" type="string">WeaponUpgrade0</value>
+						<value id="D3560DF7" type="string">FullyUpgraded</value>
+						<value id="F47C9C7C" type="string">WeaponUpgrade1</value>
+					</object>
+					<object id="29AF8158">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.v054_sportbike.ee</value>
+					</object>
+					<object id="2C55E51C">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V007_Sport.ee</value>
+					</object>
+					<object id="3AFC0BBE">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V003_Tourist.ee</value>
+					</object>
+					<object id="3F7255FF">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V012_Military_Tank_Small.ee</value>
+						<value id="1973DA22" type="string">Cab</value>
+						<value id="22B14411" type="string">FullyUpgraded</value>
+						<value id="46B92866" type="string">MGCannon</value>
+						<value id="65BFDE31" type="string">Hardtop</value>
+						<value id="D3560DF7" type="string">WeaponUpgrade1</value>
+						<value id="F47C9C7C" type="string">WeaponUpgrade0</value>
+					</object>
+					<object id="41EDFCD8">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V004_Truck_Garbage.ee</value>
+					</object>
+					<object id="4AC6D664">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V003_Hardtop.ee</value>
+					</object>
+					<object id="4F46587A">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V035_Sport_Custom.ee</value>
+					</object>
+					<object id="57259937">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V048_Bus_Civ.ee</value>
+						<value id="1973DA22" type="string">Single</value>
+						<value id="65BFDE31" type="string">Double</value>
+					</object>
+					<object id="5CFF7790">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V007_Military.ee</value>
+					</object>
+					<object id="5FA1DC44">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V052_Motorcross.ee</value>
+						<value id="1973DA22" type="string">WeaponUpgrade0</value>
+						<value id="22B14411" type="string">TestTopSpeed</value>
+						<value id="46B92866" type="string">TestAcceleration</value>
+						<value id="65BFDE31" type="string">WeaponUpgrade1</value>
+						<value id="D3560DF7" type="string">FullyUpgraded</value>
+						<value id="E6D7B7E4" type="string">TestHandling</value>
+						<value id="F47C9C7C" type="string">Default</value>
+					</object>
+					<object id="6063C460">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V037_Sheldon_Truck.ee</value>
+					</object>
+					<object id="62B84126">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V034_Sport_Buggy.ee</value>
+					</object>
+					<object id="64CF49D1">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V005_TukTuk_Taxi.ee</value>
+					</object>
+					<object id="68002046">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V004_Truck_Transport.ee</value>
+					</object>
+					<object id="6841E835">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V108_Armored_Transport.ee</value>
+					</object>
+					<object id="68FC9018">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V017_Military_Jeep.ee</value>
+						<value id="1973DA22" type="string">Cab</value>
+						<value id="65BFDE31" type="string">Jeep</value>
+						<value id="D3560DF7" type="string">Combi</value>
+						<value id="F47C9C7C" type="string">CombiMG</value>
+					</object>
+					<object id="69D1DDC1">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V004_Truck_BusReavers.ee</value>
+					</object>
+					<object id="6B4757AD">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V046_BusCoach.ee</value>
+					</object>
+					<object id="6BB82758">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\lave.v003_icecreamdlc.ee</value>
+					</object>
+					<object id="6BB8DC50">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V003_Cover.ee</value>
+					</object>
+					<object id="6D2DFEB4">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.v999_dlc-monstertruck.ee</value>
+					</object>
+					<object id="6E57CB3A">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V044Truck.ee</value>
+						<value id="1973DA22" type="string">Regular</value>
+						<value id="65BFDE31" type="string">Crane</value>
+						<value id="F47C9C7C" type="string">Crate</value>
+					</object>
+					<object id="6E6B0649">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V007_Classic_MC.ee</value>
+					</object>
+					<object id="6F588922">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V041_Tractor.ee</value>
+						<value id="1973DA22" type="string">Classic_Hardtop</value>
+						<value id="65BFDE31" type="string">Classic_Cab</value>
+						<value id="D3560DF7" type="string">Modern_Cab</value>
+						<value id="F47C9C7C" type="string">Modern_Hardtop</value>
+					</object>
+					<object id="73CE654D">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V001_Sedan.ee</value>
+						<value id="1973DA22" type="string">Hardtop</value>
+						<value id="65BFDE31" type="string">Softtop</value>
+						<value id="F47C9C7C" type="string">Cab</value>
+					</object>
+					<object id="7451F15D">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V003_Lorry.ee</value>
+					</object>
+					<object id="774BB838">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V016_Military_APC.ee</value>
+						<value id="1973DA22" type="string">Default</value>
+						<value id="65BFDE31" type="string">Cannon</value>
+						<value id="F47C9C7C" type="string">Russian</value>
+					</object>
+					<object id="7A672305">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V002_Sport.ee</value>
+					</object>
+					<object id="7C4928A0">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V056_ATV.ee</value>
+						<value id="1973DA22" type="string">Police</value>
+						<value id="65BFDE31" type="string">FullyUpgraded</value>
+					</object>
+					<object id="7F916DEA">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V003_Icecream.ee</value>
+					</object>
+					<object id="8D011FD2">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V052_Classic.ee</value>
+					</object>
+					<object id="8D0B222F">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V047_Jeep_Small.ee</value>
+						<value id="1973DA22" type="string">Cab</value>
+						<value id="65BFDE31" type="string">Hardtop</value>
+						<value id="F47C9C7C" type="string">Softtop</value>
+					</object>
+					<object id="990AE89B">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\lave.v005_tuktuk_dlc.ee</value>
+					</object>
+					<object id="9D150C30">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V002_Sedan.ee</value>
+					</object>
+					<object id="9D57FB16">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\lave.v027_dlc_customcar.ee</value>
+					</object>
+					<object id="A083ED23">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V055_Vespa.ee</value>
+					</object>
+					<object id="A128B671">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V002_Sedan_Taxi.ee</value>
+					</object>
+					<object id="A690EEA3">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V109_Limo.ee</value>
+						<value id="1973DA22" type="string">Default</value>
+						<value id="65BFDE31" type="string">Hijack_Rear</value>
+					</object>
+					<object id="A99499B4">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V006_Vespa.ee</value>
+					</object>
+					<object id="AD55F7AD">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V022_HeavyDrop_Jeep.ee</value>
+						<value id="1973DA22" type="string">Default</value>
+						<value id="65BFDE31" type="string">WeaponUpgrade0</value>
+						<value id="D3560DF7" type="string">FullyUpgraded</value>
+						<value id="F47C9C7C" type="string">WeaponUpgrade1</value>
+					</object>
+					<object id="B5F88C23">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V018_Military_Buggy.ee</value>
+						<value id="1973DA22" type="string">Buggy</value>
+						<value id="65BFDE31" type="string">BuggyMG</value>
+					</object>
+					<object id="C01C6B77">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V045_Firetruck.ee</value>
+					</object>
+					<object id="C33E8466">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V020_Sugga.ee</value>
+					</object>
+					<object id="C3B657F0">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V002_Combi.ee</value>
+					</object>
+					<object id="DA75F639">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V006_Moped.ee</value>
+					</object>
+					<object id="E41C616B">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V003_Work.ee</value>
+					</object>
+					<object id="E6147988">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V020_Sugga_blaine.ee</value>
+						<value id="1973DA22" type="string">Ingame</value>
+						<value id="65BFDE31" type="string">Cutscene</value>
+					</object>
+					<object id="E993DE9B">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V015_Military_Vehicle.ee</value>
+					</object>
+					<object id="EDEBD98F">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V004_Truck_Regular.ee</value>
+					</object>
+					<object id="F326CAE8">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V030_Super_Sportcar.ee</value>
+					</object>
+					<object id="F571FE08">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V050_Large_Super_Truck.ee</value>
+						<value id="1973DA22" type="string">Standard</value>
+						<value id="65BFDE31" type="string">Cab</value>
+						<value id="F47C9C7C" type="string">MG</value>
+					</object>
+					<object id="FAEB292A">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V036_City_Jeep.ee</value>
+					</object>
+					<object id="FEAB42AE">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V023_CustomCar.ee</value>
+						<value id="1973DA22" type="string">Default</value>
+						<value id="65BFDE31" type="string">WeaponUpgrade0</value>
+						<value id="D3560DF7" type="string">FullyUpgraded</value>
+						<value id="F47C9C7C" type="string">WeaponUpgrade1</value>
+					</object>
+					<object id="FF7C41D4">
+						<value name="entity" type="string">Exported\Vehicles\LAVE\LAVE.V014_Jeep.ee</value>
+						<value id="1973DA22" type="string">Cab</value>
+						<value id="65BFDE31" type="string">HardtopMG</value>
+					</object>
+				</object>
+				<object name="pickup">
+					<object id="0108B4AD">
+						<value name="entity" type="string">Exported\Pickups\pickup.onehandshotgun.ee</value>
+					</object>
+					<object id="1FF7B700">
+						<value name="entity" type="string">Exported\Pickups\pickup.ScorpionSMG.ee</value>
+					</object>
+					<object id="3CBE868E">
+						<value name="entity" type="string">Exported\Pickups\pickup.revolver.ee</value>
+					</object>
+					<object id="5417C2E6">
+						<value name="entity" type="string">Exported\Pickups\pickup.machinegun.ee</value>
+					</object>
+					<object id="899FF9F7">
+						<value name="entity" type="string">Exported\Pickups\pickup.minigun.ee</value>
+					</object>
+					<object id="A5FE1BA8">
+						<value name="entity" type="string">Exported\Pickups\pickup.grenade.ee</value>
+					</object>
+					<object id="A6EF7D18">
+						<value name="entity" type="string">Exported\Pickups\pickup.shotgun.ee</value>
+					</object>
+					<object id="B149222D">
+						<value name="entity" type="string">Exported\Pickups\pickup.assault.ee</value>
+					</object>
+					<object id="DBE46E73">
+						<value name="entity" type="string">Exported\Pickups\pickup.grenadelauncher.ee</value>
+					</object>
+					<object id="E99F42A1">
+						<value name="entity" type="string">Exported\Pickups\pickup.rocketlauncher.ee</value>
+					</object>
+					<object id="EA555CFD">
+						<value name="entity" type="string">Exported\Pickups\pickup.beretta.ee</value>
+					</object>
+					<object id="F04774EB">
+						<value name="entity" type="string">Exported\Pickups\pickup.triggeredExplosive.ee</value>
+					</object>
+					<object id="FA5D7D55">
+						<value name="entity" type="string">Exported\Pickups\pickup.sniper.ee</value>
+					</object>
+				</object>
+				<object name="seve">
+					<object id="09FC4CCE">
+						<value name="entity" type="string">Exported\Vehicles\SEVE\SEVE.V011_Yacht.ee</value>
+					</object>
+					<object id="1846119C">
+						<value name="entity" type="string">Exported\Vehicles\SEVE\SEVE.V086_Barge.ee</value>
+					</object>
+					<object id="39D9B24B">
+						<value name="entity" type="string">Exported\Vehicles\SEVE\SEVE.V104_Attack_Boat.ee</value>
+					</object>
+					<object id="3D7892B0">
+						<value name="entity" type="string">Exported\Vehicles\SEVE\SEVE.V083_Motorboat_Small.ee</value>
+					</object>
+					<object id="50F30EB2">
+						<value name="entity" type="string">Exported\Vehicles\SEVE\SEVE.V087_Catamaran_Speedboat.ee</value>
+					</object>
+					<object id="5575AE96">
+						<value name="entity" type="string">Exported\DLC\pack_10\seve.v458_dlc-hovercraft.ee</value>
+					</object>
+					<object id="6020A5A3">
+						<value name="entity" type="string">Exported\Vehicles\SEVE\SEVE.V011_Sailboat.ee</value>
+					</object>
+					<object id="74FF12BD">
+						<value name="entity" type="string">Exported\Vehicles\SEVE\SEVE.V089_RaceBoat.ee</value>
+						<value id="1973DA22" type="string">WeaponUpgrade0</value>
+						<value id="22B14411" type="string">TestTopSpeed</value>
+						<value id="46B92866" type="string">TestAcceleration</value>
+						<value id="65BFDE31" type="string">WeaponUpgrade1</value>
+						<value id="D3560DF7" type="string">FullyUpgraded</value>
+						<value id="E6D7B7E4" type="string">TestHandling</value>
+						<value id="F47C9C7C" type="string">Default</value>
+					</object>
+					<object id="9FD20013">
+						<value name="entity" type="string">Exported\Vehicles\SEVE\SEVE.V011_Houseboat.ee</value>
+					</object>
+					<object id="B3AB2D63">
+						<value name="entity" type="string">Exported\Vehicles\SEVE\SEVE.V098_Indo.ee</value>
+						<value id="1973DA22" type="string">Cab</value>
+						<value id="65BFDE31" type="string">Softtop</value>
+					</object>
+					<object id="E14581C9">
+						<value name="entity" type="string">Exported\Vehicles\SEVE\SEVE.V082_Motorboat_Standard_Small.ee</value>
+						<value id="1973DA22" type="string">Cab</value>
+						<value id="65BFDE31" type="string">Softtop</value>
+						<value id="F47C9C7C" type="string">Fishing</value>
+					</object>
+					<object id="E52710F6">
+						<value name="entity" type="string">Exported\Vehicles\SEVE\SEVE.V011_Charter.ee</value>
+					</object>
+					<object id="EF1EF041">
+						<value name="entity" type="string">Exported\Vehicles\SEVE\SEVE.V105_Military_Boat.ee</value>
+						<value id="1973DA22" type="string">Military</value>
+						<value id="65BFDE31" type="string">Roaches</value>
+					</object>
+					<object id="F406B109">
+						<value name="entity" type="string">Exported\Vehicles\SEVE\SEVE.V088_Djonk.ee</value>
+						<value id="1973DA22" type="string">Djonk01</value>
+						<value id="65BFDE31" type="string">Djonk02</value>
+						<value id="D3560DF7" type="string">Djonk04</value>
+						<value id="F47C9C7C" type="string">Djonk03</value>
+					</object>
+				</object>
+				<object id="EE1F7687">
+					<object id="00682254">
+						<value name="entity" type="string">Exported\CDoll\pd_gov_base02.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\PD_Gov_Base\pd_gov_base02.cdoll</value>
+					</object>
+					<object id="0097425C">
+						<value name="entity" type="string">Exported\CDoll\PD_Generic_Female_2.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\Generic\PD_Generic_Female_2.cdoll</value>
+					</object>
+					<object id="00DEF0CF">
+						<value name="entity" type="string">Exported\CDoll\mc01_rico.ee</value>
+						<value id="1973DA22" type="string"></value>
+					</object>
+					<object id="01127898">
+						<value name="entity" type="string">Exported\CDoll\pd_factioninterest_general.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\pd_factioninterest_general.cdoll</value>
+					</object>
+					<object id="052DB525">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_Roaches_Technician.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_Roaches_Technician.cdoll</value>
+					</object>
+					<object id="07E52B0C">
+						<value name="entity" type="string">Exported\CDoll\pd_gov_elite.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\PD_Gov_Elite\pd_gov_elite.cdoll</value>
+					</object>
+					<object id="0A4A9935">
+						<value name="entity" type="string">Exported\CDoll\pd_oilplatform_male2.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\OilPlatform\pd_oilplatform_male2.cdoll</value>
+					</object>
+					<object id="0DB20116">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_GovCaptain.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_GovCaptain.cdoll</value>
+					</object>
+					<object id="0E0E90E8">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_boatcaptain.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\pd_ms_boatcaptain.cdoll</value>
+					</object>
+					<object id="0F354F72">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_japaneseveterans.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\pd_ms_japaneseveterans.cdoll</value>
+					</object>
+					<object id="109AFC0F">
+						<value name="entity" type="string">Exported\CDoll\PD_Tourist_Female2.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\Tourist\PD_Tourist_Female2.cdoll</value>
+					</object>
+					<object id="1147B8C7">
+						<value name="entity" type="string">Exported\CDoll\pd_arcticvillage_female3.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\ArcticVillage\pd_arcticvillage_female3.cdoll</value>
+					</object>
+					<object id="1A9A09C7">
+						<value name="entity" type="string">Exported\CDoll\PD_Generic_Male_5.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\Generic\PD_Generic_Male_5.cdoll</value>
+					</object>
+					<object id="21C9F599">
+						<value name="entity" type="string">Exported\CDoll\PD_PanauPolice.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\PD_PanauPolice\PD_PanauPolice.cdoll</value>
+					</object>
+					<object id="22D2F598">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_Reapers_Technician.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_Reapers_Technician.cdoll</value>
+					</object>
+					<object id="24994B5C">
+						<value name="entity" type="string">Exported\CDoll\pd_ularboysbase2.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\PD_Ularboys\pd_ularboysbase2.cdoll</value>
+					</object>
+					<object id="287CE4CB">
+						<value name="entity" type="string">Exported\CDoll\mc13_alexandermirikov.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\mc13_alexandermirikov.cdoll</value>
+					</object>
+					<object id="2A59CA03">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_ExclusiveGuest.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_ExclusiveGuest.cdoll</value>
+					</object>
+					<object id="2A702033">
+						<value name="entity" type="string">Exported\CDoll\pd_fishervillage_male3.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\FisherVillage\pd_fishervillage_male3.cdoll</value>
+					</object>
+					<object id="2C390884">
+						<value name="entity" type="string">Exported\CDoll\pd_oilplatform_male1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\OilPlatform\pd_oilplatform_male1.cdoll</value>
+					</object>
+					<object id="31F5B2F4">
+						<value name="entity" type="string">Exported\CDoll\PD_Tourist_Male1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\Tourist\PD_Tourist_Male1.cdoll</value>
+					</object>
+					<object id="34A7D36F">
+						<value name="entity" type="string">Exported\CDoll\mc05_babypanay.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\mc05_babypanay.cdoll</value>
+					</object>
+					<object id="36D77A3D">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_civ_strippers_female1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\PD_MS_Civ_Strippers_Female1.cdoll</value>
+					</object>
+					<object id="3A7F1ECF">
+						<value name="entity" type="string">Exported\CDoll\pd_arcticvillage_female1.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\ArcticVillage\pd_arcticvillage_female1.cdoll</value>
+					</object>
+					<object id="3A90EA73">
+						<value name="entity" type="string">Exported\CDoll\pd_ularboysbase1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\PD_Ularboys\pd_ularboysbase1.cdoll</value>
+					</object>
+					<object id="3C13818E">
+						<value name="entity" type="string">Exported\CDoll\pd_ularboyselite1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\PD_Ularboys\pd_ularboyselite1.cdoll</value>
+					</object>
+					<object id="4132E4BA">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_factoryworkers.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\pd_ms_factoryworkers.cdoll</value>
+					</object>
+					<object id="4250F4EE">
+						<value name="entity" type="string">Exported\CDoll\pd_fishervillage_male4.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\FisherVillage\pd_fishervillage_male4.cdoll</value>
+					</object>
+					<object id="459D9257">
+						<value name="entity" type="string">Exported\CDoll\PD_Generic_Male_4.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\Generic\PD_Generic_Male_4.cdoll</value>
+					</object>
+					<object id="49600073">
+						<value name="entity" type="string">Exported\CDoll\pd_thugs1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\PD_Thugs\PD_Thugs1.cdoll</value>
+					</object>
+					<object id="4A213E2C">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_gov_shielder.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\PD_MS_Gov_Shielder.cdoll</value>
+					</object>
+					<object id="4B12ED1C">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_civ_strippers_female1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\PD_MS_Civ_Strippers_Female1.cdoll</value>
+					</object>
+					<object id="4D4A5BCC">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_BomBomBohilano.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_BomBomBohilano.cdoll</value>
+					</object>
+					<object id="57D07645">
+						<value name="entity" type="string">Exported\CDoll\pd_arcticvillage_male3.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\ArcticVillage\pd_arcticvillage_male3.cdoll</value>
+					</object>
+					<object id="58EB8D6F">
+						<value name="entity" type="string">Exported\CDoll\mc03_generalmasayo.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\mc03_generalmasayo.cdoll</value>
+					</object>
+					<object id="591A6BC7">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_ExclusiveGuest_variant1.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_ExclusiveGuest_variant1.cdoll</value>
+					</object>
+					<object id="5CE8437C">
+						<value name="entity" type="string">Exported\CDoll\mc09_razman.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\mc09_razman.cdoll</value>
+					</object>
+					<object id="5EE6C5AB">
+						<value name="entity" type="string">Exported\CDoll\pd_thugs2.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\PD_Thugs\PD_Thugs2.cdoll</value>
+					</object>
+					<object id="66476A08">
+						<value name="entity" type="string">Exported\CDoll\pd_reapersbase1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\PD_Reapers\pd_reapersbase1.cdoll</value>
+					</object>
+					<object id="6898CE75">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_factoryboss.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\pd_ms_factoryboss.cdoll</value>
+					</object>
+					<object id="6A917E4C">
+						<value name="entity" type="string">Exported\CDoll\pd_arcticvillage_female2.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\ArcticVillage\pd_arcticvillage_female2.cdoll</value>
+					</object>
+					<object id="6BE46C21">
+						<value name="entity" type="string">Exported\CDoll\pd_gov_base01.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\PD_Gov_Base\pd_gov_base01.cdoll</value>
+					</object>
+					<object id="6D1E5965">
+						<value name="entity" type="string">Exported\CDoll\pd_desertvillage_male1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\DesertVillage\pd_desertvillage_male1.cdoll</value>
+					</object>
+					<object id="6D2D7FAC">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_strandedcopilot.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\pd_ms_strandedcopilot.cdoll</value>
+					</object>
+					<object id="6F17FC7B">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_BodyguardJapanese.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_BodyguardJapanese.cdoll</value>
+					</object>
+					<object id="6F4DC9F3">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_scientist_male.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\pd_ms_scientist_male.cdoll</value>
+					</object>
+					<object id="6F91FBB0">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_hacker.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\pd_ms_hacker.cdoll</value>
+					</object>
+					<object id="703614CE">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_civ_strippers_female1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\PD_MS_Civ_Strippers_Female1.cdoll</value>
+					</object>
+					<object id="73444E64">
+						<value name="entity" type="string">Exported\CDoll\PD_Ninja.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\PD_Ninja\PD_Ninja.cdoll</value>
+					</object>
+					<object id="77F0D232">
+						<value name="entity" type="string">Exported\CDoll\mc14_zhangsun.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\mc14_zhangsun.cdoll</value>
+					</object>
+					<object id="78B22132">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_ChinaBusinessman.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_ChinaBusinessman.cdoll</value>
+					</object>
+					<object id="79AF6213">
+						<value name="entity" type="string">Exported\CDoll\mc06_sicini.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\mc06_sicini.cdoll</value>
+					</object>
+					<object id="7E245D46">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_whitetigers.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\pd_ms_whitetigers.cdoll</value>
+					</object>
+					<object id="80F8E248">
+						<value name="entity" type="string">Exported\CDoll\PD_Ninja.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\PD_Ninja\PD_Ninja.cdoll</value>
+					</object>
+					<object id="8ECF4FDE">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_gambler.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\pd_ms_gambler.cdoll</value>
+					</object>
+					<object id="8F752198">
+						<value name="entity" type="string">Exported\CDoll\PD_Generic_Male_1.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\Generic\PD_Generic_Male_1.cdoll</value>
+					</object>
+					<object id="91DFB681">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_Paparazzi.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_Paparazzi.cdoll</value>
+					</object>
+					<object id="948EB25F">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_civ_strippers_female1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\PD_MS_Civ_Strippers_Female1.cdoll</value>
+					</object>
+					<object id="9610BF44">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_Ular_Technician.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_Ular_Technician.cdoll</value>
+					</object>
+					<object id="98D7CDCF">
+						<value name="entity" type="string">Exported\CDoll\pd_blackhand.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\BlackHand\pd_blackhand.cdoll</value>
+					</object>
+					<object id="9C21B86A">
+						<value name="entity" type="string">Exported\CDoll\mc12_sheldon.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\mc12_sheldon.cdoll</value>
+					</object>
+					<object id="A23962C8">
+						<value name="entity" type="string">Exported\CDoll\pd_desertvillage_female1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\DesertVillage\pd_desertvillage_female1.cdoll</value>
+					</object>
+					<object id="A38AA2E6">
+						<value name="entity" type="string">Exported\CDoll\PD_Generic_Female_1.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\Generic\PD_Generic_Female_1.cdoll</value>
+					</object>
+					<object id="A7237380">
+						<value name="entity" type="string">Exported\CDoll\PD_City_Male_2.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\PD_City\PD_City_Male_2.cdoll</value>
+					</object>
+					<object id="AB5DA74A">
+						<value name="entity" type="string">Exported\CDoll\PD_City_Female_1.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\PD_City\PD_City_Female_1.cdoll</value>
+					</object>
+					<object id="AE18BC97">
+						<value name="entity" type="string">Exported\CDoll\PD_Generic_Female_4.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\Generic\PD_Generic_Female_4.cdoll</value>
+					</object>
+					<object id="AE99471A">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_Politician.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_Politician.cdoll</value>
+					</object>
+					<object id="AFA79506">
+						<value name="entity" type="string">Exported\CDoll\PD_Generic_Female_5.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\Generic\PD_Generic_Female_5.cdoll</value>
+					</object>
+					<object id="B0E84892">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_Doorman.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_Doorman.cdoll</value>
+					</object>
+					<object id="B36DD115">
+						<value name="entity" type="string">Exported\CDoll\pd_fishervillage_male1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\FisherVillage\pd_fishervillage_male1.cdoll</value>
+					</object>
+					<object id="B77E7EB6">
+						<value name="entity" type="string">Exported\CDoll\pd_arcticvillage_male2.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\ArcticVillage\pd_arcticvillage_male2.cdoll</value>
+					</object>
+					<object id="BC03CD40">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_ExclusiveGuest_variant2.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_ExclusiveGuest_variant2.cdoll</value>
+					</object>
+					<object id="BEF212B8">
+						<value name="entity" type="string">Exported\CDoll\mc02_jadetan.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\mc02_jadetan.cdoll</value>
+					</object>
+					<object id="C8940415">
+						<value name="entity" type="string">Exported\CDoll\pd_generic_religious_male.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\Generic_Religious\pd_generic_religious_male.cdoll</value>
+					</object>
+					<object id="CAE978A3">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_Strippers_Female1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\PD_MS_Strippers_Female1.cdoll</value>
+					</object>
+					<object id="CBD4D786">
+						<value name="entity" type="string">Exported\CDoll\pd_reapersbase2.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\PD_Reapers\pd_reapersbase2.cdoll</value>
+					</object>
+					<object id="CBF2E8B1">
+						<value name="entity" type="string">Exported\CDoll\pd_reaperselite1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\PD_Reapers\pd_reaperselite1.cdoll</value>
+					</object>
+					<object id="CCC855AA">
+						<value name="entity" type="string">Exported\CDoll\PD_City_Male_1.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\PD_City\PD_City_Male_1.cdoll</value>
+					</object>
+					<object id="D08DCEE5">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_racechallengegirl.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\PD_MS_RaceChallengeGirl.cdoll</value>
+					</object>
+					<object id="D20EC200">
+						<value name="entity" type="string">Exported\CDoll\pd_roachesbase1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\PD_Roaches\pd_roachesbase1.cdoll</value>
+					</object>
+					<object id="D531494D">
+						<value name="entity" type="string">Exported\CDoll\pd_arcticvillage_male1.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\ArcticVillage\pd_arcticvillage_male1.cdoll</value>
+					</object>
+					<object id="D55B1F37">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_witness.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\pd_ms_witness.cdoll</value>
+					</object>
+					<object id="D722019A">
+						<value name="entity" type="string">Exported\CDoll\PD_Generic_Male_2.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\Generic\PD_Generic_Male_2.cdoll</value>
+					</object>
+					<object id="D7A1EE73">
+						<value name="entity" type="string">Exported\CDoll\pd_ms_civ_strippers_female1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\MissionSpecific\PD_MS_Civ_Strippers_Female1.cdoll</value>
+					</object>
+					<object id="D7E6F7AE">
+						<value name="entity" type="string">Exported\CDoll\mc11_kane.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\mc11_kane.cdoll</value>
+					</object>
+					<object id="DB6B11F2">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_Waiter.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_Waiter.cdoll</value>
+					</object>
+					<object id="DE4D1232">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_BodyguardRussian.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_BodyguardRussian.cdoll</value>
+					</object>
+					<object id="DFE348EC">
+						<value name="entity" type="string">Exported\CDoll\mc04_karlblaine.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\mc04_karlblaine.cdoll</value>
+					</object>
+					<object id="E281E48D">
+						<value name="entity" type="string">Exported\CDoll\pd_fishervillage_male2.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\FisherVillage\pd_fishervillage_male2.cdoll</value>
+					</object>
+					<object id="EE8EEA9B">
+						<value name="entity" type="string">Exported\CDoll\mc10_santosi.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\mc10_santosi.cdoll</value>
+					</object>
+					<object id="EF922EF6">
+						<value name="entity" type="string">Exported\CDoll\pd_roacheselite1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\PD_Roaches\pd_roacheselite1.cdoll</value>
+					</object>
+					<object id="F02DF11E">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_BodyguardChinese.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_BodyguardChinese.cdoll</value>
+					</object>
+					<object id="F49D0DC2">
+						<value name="entity" type="string">Exported\CDoll\PD_Tourist_Female1.ee</value>
+						<value id="1973DA22" type="string">Models\Characters\Paperdolls\CDOLL\Tourist\PD_Tourist_Female1.cdoll</value>
+					</object>
+					<object id="F7A521CA">
+						<value name="entity" type="string">Exported\CDoll\PD_Generic_Female_3.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\Generic\PD_Generic_Female_3.cdoll</value>
+					</object>
+					<object id="FA7D46A4">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_SaulSukarno.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_SaulSukarno.cdoll</value>
+					</object>
+					<object id="FC91A315">
+						<value name="entity" type="string">Exported\CDoll\PD_MS_Thugboss.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\MissionSpecific\PD_MS_Thugboss.cdoll</value>
+					</object>
+					<object id="FE494AA4">
+						<value name="entity" type="string">Exported\CDoll\PD_Generic_Male_3.ee</value>
+						<value id="1973DA22" type="string">Models\paperdolls\CDOLL\Generic\PD_Generic_Male_3.cdoll</value>
+					</object>
+				</object>
+			</object>
+			<value id="3B17DE21" type="float">5</value>
+			<value id="481CAA11" type="float">5</value>
+			<value id="65D9F4FD" type="float">0.5</value>
+			<value id="7775A92A" type="int">5</value>
+			<value id="82B4735B" type="float">5</value>
+			<value id="891D52CD" type="float">0.5</value>
+			<value id="A678AF9E" type="float">0.5</value>
+			<value id="B091B326" type="float">0</value>
+			<value id="B64F0068" type="int">60</value>
+			<value id="BFC109D3" type="int">50</value>
+			<value id="CC2EAD3E" type="float">0.5</value>
+			<value id="E053C4F0" type="int">60</value>
+			<value id="FB996A4B" type="float">5</value>
+		</object>
+	</object>
+</container>

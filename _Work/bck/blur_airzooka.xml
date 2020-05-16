@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object name="ava_effect">
+			<object name="effect_components">
+				<object id="54236B22">
+					<value name="type" type="int">1</value>
+					<value name="uid" type="int">0</value>
+					<object name="variations">
+						<object id="CBBCC99C">
+							<value name="duration" type="float">0</value>
+							<value name="kill_when_finished" type="int">1</value>
+							<value name="name" type="string">fx_muzzle_airzooka_01</value>
+							<value name="uid" type="int">0</value>
+						</object>
+					</object>
+				</object>
+				<object id="54236B23">
+					<value name="type" type="int">1</value>
+					<value name="uid" type="int">1</value>
+					<object name="variations">
+						<object id="CBBCC99C">
+							<value name="duration" type="float">1.5</value>
+							<value name="kill_when_finished" type="int">1</value>
+							<value name="name" type="string">fx_emppower_active_01</value>
+							<value name="uid" type="int">0</value>
+						</object>
+					</object>
+				</object>
+			</object>
+			<object name="interaction_matrix">
+				<object name="default_item">
+					<value id="54236B22" type="string">0:0</value>
+					<value id="54236B23" type="string">1:0</value>
+				</object>
+			</object>
+			<object name="settings">
+				<value name="max_instances" type="int">10</value>
+				<value name="priority" type="int">0</value>
+			</object>
+		</object>
+	</object>
+</root>

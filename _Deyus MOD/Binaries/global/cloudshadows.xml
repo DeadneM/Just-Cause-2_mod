@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<value id="005615E6" type="float">15</value>
+		<value id="34408D49" type="vec2">0.6,0.8</value>
+		<value id="7E6D3167" type="float">6000</value>
+		<value id="85FB4D69" type="float">6000</value>
+		<value id="8B4F5C68" type="float">5</value>
+		<value id="BAD5D30F" type="float">15</value>
+		<value id="BD338C60" type="vec2">0,0.5</value>
+		<value id="C55669A6" type="vec2">0.9,1</value>
+		<value id="CE82882B" type="float">5.2</value>
+		<value id="DD25AAFF" type="float">0.85</value>
+		<value id="F1C8D843" type="vec2">0.8,1</value>
+	</object>
+</root>

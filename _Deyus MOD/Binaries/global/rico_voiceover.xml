@@ -1,0 +1,1517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object name="voiceover_settings">
+			<object id="290A0380">
+				<value id="12D61537" type="int">2</value>
+				<value id="B0C34845" type="int">0</value>
+				<value id="FE4AF408" type="int">1</value>
+			</object>
+			<object id="4DB5F051">
+				<value id="21224AAA" type="string"></value>
+				<value id="27AB1790" type="string">ply.vocal.turnon</value>
+				<value id="7A9A5A65" type="string">ply.vocal.turnoff</value>
+				<object id="00CD4FE3">
+					<object id="ADA341CA">
+						<value id="A06A1E88" type="int">0</value>
+						<value id="F4EF3D5B" type="int">60</value>
+						<value name="uid" type="int">0</value>
+					</object>
+				</object>
+				<object id="D00AB392">
+					<value id="6EEF6CA9" type="string"></value>
+					<object id="20AE8B33">
+						<value id="6EEF6CA9" type="string">1 2 3 6 27</value>
+						<value id="8581B032" type="string">f2m06</value>
+					</object>
+					<object id="47272C44">
+						<value id="6EEF6CA9" type="string">20</value>
+						<value id="8581B032" type="string">f3t16</value>
+					</object>
+					<object id="F14EF8DF">
+						<value id="6EEF6CA9" type="string">22</value>
+						<value id="8581B032" type="string">km01</value>
+					</object>
+				</object>
+			</object>
+			<object id="71AA1827">
+				<object id="0C41113A">
+					<value id="BBE0B233" type="float">2</value>
+					<value id="CBD36523" type="float">100</value>
+					<value id="E089F812" type="float">1000</value>
+					<value name="event_name" type="string">gsy.activity.type09</value>
+					<value name="probability" type="float">0.75</value>
+					<value name="uid" type="int">17</value>
+					<object name="variations">
+						<object id="433D805A">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_179</value>
+						</object>
+						<object id="65C34D27">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_141</value>
+						</object>
+						<object id="6AD9EA91">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_193</value>
+						</object>
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+						<object id="F7EDCE7E">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_179</value>
+						</object>
+					</object>
+				</object>
+				<object id="17BEED21">
+					<value id="BBE0B233" type="float">0</value>
+					<value id="CBD36523" type="float">100</value>
+					<value id="E089F812" type="float">1000</value>
+					<value name="event_name" type="string">rico.pickup.weapon.dialog</value>
+					<value name="probability" type="float">0.9</value>
+					<value name="uid" type="int">25</value>
+					<object name="variations">
+						<object id="6931B936">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_59</value>
+						</object>
+						<object id="7F7F3EEE">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_193</value>
+						</object>
+						<object id="A0EDAA11">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_192</value>
+						</object>
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+					</object>
+				</object>
+				<object id="1B2C7553">
+					<value id="BBE0B233" type="float">10</value>
+					<value id="CBD36523" type="float">100</value>
+					<value id="E089F812" type="float">1000</value>
+					<value name="event_name" type="string">settlement.complete</value>
+					<value name="probability" type="float">0.75</value>
+					<value name="uid" type="int">23</value>
+					<object name="variations">
+						<object id="6AD9EA91">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_181</value>
+						</object>
+						<object id="6AD9EA92">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_193</value>
+						</object>
+						<object id="6AD9EA93">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_154</value>
+						</object>
+						<object id="6AD9EA94">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_52</value>
+						</object>
+						<object id="6AD9EA95">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_155</value>
+						</object>
+						<object id="6AD9EA96">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_34</value>
+						</object>
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+						<object id="F3ABA3CB">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_30</value>
+						</object>
+						<object name="toughjob">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_154</value>
+						</object>
+					</object>
+				</object>
+				<object id="1D5E3C70">
+					<value id="BBE0B233" type="float">3</value>
+					<value id="CBD36523" type="float">50</value>
+					<value id="E089F812" type="float">3600</value>
+					<value name="event_name" type="string">gsy.heatChange.noneCombat</value>
+					<value name="probability" type="float">1</value>
+					<value name="uid" type="int">1</value>
+					<object name="variations">
+						<object id="0A9A7493">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">0</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_m_xx_28</value>
+						</object>
+						<object id="32017085">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">0</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_m_xx_27</value>
+						</object>
+						<object id="7562F47D">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">0</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_m_xx_26</value>
+						</object>
+						<object id="7F0F59F1">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">0</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_m_xx_31</value>
+						</object>
+						<object id="AEA23A0E">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">0</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_m_xx_29</value>
+						</object>
+						<object id="F611FED0">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">0</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_m_xx_30</value>
+						</object>
+					</object>
+				</object>
+				<object id="3FD3570E">
+					<value id="BBE0B233" type="float">0.2</value>
+					<value id="CBD36523" type="float">100</value>
+					<value id="E089F812" type="float">500</value>
+					<value name="event_name" type="string">ply.ragdoll.getup </value>
+					<value name="probability" type="float">1</value>
+					<value name="uid" type="int">5</value>
+					<object name="variations">
+						<object id="1F8392A9">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_rico_m_106</value>
+						</object>
+						<object id="382411F6">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_rico_m_107</value>
+						</object>
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+						<object id="F5BC0D16">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_rico_m_111</value>
+						</object>
+					</object>
+				</object>
+				<object id="51CCAE87">
+					<value id="BBE0B233" type="float">1</value>
+					<value id="CBD36523" type="float">10</value>
+					<value id="E089F812" type="float">200</value>
+					<value name="event_name" type="string">heat.level.3</value>
+					<value name="probability" type="float">1</value>
+					<value name="uid" type="int">2</value>
+					<object name="variations">
+						<object id="06DF5B8D">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govgrunt1_m_xx_13</value>
+						</object>
+						<object id="2E1DBDD8">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govgrunt1_m_xx_09</value>
+						</object>
+						<object id="362EFC97">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govgrunt1_m_xx_16</value>
+						</object>
+						<object id="6E826D01">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_f_xx_05</value>
+						</object>
+						<object id="86BD8BF6">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govgrunt1_m_xx_10</value>
+						</object>
+						<object id="A3E0734A">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govgrunt1_m_xx_14</value>
+						</object>
+						<object id="B862BDD3">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govgrunt1_m_xx_20</value>
+						</object>
+						<object id="BBA24919">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govgrunt1_m_xx_15</value>
+						</object>
+						<object id="C58EAA36">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govgrunt1_m_xx_18</value>
+						</object>
+						<object id="DC12D2F6">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_f_xx_06</value>
+						</object>
+						<object id="E65577C3">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govgrunt1_m_xx_12</value>
+						</object>
+					</object>
+				</object>
+				<object id="661A97B2">
+					<value id="BBE0B233" type="float">0</value>
+					<value id="CBD36523" type="float">50</value>
+					<value id="E089F812" type="float">1600</value>
+					<value name="event_name" type="string">gsy.heatChange.undetectedCombat</value>
+					<value name="probability" type="float">1</value>
+					<value name="uid" type="int">27</value>
+					<object name="variations">
+						<object id="0B5C767B">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">0</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_f_xx_03</value>
+						</object>
+						<object id="8D847478">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">0</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_f_xx_06</value>
+						</object>
+						<object id="93010CDE">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">0</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_f_xx_05</value>
+						</object>
+						<object id="D5FEA40E">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">0</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_f_xx_02</value>
+						</object>
+						<object id="DF4E6D9A">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">0</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_f_xx_01</value>
+						</object>
+						<object id="F88D2EB1">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">0</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_f_xx_04</value>
+						</object>
+					</object>
+				</object>
+				<object id="7D4E94E6">
+					<value id="BBE0B233" type="float">2</value>
+					<value id="CBD36523" type="float">100</value>
+					<value id="E089F812" type="float">1000</value>
+					<value name="event_name" type="string">gsy.activity.type05</value>
+					<value name="probability" type="float">0.5</value>
+					<value name="uid" type="int">20</value>
+					<object name="variations">
+						<object id="6AD9EA91">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_154</value>
+						</object>
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+					</object>
+				</object>
+				<object id="7E19713D">
+					<value id="BBE0B233" type="float">1</value>
+					<value id="CBD36523" type="float">100</value>
+					<value id="E089F812" type="float">3600</value>
+					<value name="event_name" type="string">gsy.air_limbo.bridge_passed</value>
+					<value name="probability" type="float">1</value>
+					<value name="uid" type="int">8</value>
+					<object name="variations">
+						<object id="82E84113">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">100</value>
+							<value name="sound_cue" type="string">combat_rico_m_181</value>
+						</object>
+						<object id="8E5CE8F8">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">100</value>
+							<value name="sound_cue" type="string">combat_rico_m_182</value>
+						</object>
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+					</object>
+				</object>
+				<object id="A61ECA77">
+					<value id="BBE0B233" type="float">1</value>
+					<value id="CBD36523" type="float">10</value>
+					<value id="E089F812" type="float">200</value>
+					<value name="event_name" type="string">heat.helicopter.spawn</value>
+					<value name="probability" type="float">1</value>
+					<value name="uid" type="int">3</value>
+					<object name="variations">
+						<object id="0E2FFEDB">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govgrunt1_m_xx_22</value>
+						</object>
+						<object id="1784EACD">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govpilot_m_xx_04</value>
+						</object>
+						<object id="2F468063">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_m_xx_16</value>
+						</object>
+						<object id="3CFE7A74">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govpilot_m_xx_03</value>
+						</object>
+						<object id="6EF4A8FA">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govgrunt1_m_xx_21</value>
+						</object>
+						<object id="70BB039B">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govpilot_m_xx_02</value>
+						</object>
+						<object id="713AD6F6">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_m_xx_18</value>
+						</object>
+						<object id="7CCC15D5">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govpilot_m_xx_01</value>
+						</object>
+						<object id="A2383C5D">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_m_xx_17</value>
+						</object>
+						<object id="D470B5CB">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="3AAAC82B" type="int">0</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">1</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govdispatch_m_xx_19</value>
+						</object>
+					</object>
+				</object>
+				<object id="AC3F3D51">
+					<value id="BBE0B233" type="float">0</value>
+					<value id="CBD36523" type="float">100</value>
+					<value id="E089F812" type="float">1000</value>
+					<value name="event_name" type="string">gsy.activity.type03</value>
+					<value name="probability" type="float">0.75</value>
+					<value name="uid" type="int">22</value>
+					<object name="variations">
+						<object id="0E2B2337">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_139</value>
+						</object>
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+						<object id="C96A46A7">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_221</value>
+						</object>
+						<object id="D52EBF40">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_222</value>
+						</object>
+					</object>
+				</object>
+				<object id="AEBA1C68">
+					<value id="BBE0B233" type="float">0</value>
+					<value id="CBD36523" type="float">900</value>
+					<value id="E089F812" type="float">3600</value>
+					<value name="event_name" type="string">respond.CIVILIAN_STOLE_MY_VEHICLE</value>
+					<value name="probability" type="float">1</value>
+					<value name="uid" type="int">10</value>
+					<object name="variations">
+						<object id="1BF37735">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">100</value>
+							<value name="sound_cue" type="string">combat_rico_m_269</value>
+						</object>
+						<object id="4AA8FC39">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">100</value>
+							<value name="sound_cue" type="string">combat_rico_m_260</value>
+						</object>
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+						<object id="CE2360C4">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">100</value>
+							<value name="sound_cue" type="string">combat_rico_m_68</value>
+						</object>
+						<object name="toughluck">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">100</value>
+							<value name="sound_cue" type="string">combat_rico_m_256</value>
+						</object>
+						<object name="whatever">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">100</value>
+							<value name="sound_cue" type="string">combat_rico_m_259</value>
+						</object>
+					</object>
+				</object>
+				<object id="B784CFE4">
+					<value id="BBE0B233" type="float">0</value>
+					<value id="CBD36523" type="float">100</value>
+					<value id="E089F812" type="float">1000</value>
+					<value name="event_name" type="string">gsy.activity.type08</value>
+					<value name="probability" type="float">1</value>
+					<value name="uid" type="int">24</value>
+					<object name="variations">
+						<object id="08FF3611">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_110</value>
+						</object>
+						<object id="6127E70B">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">100</value>
+							<value name="sound_cue" type="string">combat_rico_m_227</value>
+						</object>
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+						<object name="hahaha">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_109</value>
+						</object>
+					</object>
+				</object>
+				<object id="BA1BD37E">
+					<value id="BBE0B233" type="float">2</value>
+					<value id="CBD36523" type="float">100</value>
+					<value id="E089F812" type="float">1000</value>
+					<value name="event_name" type="string">gsy.activity.type28</value>
+					<value name="probability" type="float">0.5</value>
+					<value name="uid" type="int">21</value>
+					<object name="variations">
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+						<object id="F58E7AEA">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_95</value>
+						</object>
+						<object name="toughjob">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_53</value>
+						</object>
+					</object>
+				</object>
+				<object id="BD2E3F9C">
+					<value id="BBE0B233" type="float">2</value>
+					<value id="CBD36523" type="float">100</value>
+					<value id="E089F812" type="float">1000</value>
+					<value name="event_name" type="string">gsy.activity.type06</value>
+					<value name="probability" type="float">0.75</value>
+					<value name="uid" type="int">18</value>
+					<object name="variations">
+						<object id="08FF3611">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_110</value>
+						</object>
+						<object id="08FF3613">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_219</value>
+						</object>
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+						<object id="C865E0A0">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_220</value>
+						</object>
+						<object name="hahaha">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_109</value>
+						</object>
+					</object>
+				</object>
+				<object id="CA5D80F8">
+					<value id="BBE0B233" type="float">0</value>
+					<value id="CBD36523" type="float">50</value>
+					<value id="E089F812" type="float">200</value>
+					<value name="event_name" type="string">ply.valkyrie.awesomeness</value>
+					<value name="probability" type="float">1</value>
+					<value name="uid" type="int">4</value>
+					<object name="variations">
+						<object id="13A74C36">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">additional_rico_01</value>
+						</object>
+						<object id="EDF6DFD6">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">additional_rico_02</value>
+						</object>
+					</object>
+				</object>
+				<object id="DE8E002B">
+					<value id="BBE0B233" type="float">0</value>
+					<value id="CBD36523" type="float">100</value>
+					<value id="E089F812" type="float">500</value>
+					<value name="event_name" type="string">ply.predator.awesomeness</value>
+					<value name="probability" type="float">1</value>
+					<value name="uid" type="int">15</value>
+					<object name="variations">
+						<object id="08FF3611">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_110</value>
+						</object>
+						<object id="70F23342">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_194</value>
+						</object>
+						<object id="CFFE7411">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_195</value>
+						</object>
+						<object name="hahaha">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_109</value>
+						</object>
+					</object>
+				</object>
+				<object id="E80C5FF4">
+					<value id="BBE0B233" type="float">0</value>
+					<value id="CBD36523" type="float">100</value>
+					<value id="E089F812" type="float">1000</value>
+					<value name="event_name" type="string">gsy.activity.type29</value>
+					<value name="probability" type="float">0.3</value>
+					<value name="uid" type="int">16</value>
+					<object name="variations">
+						<object id="01A1817C">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_179</value>
+						</object>
+						<object id="08FF3611">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_110</value>
+						</object>
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+						<object name="hahaha">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_109</value>
+						</object>
+						<object name="oops">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">100</value>
+							<value name="sound_cue" type="string">combat_rico_m_200</value>
+						</object>
+					</object>
+				</object>
+				<object id="F16C52F9">
+					<value id="BBE0B233" type="float">2</value>
+					<value id="CBD36523" type="float">100</value>
+					<value id="E089F812" type="float">1000</value>
+					<value name="event_name" type="string">gsy.top_of_the_world.achived</value>
+					<value name="probability" type="float">1</value>
+					<value name="uid" type="int">26</value>
+					<object name="variations">
+						<object id="8046C385">
+							<value id="10CB67BA" type="int">1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_151</value>
+						</object>
+						<object id="8046C386">
+							<value id="10CB67BA" type="int">1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_152</value>
+						</object>
+						<object id="8046C387">
+							<value id="10CB67BA" type="int">1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_253</value>
+						</object>
+						<object id="8046C388">
+							<value id="10CB67BA" type="int">1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">km07_rico_m_16</value>
+						</object>
+					</object>
+				</object>
+				<object id="F1BC8A92">
+					<value id="BBE0B233" type="float">0</value>
+					<value id="CBD36523" type="float">10</value>
+					<value id="E089F812" type="float">20</value>
+					<value name="event_name" type="string">wea.samsite.fire</value>
+					<value name="probability" type="float">1</value>
+					<value name="uid" type="int">6</value>
+					<object name="variations">
+						<object id="29652F4A">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govgrunt1_m_xx_02</value>
+						</object>
+						<object id="9BF5D9A1">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govgrunt1_m_xx_03</value>
+						</object>
+						<object id="A81B3C82">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govgrunt1_m_xx_01</value>
+						</object>
+						<object id="CE388103">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_govgrunt1_m_xx_04</value>
+						</object>
+					</object>
+				</object>
+				<object id="F47D894E">
+					<value id="BBE0B233" type="float">0.5</value>
+					<value id="CBD36523" type="float">200</value>
+					<value id="E089F812" type="float">1800</value>
+					<value name="event_name" type="string">ply.killed_civilian_from_vehicle</value>
+					<value name="probability" type="float">1</value>
+					<value name="uid" type="int">11</value>
+					<object name="variations">
+						<object id="0825485C">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_32</value>
+						</object>
+						<object id="0825485D">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_164</value>
+						</object>
+						<object id="458AC236">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_240</value>
+						</object>
+						<object id="484FB0C9">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_221</value>
+						</object>
+						<object id="A0EDAA03">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">192</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+						<object id="C865E0A0">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">225</value>
+							<value name="sound_cue" type="string">combat_rico_m_219</value>
+						</object>
+						<object id="C865E0A1">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">225</value>
+							<value name="sound_cue" type="string">combat_rico_m_82</value>
+						</object>
+						<object id="C865E0A2">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">225</value>
+							<value name="sound_cue" type="string">combat_rico_m_93</value>
+						</object>
+						<object id="D9DC7CF2">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_220</value>
+						</object>
+						<object id="E65E3638">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_100</value>
+						</object>
+						<object name="damn">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_201</value>
+						</object>
+						<object name="hahaha">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">192</value>
+							<value name="sound_cue" type="string">combat_rico_m_109</value>
+						</object>
+						<object name="oops">
+							<value id="10CB67BA" type="int">1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_200</value>
+						</object>
+					</object>
+				</object>
+				<object id="F70F65A8">
+					<value id="BBE0B233" type="float">2</value>
+					<value id="CBD36523" type="float">60</value>
+					<value id="E089F812" type="float">300</value>
+					<value name="event_name" type="string">gsy.activity.type04</value>
+					<value name="probability" type="float">0.5</value>
+					<value name="uid" type="int">14</value>
+					<object name="variations">
+						<object id="716184C5">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_179</value>
+						</object>
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+						<object id="C31B1376">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_52</value>
+						</object>
+						<object id="C31B1377">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_192</value>
+						</object>
+						<object name="hahaha">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_109</value>
+						</object>
+					</object>
+				</object>
+				<object name="Crane">
+					<value id="BBE0B233" type="float">0</value>
+					<value id="CBD36523" type="float">100</value>
+					<value id="E089F812" type="float">1000</value>
+					<value name="event_name" type="string">gsy.activity.type30</value>
+					<value name="probability" type="float">1</value>
+					<value name="uid" type="int">12</value>
+					<object name="variations">
+						<object id="08FF3611">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_110</value>
+						</object>
+						<object id="A0EDAA10">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_91</value>
+						</object>
+						<object id="A0EDAA11">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_53</value>
+						</object>
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+						<object name="hahaha">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_109</value>
+						</object>
+						<object name="oops">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">100</value>
+							<value name="sound_cue" type="string">combat_rico_m_200</value>
+						</object>
+					</object>
+				</object>
+				<object name="Hijack">
+					<value id="BBE0B233" type="float">0</value>
+					<value id="CBD36523" type="float">300</value>
+					<value id="E089F812" type="float">3600</value>
+					<value name="event_name" type="string">ply.hijack</value>
+					<value name="probability" type="float">0.9</value>
+					<value name="uid" type="int">9</value>
+					<object name="variations">
+						<object id="55CFCE6F">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_32</value>
+						</object>
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+						<object id="CE2360C4">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_69</value>
+						</object>
+						<object name="toughluck">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">100</value>
+							<value name="sound_cue" type="string">combat_rico_m_19</value>
+						</object>
+					</object>
+				</object>
+				<object name="PlayerHit">
+					<value id="BBE0B233" type="float">0</value>
+					<value id="CBD36523" type="float">5</value>
+					<value id="E089F812" type="float">10</value>
+					<value name="event_name" type="string">ply.reacthitfly</value>
+					<value name="probability" type="float">1</value>
+					<value name="uid" type="int">7</value>
+					<object name="variations">
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+						<object id="DE9066C8">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">2</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_rico_m_115</value>
+						</object>
+						<object id="F96569FD">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">2</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">0</value>
+							<value name="sound_cue" type="string">combat_rico_m_116</value>
+						</object>
+					</object>
+				</object>
+				<object name="RadioMast">
+					<value id="BBE0B233" type="float">2</value>
+					<value id="CBD36523" type="float">150</value>
+					<value id="E089F812" type="float">1000</value>
+					<value name="event_name" type="string">gsy.activity.type20</value>
+					<value name="probability" type="float">0.5</value>
+					<value name="uid" type="int">13</value>
+					<object name="variations">
+						<object id="08FF3611">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_110</value>
+						</object>
+						<object id="9F738B47">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">64</value>
+							<value name="sound_cue" type="string">combat_rico_m_142</value>
+						</object>
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+						<object id="A5CFF025">
+							<value id="10CB67BA" type="int">1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">96</value>
+							<value name="sound_cue" type="string">combat_rico_m_155</value>
+						</object>
+						<object id="FC09EB7D">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_255</value>
+						</object>
+						<object name="hahaha">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">128</value>
+							<value name="sound_cue" type="string">combat_rico_m_109</value>
+						</object>
+					</object>
+				</object>
+				<object name="Weaponpickup">
+					<value id="BBE0B233" type="float">0.5</value>
+					<value id="CBD36523" type="float">300</value>
+					<value id="E089F812" type="float">1000</value>
+					<value name="event_name" type="string">ply.weapon.picked_up</value>
+					<value name="probability" type="float">0.9</value>
+					<value name="uid" type="int">19</value>
+					<object name="variations">
+						<object id="305D840F">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">1</value>
+							<value name="sound_cue" type="string">combat_rico_m_193</value>
+						</object>
+						<object id="A0EDAA01">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_09</value>
+						</object>
+						<object id="A0EDAA03">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_142</value>
+						</object>
+						<object id="A0EDAA07">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_148</value>
+						</object>
+						<object id="A0EDAA09">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_147</value>
+						</object>
+						<object id="A0EDAA10">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_144</value>
+						</object>
+						<object id="A0EDAA11">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_146</value>
+						</object>
+						<object id="A0EDAA13">
+							<value id="10CB67BA" type="int">-1</value>
+							<value id="808D43CF" type="int">1</value>
+							<value id="C6396773" type="int">1</value>
+							<value name="mode_3d" type="int">0</value>
+							<value name="priority" type="int">255</value>
+							<value name="sound_cue" type="string">combat_rico_m_204</value>
+						</object>
+					</object>
+				</object>
+			</object>
+			<object name="global">
+				<value id="CBD36523" type="float">10</value>
+				<value id="E089F812" type="float">30</value>
+				<value name="offset_front" type="float">5</value>
+			</object>
+		</object>
+	</object>
+</root>

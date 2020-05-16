@@ -1,0 +1,750 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="Raw" endian="Little">
+	<object>
+		<object name="achievements">
+			<value name="11" type="float">3</value>
+			<value name="12" type="float">9</value>
+			<value name="13" type="float">49</value>
+			<value name="14" type="float">1</value>
+			<value name="15" type="float">150</value>
+			<value name="16" type="float">1000</value>
+			<value name="17" type="float">25</value>
+			<value name="18" type="float">10</value>
+			<value name="19" type="float">50</value>
+			<value name="20" type="float">1000</value>
+			<value name="21" type="float">100</value>
+			<value name="22" type="float">150</value>
+			<value name="23" type="float">100</value>
+			<value name="24" type="float">15</value>
+			<value name="25" type="float">100</value>
+			<value name="26" type="float">750</value>
+			<value name="27" type="float">50</value>
+			<value name="28" type="float">30</value>
+			<value name="29" type="float">5</value>
+			<value name="30" type="float">30</value>
+			<value name="31" type="float">5</value>
+			<value name="32" type="float">5</value>
+			<value name="33" type="float">30</value>
+			<value name="34" type="float">30</value>
+			<value name="35" type="float">50</value>
+			<value name="36" type="float">20</value>
+			<value name="37" type="float">50</value>
+			<value name="38" type="float">30</value>
+			<value name="39" type="float">30</value>
+			<value name="40" type="float">104</value>
+			<value name="41" type="float">75</value>
+			<value name="42" type="float">50</value>
+			<value name="43" type="float">100</value>
+			<value name="44" type="float">20</value>
+			<value name="45" type="float">300</value>
+			<value name="46" type="float">1000</value>
+			<value name="47" type="float">30</value>
+			<value name="48" type="float">30</value>
+			<value name="49" type="float">5</value>
+		</object>
+		<object name="statistics">
+			<object name="activities">
+				<object name="1"><!-- ace - fuel depot -->
+					<value name="chaos" type="int">150</value>
+					<value name="money" type="int">7500<!--750--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="title" type="string">act_type_txt_01</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="10"><!-- ace - satellite dish -->
+					<value name="chaos" type="int">250</value>
+					<value name="money" type="int">7500<!--1250--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="title" type="string">act_type_txt_10</value>
+					<value name="type" type="int">10</value>
+				</object>
+				<object name="11"><!-- ace - gas pump -->
+					<value name="chaos" type="int">100</value>
+					<value name="money" type="int">1500<!--500--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="title" type="string">act_type_txt_11</value>
+					<value name="type" type="int">11</value>
+				</object>
+				<object name="12"><!-- ace - gas holder -->
+					<value name="chaos" type="int">500</value>
+					<value name="money" type="int">15000<!--2500--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="title" type="string">act_type_txt_12</value>
+					<value name="type" type="int">12</value>
+				</object>
+				<object name="13"><!-- ace - small fuel container(barrel?) -->
+					<value name="chaos" type="int">10</value>
+					<value name="money" type="int">50</value>
+					<value name="sabotage" type="int">0</value>
+					<value name="title" type="string">act_smallfuelcon_tin_txt_01</value>
+					<value name="type" type="int">13</value>
+				</object>
+				<object name="14"><!-- ace - water tower -->
+					<value name="chaos" type="int">250</value>
+					<value name="money" type="int">5000</value>
+					<value name="sabotage" type="int">1</value>
+					<value name="title" type="string">act_type_txt_14</value>
+					<value name="type" type="int">14</value>
+				</object>
+				<object name="15"><!-- ace - radar -->
+					<value name="chaos" type="int">250</value>
+					<value name="money" type="int">7500<!--1250--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="title" type="string">act_type_txt_15</value>
+					<value name="type" type="int">15</value>
+				</object>
+				<object name="16"><!-- ace - wind turbine -->
+					<value name="chaos" type="int">500</value>
+					<value name="money" type="int">12500<!--2000--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="title" type="string">act_type_txt_16</value>
+					<value name="type" type="int">16</value>
+				</object>
+				<object name="17"><!-- ace - generator -->
+					<value name="chaos" type="int">250</value>
+					<value name="money" type="int">2500<!--1250--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="title" type="string">act_type_txt_17</value>
+					<value name="type" type="int">17</value>
+				</object>
+				<object name="18"><!-- ace - transformer -->
+					<value name="chaos" type="int">250</value>
+					<value name="money" type="int">5000<!--1250--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="title" type="string">act_type_txt_18</value>
+					<value name="type" type="int">18</value>
+				</object>
+				<object name="19"><!-- ace - broadcast tower -->
+					<value name="chaos" type="int">250</value>
+					<value name="money" type="int">5000<!--1250--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="title" type="string">act_type_txt_19</value>
+					<value name="type" type="int">19</value>
+				</object>
+				<object name="2"><!-- ace - mobile radar -->
+					<value name="chaos" type="int">500</value>
+					<value name="money" type="int">15000<!--2500--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="title" type="string">act_type_txt_02</value>
+					<value name="type" type="int">2</value>
+				</object>
+				<object name="20"><!-- ace - radio mast -->
+					<value name="chaos" type="int">1000</value>
+					<value name="money" type="int">15000<!--5000--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="text" type="string">act_message_txt_06</value>
+					<value name="title" type="string">act_type_txt_20</value>
+					<value name="type" type="int">20</value>
+				</object>
+				<object name="21"><!-- test this? -->
+					<value name="chaos" type="int">0</value>
+					<value name="money" type="int">1337</value>
+					<value name="sabotage" type="int">0</value>
+					<value name="title" type="string">1337 Kill<!--act_type_txt_21--></value>
+					<value name="type" type="int">21</value>
+				</object>
+				<object name="22"><!-- ace - sam site -->
+					<value name="chaos" type="int">500</value>
+					<value name="money" type="int">10000<!--2500--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="title" type="string">act_type_txt_22</value>
+					<value name="type" type="int">22</value>
+				</object>
+				<object name="23">
+					<value name="chaos" type="int">50</value>
+					<value name="money" type="int">1000<!--300--></value>
+					<value name="sabotage" type="int">0</value>
+					<value name="title" type="string">Military Vehicle Destroyed</value>
+					<value name="type" type="int">23</value>
+				</object>
+				<object name="24">
+					<value name="chaos" type="int">25</value>
+					<value name="money" type="int">500</value>
+					<value name="sabotage" type="int">0</value>
+					<value name="title" type="string">Bomb Expert Assassinated</value>
+					<value name="type" type="int">24</value>
+				</object>
+				<object name="25">
+					<value name="chaos" type="int">0</value>
+					<value name="money" type="int">100</value>
+					<value name="sabotage" type="int">0</value>
+					<value name="title" type="string">Elite Assassinated</value>
+					<value name="type" type="int">25</value>
+				</object>
+				<object name="26">
+					<value name="chaos" type="int">15</value>
+					<value name="money" type="int">250</value>
+					<value name="sabotage" type="int">0</value>
+					<value name="title" type="string">Ninja Assassinated</value>
+					<value name="type" type="int">26</value>
+				</object>
+				<object name="27">
+					<value name="chaos" type="int">10</value>
+					<value name="money" type="int">500</value>
+					<value name="sabotage" type="int">0</value>
+					<value name="title" type="string">Shielder Assassinated</value>
+					<value name="type" type="int">27</value>
+				</object>
+				<object name="28"><!-- ace - offshore rig destroyed -->
+					<value name="chaos" type="int">1500</value>
+					<value name="money" type="int">15000<!--7500--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="text" type="string">act_message_txt_08</value>
+					<value name="title" type="string">act_type_txt_28</value>
+					<value name="type" type="int">28</value>
+				</object>
+				<object name="29"><!-- ace - industrial chimney -->
+					<value name="chaos" type="int">750<!--500--></value><!-- ace +250 chaos -->
+					<value name="money" type="int">7500</value>
+					<value name="sabotage" type="int">1</value>
+					<value name="title" type="string">act_type_txt_29</value>
+					<value name="type" type="int">29</value>
+				</object>
+				<object name="3"><!-- ace - panay statue -->
+					<value name="chaos" type="int">1000</value>
+					<value name="money" type="int">15000</value>
+					<value name="sabotage" type="int">1</value>
+					<value name="text" type="string">act_message_txt_01</value>
+					<value name="title" type="string">act_type_txt_03</value>
+					<value name="type" type="int">3</value>
+				</object>
+				<object name="30"><!-- ace - crane -->
+					<value name="chaos" type="int">750<!--500--></value><!-- ace +250 chaos -->
+					<value name="money" type="int">12500<!--2500--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="title" type="string">act_type_txt_30</value>
+					<value name="type" type="int">30</value>
+				</object>
+				<object name="31"><!-- ace - large silo -->
+					<value name="chaos" type="int">500</value>
+					<value name="money" type="int">15000<!--2500--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="title" type="string">act_type_txt_31</value>
+					<value name="type" type="int">31</value>
+				</object>
+				<object name="4"><!-- ace - comm station destroyed -->
+					<value name="chaos" type="int">1500</value>
+					<value name="money" type="int">10000<!--5000--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="text" type="string">act_message_txt_02</value>
+					<value name="title" type="string">act_type_txt_04</value>
+					<value name="type" type="int">4</value>
+				</object>
+				<object name="5"><!-- ace - bio fuel shaft -->
+					<value name="chaos" type="int">500</value>
+					<value name="money" type="int">25000<!--7500--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="text" type="string">act_message_txt_07</value>
+					<value name="title" type="string">act_type_txt_05</value>
+					<value name="type" type="int">5</value>
+				</object>
+				<object name="6"><!-- ace - propaganda trailer -->
+					<value name="chaos" type="int">1000</value>
+					<value name="money" type="int">5000</value>
+					<value name="sabotage" type="int">1</value>
+					<value name="text" type="string">act_message_txt_03</value>
+					<value name="title" type="string">act_type_txt_06</value>
+					<value name="type" type="int">6</value>
+				</object>
+				<object name="7"><!-- ace - faction item -->
+					<value name="chaos" type="int">500</value>
+					<value name="money" type="int">5000<!--2000--></value>
+					<value name="sabotage" type="int">0</value>
+					<value name="title" type="string">gui_txt_265</value>
+					<value name="type" type="int">7</value>
+				</object>
+				<object name="8"><!-- ace - colonel assasinated -->
+					<value name="chaos" type="int">1000</value>
+					<value name="money" type="int">10000<!--5000--></value>
+					<value name="sabotage" type="int">0</value>
+					<value name="text" type="string">act_message_txt_04</value>
+					<value name="title" type="string">act_type_txt_08</value>
+					<value name="type" type="int">8</value>
+				</object>
+				<object name="9"><!-- ace - pipeline destroyed -->
+					<value name="chaos" type="int">1000</value>
+					<value name="money" type="int">15000<!--5000--></value>
+					<value name="sabotage" type="int">1</value>
+					<value name="text" type="string">act_message_txt_05</value>
+					<value name="title" type="string">act_type_txt_09</value>
+					<value name="type" type="int">9</value>
+				</object>
+			</object>
+			<value id="08253C1F" type="float">30</value>
+			<value id="41BF9A65" type="float">150</value>
+			<value id="84D9B044" type="float">125</value>
+			<value id="973EC8AC" type="float">60</value>
+			<value id="CCE9A25D" type="float">60</value>
+			<object id="6E235CF0">
+				<value id="03B22DFB" type="float">49</value>
+				<value id="0A38D5FC" type="float">7</value>
+				<value id="1474377D" type="float">75</value>
+				<value id="1A89F1A5" type="float">9</value>
+				<value id="3E4E8316" type="float">2700</value>
+				<value id="4D72369A" type="float">104</value>
+				<value id="5F7A3A0D" type="float">300</value>
+				<value id="67504B9E" type="float">10</value>
+				<value id="682D77B3" type="float">0</value>
+				<value id="68A761C5" type="float">50</value>
+				<value id="72968965" type="float">10</value>
+				<value id="7ABD84AE" type="float">10</value>
+				<value id="7CE61F02" type="float">22</value>
+				<value id="82CDF81B" type="float">0</value>
+				<value id="893DCEE5" type="float">7</value>
+				<value id="96698465" type="float">7</value>
+				<value id="9B469314" type="float">20</value>
+				<value id="9C3D35F6" type="float">3501</value>
+				<value id="AE51852F" type="float">9</value>
+				<value id="AF86E1DA" type="float">7</value>
+				<value id="BD6455EB" type="float">20</value>
+				<value id="CC976F3C" type="float">0</value>
+				<value id="FCDFE663" type="float">368</value>
+			</object>
+			<object id="9DF62AD1">
+				<object name="1"><!-- ace - total kills -->
+					<value name="first" type="int">50</value>
+					<value name="interval" type="int">50</value>
+					<value name="text" type="string">statistic_hud_txt_01</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="10"><!-- ace - chute climbing -->
+					<value name="first" type="int">25</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_10</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="11"><!-- ace - fully upgraded items -->
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_11</value>
+					<value id="C984283C" type="int">22</value>
+				</object>
+				<object name="12"><!-- ace - stuntjump/freestyle combo -->
+					<value name="first" type="int">3</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_12</value>
+					<value id="C984283C" type="int">20</value>
+				</object>
+				<object name="13"><!-- ace - unique vehicles driven -->
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_13</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">104</value>
+				</object>
+				<object name="14"><!-- ace - hijackings -->
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_14</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">50</value>
+				</object>
+				<object name="16"><!-- ace - base jump -->
+					<value name="first" type="int">50</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_16</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">1000</value>
+				</object>
+				<object name="17"><!-- ace - locations discovered -->
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_17</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">300</value>
+				</object>
+				<object name="18"><!-- ace - headshots -->
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_18</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="19"><!-- ace - locations completed -->
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_19</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">300</value>
+				</object>
+				<object name="2"><!-- ace - fall kills -->
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_02</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="20"><!-- ace - total chaos -->
+					<value name="first" type="int">100000</value>
+					<value name="interval" type="int">100000</value>
+					<value name="text" type="string">statistic_hud_txt_20</value>
+				</object>
+				<object name="21"><!-- ace - game time - hours? -->
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_21</value>
+				</object>
+				<object name="22"><!-- ace - money earned -->
+					<value name="first" type="int">100000</value>
+					<value name="interval" type="int">100000</value>
+					<value name="text" type="string">statistic_hud_txt_22</value>
+				</object>
+				<object name="23"><!-- ace - agency missions completed -->
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_23</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">7</value>
+				</object>
+				<object name="24"><!-- ace - faction missions -->
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_24</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">49</value>
+				</object>
+				<object name="25"><!-- ace - strongholds -->
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_25</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">9</value>
+				</object>
+				<object name="27"><!-- ace - blackmarket orders -->
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_27</value>
+				</object>
+				<object name="29"><!-- ace - weapon parts -->
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="priority" type="int">52</value>
+					<value name="text" type="string">statistic_hud_txt_29</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">950</value>
+				</object>
+				<object name="3"><!-- ace - drag kills -->
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_03</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="30"><!-- ace - vehicle parts -->
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="priority" type="int">51</value>
+					<value name="text" type="string">statistic_hud_txt_30</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">900</value>
+				</object>
+				<object name="31"><!-- ace - armor parts -->
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="priority" type="int">53</value>
+					<value name="text" type="string">statistic_hud_txt_31</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">300</value>
+				</object>
+				<object name="32"><!-- ace - cash stashes -->
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="priority" type="int">50</value>
+					<value name="text" type="string">statistic_hud_txt_32</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">400</value>
+				</object>
+				<object name="33"><!-- ace - fall height (for base jumping) -->
+					<value name="first" type="int">50</value>
+					<value name="interval" type="int">25<!--50--></value><!-- ace - test base jumping more dramatic? -->
+					<value name="text" type="string">statistic_hud_txt_33</value>
+				</object>
+				<object name="34"><!-- ace - resource items -->
+					<value name="first" type="int">10</value>
+					<value name="interval" type="int">10</value>
+					<value name="text" type="string">statistic_hud_txt_34</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">2700</value>
+				</object>
+				<object name="36"><!-- ace - sabotages -->
+					<value name="first" type="int">10</value>
+					<value name="interval" type="int">10</value>
+					<value name="text" type="string">statistic_hud_txt_36</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">5000</value>
+				</object>
+				<object name="37"><!-- ace - skulls -->
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_37</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">100</value>
+				</object>
+				<object name="38"><!-- ace - black boxes -->
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_38</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">100</value>
+				</object>
+				<object name="39"><!-- ace - drug drops -->
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_39</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">100</value>
+				</object>
+				<object name="4"><!-- ace - pinata kill -->
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_04</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="40">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_40</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">300</value>
+				</object>
+				<object name="43">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_43</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">75</value>
+				</object>
+				<object name="46">
+					<value name="first" type="int">10</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_46</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="47">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_47</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="48">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_48</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="5">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_05</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="50">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_50</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="52">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_52</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="53">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_53</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">30</value>
+				</object>
+				<object name="54">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_54</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">30</value>
+				</object>
+				<object name="6">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_06</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="60">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_60</value>
+					<value id="C984283C" type="int">600</value>
+				</object>
+				<object name="61">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_61</value>
+					<value id="C984283C" type="int">30</value>
+				</object>
+				<object name="62">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_62</value>
+					<value id="C984283C" type="int">50</value>
+				</object>
+				<object name="63">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_63</value>
+					<value id="C984283C" type="int">75</value>
+				</object>
+				<object name="64">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_64</value>
+					<value id="C984283C" type="int">15</value>
+				</object>
+				<object name="65">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_65</value>
+					<value id="C984283C" type="int">100</value>
+				</object>
+				<object name="67">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_67</value>
+					<value name="type" type="int">1</value>
+					<value id="C984283C" type="int">50</value>
+				</object>
+				<object name="68">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_68</value>
+					<value id="C984283C" type="int">50</value>
+				</object>
+				<object name="69">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_69</value>
+					<value id="C984283C" type="int">200</value>
+				</object>
+				<object name="7">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_07</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="70">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_70</value>
+					<value id="C984283C" type="int">100</value>
+				</object>
+				<object name="71">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_71</value>
+					<value id="C984283C" type="int">30</value>
+				</object>
+				<object name="73">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_73</value>
+					<value id="C984283C" type="int">30</value>
+				</object>
+				<object name="74">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_74</value>
+					<value id="C984283C" type="int">100</value>
+				</object>
+				<object name="75">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_75</value>
+					<value id="C984283C" type="int">30</value>
+				</object>
+				<object name="76">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_76</value>
+					<value id="C984283C" type="int">50</value>
+				</object>
+				<object name="77">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_77</value>
+					<value id="C984283C" type="int">50</value>
+				</object>
+				<object name="78">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_78</value>
+					<value id="C984283C" type="int">50</value>
+				</object>
+				<object name="79">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_79</value>
+					<value id="C984283C" type="int">30</value>
+				</object>
+				<object name="8">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_08</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="81">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_81</value>
+					<value id="C984283C" type="int">50</value>
+				</object>
+				<object name="83">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_83</value>
+				</object>
+				<object name="84">
+					<value name="first" type="int">10</value>
+					<value name="interval" type="int">10</value>
+					<value name="text" type="string">statistic_hud_txt_84</value>
+				</object>
+				<object name="85">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_85</value>
+				</object>
+				<object name="86">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_86</value>
+				</object>
+				<object name="87">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_87</value>
+					<value id="C984283C" type="int">11</value>
+				</object>
+				<object name="88">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_88</value>
+					<value id="C984283C" type="int">30</value>
+				</object>
+				<object name="89">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_89</value>
+					<value id="C984283C" type="int">30</value>
+				</object>
+				<object name="9">
+					<value name="first" type="int">1</value>
+					<value name="interval" type="int">1</value>
+					<value name="text" type="string">statistic_hud_txt_09</value>
+					<value name="type" type="int">1</value>
+				</object>
+				<object name="90">
+					<value name="first" type="int">5</value>
+					<value name="interval" type="int">5</value>
+					<value name="text" type="string">statistic_hud_txt_91</value>
+					<value id="C984283C" type="int">50</value>
+				</object>
+			</object>
+		</object>
+	</object>
+</container>

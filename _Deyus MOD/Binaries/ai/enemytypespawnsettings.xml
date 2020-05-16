@@ -1,0 +1,490 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<value id="B893EA9B" type="string">pursuitandsearch.aiteam</value>
+		<value id="CEECFE17" type="string">bofcx1.aiteam</value>
+		<value id="D3159EAE" type="string">heatboat.aiteam</value>
+		<object id="29516367">
+			<object id="16D9534E"><!--0_1-->
+				<value id="1ED928BC" type="float">0</value>
+				<value id="40C8F0C8" type="float">0</value>
+				<value id="4D1B57F1" type="float">20</value>
+				<value id="785F683E" type="float">30</value>
+				<value id="BB3E8934" type="float">100000</value>
+				<value id="C8B2CBB1" type="float">10</value>
+				<object name="elite">
+					<value id="02C28A95" type="float">0.01</value>
+					<value id="09C2FE43" type="float">0</value>
+					<value id="4E6057F3" type="float">0.1</value>
+					<value id="56CB4BB4" type="float">0</value>
+					<value id="5DAEAF96" type="float">0</value>
+					<value id="7291C6AE" type="float">1</value>
+					<value id="88216A5E" type="float">100</value>
+					<value id="B5ECFECF" type="float">0</value>
+					<value id="B60B2449" type="float">0</value>
+					<value id="BC1E553A" type="float">0</value>
+					<value name="health" type="float">250</value>
+					<object name="weapon_0">
+						<value name="probability" type="float">25</value>
+						<value name="weapon_name" type="string">Beretta Handgun</value>
+					</object>
+					<object name="weapon_1">
+						<value name="probability" type="float">25</value>
+						<value name="weapon_name" type="string">Revolver</value>
+					</object>
+					<object name="weapon_2">
+						<value name="probability" type="float">25</value>
+						<value name="weapon_name" type="string">Scorpion_SMG</value>
+					</object>
+					<object name="weapon_3">
+						<value name="probability" type="float">25</value>
+						<value name="weapon_name" type="string">Onehand Shotgun</value>
+					</object>
+				</object>
+				<object name="grunt">
+					<value id="02C28A95" type="float">0</value>
+					<value id="09C2FE43" type="float">0</value>
+					<value id="4E6057F3" type="float">0</value>
+					<value id="56CB4BB4" type="float">0</value>
+					<value id="5DAEAF96" type="float">0</value>
+					<value id="7291C6AE" type="float">0</value>
+					<value id="88216A5E" type="float">0</value>
+					<value id="B5ECFECF" type="float">0</value>
+					<value id="B60B2449" type="float">0</value>
+					<value id="BC1E553A" type="float">0</value>
+					<value name="health" type="float">100</value>
+					<object name="weapon_0">
+						<value name="probability" type="float">25</value>
+						<value name="weapon_name" type="string">Beretta Handgun</value>
+					</object>
+					<object name="weapon_1">
+						<value name="probability" type="float">25</value>
+						<value name="weapon_name" type="string">Revolver</value>
+					</object>
+					<object name="weapon_2">
+						<value name="probability" type="float">25</value>
+						<value name="weapon_name" type="string">Scorpion_SMG</value>
+					</object>
+					<object name="weapon_3">
+						<value name="probability" type="float">25</value>
+						<value name="weapon_name" type="string">Onehand Shotgun</value>
+					</object>
+				</object>
+			</object>
+			<object id="8948C4D2"><!--1_2-->
+				<value id="1ED928BC" type="float">10</value>
+				<value id="40C8F0C8" type="float">100000</value>
+				<value id="4D1B57F1" type="float">30</value>
+				<value id="785F683E" type="float">40</value>
+				<value id="BB3E8934" type="float">200000</value>
+				<value id="C8B2CBB1" type="float">20</value>
+				<object name="elite">
+					<value id="02C28A95" type="float">0.01</value>
+					<value id="09C2FE43" type="float">0</value>
+					<value id="4E6057F3" type="float">0.1</value>
+					<value id="56CB4BB4" type="float">0</value>
+					<value id="5DAEAF96" type="float">0</value>
+					<value id="7291C6AE" type="float">1</value>
+					<value id="88216A5E" type="float">100</value>
+					<value id="B5ECFECF" type="float">0</value>
+					<value id="B60B2449" type="float">0</value>
+					<value id="BC1E553A" type="float">0</value>
+					<value name="health" type="float">300</value>
+					<object name="weapon_0">
+						<value name="probability" type="float">14</value>
+						<value name="weapon_name" type="string">Beretta Handgun</value>
+					</object>
+					<object name="weapon_1">
+						<value name="probability" type="float">14</value>
+						<value name="weapon_name" type="string">Revolver</value>
+					</object>
+					<object name="weapon_2">
+						<value name="probability" type="float">14</value>
+						<value name="weapon_name" type="string">Scorpion_SMG</value>
+					</object>
+					<object name="weapon_3">
+						<value name="probability" type="float">14</value>
+						<value name="weapon_name" type="string">Onehand Shotgun</value>
+					</object>
+					<object name="weapon_4">
+						<value name="probability" type="float">14</value>
+						<value name="weapon_name" type="string">Assault</value>
+					</object>
+					<object name="weapon_5">
+						<value name="probability" type="float">14</value>
+						<value name="weapon_name" type="string">Shotgun (pump action)</value>
+					</object>
+					<object name="weapon_6">
+						<value name="probability" type="float">16</value>
+						<value name="weapon_name" type="string">MachineGun</value>
+					</object>
+				</object>
+				<object name="grunt">
+					<value id="02C28A95" type="float">0</value>
+					<value id="09C2FE43" type="float">0</value>
+					<value id="4E6057F3" type="float">0</value>
+					<value id="56CB4BB4" type="float">0</value>
+					<value id="5DAEAF96" type="float">0</value>
+					<value id="7291C6AE" type="float">0</value>
+					<value id="88216A5E" type="float">0</value>
+					<value id="B5ECFECF" type="float">0</value>
+					<value id="B60B2449" type="float">0</value>
+					<value id="BC1E553A" type="float">0</value>
+					<value name="health" type="float">150</value>
+					<object name="weapon_0">
+						<value name="probability" type="float">15</value>
+						<value name="weapon_name" type="string">Beretta Handgun</value>
+					</object>
+					<object name="weapon_1">
+						<value name="probability" type="float">17</value>
+						<value name="weapon_name" type="string">Revolver</value>
+					</object>
+					<object name="weapon_2">
+						<value name="probability" type="float">17</value>
+						<value name="weapon_name" type="string">Scorpion_SMG</value>
+					</object>
+					<object name="weapon_3">
+						<value name="probability" type="float">17</value>
+						<value name="weapon_name" type="string">Onehand Shotgun</value>
+					</object>
+					<object name="weapon_4">
+						<value name="probability" type="float">17</value>
+						<value name="weapon_name" type="string">Assault</value>
+					</object>
+					<object name="weapon_5">
+						<value name="probability" type="float">17</value>
+						<value name="weapon_name" type="string">Shotgun (pump action)</value>
+					</object>
+				</object>
+			</object>
+			<object id="D5427EC1"><!--2_3-->
+				<value id="1ED928BC" type="float">20</value>
+				<value id="40C8F0C8" type="float">200000</value>
+				<value id="4D1B57F1" type="float">40</value>
+				<value id="785F683E" type="float">50</value>
+				<value id="BB3E8934" type="float">300000</value>
+				<value id="C8B2CBB1" type="float">30</value>
+				<object name="elite">
+					<value id="02C28A95" type="float">0.01</value>
+					<value id="09C2FE43" type="float">0</value>
+					<value id="4E6057F3" type="float">0.1</value>
+					<value id="56CB4BB4" type="float">0</value>
+					<value id="5DAEAF96" type="float">0</value>
+					<value id="7291C6AE" type="float">1</value>
+					<value id="88216A5E" type="float">100</value>
+					<value id="B5ECFECF" type="float">0</value>
+					<value id="B60B2449" type="float">0</value>
+					<value id="BC1E553A" type="float">0</value>
+					<value name="health" type="float">350</value>
+					<object name="weapon_0">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Beretta Handgun</value>
+					</object>
+					<object name="weapon_1">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Revolver</value>
+					</object>
+					<object name="weapon_2">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Scorpion_SMG</value>
+					</object>
+					<object name="weapon_3">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Onehand Shotgun</value>
+					</object>
+					<object name="weapon_4">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Assault</value>
+					</object>
+					<object name="weapon_5">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Shotgun (pump action)</value>
+					</object>
+					<object name="weapon_6">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">MachineGun</value>
+					</object>
+					<object name="weapon_7">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Sniper</value>
+					</object>
+				</object>
+				<object name="grunt">
+					<value id="02C28A95" type="float">0</value>
+					<value id="09C2FE43" type="float">0</value>
+					<value id="4E6057F3" type="float">0</value>
+					<value id="56CB4BB4" type="float">0</value>
+					<value id="5DAEAF96" type="float">0</value>
+					<value id="7291C6AE" type="float">0</value>
+					<value id="88216A5E" type="float">0</value>
+					<value id="B5ECFECF" type="float">0</value>
+					<value id="B60B2449" type="float">0</value>
+					<value id="BC1E553A" type="float">0</value>
+					<value name="health" type="float">200</value>
+					<object name="weapon_0">
+						<value name="probability" type="float">15</value>
+						<value name="weapon_name" type="string">Beretta Handgun</value>
+					</object>
+					<object name="weapon_1">
+						<value name="probability" type="float">17</value>
+						<value name="weapon_name" type="string">Revolver</value>
+					</object>
+					<object name="weapon_2">
+						<value name="probability" type="float">17</value>
+						<value name="weapon_name" type="string">Scorpion_SMG</value>
+					</object>
+					<object name="weapon_3">
+						<value name="probability" type="float">17</value>
+						<value name="weapon_name" type="string">Onehand Shotgun</value>
+					</object>
+					<object name="weapon_4">
+						<value name="probability" type="float">17</value>
+						<value name="weapon_name" type="string">Assault</value>
+					</object>
+					<object name="weapon_5">
+						<value name="probability" type="float">17</value>
+						<value name="weapon_name" type="string">Shotgun (pump action)</value>
+					</object>
+				</object>
+			</object>
+			<object id="7AACB783"><!--3_4-->
+				<value id="1ED928BC" type="float">30</value>
+				<value id="40C8F0C8" type="float">300000</value>
+				<value id="4D1B57F1" type="float">50</value>
+				<value id="785F683E" type="float">60</value>
+				<value id="BB3E8934" type="float">400000</value>
+				<value id="C8B2CBB1" type="float">40</value>
+				<object name="elite">
+					<value id="02C28A95" type="float">0.01</value>
+					<value id="09C2FE43" type="float">0</value>
+					<value id="4E6057F3" type="float">0.1</value>
+					<value id="56CB4BB4" type="float">0</value>
+					<value id="5DAEAF96" type="float">0</value>
+					<value id="7291C6AE" type="float">1</value>
+					<value id="88216A5E" type="float">100</value>
+					<value id="B5ECFECF" type="float">0</value>
+					<value id="B60B2449" type="float">0</value>
+					<value id="BC1E553A" type="float">0</value>
+					<value name="health" type="float">400</value>
+					<object name="weapon_0">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Beretta Handgun</value>
+					</object>
+					<object name="weapon_1">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Revolver</value>
+					</object>
+					<object name="weapon_2">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Scorpion_SMG</value>
+					</object>
+					<object name="weapon_3">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Onehand Shotgun</value>
+					</object>
+					<object name="weapon_4">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Assault</value>
+					</object>
+					<object name="weapon_5">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Shotgun (pump action)</value>
+					</object>
+					<object name="weapon_6">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">MachineGun</value>
+					</object>
+					<object name="weapon_7">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Sniper</value>
+					</object>
+				</object>
+				<object name="grunt">
+					<value id="02C28A95" type="float">0</value>
+					<value id="09C2FE43" type="float">0</value>
+					<value id="4E6057F3" type="float">0</value>
+					<value id="56CB4BB4" type="float">0</value>
+					<value id="5DAEAF96" type="float">0</value>
+					<value id="7291C6AE" type="float">0</value>
+					<value id="88216A5E" type="float">0</value>
+					<value id="B5ECFECF" type="float">0</value>
+					<value id="B60B2449" type="float">0</value>
+					<value id="BC1E553A" type="float">0</value>
+					<value name="health" type="float">250</value>
+					<object name="weapon_0">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Beretta Handgun</value>
+					</object>
+					<object name="weapon_1">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Revolver</value>
+					</object>
+					<object name="weapon_2">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Scorpion_SMG</value>
+					</object>
+					<object name="weapon_3">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Onehand Shotgun</value>
+					</object>
+					<object name="weapon_4">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Assault</value>
+					</object>
+					<object name="weapon_5">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Shotgun (pump action)</value>
+					</object>
+					<object name="weapon_6">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">MachineGun</value>
+					</object>
+					<object name="weapon_7">
+						<value name="probability" type="float">12.5</value>
+						<value name="weapon_name" type="string">Sniper</value>
+					</object>
+				</object>
+			</object>
+			<object id="E5ACC41F"><!--4_5-->
+				<value id="1ED928BC" type="float">35</value>
+				<value id="40C8F0C8" type="float">400000</value>
+				<value id="4D1B57F1" type="float">55</value>
+				<value id="785F683E" type="float">65</value>
+				<value id="BB3E8934" type="float">500000</value>
+				<value id="C8B2CBB1" type="float">45</value>
+				<object name="elite">
+					<value id="02C28A95" type="float">0.01</value>
+					<value id="09C2FE43" type="float">0</value>
+					<value id="4E6057F3" type="float">0.1</value>
+					<value id="56CB4BB4" type="float">0</value>
+					<value id="5DAEAF96" type="float">0</value>
+					<value id="7291C6AE" type="float">1</value>
+					<value id="88216A5E" type="float">100</value>
+					<value id="B5ECFECF" type="float">0</value>
+					<value id="B60B2449" type="float">0</value>
+					<value id="BC1E553A" type="float">0</value>
+					<value name="health" type="float">450</value>
+					<object name="weapon_0">
+						<value name="probability" type="float">11</value>
+						<value name="weapon_name" type="string">Beretta Handgun</value>
+					</object>
+					<object name="weapon_1">
+						<value name="probability" type="float">11</value>
+						<value name="weapon_name" type="string">Revolver</value>
+					</object>
+					<object name="weapon_2">
+						<value name="probability" type="float">11</value>
+						<value name="weapon_name" type="string">Scorpion_SMG</value>
+					</object>
+					<object name="weapon_3">
+						<value name="probability" type="float">11</value>
+						<value name="weapon_name" type="string">Onehand Shotgun</value>
+					</object>
+					<object name="weapon_4">
+						<value name="probability" type="float">12</value>
+						<value name="weapon_name" type="string">Assault</value>
+					</object>
+					<object name="weapon_5">
+						<value name="probability" type="float">11</value>
+						<value name="weapon_name" type="string">Shotgun (pump action)</value>
+					</object>
+					<object name="weapon_6">
+						<value name="probability" type="float">11</value>
+						<value name="weapon_name" type="string">MachineGun</value>
+					</object>
+					<object name="weapon_7">
+						<value name="probability" type="float">11</value>
+						<value name="weapon_name" type="string">Sniper</value>
+					</object>
+					<object name="weapon_8">
+						<value name="probability" type="float">11</value>
+						<value name="weapon_name" type="string">GrenadeLauncher</value>
+					</object>
+				</object>
+				<object name="grunt">
+					<value id="02C28A95" type="float">0</value>
+					<value id="09C2FE43" type="float">0</value>
+					<value id="4E6057F3" type="float">0</value>
+					<value id="56CB4BB4" type="float">0</value>
+					<value id="5DAEAF96" type="float">0</value>
+					<value id="7291C6AE" type="float">0</value>
+					<value id="88216A5E" type="float">0</value>
+					<value id="B5ECFECF" type="float">0</value>
+					<value id="B60B2449" type="float">0</value>
+					<value id="BC1E553A" type="float">0</value>
+					<value name="health" type="float">300</value>
+					<object name="weapon_0">
+						<value name="probability" type="float">11</value>
+						<value name="weapon_name" type="string">Beretta Handgun</value>
+					</object>
+					<object name="weapon_1">
+						<value name="probability" type="float">12</value>
+						<value name="weapon_name" type="string">Revolver</value>
+					</object>
+					<object name="weapon_2">
+						<value name="probability" type="float">11</value>
+						<value name="weapon_name" type="string">Scorpion_SMG</value>
+					</object>
+					<object name="weapon_3">
+						<value name="probability" type="float">11</value>
+						<value name="weapon_name" type="string">Onehand Shotgun</value>
+					</object>
+					<object name="weapon_4">
+						<value name="probability" type="float">11</value>
+						<value name="weapon_name" type="string">Assault</value>
+					</object>
+					<object name="weapon_5">
+						<value name="probability" type="float">11</value>
+						<value name="weapon_name" type="string">Shotgun (pump action)</value>
+					</object>
+					<object name="weapon_6">
+						<value name="probability" type="float">11</value>
+						<value name="weapon_name" type="string">MachineGun</value>
+					</object>
+					<object name="weapon_7">
+						<value name="probability" type="float">11</value>
+						<value name="weapon_name" type="string">Sniper</value>
+					</object>
+					<object name="weapon_8">
+						<value name="probability" type="float">11</value>
+						<value name="weapon_name" type="string">GrenadeLauncher</value>
+					</object>
+				</object>
+			</object>
+		</object>
+		<object name="factions">
+			<object id="334E0E92">
+				<value id="2DA78D2C" type="string">PD_BlackHand.cdoll</value>
+				<value id="46CF55C6" type="string">PD_BlackHand.cdoll</value>
+			</object>
+			<object id="695D83A4">
+				<value id="2DA78D2C" type="string">PD_MS_JapaneseVeterans.cdoll</value>
+				<value id="46CF55C6" type="string">PD_MS_JapaneseVeterans.cdoll</value>
+			</object>
+			<object id="B0E472E3">
+				<value id="2DA78D2C" type="string">PD_MS_FactoryWorkers.cdoll</value>
+				<value id="46CF55C6" type="string">PD_MS_FactoryWorkers.cdoll</value>
+			</object>
+			<object id="D28FCC07">
+				<value id="2DA78D2C" type="string">PD_MS_ThugBoss.cdoll</value>
+				<value id="46CF55C6" type="string">PD_Thugs1.cdoll</value>
+			</object>
+			<object name="goverment">
+				<value id="2DA78D2C" type="string">pd_gov_elite.cdoll</value>
+				<value id="46CF55C6" type="string">pd_gov_base01.cdoll</value>
+			</object>
+			<object name="reapers">
+				<value id="2DA78D2C" type="string">PD_ReapersElite1.cdoll</value>
+				<value id="46CF55C6" type="string">PD_ReapersBase1.cdoll</value>
+			</object>
+			<object name="roaches">
+				<value id="2DA78D2C" type="string">PD_RoachesElite1.cdoll</value>
+				<value id="46CF55C6" type="string">PD_RoachesBase1.cdoll</value>
+			</object>
+			<object name="ularboys">
+				<value id="2DA78D2C" type="string">PD_UlarBoysElite1.cdoll</value>
+				<value id="46CF55C6" type="string">PD_UlarBoysBase1.cdoll</value>
+			</object>
+		</object>
+	</object>
+</root>

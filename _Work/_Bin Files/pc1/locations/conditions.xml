@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object id="0FD6192F">
+			<value id="6A0D2CA3" type="int">0</value>
+			<value name="disable_event" type="string">msy.km07.completed</value>
+			<value name="enable_event" type="string">msy.km07.activated</value>
+			<value name="name" type="string">keymissions\km07\km07.submarine.animation</value>
+		</object>
+		<object id="51880B0B">
+			<value id="6A0D2CA3" type="int">0</value>
+			<value name="disable_event" type="string">msy.f3t08.completed</value>
+			<value name="enable_event" type="string">msy.f3t08.activated</value>
+			<value name="name" type="string">factiontasks\f3t08\f3t08.road</value>
+		</object>
+		<object id="58FA510E">
+			<value id="6A0D2CA3" type="int">0</value>
+			<value name="disable_event" type="string">msy.km04.completed</value>
+			<value name="enable_event" type="string">msy.km04.validate msy.validateall msy.km04.activated msy.km04Emp.activated</value>
+			<value name="name" type="string">keymissions\km04\km04.sheldonscamp</value>
+		</object>
+		<object id="8F7DB614">
+			<value id="6A0D2CA3" type="int">0</value>
+			<value name="disable_event" type="string">msy.km07.completed</value>
+			<value name="enable_event" type="string">km07.subAnimationComplete km07.Obj04.checkpoint km07.obj05.checkpointLoad</value>
+			<value name="name" type="string">keymissions\km07\km07.submarine</value>
+		</object>
+		<object id="A6DD07E6">
+			<value id="6A0D2CA3" type="int">0</value>
+			<value name="disable_event" type="string">msy.f2t02.completed</value>
+			<value name="enable_event" type="string">msy.f2t02.activated</value>
+			<value name="name" type="string">factiontasks\f2t02\f2t02.rooftop</value>
+		</object>
+	</object>
+</root>

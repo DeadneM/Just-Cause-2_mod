@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object id="C319D0D0">
+			<value id="89316902" type="int">1</value>
+			<value name="government" type="int">0</value>
+			<value name="reapers" type="int">1</value>
+			<value name="roaches" type="int">1</value>
+			<value name="ular_boys" type="int">1</value>
+		</object>
+		<object name="factions">
+			<object id="89316902">
+				<value name="government" type="int">1</value>
+				<value name="player" type="int">0</value>
+				<value name="reapers" type="int">0</value>
+				<value name="roaches" type="int">0</value>
+				<value name="ular_boys" type="int">0</value>
+			</object>
+			<object name="government">
+				<value id="89316902" type="int">1</value>
+				<value name="reapers" type="int">1</value>
+				<value name="roaches" type="int">1</value>
+				<value name="ular_boys" type="int">1</value>
+			</object>
+			<object name="player">
+				<value id="89316902" type="int">1</value>
+				<value name="government" type="int">1</value>
+				<value name="reapers" type="int">0</value>
+				<value name="roaches" type="int">0</value>
+				<value name="ular_boys" type="int">0</value>
+			</object>
+			<object name="reapers">
+				<value name="government" type="int">1</value>
+				<value name="roaches" type="int">1</value>
+				<value name="ular_boys" type="int">1</value>
+			</object>
+			<object name="roaches">
+				<value name="government" type="int">1</value>
+				<value name="reapers" type="int">1</value>
+				<value name="ular_boys" type="int">1</value>
+			</object>
+			<object name="ular_boys">
+				<value name="government" type="int">1</value>
+				<value name="reapers" type="int">1</value>
+				<value name="roaches" type="int">1</value>
+			</object>
+		</object>
+	</object>
+</root>

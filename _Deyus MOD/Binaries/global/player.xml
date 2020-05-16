@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object id="D77D235E">
+			<value id="0C24C6D4" type="float">0.2</value>
+			<value id="38161B93" type="float">0.5</value>
+			<value id="3FCF9D25" type="vec4">0,0,0,0</value>
+			<value id="4289B6F9" type="float">0.16</value>
+			<value id="5A1A6AED" type="vec4">1,0,0,0</value>
+		</object>
+		<object name="player">
+			<value id="047F8A06" type="float">1.5</value>
+			<value id="068A0D8A" type="float">10</value>
+			<value id="08D90BFF" type="float">0.5</value>
+			<value id="091037D3" type="float">1.5</value>
+			<value id="0F172953" type="float">0.5</value>
+			<value id="10EB54AC" type="float">1.5</value>
+			<value id="13F53330" type="float">1</value>
+			<value id="29F68500" type="float">1</value>
+			<value id="2B42FFDC" type="float">1.5</value>
+			<value id="2C121D50" type="string">settings\rico_voiceover.bin</value>
+			<value id="2CD6049B" type="float">1</value>
+			<value id="2D52112B" type="float">0.1</value>
+			<value id="2DB11D39" type="vec4">1,1,1,1</value>
+			<value id="2EC16451" type="float">1</value>
+			<value id="3433DB87" type="float">0</value>
+			<value id="35E327A3" type="float">2</value>
+			<value id="401D3FED" type="float">1</value>
+			<value id="404849A3" type="float">1</value>
+			<value id="4F446BFD" type="float">0.2</value>
+			<value id="4F5AB59D" type="float">5</value>
+			<value id="53AB1D4A" type="vec4">1,1,1,1</value>
+			<value id="54010C8F" type="float">1.5</value>
+			<value id="63F1368F" type="string">Settings/BlackMarket.bin</value>
+			<value id="642B0D95" type="float">2</value>
+			<value id="68122C38" type="vec4">1,1,1,1</value>
+			<value id="6947EA97" type="float">0.01</value>
+			<value id="6A1FB54C" type="float">8</value>
+			<value id="6CED9F36" type="float">1</value>
+			<value id="70A3E5B0" type="string">animations\animationsets\additivelayer.asb</value>
+			<value id="7351C161" type="float">1.5</value>
+			<value id="742E4554" type="float">1</value>
+			<value id="83C21FC0" type="float">200</value>
+			<value id="8473A36A" type="float">0.3</value>
+			<value id="8BAF45C4" type="float">0.25</value>
+			<value id="8BD0E879" type="string">characters\kc_001_eyelid</value>
+			<value id="943B2012" type="float">2</value>
+			<value id="99C3D522" type="float">1.5</value>
+			<value id="99F8E9B4" type="float">200</value>
+			<value id="A5538EF9" type="float">0</value>
+			<value id="AAF0F529" type="float">0.5</value>
+			<value id="B29AE4AB" type="float">5</value>
+			<value id="B7AFED40" type="float">0.5</value>
+			<value id="BD8B2260" type="float">2048</value>
+			<value id="C6144CA7" type="float">0.1</value>
+			<value id="CCA9D59E" type="float">1</value>
+			<value id="CD233B12" type="float">1</value>
+			<value id="D7FE315A" type="float">4</value>
+			<value id="DED1F014" type="string">Settings/Achievements.bin</value>
+			<value id="EC8ED807" type="float">0.01</value>
+			<value id="F3332615" type="float">1.5</value>
+			<value id="F4A3181F" type="float">0.25</value>
+			<value id="F597D19D" type="float">1.5</value>
+			<value id="F5D59EE4" type="float">0.5</value>
+			<value id="FDEA19CA" type="float">1</value>
+			<value name="additive_state_machine" type="string">animations\StateMachine\AdditiveStateMachine.afsm</value>
+			<value name="base_state_machine" type="string">animations\StateMachine\BaseStateMachine.afsm</value>
+			<value name="char_animset" type="string">animations\animationsets\kc001_base.asb</value>
+			<value name="dir" type="vec">0.911,0.137,-0.39</value>
+			<value name="effect_filename" type="string">Effects\CharacterEffectSettings\RicosEffects.bin</value>
+			<value name="HitReaction_ExplosionImpulseMultiplier" type="float">1</value>
+			<value name="HitReaction_ExtremeImpactForce" type="float">75</value>
+			<value name="HitReaction_ExtremeImpactMultiplier" type="float">1.5</value>
+			<value name="HitReaction_ImpactForceDecaySpeed" type="float">3</value>
+			<value name="HitReaction_MajorImpactForce" type="float">50</value>
+			<value name="HitReaction_MajorImpactMultiplier" type="float">1.25</value>
+			<value name="HitReaction_MaxImpactForce" type="float">300</value>
+			<value name="HitReaction_MinorImpactMultiplier" type="float">1</value>
+			<value name="HitReaction_StuntFallOffImpactForce" type="float">1</value>
+			<value name="ImpactDamageFactor" type="float">2</value>
+			<value name="ImpactDamageThreshold" type="float">20</value>
+			<value name="left_arm_animset" type="string">animations\animationsets\kc001_leftarm.asb</value>
+			<value name="left_arm_state_machine" type="string">animations\StateMachine\LeftArmStateMachine.afsm</value>
+			<value name="model" type="string">Characters\MainCharacters\Rico\mc01_lod1-rico</value>
+			<value name="pos" type="vec">1281,663,-12143</value>
+			<value name="ResourceItemPickupRange" type="float">150</value>
+			<value name="skeleton" type="string">animations\skeletons\syncreadthis\biped.bsk</value>
+			<value name="team" type="int">3</value>
+			<value name="upper_animset" type="string">animations\animationsets\kc001_upperbody.asb</value>
+			<value name="upperbody_state_machine" type="string">animations\StateMachine\UpperBodyStateMachine.afsm</value>
+			<object id="A2712E04">
+				<value id="3631A212" type="float">0.4</value>
+				<value id="42170781" type="float">0.22</value>
+				<value id="94E95F3C" type="float">15</value>
+				<value id="9F2C04D4" type="float">3</value>
+				<value id="A83F764B" type="float">0.06</value>
+			</object>
+			<object id="DA2A8848">
+				<value name="water_splash" type="int">370</value>
+			</object>
+			<object id="EC970BE2">
+				<value id="5F372808" type="string"></value>
+				<value name="explosive_slot" type="string"></value>
+				<value name="grapplinghook" type="string">Grapplinghook</value>
+				<value name="left_slot" type="string"></value>
+				<value name="pickupcontainer" type="string">Settings\weapon_pickup.bin</value>
+				<value name="right_slot" type="string"></value>
+				<object id="BF1FBA17">
+					<value name="0" type="int">-1</value>
+					<value name="1" type="int">-1</value>
+					<value name="2" type="int">0</value>
+				</object>
+			</object>
+			<object name="Ammunition">
+				<value name="1" type="int">160</value>
+				<value name="12" type="int">0</value>
+				<value name="2" type="int">0</value>
+				<value name="3" type="int">0</value>
+				<value name="4" type="int">0</value>
+				<value name="5" type="int">0</value>
+				<value name="6" type="int">0</value>
+				<value name="7" type="int">0</value>
+				<value name="8" type="int">0</value>
+			</object>
+			<object name="Armor">
+				<object name="damage_bullet">
+					<value name="armor_type" type="int">0</value>
+					<value name="damage_factor" type="float">1</value>
+					<value name="protection" type="float">0</value>
+				</object>
+				<object name="damage_electricity">
+					<value name="armor_type" type="int">0</value>
+					<value name="damage_factor" type="float">1.5</value>
+					<value name="protection" type="float">0</value>
+				</object>
+				<object name="damage_explosion">
+					<value name="armor_type" type="int">1</value>
+					<value name="damage_factor" type="float">1</value>
+					<value name="protection" type="float">0</value>
+				</object>
+				<object name="damage_fire">
+					<value name="armor_type" type="int">1</value>
+					<value name="damage_factor" type="float">1.5</value>
+					<value name="protection" type="float">0</value>
+				</object>
+				<object name="damage_impact">
+					<value name="armor_type" type="int">1</value>
+					<value name="damage_factor" type="float">0.5</value>
+					<value name="protection" type="float">0</value>
+				</object>
+				<object name="damage_melee">
+					<value name="armor_type" type="int">0</value>
+					<value name="damage_factor" type="float">1</value>
+					<value name="protection" type="float">0</value>
+				</object>
+			</object>
+			<object name="cameras">
+				<value id="1535A5D3" type="int">3</value>
+				<value id="18DC14E2" type="int">5</value>
+				<value id="A14309E8" type="int">65</value>
+				<value id="A907F302" type="int">30</value>
+				<value id="B93065E2" type="int">0</value>
+				<value id="BA613CDE" type="int">26</value>
+				<value id="F11F6034" type="int">69</value>
+				<value name="BaseJump" type="int">2</value>
+				<value name="BigGun" type="int">0</value>
+				<value name="Dive" type="int">39</value>
+				<value name="Ladder" type="int">0</value>
+				<value name="OnFoot" type="int">0</value>
+				<value name="Parachute" type="int">1</value>
+				<value name="Ragdoll" type="int">25</value>
+				<value name="SkyDive" type="int">2</value>
+				<value name="Swim" type="int">38</value>
+			</object>
+			<object name="effects">
+				<value id="AA602D11" type="string">fx_env_bubble_field_01</value>
+				<value name="cold_breath" type="string">fx_coldbreath</value>
+				<value name="underwater_breath" type="string">fx_breath_bubbles</value>
+				<value name="water_idle" type="string">fx_char_idle_water_01</value>
+				<value name="water_swim" type="string">fx_char_swim_01</value>
+			</object>
+			<object name="grappling_settings">
+				<value id="7F0D2FDD" type="string">Settings/GrapplingParams.bin</value>
+				<value name="setting_container" type="string">PlayerGrapplingHook_01</value>
+			</object>
+			<object name="HealthSystem">
+				<value id="01A15877" type="float">0</value>
+				<value id="07F6727E" type="float">200</value>
+				<value id="13845273" type="float">800</value>
+				<value id="151E6519" type="float">-100</value>
+				<value id="29232A0E" type="float">0.25</value>
+				<value id="682F1112" type="float">190</value>
+				<value id="68652404" type="float">0.35</value>
+				<value id="82ACD460" type="float">0.45</value>
+				<value id="852F383F" type="float">0.3</value>
+				<value id="89213D67" type="float">0</value>
+				<value id="A07147D5" type="float">0</value>
+				<value id="AA1F7C66" type="float">0.5</value>
+				<value id="AADC80AF" type="float">3</value>
+				<value id="B0E034A2" type="float">0</value>
+				<value id="B2B140F7" type="float">-100</value>
+				<value id="C055C7BA" type="float">0.35</value>
+				<value id="C5A24BDD" type="int">40</value>
+				<value id="CE80BDDB" type="float">180</value>
+				<value id="D2E12BD4" type="float">0.4</value>
+				<value id="DE428924" type="float">170</value>
+				<value id="DFE23773" type="float">0.35</value>
+				<value id="F66AC772" type="float">1.5</value>
+				<value name="air_supply_empty_time" type="float">180</value>
+				<value name="air_supply_max" type="float">500</value>
+				<value name="air_supply_regen_delay" type="float">1.5</value>
+				<value name="air_supply_regen_time" type="float">3</value>
+				<value name="damage_load_decrease_rate" type="float">250</value>
+				<value name="damage_load_effect_max" type="float">0.9</value>
+				<value name="damage_load_effect_min" type="float">0.7</value>
+				<value name="damage_load_max" type="float">500</value>
+				<value name="damage_load_min" type="float">500</value>
+				<value name="health" type="float">400</value>
+				<value name="healthbar_offset" type="vec">0,0.1,0.1</value>
+				<value name="hit_alpha_max" type="float">0.9</value>
+				<value name="hit_alpha_max_health" type="float">1000</value>
+				<value name="hit_alpha_min" type="float">0.7</value>
+				<value name="hit_color" type="vec">1,0.1,0.1</value>
+				<value name="hit_fade_time" type="float">1.5</value>
+				<value name="resist_alpha_max" type="float">1</value>
+				<value name="resist_alpha_max_resistance" type="float">250</value>
+				<value name="resist_alpha_min" type="float">1</value>
+				<value name="resist_color" type="vec">1,0.3,0.3</value>
+				<value name="resistance_effect_max" type="float">1</value>
+				<value name="resistance_effect_max_resistance" type="float">0</value>
+				<value name="resistance_effect_min" type="float">0.1</value>
+				<value name="resistance_effect_min_resistance" type="float">100</value>
+				<value name="resistance_regen_delay" type="float">2.5</value>
+				<value name="resistance_regen_rate" type="float">250</value>
+			</object>
+			<object name="melee">
+				<object name="kick">
+					<value name="auto_aim_angle" type="float">0</value>
+					<value name="auto_aim_interval" type="vec2">0,0</value>
+					<value name="character_impulse" type="float">400</value>
+					<value name="damage" type="float">100</value>
+					<value name="hit_reaction_impact_force" type="float">600</value>
+					<value name="object_impulse" type="float">300</value>
+				</object>
+				<object name="running_kick">
+					<value name="auto_aim_angle" type="float">30</value>
+					<value name="auto_aim_interval" type="vec2">0.3,5</value>
+					<value name="character_impulse" type="float">500</value>
+					<value name="damage" type="float">100</value>
+					<value name="hit_reaction_impact_force" type="float">800</value>
+					<value name="object_impulse" type="float">400</value>
+				</object>
+			</object>
+			<object name="parachute_settings">
+				<value id="55CAF23A" type="string">parachute00</value>
+				<value id="7F0D2FDD" type="string">Settings/ParachuteParams.bin</value>
+			</object>
+			<object name="PlayerMechanics">
+				<object name="JumpAndFall">
+					<value name="Gravity" type="float">-35</value>
+					<value name="InputJumpVelocityGain" type="float">6</value>
+					<value name="JumpRotationSpeed" type="float">1.570796</value>
+				</object>
+			</object>
+		</object>
+	</object>
+</root>

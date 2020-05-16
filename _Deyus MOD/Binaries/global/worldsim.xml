@@ -1,0 +1,776 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<value id="0A46DBA1" type="float">100</value>
+		<value id="14BA3A84" type="string">Terrain\\GameZone.bin</value>
+		<value id="5EE70CEE" type="float">0.75</value>
+		<value id="74AAB200" type="float">20</value>
+		<value id="961A4D07" type="float">0.75</value>
+		<value name="civilian_health" type="float">60</value>
+		<value name="team_file" type="string">worldsim.aiteam</value>
+		<object id="7C49BE4C">
+			<value id="22E7521B" type="int">1</value>
+			<value id="7635628A" type="float">0.2</value>
+			<value id="8448AE90" type="float">20</value>
+			<value id="A3809AD6" type="float">2</value>
+			<value name="max_count" type="int">45</value>
+			<object id="15EDFEA4">
+				<value id="0FF60EE4" type="int">1</value>
+				<value id="2A8EC861" type="float">90</value>
+				<value id="6FC9A225" type="float">80</value>
+				<value id="873600DC" type="float">150</value>
+				<value id="892F11C1" type="float">190</value>
+				<value id="AE6B4467" type="float">50</value>
+				<value id="DAE41C96" type="float">90</value>
+				<value id="EFB21DEC" type="float">220</value>
+				<value id="F01CB880" type="float">90</value>
+			</object>
+			<object id="226ED0E6">
+				<value id="6367292B" type="float">8</value>
+				<value id="9A25B8DF" type="float">7</value>
+				<object id="11C4A27F">
+					<value id="83E97302" type="string">spline</value>
+					<value id="EED1FA05" type="string">ground_roam</value>
+				</object>
+			</object>
+		</object>
+		<object id="810F57FF">
+			<object id="3B6E55DC">
+				<value name="density" type="int">77</value>
+				<value name="index" type="int">2</value>
+			</object>
+			<object id="41D3FCD2">
+				<value name="density" type="int">77</value>
+				<value name="index" type="int">3</value>
+			</object>
+			<object id="F0D5DF63">
+				<value name="density" type="int">0</value>
+				<value name="index" type="int">0</value>
+			</object>
+			<object name="default_road">
+				<value name="density" type="int">77</value>
+				<value name="index" type="int">1</value>
+			</object>
+			<object name="highway">
+				<value name="density" type="int">77</value>
+				<value name="index" type="int">4</value>
+			</object>
+		</object>
+		<object id="FEC1C181">
+			<value id="0772240B" type="float">180</value>
+			<value id="29401CC5" type="int">7</value>
+			<value id="B1080259" type="float">190</value>
+		</object>
+		<object name="arve">
+			<value id="7635628A" type="float">80</value>
+			<value id="8448AE90" type="float">70</value>
+			<value id="A02260FB" type="int">5</value>
+			<value name="max_count" type="int">15</value>
+			<object id="15EDFEA4">
+				<value id="0FF60EE4" type="int">1</value>
+				<value id="2A8EC861" type="float">800</value>
+				<value id="6FC9A225" type="float">50</value>
+				<value id="873600DC" type="float">400</value>
+				<value id="892F11C1" type="float">1800</value>
+				<value id="AE6B4467" type="float">200</value>
+				<value id="DAE41C96" type="float">600</value>
+				<value id="EFB21DEC" type="float">800</value>
+				<value id="F01CB880" type="float">500</value>
+			</object>
+			<object id="C962F42E">
+				<object id="F6610216">
+					<value id="356556A1" type="string">city:250 industry:80 tourist:180 village:60 religious:40 default:280</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:50 desert:50 jungle:50 grass:50 default:90 sea:50</value>
+					<value name="type" type="string">arve.v114_jumbojet.ee</value>
+				</object>
+				<object id="F6610217">
+					<value id="356556A1" type="string">city:30 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:30</value>
+					<value name="type" type="string">arve.v073_dlc_jet.ee</value>
+				</object>
+				<object id="F689AE28">
+					<value id="356556A1" type="string">city:50 industry:250 tourist:150 village:150 religious:50 default:90</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:50 desert:50 jungle:50 grass:50 default:150 sea:50</value>
+					<value name="type" type="string">arve.v072_cargo_plane.ee</value>
+				</object>
+				<object id="F689AE29">
+					<value id="356556A1" type="string">city:45 industry:30 religious:60 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">city:90 jungle:30 grass:45 sea:30</value>
+					<value name="type" type="string">arve.v067_speedplane.ee</value>
+				</object>
+				<object id="F689AE2A">
+					<value id="356556A1" type="string">city:25 tourist:15 village:45 religious:30 default:20</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:45 city:30 desert:10 jungle:20 grass:15 sea:15 default:20</value>
+					<value name="type" type="string">arve.v010_personal_propellerplane.ee</value>
+				</object>
+				<object id="F689AE2B">
+					<value id="356556A1" type="string">industry:30 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">desert:30</value>
+					<value name="type" type="string">arve.v076_jet_blackplane.ee</value>
+				</object>
+				<object id="F689AE2C">
+					<value id="356556A1" type="string">city:10 tourist:5 default:30</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:30 city:10 desert:20 jungle:45 grass:30 sea:10 default:25</value>
+					<value name="type" type="string">arve.v064_personal_jet.ee</value>
+				</object>
+				<object id="F689AE2D">
+					<value id="356556A1" type="string">industry:30 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">sea:30</value>
+					<value name="type" type="string">arve.v071_jet_fighter.ee</value>
+				</object>
+			</object>
+			<object name="spawners">
+				<object id="06215D8D">
+					<value id="3DCCE77F" type="float">2150</value>
+					<value id="EEC51BB8" type="int">16</value>
+					<value name="default_height" type="float">20</value>
+					<value name="default_speed" type="float">20</value>
+					<value name="order" type="int">0</value>
+					<value name="type" type="string">open_air</value>
+					<object name="type_settings">
+						<object id="133D015C">
+							<value name="height" type="float">10</value>
+							<value name="speed" type="float">333</value>
+							<value name="type" type="string">arve.v114_jumbojet.ee</value>
+						</object>
+						<object id="133D015D">
+							<value name="height" type="float">150</value>
+							<value name="speed" type="float">70</value>
+							<value name="type" type="string">arve.v073_dlc_jet.ee</value>
+						</object>
+						<object id="94B8CC9A">
+							<value name="height" type="float">100</value>
+							<value name="speed" type="float">1</value>
+							<value name="type" type="string">arve.v072_cargo_plane.ee</value>
+						</object>
+						<object id="94B8CC9B">
+							<value name="height" type="float">115</value>
+							<value name="speed" type="float">30</value>
+							<value name="type" type="string">arve.v067_speedplane.ee</value>
+						</object>
+						<object id="94B8CC9C">
+							<value name="height" type="float">95</value>
+							<value name="speed" type="float">20</value>
+							<value name="type" type="string">arve.v010_personal_propellerplane.ee</value>
+						</object>
+						<object id="94B8CC9D">
+							<value name="height" type="float">175</value>
+							<value name="speed" type="float">75</value>
+							<value name="type" type="string">arve.v076_jet_blackplane.ee</value>
+						</object>
+						<object id="94B8CC9E">
+							<value name="height" type="float">110</value>
+							<value name="speed" type="float">65</value>
+							<value name="type" type="string">arve.v064_personal_jet.ee</value>
+						</object>
+						<object id="94B8CC9F">
+							<value name="height" type="float">165</value>
+							<value name="speed" type="float">80</value>
+							<value name="type" type="string">arve.v071_jet_fighter.ee</value>
+						</object>
+					</object>
+				</object>
+			</object>
+		</object>
+		<object name="character_types">
+			<value name="max_count" type="int">75</value>
+			<object id="07701509">
+				<value id="356556A1" type="string">tourist:10 religious:10 default:10</value>
+				<value id="A7347FF4" type="string">arctic:10 desert:10 jungle:10 sea:10 city:10 grass:10 default:10</value>
+				<value name="type" type="string">pd_tourist_female1.cdoll</value>
+			</object>
+			<object id="09C97A06">
+				<value id="356556A1" type="string">city:1 default:1</value>
+				<value id="A7347FF4" type="string">city:1</value>
+				<value name="type" type="string">pd_city_male_1.cdoll</value>
+			</object>
+			<object id="177925F1">
+				<value id="356556A1" type="string">city:10 village:10 religious:10 default:10</value>
+				<value id="A7347FF4" type="string">jungle:10 sea:10 city:10 grass:10 default:10</value>
+				<value name="type" type="string">PD_Generic_Female_4.cdoll</value>
+			</object>
+			<object id="2273A2B5">
+				<value id="356556A1" type="string">city:10 village:10 religious:10 default:10</value>
+				<value id="A7347FF4" type="string">jungle:10 sea:10 city:10 grass:10 default:10</value>
+				<value name="type" type="string">PD_Generic_Female_1.cdoll</value>
+			</object>
+			<object id="29B780A6">
+				<value id="356556A1" type="string">city:1 village:1 religious:1 default:1</value>
+				<value id="A7347FF4" type="string">jungle:1 sea:1 city:1 grass:1 default:1</value>
+				<value name="type" type="string">PD_Generic_Male_2.cdoll</value>
+			</object>
+			<object id="34496B87">
+				<value id="356556A1" type="string">village:1 religious:1 default:1</value>
+				<value id="A7347FF4" type="string">jungle:1 sea:1 grass:1 default:1</value>
+				<value name="type" type="string">pd_fishervillage_male2.cdoll</value>
+			</object>
+			<object id="36171BFD">
+				<value id="356556A1" type="string">city:10 tourist:10 village:10 religious:10 default:10</value>
+				<value id="A7347FF4" type="string">arctic:10</value>
+				<value name="type" type="string">pd_arcticvillage_female3.cdoll</value>
+			</object>
+			<object id="39CCD761">
+				<value id="356556A1" type="string">city:10 village:10 tourist:10 religious:10 default:10</value>
+				<value id="A7347FF4" type="string">jungle:10 sea:10 city:10 grass:10 default:10</value>
+				<value name="type" type="string">PD_Generic_Female_5.cdoll</value>
+			</object>
+			<object id="4106297E">
+				<value id="356556A1" type="string">city:1 tourist:1 default:1</value>
+				<value id="A7347FF4" type="string">city:1</value>
+				<value name="type" type="string">pd_city_male_2.cdoll</value>
+			</object>
+			<object id="45BF6E24">
+				<value id="356556A1" type="string">city:10 village:10 tourist:10 religious:10 default:10</value>
+				<value id="A7347FF4" type="string">jungle:10 sea:10 city:10 grass:10 default:10</value>
+				<value name="type" type="string">PD_Generic_Female_3.cdoll</value>
+			</object>
+			<object id="467FDE59">
+				<value id="356556A1" type="string">village:1 religious:1</value>
+				<value id="A7347FF4" type="string">arctic:1 desert:1 jungle:1 sea:1 city:5 grass:1 default:1</value>
+				<value name="type" type="string">pd_generic_religious_male.cdoll</value>
+			</object>
+			<object id="4E2DB706">
+				<value id="356556A1" type="string">city:10 tourist:10 village:10 religious:10 default:10</value>
+				<value id="A7347FF4" type="string">arctic:10</value>
+				<value name="type" type="string">pd_arcticvillage_female1.cdoll</value>
+			</object>
+			<object id="5A760D65">
+				<value id="356556A1" type="string">city:1 village:1 religious:1 default:1</value>
+				<value id="A7347FF4" type="string">jungle:1 sea:1 city:1 grass:1 default:1</value>
+				<value name="type" type="string">PD_Generic_Male_1.cdoll</value>
+			</object>
+			<object id="60710A1B">
+				<value id="356556A1" type="string">industry:1</value>
+				<value id="A7347FF4" type="string">arctic:10 desert:10 jungle:10 sea:10 city:10 grass:10 default:10</value>
+				<value name="type" type="string">pd_oilplatform_male2.cdoll</value>
+			</object>
+			<object id="7F0A074B">
+				<value id="356556A1" type="string">village:1 default:1</value>
+				<value id="A7347FF4" type="string">jungle:1 sea:1 grass:1 default:1</value>
+				<value name="type" type="string">pd_fishervillage_male1.cdoll</value>
+			</object>
+			<object id="80CA7400">
+				<value id="356556A1" type="string">industry:1</value>
+				<value id="A7347FF4" type="string">arctic:10 desert:10 jungle:10 sea:10 city:10 grass:10 default:10</value>
+				<value name="type" type="string">pd_oilplatform_male1.cdoll</value>
+			</object>
+			<object id="81035ADF">
+				<value id="356556A1" type="string">city:1 village:1 religious:1 default:1</value>
+				<value id="A7347FF4" type="string">jungle:1 sea:1 city:1 grass:1 default:1</value>
+				<value name="type" type="string">PD_Generic_Male_3.cdoll</value>
+			</object>
+			<object id="92922FAB">
+				<value id="356556A1" type="string">city:10 tourist:10 village:10 religious:10 default:10</value>
+				<value id="A7347FF4" type="string">desert:10</value>
+				<value name="type" type="string">pd_desertvillage_female1.cdoll</value>
+			</object>
+			<object id="9F62AFA4">
+				<value id="356556A1" type="string">village:1 default:1</value>
+				<value id="A7347FF4" type="string">jungle:1 sea:1 grass:1 default:1</value>
+				<value name="type" type="string">pd_fishervillage_male4.cdoll</value>
+			</object>
+			<object id="B1547A68">
+				<value id="356556A1" type="string">city:1 industry:1 tourist:1 village:1 religious:1 default:1</value>
+				<value id="A7347FF4" type="string">arctic:1</value>
+				<value name="type" type="string">pd_arcticvillage_male3.cdoll</value>
+			</object>
+			<object id="B4F9A084">
+				<value id="356556A1" type="string">city:1 industry:1 tourist:1 village:1 religious:1 default:1</value>
+				<value id="A7347FF4" type="string">arctic:1</value>
+				<value name="type" type="string">pd_arcticvillage_male1.cdoll</value>
+			</object>
+			<object id="CC90D88D">
+				<value id="356556A1" type="string">tourist:10</value>
+				<value id="A7347FF4" type="string">arctic:10 desert:10 jungle:10 sea:10 city:10 grass:10 default:10</value>
+				<value name="type" type="string">pd_tourist_female2.cdoll</value>
+			</object>
+			<object id="CE236282">
+				<value id="356556A1" type="string">city:1 village:1 religious:1 default:1</value>
+				<value id="A7347FF4" type="string">jungle:1 sea:1 city:1 grass:1 default:1</value>
+				<value name="type" type="string">PD_Generic_Male_5.cdoll</value>
+			</object>
+			<object id="D2FE2C48">
+				<value id="356556A1" type="string">city:1 village:1 religious:1 default:1</value>
+				<value id="A7347FF4" type="string">jungle:1 sea:1 city:1 grass:1 default:1</value>
+				<value name="type" type="string">PD_Generic_Male_4.cdoll</value>
+			</object>
+			<object id="DC3FA730">
+				<value id="356556A1" type="string">tourist:1</value>
+				<value id="A7347FF4" type="string">arctic:1 desert:1 jungle:1 sea:1 city:1 grass:1 default:1</value>
+				<value name="type" type="string">pd_tourist_male1.cdoll</value>
+			</object>
+			<object id="E1DDC727">
+				<value id="356556A1" type="string">city:1 industry:1 tourist:1 village:1 religious:1 default:1</value>
+				<value id="A7347FF4" type="string">arctic:1</value>
+				<value name="type" type="string">pd_arcticvillage_male2.cdoll</value>
+			</object>
+			<object id="E7CB6706">
+				<value id="356556A1" type="string">city:10 tourist:10 default:10</value>
+				<value id="A7347FF4" type="string">city:10</value>
+				<value name="type" type="string">pd_city_female_1.cdoll</value>
+			</object>
+			<object id="E9ADDEF9">
+				<value id="356556A1" type="string">village:1 default:1</value>
+				<value id="A7347FF4" type="string">jungle:1 sea:1 grass:1 default:1</value>
+				<value name="type" type="string">pd_fishervillage_male3.cdoll</value>
+			</object>
+			<object id="E9BDA5B6">
+				<value id="356556A1" type="string">city:10 village:10 religious:10 default:10</value>
+				<value id="A7347FF4" type="string">jungle:10 sea:10 city:10 grass:10 default:10</value>
+				<value name="type" type="string">PD_Generic_Female_2.cdoll</value>
+			</object>
+			<object id="F6E1AA15">
+				<value id="356556A1" type="string">city:1 industry:1 tourist:1 village:1 religious:1 default:5</value>
+				<value id="A7347FF4" type="string">desert:1</value>
+				<value name="type" type="string">pd_desertvillage_male1.cdoll</value>
+			</object>
+			<object id="FAF03A34">
+				<value id="356556A1" type="string">city:10 industry:10 tourist:10 village:10 religious:10 default:10</value>
+				<value id="A7347FF4" type="string">arctic:10</value>
+				<value name="type" type="string">pd_arcticvillage_female2.cdoll</value>
+			</object>
+			<object id="FAF03A35">
+				<value id="356556A1" type="string">tourist:15 city:15</value>
+				<value id="A7347FF4" type="string">city:15</value>
+				<value name="type" type="string">pd_ms_airport_female1.cdoll</value>
+			</object>
+			<object id="FAF03A36">
+				<value id="356556A1" type="string">tourist:15 city:15</value>
+				<value id="A7347FF4" type="string">city:15</value>
+				<value name="type" type="string">pd_ms_airport_female2.cdoll</value>
+			</object>
+			<object id="FAF03A37">
+				<value id="356556A1" type="string">city:5 industry:5</value>
+				<value id="A7347FF4" type="string">city:5</value>
+				<value name="type" type="string">pd_ms_airport_male1.cdoll</value>
+			</object>
+			<object id="FAF03A38">
+				<value id="356556A1" type="string">city:5 industry:5</value>
+				<value id="A7347FF4" type="string">city:5</value>
+				<value name="type" type="string">pd_ms_airport_male2.cdoll</value>
+			</object>
+			<object id="FAF03A3A">
+				<value id="356556A1" type="string">tourist:5 city:5</value>
+				<value id="A7347FF4" type="string">city:5</value>
+				<value name="type" type="string">pd_ms_exclusiveguest.cdoll</value>
+			</object>
+			<object id="FAF03A3B">
+				<value id="356556A1" type="string">tourist:5 city:5</value>
+				<value id="A7347FF4" type="string">city:5</value>
+				<value name="type" type="string">pd_ms_exclusiveguest_variant1.cdoll</value>
+			</object>
+			<object id="FAF03A3C">
+				<value id="356556A1" type="string">tourist:5 city:5</value>
+				<value id="A7347FF4" type="string">city:5</value>
+				<value name="type" type="string">pd_ms_exclusiveguest_variant2.cdoll</value>
+			</object>
+		</object>
+		<object name="lave">
+			<value id="7635628A" type="float">0.2</value>
+			<value id="8448AE90" type="float">65</value>
+			<value id="A02260FB" type="int">3</value>
+			<value name="max_count" type="int">35</value>
+			<object id="15EDFEA4">
+				<value id="0FF60EE4" type="int">1</value>
+				<value id="2A8EC861" type="float">50</value>
+				<value id="6FC9A225" type="float">25</value>
+				<value id="873600DC" type="float">100</value>
+				<value id="892F11C1" type="float">160</value>
+				<value id="AE6B4467" type="float">30</value>
+				<value id="DAE41C96" type="float">140</value>
+				<value id="EFB21DEC" type="float">480</value>
+				<value id="F01CB880" type="float">120</value>
+			</object>
+			<object id="C962F42E">
+				<object id="06063941">
+					<value id="356556A1" type="string">city:10 tourist:10 village:20 religious:25 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:30 grass:20 city:10 sea:15</value>
+					<value name="type" type="string">lave.v002_sport.ee</value>
+				</object>
+				<object id="17BF8E5A">
+					<value id="356556A1" type="string">city:15 industry:1 tourist:10 village:5 religious:20 default:5</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:20 desert:5 jungle:15 grass:10 default:15</value>
+					<value name="type" type="string">lave.v003_cover.ee</value>
+				</object>
+				<object id="1A6FB09C">
+					<value id="356556A1" type="string">industry:20 tourist:15 village:25 religious:45 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:20 desert:15 grass:10</value>
+					<value name="type" type="string">lave.v048_bus_civ.ee</value>
+				</object>
+				<object id="1DEA3C12">
+					<value id="356556A1" type="string">city:10 tourist:10 default:30</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">desert:30 city:10 sea:15 grass:25</value>
+					<value name="type" type="string">lave.v109_limo.ee</value>
+				</object>
+				<object id="234B34F9">
+					<value id="356556A1" type="string">industry:65 tourist:5 village:10 religious:15 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:60 desert:10 jungle:5 sea:10 grass:5</value>
+					<value name="type" type="string">lave.v056_atv_world.ee</value>
+				</object>
+				<object id="241D73C6">
+					<value id="356556A1" type="string">industry:1 default:20</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">jungle:10 grass:10</value>
+					<value name="type" type="string">lave.v003_lorry.ee</value>
+				</object>
+				<object id="2B9C5536">
+					<value id="356556A1" type="string">city:15 industry:20 tourist:10 village:5 religious:10 default:5</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">sea:15 city:15 grass:20 default:15</value>
+					<value name="type" type="string">lave.v001_sedan.ee</value>
+				</object>
+				<object id="36A23538">
+					<value id="356556A1" type="string">city:15 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">city:15</value>
+					<value name="type" type="string">lave.v024_sportscar.ee</value>
+				</object>
+				<object id="3E0FBA12">
+					<value id="356556A1" type="string">industry:5 tourist:10 village:15 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:10 desert:5 jungle:10 sea:15 grass:5</value>
+					<value name="type" type="string">lave.v020_Sugga.ee</value>
+				</object>
+				<object id="3E58BBE3">
+					<value id="356556A1" type="string">industry:1 tourist:1 village:10 default:5</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:5 desert:10 jungle:15 grass:10</value>
+					<value name="type" type="string">lave.v003_Tourist.ee</value>
+				</object>
+				<object id="463568BF">
+					<value id="356556A1" type="string">tourist:5 village:15 religious:20 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:25 desert:5 jungle:15 sea:30 grass:10</value>
+					<value name="type" type="string">lave.v034_sport_buggy.ee</value>
+				</object>
+				<object id="46EF9985">
+					<value id="356556A1" type="string">city:10 tourist:15 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">desert:30 sea:10 city:10</value>
+					<value name="type" type="string">lave.v030_super_sportcar.ee</value>
+				</object>
+				<object id="5167EE45">
+					<value id="356556A1" type="string">city:30 tourist:5 village:25 religious:45 default:1</value>
+					<value id="6FFCCC84" type="int">0</value>
+					<value id="A7347FF4" type="string">desert:40 jungle: 25 grass:10 city:60</value>
+					<value name="type" type="string">lave.v004_truck_buss.ee</value>
+				</object>
+				<object id="64B6B941">
+					<value id="356556A1" type="string">city:30 industry:25 tourist:30 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">city:30</value>
+					<value name="type" type="string">lave.v045_firetruck.ee</value>
+				</object>
+				<object id="653ED100">
+					<value id="356556A1" type="string">city:5 industry:5 tourist:1 village:10 religious: 5 default:10</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:10 desert:5 jungle:10 city:10 sea:10 default:10</value>
+					<value name="type" type="string">lave.v002_combi.ee</value>
+				</object>
+				<object id="6582BBA1">
+					<value id="356556A1" type="string">city:1 industry:10 tourist:5 village:5 religious: 10 default:7</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:10 desert:5 jungle:10 city:10 sea:10 default:10</value>
+					<value name="type" type="string">lave.v002_sedan.ee</value>
+				</object>
+				<object id="76A81B36">
+					<value id="356556A1" type="string">city:5 industry:15 tourist:5 village:15 religious: 10 default:7</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:7 desert:5 jungle:10 city:5 sea:5 default:7</value>
+					<value name="type" type="string">lave.v002_sedan_taxi.ee</value>
+				</object>
+				<object id="7CFC0CBF">
+					<value id="356556A1" type="string">city:5 industry:15 tourist:5 village:10 religious:7</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">desert:5 sea:5 city:10 grass:10</value>
+					<value name="type" type="string">lave.v007_classic_mc.ee</value>
+				</object>
+				<object id="86BF3445">
+					<value id="356556A1" type="string">city:60 industry:1 village:10 tourist:30 default:10</value>
+					<value id="6FFCCC84" type="int">0</value>
+					<value id="A7347FF4" type="string">city:30 arctic:20 desert:5 jungle:5 sea:5 grass:5 default:10</value>
+					<value name="type" type="string">LAVE.V004_Truck_Regular.ee</value>
+				</object>
+				<object id="87B33A43">
+					<value id="356556A1" type="string">industry:15 city:45 default:30</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:20 desert:15</value>
+					<value name="type" type="string">lave.v050_large_super_truck.ee</value>
+				</object>
+				<object id="8FACE9D0">
+					<value id="356556A1" type="string">city:5 industry:10 tourist:5 village:5 religious: 10 default:7</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:10 desert:5 jungle:10 city:10 sea:10 default:10</value>
+					<value name="type" type="string">lave.v002_police.ee</value>
+				</object>
+				<object id="934314EB">
+					<value id="356556A1" type="string">industry:25 tourist:5 city:10 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">desert:10 jungle:25 sea:10 grass:20 city:15</value>
+					<value name="type" type="string">lave.v007_heavy.ee</value>
+				</object>
+				<object id="945D2215">
+					<value id="356556A1" type="string">city:5 industry:10 tourist:1 village:1 religious: 10 default:7</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:10 desert:5 jungle:10 city:10 sea:10 default:10</value>
+					<value name="type" type="string">lave.v005_tuktuk_taxi.ee</value>
+				</object>
+				<object id="9D3EABAA">
+					<value id="356556A1" type="string">city:30 industry:25 default:1</value>
+					<value id="6FFCCC84" type="int">0</value>
+					<value id="A7347FF4" type="string">city:20</value>
+					<value name="type" type="string">lave.v004_truck_garbage.ee</value>
+				</object>
+				<object id="A2FBAC5D">
+					<value id="356556A1" type="string">industry:1 default:20</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:20 desert:10 jungle:10 grass:15</value>
+					<value name="type" type="string">lave.v003_hardtop.ee</value>
+				</object>
+				<object id="A45A832D">
+					<value id="356556A1" type="string">village:5 industry:10 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">grass:15</value>
+					<value name="type" type="string">lave.v041_tractor.ee</value>
+				</object>
+				<object id="AA0E9716">
+					<value id="356556A1" type="string">city:15 tourist:5 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">desert:25 grass:15 sea:15 city:10</value>
+					<value name="type" type="string">LAVE.V028_Luxuary_Sportcar.ee</value>
+				</object>
+				<object id="B05BB040">
+					<value id="356556A1" type="string">industry:5 default:30</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">desert:10 arctic:10</value>
+					<value name="type" type="string">lave.v004_truck_transport.ee</value>
+				</object>
+				<object id="B6CC2174">
+					<value id="356556A1" type="string">tourist:5 city:10 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">desert:10 sea:25 grass:10</value>
+					<value name="type" type="string">lave.v035_sport_custom.ee</value>
+				</object>
+				<object id="C2632691">
+					<value id="356556A1" type="string">tourist:10 city:15 village:5 religious:5 default:10</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">jungle:10 sea:15 city:10 grass:5</value>
+					<value name="type" type="string">lave.v006_vespa.ee</value>
+				</object>
+				<object id="C6E1ABCE">
+					<value id="356556A1" type="string">city:10 tourist:5 religious:10 default:15</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:60 desert:20 sea:10 city:20 grass:15</value>
+					<value name="type" type="string">lave.v007_sport.ee</value>
+				</object>
+				<object id="CA0BC73A">
+					<value id="356556A1" type="string">city:30 tourist:1 village:1 religious:10 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:120 jungle:10 city:20 grass:5</value>
+					<value name="type" type="string">lave.v005_tuktuk_civ.ee</value>
+				</object>
+				<object id="D54D46FA">
+					<value id="356556A1" type="string">city:20 tourist:15 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">city:10 grass:30</value>
+					<value name="type" type="string">lave.v003_icecream.ee</value>
+				</object>
+				<object id="DEC371C4">
+					<value id="356556A1" type="string">city:25 tourist:30 default:1</value>
+					<value id="6FFCCC84" type="int">0</value>
+					<value id="A7347FF4" type="string">arctic:25 desert:20 city:15</value>
+					<value name="type" type="string">lave.v046_buscoach.ee</value>
+				</object>
+				<object id="DEC371C5">
+					<value id="356556A1" type="string">city:15 tourist:15 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">desert:25</value>
+					<value name="type" type="string">lave.v023_customcar.ee</value>
+				</object>
+				<object id="E118ACEB">
+					<value id="356556A1" type="string">village:30 tourist:10 city:15 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">desert:20 jungle:20 grass:20 city:15</value>
+					<value name="type" type="string">lave.v052_classic.ee</value>
+				</object>
+				<object id="E118ACEC">
+					<value id="356556A1" type="string">tourist:10 village:1 religious:5 default:15</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">jungle:10 sea:15 grass:5</value>
+					<value name="type" type="string">lave.v006_moped.ee</value>
+				</object>
+				<object id="F619C76B">
+					<value id="356556A1" type="string">city:25 industry:1 default:20</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:20 desert:15 jungle:15 city:25 grass:10</value>
+					<value name="type" type="string">lave.v003_work.ee</value>
+				</object>
+				<object id="F619C76C">
+					<value id="356556A1" type="string">tourist:30 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:25 desert:20 jungle:15</value>
+					<value name="type" type="string">lave.v999_dlc-monstertruck.ee</value>
+				</object>
+				<object id="F619C76D">
+					<value id="356556A1" type="string">industry:25 tourist:30 religious:20 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:90 desert:25 grass:35 sea:20</value>
+					<value name="type" type="string">lave.v005_tuktuk_dlc.ee</value>
+				</object>
+				<object id="F619C76E">
+					<value id="356556A1" type="string">city:45 tourist:30 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">city:20 grass:30</value>
+					<value name="type" type="string">lave.v003_icecreamdlc.ee</value>
+				</object>
+				<object id="F619C76F">
+					<value id="356556A1" type="string">city:20 tourist:15 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">city:15 grass:30</value>
+					<value name="type" type="string">lave.v027_dlc_customcar.ee</value>
+				</object>
+			</object>
+			<object name="spawners">
+				<object id="06215D8D">
+					<value id="3966CDDB" type="float">0.8</value>
+					<value id="6367292B" type="float">5</value>
+					<value id="9A25B8DF" type="float">2</value>
+					<value name="order" type="int">0</value>
+					<value name="type" type="string">road</value>
+					<object id="11C4A27F">
+						<value id="83E97302" type="string">spline</value>
+						<value id="EED1FA05" type="string">ground_roam</value>
+					</object>
+				</object>
+			</object>
+		</object>
+		<object name="night_time">
+			<value name="end" type="string">05:00</value>
+			<value name="factor" type="float">0.55</value>
+			<value name="start" type="string">01:00</value>
+		</object>
+		<object name="seve">
+			<value id="7635628A" type="float">0.2</value>
+			<value id="8448AE90" type="float">40</value>
+			<value id="A02260FB" type="int">4</value>
+			<value name="max_count" type="int">10</value>
+			<object id="15EDFEA4">
+				<value id="0FF60EE4" type="int">1</value>
+				<value id="2A8EC861" type="float">50</value>
+				<value id="6FC9A225" type="float">30</value>
+				<value id="873600DC" type="float">300</value>
+				<value id="892F11C1" type="float">700</value>
+				<value id="AE6B4467" type="float">100</value>
+				<value id="DAE41C96" type="float">500</value>
+				<value id="EFB21DEC" type="float">600</value>
+				<value id="F01CB880" type="float">400</value>
+			</object>
+			<object id="C962F42E">
+				<object id="10EAFD7D">
+					<value id="356556A1" type="string">city:10 tourist:15 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">sea:10</value>
+					<value name="type" type="string">seve.v082_motorboat_standard_small.ee</value>
+				</object>
+				<object id="30F98082">
+					<value id="356556A1" type="string">industry:5 religious:20 village:10 city:30 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">sea:20</value>
+					<value name="type" type="string">seve.v086_barge.ee</value>
+				</object>
+				<object id="6D3B81C1">
+					<value id="356556A1" type="string">industry:10 religious:30 village:5 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">sea:20</value>
+					<value name="type" type="string">seve.v098_indo.ee</value>
+				</object>
+				<object id="7285A701">
+					<value id="356556A1" type="string">city:30 tourist:10 village:20 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">sea:10</value>
+					<value name="type" type="string">seve.V011_Sailboat.ee</value>
+				</object>
+				<object id="9CBFC07B">
+					<value id="356556A1" type="string">industry:15 village:5 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">sea:10</value>
+					<value name="type" type="string">seve.v088_djonk.ee</value>
+				</object>
+				<object id="CB5E5A64">
+					<value id="356556A1" type="string">city:30 tourist:25 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">sea:30</value>
+					<value name="type" type="string">seve.v087_catamaran_speedboat.ee</value>
+				</object>
+				<object id="CD265216">
+					<value id="356556A1" type="string">village:10 tourist:20 city:15 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">sea:10</value>
+					<value name="type" type="string">seve.V011_Houseboat.ee</value>
+				</object>
+				<object id="CD924FCE">
+					<value id="356556A1" type="string">city:10 tourist:5 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">sea:20</value>
+					<value name="type" type="string">seve.v011_charter.ee</value>
+				</object>
+				<object id="E2C03081">
+					<value id="356556A1" type="string">city:10 tourist:5 religious:15 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">sea:10</value>
+					<value name="type" type="string">seve.v083_motorboat_small.ee</value>
+				</object>
+				<object id="E65EB174">
+					<value id="356556A1" type="string">city:5 tourist:15 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">sea:15</value>
+					<value name="type" type="string">seve.v011_yacht.ee</value>
+				</object>
+				<object id="E65EB175">
+					<value id="356556A1" type="string">tourist:30 industry:30 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">sea:30</value>
+					<value name="type" type="string">seve.v458_dlc-hovercraft.ee</value>
+				</object>
+				<object id="E65EB176">
+					<value id="356556A1" type="string">city:30 industry:30 default:1</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">sea:30</value>
+					<value name="type" type="string">SEVE.V089_Raceboat.ee</value>
+				</object>
+			</object>
+			<object name="spawners">
+				<object id="06215D8D">
+					<value id="6367292B" type="float">25</value>
+					<value id="9A25B8DF" type="float">20</value>
+					<value name="order" type="int">0</value>
+					<value name="type" type="string">road</value>
+					<object id="11C4A27F">
+						<value id="EED1FA05" type="string">water_roam</value>
+					</object>
+				</object>
+				<object id="D9FCCC99">
+					<value id="30F53BE8" type="float">20</value>
+					<value id="8605B51E" type="int">16</value>
+					<value id="920B5997" type="int">1</value>
+					<value id="AA95C7BE" type="float">2</value>
+					<value name="order" type="int">1</value>
+					<value name="type" type="string">open_water</value>
+				</object>
+			</object>
+		</object>
+	</object>
+</root>

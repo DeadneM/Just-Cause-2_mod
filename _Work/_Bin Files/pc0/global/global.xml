@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object id="04813592">
+			<value name="file" type="string">landmarks\57x41_landmark</value>
+		</object>
+		<object id="0A2C73E0">
+			<value name="file" type="string">landmarks\f2m08.base_landmark</value>
+		</object>
+		<object id="120B46FE">
+			<value name="file" type="string">landmarks\02x45_landmark</value>
+		</object>
+		<object id="16F0CEF6">
+			<value name="file" type="string">landmarks\bridge.3.4_landmark</value>
+		</object>
+		<object id="1F8CB5A6">
+			<value name="file" type="string">landmarks\city.district.b1.houses_landmark</value>
+		</object>
+		<object id="1F993821">
+			<value name="file" type="string">landmarks\61x14_landmark</value>
+		</object>
+		<object id="217F4559">
+			<value name="file" type="string">landmarks\f1m03.interiors_landmark</value>
+		</object>
+		<object id="22C5DBE5">
+			<value name="file" type="string">globalSounds</value>
+		</object>
+		<object id="30CF3149">
+			<value name="file" type="string">landmarks\22x01_landmark</value>
+		</object>
+		<object id="34932B42">
+			<value name="file" type="string">landmarks\f2m07.researchfacility_landmark</value>
+		</object>
+		<object id="3C71F254">
+			<value name="file" type="string">landmarks\51x04_landmark</value>
+		</object>
+		<object id="3F0992B8">
+			<value name="file" type="string">landmarks\city.district.c2.houses_landmark</value>
+		</object>
+		<object id="43C25470">
+			<value name="file" type="string">landmarks\km05.hotelbuilding01_landmark</value>
+		</object>
+		<object id="4449319E">
+			<value name="file" type="string">settlementsnames</value>
+		</object>
+		<object id="47B6DE49">
+			<value name="file" type="string">missionCompleteReset</value>
+		</object>
+		<object id="4A07E37D">
+			<value name="file" type="string">landmarks\city.district.a1.houses_landmark</value>
+		</object>
+		<object id="4E61D778">
+			<value name="file" type="string">landmarks\f2m06base2empweapon_landmark</value>
+		</object>
+		<object id="52566468">
+			<value name="file" type="string">landmarks\bridge.1.4_landmark</value>
+		</object>
+		<object id="55E30BA1">
+			<value name="file" type="string">landmarks\km04.waterfallhangar_landmark</value>
+		</object>
+		<object id="58D89978">
+			<value name="file" type="string">landmarks\bridge.1.2_landmark</value>
+		</object>
+		<object id="60C3488A">
+			<value name="file" type="string">landmarks\bridge.1.4b_landmark</value>
+		</object>
+		<object id="63608FE5">
+			<value name="file" type="string">aiteams</value>
+		</object>
+		<object id="658604DC">
+			<value name="file" type="string">landmarks\58x48_landmark</value>
+		</object>
+		<object id="66B99527">
+			<value name="file" type="string">landmarks\km02.towercomplex_landmark</value>
+		</object>
+		<object id="68D38E33">
+			<value name="file" type="string">msy.start</value>
+		</object>
+		<object id="6B737889">
+			<value name="file" type="string">minimap</value>
+		</object>
+		<object id="70C57709">
+			<value name="file" type="string">landmarks\22x29_landmark</value>
+		</object>
+		<object id="74175C29">
+			<value name="file" type="string">particles</value>
+		</object>
+		<object id="74CFE760">
+			<value name="file" type="string">landmarks\city.district.d2.houses_landmark</value>
+		</object>
+		<object id="74D083D2">
+			<value name="file" type="string">landmarks\city.district.b2.houses_landmark</value>
+		</object>
+		<object id="76B411B3">
+			<value name="file" type="string">animations</value>
+		</object>
+		<object id="77E29B5F">
+			<value name="file" type="string">mic.salesmen</value>
+		</object>
+		<object id="7B42365C">
+			<value name="file" type="string">landmarks\city.district.a2.houses_landmark</value>
+		</object>
+		<object id="80FA44F5">
+			<value name="file" type="string">dripfeed</value>
+		</object>
+		<object id="8668D4AF">
+			<value name="file" type="string">creatures</value>
+		</object>
+		<object id="8D224422">
+			<value name="file" type="string">landmarks\f3m05.skyscraper_landmark</value>
+		</object>
+		<object id="95A0296D">
+			<value name="file" type="string">landmarks\28x33_landmark</value>
+		</object>
+		<object id="9BF5C5CE">
+			<value name="file" type="string">landmarks\km04.centerbase_landmark</value>
+		</object>
+		<object id="A668CC2B">
+			<value name="file" type="string">landmarks\17x02_landmark</value>
+		</object>
+		<object id="BF1840DB">
+			<value name="file" type="string">triggerendscreen</value>
+		</object>
+		<object id="C3571035">
+			<value name="file" type="string">physicsresources</value>
+		</object>
+		<object id="C80280A9">
+			<value name="file" type="string">landmarks\city.district.c1.houses_landmark</value>
+		</object>
+		<object id="C9102448">
+			<value name="file" type="string">landmarks\city.district.d1.houses_landmark</value>
+		</object>
+		<object id="CDB5C47F">
+			<value name="file" type="string">startkeymission</value>
+		</object>
+		<object id="D2E3EEBF">
+			<value name="file" type="string">mic.safehouses</value>
+		</object>
+		<object id="D42483FA">
+			<value name="file" type="string">landmarks\f3m04.fryme_landmark</value>
+		</object>
+		<object id="D765047A">
+			<value name="file" type="string">landmarks\f3t12.oilplatform_landmark</value>
+		</object>
+		<object id="D98D406C">
+			<value name="file" type="string">landmarks\58x05_landmark</value>
+		</object>
+		<object id="E1985B46">
+			<value name="file" type="string">landmarks\f1m07milehigh_landmark</value>
+		</object>
+		<object id="E5577246">
+			<value name="file" type="string">landmarks\62x23_landmark</value>
+		</object>
+		<object id="E5C66438">
+			<value name="file" type="string">tutorials</value>
+		</object>
+		<object id="E841DE46">
+			<value name="file" type="string">landmarks\city.district.d3.houses_landmark</value>
+		</object>
+		<object id="E9186AD1">
+			<value name="file" type="string">bookmarks</value>
+		</object>
+		<object id="EE54CDD2">
+			<value name="file" type="string">landmarks\bridge.2.3_landmark</value>
+		</object>
+		<object id="F16148B7">
+			<value name="file" type="string">landmarks\28x34_landmark</value>
+		</object>
+		<object id="F3412562">
+			<value name="file" type="string">HeatDialogues</value>
+		</object>
+		<object id="F7C2AB48">
+			<value name="file" type="string">landmarks\f3m04.pads_landmark</value>
+		</object>
+	</object>
+</root>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object name="locator_settings">
+			<value name="escape_sequence_file_pc" type="string">Text/Escape_sequences.csv</value>
+			<value name="escape_sequence_file_ps3" type="string">Text/Escape_sequences.csv</value>
+			<value name="escape_sequence_file_xenon" type="string">Text/Escape_sequences.csv</value>
+			<object name="text_files">
+				<value id="AD5C96C2" type="string">Text/ms15text.csv</value>
+			</object>
+		</object>
+	</object>
+</root>

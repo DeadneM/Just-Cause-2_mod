@@ -1,0 +1,580 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object name="costs">
+			<object name="0">
+				<value name="level" type="int">0</value>
+				<value name="parts" type="int">5</value>
+			</object>
+			<object name="1">
+				<value name="level" type="int">1</value>
+				<value name="parts" type="int">10</value>
+			</object>
+			<object name="2">
+				<value name="level" type="int">2</value>
+				<value name="parts" type="int">15</value>
+			</object>
+			<object name="3">
+				<value name="level" type="int">3</value>
+				<value name="parts" type="int">20</value>
+			</object>
+			<object name="4">
+				<value name="level" type="int">4</value>
+				<value name="parts" type="int">25</value>
+			</object>
+		</object>
+		<object name="parameters">
+			<object name="set_0">
+				<value id="E3D944D1" type="int">0</value>
+				<value name="parameter_0" type="string">gui_wea_txt_01</value>
+				<value name="parameter_1" type="string">gui_wea_txt_02</value>
+				<value name="parameter_2" type="string">gui_wea_txt_03</value>
+				<value name="parameter_3" type="string">gui_wea_txt_04</value>
+			</object>
+			<object name="set_1">
+				<value id="E3D944D1" type="int">1</value>
+				<value name="parameter_0" type="string">gui_wea_txt_06</value>
+				<value name="parameter_1" type="string">gui_wea_txt_07</value>
+				<value name="parameter_2" type="string">gui_wea_txt_08</value>
+			</object>
+			<object name="set_2">
+				<value id="E3D944D1" type="int">2</value>
+				<value name="parameter_0" type="string">gui_v_txt_01</value>
+				<value name="parameter_1" type="string">gui_v_txt_02</value>
+				<value name="parameter_2" type="string">gui_v_txt_03</value>
+				<value name="parameter_3" type="string">gui_v_txt_04</value>
+			</object>
+		</object>
+		<object name="vehicles">
+			<object name="vehicle_0">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">2</value>
+				<value name="chaos" type="int">195000</value>
+				<value name="description" type="string">gui_desc_txt_72</value>
+				<value name="entity" type="string">Vehicles/LAVE/LAVE.V024_Sportscar.ee</value>
+				<value name="id" type="int">0</value>
+				<value name="item_id" type="string">v024</value>
+				<value name="name" type="string">gui_txt_72</value>
+				<value name="parameter_0" type="vec2">75,100</value>
+				<value name="parameter_1" type="vec2">80,100</value>
+				<value name="parameter_2" type="vec2">80,90</value>
+				<value name="parameter_3" type="vec2">20,40</value>
+				<value name="price" type="int">400</value>
+				<value name="type" type="int">1</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_sportscarUpgrade0.dds</value>
+					<value name="level_1" type="string">bm_sportscarUpgrade0.dds</value>
+					<value name="level_2" type="string">bm_sportscarUpgrade0.dds</value>
+					<value name="level_3" type="string">bm_sportscarUpgrade0.dds</value>
+					<value name="level_4" type="string">bm_sportscarUpgrade0.dds</value>
+					<value name="level_5" type="string">bm_sportscarUpgrade1.dds</value>
+				</object>
+			</object>
+			<object name="vehicle_1">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">2</value>
+				<value name="chaos" type="int">310000</value>
+				<value name="description" type="string">gui_desc_txt_73</value>
+				<value name="entity" type="string">vehicles/LAVE/LAVE.V022_HeavyDrop_Jeep.ee</value>
+				<value name="id" type="int">1</value>
+				<value name="item_id" type="string">v022</value>
+				<value name="name" type="string">gui_txt_73</value>
+				<value name="parameter_0" type="vec2">50,85</value>
+				<value name="parameter_1" type="vec2">40,65</value>
+				<value name="parameter_2" type="vec2">50,70</value>
+				<value name="parameter_3" type="vec2">50,70</value>
+				<value name="price" type="int">500</value>
+				<value name="type" type="int">1</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_jeepUpgrade0.dds</value>
+					<value name="level_1" type="string">bm_jeepUpgrade0.dds</value>
+					<value name="level_2" type="string">bm_jeepUpgrade0.dds</value>
+					<value name="level_3" type="string">bm_jeepUpgrade0.dds</value>
+					<value name="level_4" type="string">bm_jeepUpgrade0.dds</value>
+					<value name="level_5" type="string">bm_jeepUpgrade1.dds</value>
+				</object>
+			</object>
+			<object name="vehicle_2">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">2</value>
+				<value name="chaos" type="int">255000</value>
+				<value name="description" type="string">gui_desc_txt_74</value>
+				<value name="entity" type="string">Vehicles/LAVE/LAVE.V023_CustomCar.ee</value>
+				<value name="id" type="int">2</value>
+				<value name="item_id" type="string">v023</value>
+				<value name="name" type="string">gui_txt_74</value>
+				<value name="parameter_0" type="vec2">55,95</value>
+				<value name="parameter_1" type="vec2">45,67</value>
+				<value name="parameter_2" type="vec2">40,60</value>
+				<value name="parameter_3" type="vec2">40,60</value>
+				<value name="price" type="int">500</value>
+				<value name="type" type="int">1</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_musclecarUpgrade0.dds</value>
+					<value name="level_1" type="string">bm_musclecarUpgrade0.dds</value>
+					<value name="level_2" type="string">bm_musclecarUpgrade0.dds</value>
+					<value name="level_3" type="string">bm_musclecarUpgrade0.dds</value>
+					<value name="level_4" type="string">bm_musclecarUpgrade0.dds</value>
+					<value name="level_5" type="string">bm_musclecarUpgrade1.dds</value>
+				</object>
+			</object>
+			<object name="vehicle_3">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">2</value>
+				<value name="chaos" type="int">360000</value>
+				<value name="description" type="string">gui_desc_txt_75</value>
+				<value name="entity" type="string">Vehicles/LAVE/LAVE.V012_Military_Tank_Small.ee</value>
+				<value name="id" type="int">3</value>
+				<value name="item_id" type="string">v012</value>
+				<value name="name" type="string">gui_txt_75</value>
+				<value name="parameter_0" type="vec2">20,40</value>
+				<value name="parameter_1" type="vec2">30,50</value>
+				<value name="parameter_2" type="vec2">70,80</value>
+				<value name="parameter_3" type="vec2">90,100</value>
+				<value name="price" type="int">1000</value>
+				<value name="type" type="int">1</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_tankUpgrade0.dds</value>
+					<value name="level_1" type="string">bm_tankUpgrade0.dds</value>
+					<value name="level_2" type="string">bm_tankUpgrade0.dds</value>
+					<value name="level_3" type="string">bm_tankUpgrade0.dds</value>
+					<value name="level_4" type="string">bm_tankUpgrade0.dds</value>
+					<value name="level_5" type="string">bm_tankUpgrade1.dds</value>
+				</object>
+			</object>
+			<object name="vehicle_4">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="98B8FE69" type="string"></value>
+				<value id="E3D944D1" type="int">2</value>
+				<value name="chaos" type="int">140000</value>
+				<value name="description" type="string">gui_desc_txt_76</value>
+				<value name="entity" type="string">Vehicles/LAVE/LAVE.V056_ATV.ee</value>
+				<value name="id" type="int">4</value>
+				<value name="item_id" type="string">v056</value>
+				<value name="name" type="string">gui_txt_76</value>
+				<value name="parameter_0" type="vec2">30,50</value>
+				<value name="parameter_1" type="vec2">35,50</value>
+				<value name="parameter_2" type="vec2">70,80</value>
+				<value name="parameter_3" type="vec2">10,30</value>
+				<value name="price" type="int">250</value>
+				<value name="type" type="int">1</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_atv.dds</value>
+					<value name="level_1" type="string">bm_atv.dds</value>
+					<value name="level_2" type="string">bm_atv.dds</value>
+					<value name="level_3" type="string">bm_atv.dds</value>
+					<value name="level_4" type="string">bm_atv.dds</value>
+					<value name="level_5" type="string">bm_atv.dds</value>
+				</object>
+			</object>
+			<object name="vehicle_5">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">2</value>
+				<value name="chaos" type="int">0</value>
+				<value name="description" type="string">gui_desc_txt_78</value>
+				<value name="entity" type="string">Vehicles/LAVE/LAVE.V052_Motorcross.ee</value>
+				<value name="id" type="int">5</value>
+				<value name="item_id" type="string">v052</value>
+				<value name="name" type="string">gui_txt_78</value>
+				<value name="parameter_0" type="vec2">30,55</value>
+				<value name="parameter_1" type="vec2">55,80</value>
+				<value name="parameter_2" type="vec2">60,70</value>
+				<value name="parameter_3" type="vec2">5,10</value>
+				<value name="price" type="int">250</value>
+				<value name="type" type="int">1</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_motocross.dds</value>
+					<value name="level_1" type="string">bm_motocross.dds</value>
+					<value name="level_2" type="string">bm_motocross.dds</value>
+					<value name="level_3" type="string">bm_motocross.dds</value>
+					<value name="level_4" type="string">bm_motocross.dds</value>
+					<value name="level_5" type="string">bm_motocross.dds</value>
+				</object>
+			</object>
+			<object name="vehicle_6">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">2</value>
+				<value name="chaos" type="int">95000</value>
+				<value name="description" type="string">gui_desc_txt_80</value>
+				<value name="entity" type="string">Vehicles/ARVE/arve.v059_civilian_helicopter.ee</value>
+				<value name="id" type="int">6</value>
+				<value name="item_id" type="string">v059</value>
+				<value name="name" type="string">gui_txt_80</value>
+				<value name="parameter_0" type="vec2">50,80</value>
+				<value name="parameter_1" type="vec2">50,80</value>
+				<value name="parameter_2" type="vec2">60,90</value>
+				<value name="parameter_3" type="vec2">10,30</value>
+				<value name="price" type="int">350</value>
+				<value name="type" type="int">1</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_heliUpgrade0.dds</value>
+					<value name="level_1" type="string">bm_heliUpgrade0.dds</value>
+					<value name="level_2" type="string">bm_heliUpgrade0.dds</value>
+					<value name="level_3" type="string">bm_heliUpgrade0.dds</value>
+					<value name="level_4" type="string">bm_heliUpgrade0.dds</value>
+					<value name="level_5" type="string">bm_heliUpgrade1.dds</value>
+				</object>
+			</object>
+			<object name="vehicle_7">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">2</value>
+				<value name="chaos" type="int">415000</value>
+				<value name="description" type="string">gui_desc_txt_79</value>
+				<value name="entity" type="string">Vehicles/ARVE/ARVE.V061_BlackMarket.ee</value>
+				<value name="id" type="int">7</value>
+				<value name="item_id" type="string">v061</value>
+				<value name="name" type="string">gui_txt_79</value>
+				<value name="parameter_0" type="vec2">25,60</value>
+				<value name="parameter_1" type="vec2">40,70</value>
+				<value name="parameter_2" type="vec2">30,50</value>
+				<value name="parameter_3" type="vec2">70,90</value>
+				<value name="price" type="int">1000</value>
+				<value name="type" type="int">1</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_attheliUpgrade0.dds</value>
+					<value name="level_1" type="string">bm_attheliUpgrade0.dds</value>
+					<value name="level_2" type="string">bm_attheliUpgrade0.dds</value>
+					<value name="level_3" type="string">bm_attheliUpgrade0.dds</value>
+					<value name="level_4" type="string">bm_attheliUpgrade0.dds</value>
+					<value name="level_5" type="string">bm_attheliUpgrade1.dds</value>
+				</object>
+			</object>
+			<object name="vehicle_8">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">2</value>
+				<value name="chaos" type="int">70000</value>
+				<value name="description" type="string">gui_desc_txt_81</value>
+				<value name="entity" type="string">Vehicles/SEVE/SEVE.V089_Raceboat.ee</value>
+				<value name="id" type="int">8</value>
+				<value name="item_id" type="string">v089</value>
+				<value name="name" type="string">gui_txt_81</value>
+				<value name="parameter_0" type="vec2">80,100</value>
+				<value name="parameter_1" type="vec2">60,80</value>
+				<value name="parameter_2" type="vec2">40,90</value>
+				<value name="parameter_3" type="vec2">25,50</value>
+				<value name="price" type="int">300</value>
+				<value name="type" type="int">1</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_speedboatUpgrade0.dds</value>
+					<value name="level_1" type="string">bm_speedboatUpgrade0.dds</value>
+					<value name="level_2" type="string">bm_speedboatUpgrade0.dds</value>
+					<value name="level_3" type="string">bm_speedboatUpgrade0.dds</value>
+					<value name="level_4" type="string">bm_speedboatUpgrade0.dds</value>
+					<value name="level_5" type="string">bm_speedboatUpgrade1.dds</value>
+				</object>
+			</object>
+			<object name="vehicle_9">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">2</value>
+				<value name="chaos" type="int">40000</value>
+				<value name="description" type="string">gui_desc_txt_82</value>
+				<value name="entity" type="string">Vehicles/ARVE/ARVE.V067_Speedplane.ee</value>
+				<value name="id" type="int">9</value>
+				<value name="item_id" type="string">v067</value>
+				<value name="name" type="string">gui_txt_82</value>
+				<value name="parameter_0" type="vec2">85,100</value>
+				<value name="parameter_1" type="vec2">75,95</value>
+				<value name="parameter_2" type="vec2">50,90</value>
+				<value name="parameter_3" type="vec2">10,15</value>
+				<value name="price" type="int">300</value>
+				<value name="type" type="int">1</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_speedplane.dds</value>
+					<value name="level_1" type="string">bm_speedplane.dds</value>
+					<value name="level_2" type="string">bm_speedplane.dds</value>
+					<value name="level_3" type="string">bm_speedplane.dds</value>
+					<value name="level_4" type="string">bm_speedplane.dds</value>
+					<value name="level_5" type="string">bm_speedplane.dds</value>
+				</object>
+			</object>
+		</object>
+		<object name="weapons">
+			<object id="32F1083F">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">0</value>
+				<value name="chaos" type="int">0</value>
+				<value name="description" type="string">Minigun</value>
+				<value name="entity" type="string">pickups/pickup.minigun.ee</value>
+				<value name="id" type="int">16</value>
+				<value name="item_id" type="string">WEA1235</value>
+				<value name="name" type="string">Minigun</value>
+				<value name="parameter_0" type="vec2">60,80</value>
+				<value name="parameter_1" type="vec2">70,100</value>
+				<value name="parameter_2" type="vec2">10,37</value>
+				<value name="parameter_3" type="vec2">56,100</value>
+				<value name="price" type="int">250</value>
+				<value name="type" type="int">0</value>
+				<object name="images">
+					<value name="level_5" type="string"></value>
+				</object>
+			</object>
+			<object id="430442F5">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">1</value>
+				<value name="chaos" type="int">0</value>
+				<value name="description" type="string"></value>
+				<value name="entity" type="string">pickups/pickup.panayrocketlauncher.ee</value>
+				<value name="id" type="int">13</value>
+				<value name="item_id" type="string">w014</value>
+				<value name="name" type="string">Baby Panays Rocket Launcher</value>
+				<value name="parameter_0" type="vec2">70,100</value>
+				<value name="parameter_1" type="vec2">70,90</value>
+				<value name="parameter_3" type="vec2">24,64</value>
+				<value name="price" type="int">200</value>
+				<value name="type" type="int">0</value>
+				<object name="images">
+					<value name="level_0" type="string">textures/blackmarket/bmt_w014_panay_rocket_launcher.dds</value>
+					<value name="level_1" type="string">textures/blackmarket/bmt_w014_panay_rocket_launcher.dds</value>
+					<value name="level_2" type="string">textures/blackmarket/bmt_w014_panay_rocket_launcher.dds</value>
+					<value name="level_3" type="string">textures/blackmarket/bmt_w014_panay_rocket_launcher.dds</value>
+					<value name="level_4" type="string">textures/blackmarket/bmt_w014_panay_rocket_launcher.dds</value>
+					<value name="level_5" type="string">textures/blackmarket/bmt_w014_panay_rocket_launcher.dds</value>
+				</object>
+			</object>
+			<object id="7BC1FFAC">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">1</value>
+				<value name="chaos" type="int">0</value>
+				<value name="description" type="string"></value>
+				<value name="entity" type="string">pickups/pickup.bubblegun.ee</value>
+				<value name="id" type="int">14</value>
+				<value name="item_id" type="string">w015</value>
+				<value name="name" type="string">fe_txt_339</value>
+				<value name="price" type="int">100</value>
+				<value name="type" type="int">0</value>
+				<object name="images">
+					<value name="level_0" type="string">textures/blackmarket/bmt_w015_bubble_gun.dds</value>
+					<value name="level_1" type="string">textures/blackmarket/bmt_w015_bubble_gun.dds</value>
+					<value name="level_2" type="string">textures/blackmarket/bmt_w015_bubble_gun.dds</value>
+					<value name="level_3" type="string">textures/blackmarket/bmt_w015_bubble_gun.dds</value>
+					<value name="level_4" type="string">textures/blackmarket/bmt_w015_bubble_gun.dds</value>
+					<value name="level_5" type="string">textures/blackmarket/bmt_w015_bubble_gun.dds</value>
+				</object>
+			</object>
+			<object name="weapon_0">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">0</value>
+				<value name="chaos" type="int">0</value>
+				<value name="description" type="string">gui_desc_txt_59</value>
+				<value name="entity" type="string">heavydrops/mod.heavydrop.beretta.ee</value>
+				<value name="id" type="int">0</value>
+				<value name="item_id" type="string">WEA02</value>
+				<value name="name" type="string">gui_txt_59</value>
+				<value name="parameter_0" type="vec2">15,35</value>
+				<value name="parameter_1" type="vec2">35,55</value>
+				<value name="parameter_2" type="vec2">63,93</value>
+				<value name="parameter_3" type="vec2">24,44</value>
+				<value name="price" type="int">200</value>
+				<value name="type" type="int">0</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_pistol.dds</value>
+				</object>
+			</object>
+			<object name="weapon_1">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">0</value>
+				<value name="chaos" type="int">40000</value>
+				<value name="description" type="string">gui_desc_txt_60</value>
+				<value name="entity" type="string">heavydrops/mod.heavydrop.revolver.ee</value>
+				<value name="id" type="int">1</value>
+				<value name="item_id" type="string">WEA04</value>
+				<value name="name" type="string">gui_txt_60</value>
+				<value name="parameter_0" type="vec2">40,75</value>
+				<value name="parameter_1" type="vec2">10,25</value>
+				<value name="parameter_2" type="vec2">70,100</value>
+				<value name="parameter_3" type="vec2">10,20</value>
+				<value name="price" type="int">400</value>
+				<value name="type" type="int">0</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_revolver.dds</value>
+				</object>
+			</object>
+			<object name="weapon_10">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">1</value>
+				<value name="chaos" type="int">0</value>
+				<value name="description" type="string">gui_desc_txt_69</value>
+				<value name="entity" type="string">heavydrops/mod.heavydrop.grenade.ee</value>
+				<value name="id" type="int">10</value>
+				<value name="item_id" type="string">WEA33</value>
+				<value name="name" type="string">gui_txt_69</value>
+				<value name="parameter_0" type="vec2">50,75</value>
+				<value name="parameter_1" type="vec2">40,75</value>
+				<value name="parameter_2" type="vec2">30,70</value>
+				<value name="price" type="int">250</value>
+				<value name="type" type="int">0</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_grenade.dds</value>
+				</object>
+			</object>
+			<object name="weapon_11">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">1</value>
+				<value name="chaos" type="int">95000</value>
+				<value name="description" type="string">gui_desc_txt_70</value>
+				<value name="entity" type="string">heavydrops/mod.heavydrop.triggered.ee</value>
+				<value name="id" type="int">11</value>
+				<value name="item_id" type="string">WEA35</value>
+				<value name="name" type="string">gui_txt_70</value>
+				<value name="parameter_0" type="vec2">75,100</value>
+				<value name="parameter_1" type="vec2">55,90</value>
+				<value name="parameter_2" type="vec2">30,70</value>
+				<value name="price" type="int">300</value>
+				<value name="type" type="int">0</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_exp.dds</value>
+				</object>
+			</object>
+			<object name="weapon_2">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">0</value>
+				<value name="chaos" type="int">255000</value>
+				<value name="description" type="string">gui_desc_txt_61</value>
+				<value name="entity" type="string">heavydrops/mod.heavydrop.smg.ee</value>
+				<value name="id" type="int">2</value>
+				<value name="item_id" type="string">WEA05</value>
+				<value name="name" type="string">gui_txt_61</value>
+				<value name="parameter_0" type="vec2">15,30</value>
+				<value name="parameter_1" type="vec2">70,100</value>
+				<value name="parameter_2" type="vec2">10,37</value>
+				<value name="parameter_3" type="vec2">56,100</value>
+				<value name="price" type="int">350</value>
+				<value name="type" type="int">0</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_smg.dds</value>
+				</object>
+			</object>
+			<object name="weapon_3">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">0</value>
+				<value name="chaos" type="int">140000</value>
+				<value name="description" type="string">gui_desc_txt_62</value>
+				<value name="entity" type="string">heavydrops/mod.heavydrop.onehandshootgun.ee</value>
+				<value name="id" type="int">3</value>
+				<value name="item_id" type="string">WEA06</value>
+				<value name="name" type="string">gui_txt_62</value>
+				<value name="parameter_0" type="vec2">50,85</value>
+				<value name="parameter_1" type="vec2">20,40</value>
+				<value name="parameter_2" type="vec2">30,50</value>
+				<value name="parameter_3" type="vec2">6,16</value>
+				<value name="price" type="int">350</value>
+				<value name="type" type="int">0</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_sawed.dds</value>
+				</object>
+			</object>
+			<object name="weapon_4">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">0</value>
+				<value name="chaos" type="int">360000</value>
+				<value name="description" type="string">gui_desc_txt_63</value>
+				<value name="entity" type="string">heavydrops/mod.heavydrop.grenadelauncher.ee</value>
+				<value name="id" type="int">4</value>
+				<value name="item_id" type="string">WEA17</value>
+				<value name="name" type="string">gui_txt_63</value>
+				<value name="parameter_0" type="vec2">40,70</value>
+				<value name="parameter_1" type="vec2">35,60</value>
+				<value name="parameter_3" type="vec2">10,20</value>
+				<value name="price" type="int">750</value>
+				<value name="type" type="int">0</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_gl.dds</value>
+				</object>
+			</object>
+			<object name="weapon_5">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">0</value>
+				<value name="chaos" type="int">70000</value>
+				<value name="description" type="string">gui_desc_txt_64</value>
+				<value name="entity" type="string">heavydrops/mod.heavydrop.assault.ee</value>
+				<value name="id" type="int">5</value>
+				<value name="item_id" type="string">WEA11</value>
+				<value name="name" type="string">gui_txt_64</value>
+				<value name="parameter_0" type="vec2">25,48</value>
+				<value name="parameter_1" type="vec2">40,60</value>
+				<value name="parameter_2" type="vec2">48,78</value>
+				<value name="parameter_3" type="vec2">40,60</value>
+				<value name="price" type="int">550</value>
+				<value name="type" type="int">0</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_ar.dds</value>
+				</object>
+			</object>
+			<object name="weapon_6">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">0</value>
+				<value name="chaos" type="int">195000</value>
+				<value name="description" type="string">gui_desc_txt_65</value>
+				<value name="entity" type="string">heavydrops/mod.heavydrop.shotgun.ee</value>
+				<value name="id" type="int">6</value>
+				<value name="item_id" type="string">WEA13</value>
+				<value name="name" type="string">gui_txt_65</value>
+				<value name="parameter_0" type="vec2">50,85</value>
+				<value name="parameter_1" type="vec2">27,40</value>
+				<value name="parameter_2" type="vec2">35,57</value>
+				<value name="parameter_3" type="vec2">12,32</value>
+				<value name="price" type="int">450</value>
+				<value name="type" type="int">0</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_shotgun.dds</value>
+				</object>
+			</object>
+			<object name="weapon_7">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">0</value>
+				<value name="chaos" type="int">40000</value>
+				<value name="description" type="string">gui_desc_txt_66</value>
+				<value name="entity" type="string">heavydrops/mod.heavydrop.sniper.ee</value>
+				<value name="id" type="int">7</value>
+				<value name="item_id" type="string">WEA14</value>
+				<value name="name" type="string">gui_txt_66</value>
+				<value name="parameter_0" type="vec2">65,100</value>
+				<value name="parameter_1" type="vec2">6,12</value>
+				<value name="parameter_2" type="vec2">7,15</value>
+				<value name="parameter_3" type="vec2">8,18</value>
+				<value name="price" type="int">450</value>
+				<value name="type" type="int">0</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_sniper.dds</value>
+				</object>
+			</object>
+			<object name="weapon_8">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">0</value>
+				<value name="chaos" type="int">415000</value>
+				<value name="description" type="string">gui_desc_txt_67</value>
+				<value name="entity" type="string">heavydrops/mod.heavydrop.rocketlauncher.ee</value>
+				<value name="id" type="int">8</value>
+				<value name="item_id" type="string">WEA16</value>
+				<value name="name" type="string">gui_txt_67</value>
+				<value name="parameter_0" type="vec2">70,100</value>
+				<value name="parameter_1" type="vec2">70,90</value>
+				<value name="parameter_3" type="vec2">24,64</value>
+				<value name="price" type="int">800</value>
+				<value name="type" type="int">0</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_rl.dds</value>
+				</object>
+			</object>
+			<object name="weapon_9">
+				<value id="6C9E0112" type="int">0</value>
+				<value id="E3D944D1" type="int">0</value>
+				<value name="chaos" type="int">310000</value>
+				<value name="description" type="string">gui_desc_txt_68</value>
+				<value name="entity" type="string">heavydrops/mod.heavydrop.machinegun.ee</value>
+				<value name="id" type="int">9</value>
+				<value name="item_id" type="string">WEA28</value>
+				<value name="name" type="string">gui_txt_68</value>
+				<value name="parameter_0" type="vec2">35,60</value>
+				<value name="parameter_1" type="vec2">35,55</value>
+				<value name="parameter_2" type="vec2">65,55</value>
+				<value name="parameter_3" type="vec2">52,72</value>
+				<value name="price" type="int">700</value>
+				<value name="type" type="int">0</value>
+				<object name="images">
+					<value name="level_0" type="string">bm_machinegun.dds</value>
+				</object>
+			</object>
+		</object>
+	</object>
+</root>

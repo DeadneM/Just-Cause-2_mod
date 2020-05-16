@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object name="root">
+			<value id="0E34B3B1" type="string">g_cstrtejp.dds</value>
+			<value id="25BF0389" type="string">flare.dds</value>
+			<value id="3587EA40" type="string">360_snow.dds</value>
+			<value id="3CD43838" type="string">G_Roadsigns.dds</value>
+			<value id="47D3B6AF" type="string">ring.dds</value>
+			<value id="490A40D2" type="string">snow_bomb.dds</value>
+			<value id="4948EE80" type="string">bubble.dds</value>
+			<value id="58F0DC24" type="string">GB006.dds</value>
+			<value id="5D8EB753" type="string">g_channel_textures_d.dds</value>
+			<value id="5DC53D74" type="string">bullethits.dds</value>
+			<value id="6B84BE4B" type="string">lightningbolt.dds</value>
+			<value id="79A972F1" type="string">chockwave_color.dds</value>
+			<value id="7C09FC37" type="string">g_channel_textures_e.dds</value>
+			<value id="7E7448FC" type="string">bulletshells.dds</value>
+			<value id="7EC0414E" type="string">fumefx_bomb_01.dds</value>
+			<value id="84B37235" type="string">g_channel_textures_cloth_weave.dds</value>
+			<value id="8C6A1714" type="string">engine.dds</value>
+			<value id="98908A77" type="string">particle_blobb.dds</value>
+			<value id="9DF0599A" type="string">metalflake.dds</value>
+			<value id="A7E0CCD7" type="string">G_Spraypaint1.dds</value>
+			<value id="BBCC11C1" type="string">CS_RoadMarks.dds</value>
+			<value id="BFD29096" type="string">muzzleflashes.dds</value>
+			<value id="C2C8EE21" type="string">g_noise.dds</value>
+			<value id="D0B67E5A" type="string">pinkFlowers.dds</value>
+			<value id="DE34BFC3" type="string">G_Stairs DIF.dds</value>
+			<value id="ECC37B8D" type="string">g_channel_textures_f.dds</value>
+			<value id="FDF46C80" type="string">G_Roadsigns_lod.dds</value>
+			<value id="FE7ADDF2" type="string">g_channel_textures_g.dds</value>
+			<value id="FE8AE8A6" type="string">g_noise_2.dds</value>
+			<value name="texture0" type="string">g_channel_textures_a.dds</value>
+			<value name="texture1" type="string">g_channel_textures_b.dds</value>
+			<value name="texture2" type="string">g_channel_textures_c.dds</value>
+		</object>
+	</object>
+</root>

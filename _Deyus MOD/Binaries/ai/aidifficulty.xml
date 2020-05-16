@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object name="difficulty">
+			<object id="04198857">
+				<object id="3D9B605C">
+					<value id="77CDDA7D" type="float">2</value>
+					<value id="FB30611F" type="float">1</value>
+				</object>
+				<object id="4A09684A">
+					<value id="2422B464" type="float">20</value>
+					<value id="2BDCCCDF" type="float">2</value>
+					<value id="3EE17D48" type="float">3</value>
+					<value id="7F9BA593" type="float">1</value>
+					<value id="87ABC033" type="float">0.5</value>
+					<value id="8A7627F8" type="float">3</value>
+					<value id="E9E15913" type="float">0.25</value>
+				</object>
+				<object id="8500B248">
+					<object id="12F51F4D">
+						<value id="01A111CB" type="float">3</value>
+						<value id="11932848" type="float">0.25</value>
+						<value id="3ED84295" type="float">25</value>
+						<value id="4B515DD8" type="float">0</value>
+						<value id="4D63AE5C" type="float">0.5</value>
+						<value id="7C69AA21" type="float">0.5</value>
+						<value id="A80A49EC" type="float">3</value>
+						<value id="AF4DB03E" type="float">0.05</value>
+						<value id="B57D0F6F" type="float">1.5</value>
+						<value id="B6390ED0" type="float">1.5</value>
+						<value id="B653DE9C" type="float">1.5</value>
+						<value id="FCBBE630" type="float">25</value>
+					</object>
+				</object>
+				<object id="BD26370E">
+					<value name="time" type="float">15</value>
+				</object>
+				<object id="D45D2C3A">
+					<object id="C4A6A18B">
+						<value id="0C75D407" type="float">50</value>
+						<value id="1EFF774B" type="float">3</value>
+						<value id="201A3E19" type="float">6</value>
+						<value id="220FA226" type="float">0</value>
+						<value id="2C304978" type="float">3</value>
+						<value id="31215016" type="float">25</value>
+						<value id="35C1AC3A" type="float">2</value>
+						<value id="3F81F15C" type="float">4</value>
+						<value id="50ADF412" type="float">8</value>
+						<value id="64E031E1" type="float">6</value>
+						<value id="6769EA10" type="float">0.5</value>
+						<value id="6E629DE5" type="float">3</value>
+						<value id="78865AC2" type="float">10</value>
+						<value id="8AE19CEF" type="float">0.25</value>
+						<value id="903F7587" type="float">0.05</value>
+						<value id="9609D472" type="float">0.5</value>
+						<value id="A46335F7" type="float">3</value>
+						<value id="AA714E9B" type="float">0</value>
+						<value id="BEAD4B2A" type="float">0</value>
+						<value id="CADD24A0" type="float">0.05</value>
+						<value id="CF9F456C" type="float">0</value>
+						<value id="D25DCBA5" type="float">0</value>
+						<value id="F3A0CEF4" type="float">0.25</value>
+						<value id="FC4AB1E4" type="float">0</value>
+					</object>
+				</object>
+				<object id="DD8E20BC">
+					<value name="time" type="float">1.5</value>
+				</object>
+				<object name="elite">
+					<value id="4F5AB59D" type="float">0.3</value>
+				</object>
+				<object name="grunt">
+					<value id="4F5AB59D" type="float">0.15</value>
+				</object>
+			</object>
+			<object id="35CB222F">
+				<object id="3D9B605C">
+					<value id="77CDDA7D" type="float">2</value>
+					<value id="FB30611F" type="float">1</value>
+				</object>
+				<object id="4A09684A">
+					<value id="2422B464" type="float">20</value>
+					<value id="2BDCCCDF" type="float">5</value>
+					<value id="3EE17D48" type="float">5</value>
+					<value id="7F9BA593" type="float">1</value>
+					<value id="87ABC033" type="float">0.5</value>
+					<value id="8A7627F8" type="float">3</value>
+					<value id="C4A882BB" type="float">0.5</value>
+					<value id="E9E15913" type="float">0.25</value>
+				</object>
+				<object id="6306BC88">
+					<value id="0FDC31DA" type="float">0.667</value>
+					<value id="63856F99" type="float">0.75</value>
+					<value id="71A874D5" type="float">0.6</value>
+					<value id="90C2BF91" type="float">0.625</value>
+					<value id="D13FBC77" type="float">1</value>
+				</object>
+				<object id="8500B248">
+					<value id="0C75D407" type="float">25</value>
+					<value id="1EFF774B" type="float">3</value>
+					<value id="201A3E19" type="float">5</value>
+					<value id="220FA226" type="float">0.1</value>
+					<value id="2C304978" type="float">3</value>
+					<value id="31215016" type="float">25</value>
+					<value id="64E031E1" type="float">3</value>
+					<value id="6769EA10" type="float">0.5</value>
+					<value id="6E629DE5" type="float">3</value>
+					<value id="8AE19CEF" type="float">0.5</value>
+					<value id="903F7587" type="float">0.1</value>
+					<value id="9609D472" type="float">0.5</value>
+					<value id="A46335F7" type="float">3</value>
+					<value id="AA714E9B" type="float">0.5</value>
+					<value id="BEAD4B2A" type="float">5</value>
+					<value id="CADD24A0" type="float">1</value>
+					<value id="CF9F456C" type="float">0.5</value>
+					<value id="D25DCBA5" type="float">1</value>
+					<value id="F3A0CEF4" type="float">0.5</value>
+					<value id="FC4AB1E4" type="float">3</value>
+				</object>
+				<object id="99C1EBDC">
+					<value id="1A02D4B2" type="int">3</value>
+					<value id="539A7537" type="int">3</value>
+					<value id="685C7695" type="int">3</value>
+					<value id="8D674583" type="int">3</value>
+					<value id="AFF5449E" type="int">3</value>
+				</object>
+				<object id="9F5DE6DD">
+					<value id="1A02D4B2" type="int">7</value>
+					<value id="539A7537" type="int">8</value>
+					<value id="685C7695" type="int">6</value>
+					<value id="8D674583" type="int">4</value>
+					<value id="AFF5449E" type="int">5</value>
+				</object>
+				<object id="BD26370E">
+					<value name="time" type="float">25</value>
+				</object>
+				<object id="D45D2C3A">
+					<object id="C4A6A18B">
+						<value id="0C75D407" type="float">50</value>
+						<value id="1EFF774B" type="float">3</value>
+						<value id="201A3E19" type="float">6</value>
+						<value id="220FA226" type="float">0</value>
+						<value id="2C304978" type="float">3</value>
+						<value id="31215016" type="float">25</value>
+						<value id="35C1AC3A" type="float">5</value>
+						<value id="3F81F15C" type="float">7</value>
+						<value id="50ADF412" type="float">3</value>
+						<value id="64E031E1" type="float">6</value>
+						<value id="6769EA10" type="float">0.5</value>
+						<value id="6E629DE5" type="float">3</value>
+						<value id="78865AC2" type="float">5</value>
+						<value id="8AE19CEF" type="float">0.25</value>
+						<value id="903F7587" type="float">0.05</value>
+						<value id="9609D472" type="float">0.5</value>
+						<value id="A46335F7" type="float">3</value>
+						<value id="AA714E9B" type="float">0</value>
+						<value id="BEAD4B2A" type="float">0</value>
+						<value id="CADD24A0" type="float">0.05</value>
+						<value id="CF9F456C" type="float">0</value>
+						<value id="D25DCBA5" type="float">0</value>
+						<value id="F3A0CEF4" type="float">0.25</value>
+						<value id="FC4AB1E4" type="float">0</value>
+					</object>
+				</object>
+				<object id="DD8E20BC">
+					<value name="time" type="float">0.7</value>
+				</object>
+				<object id="FCFE4BF9">
+					<value id="2C005469" type="float">0.7</value>
+					<value id="B3D0E3B2" type="float">1</value>
+					<value id="D0A1B341" type="float">4</value>
+					<value id="DA7ACCC7" type="float">0.2</value>
+				</object>
+				<object name="elite">
+					<value id="2CA298DB" type="float">0</value>
+					<value id="4F5AB59D" type="float">0.2</value>
+					<value id="833C3838" type="float">0.05</value>
+					<value id="F143E72B" type="float">0.75</value>
+				</object>
+				<object name="grunt">
+					<value id="2CA298DB" type="float">0</value>
+					<value id="4F5AB59D" type="float">0.17</value>
+					<value id="833C3838" type="float">0.05</value>
+					<value id="F143E72B" type="float">0.75</value>
+				</object>
+			</object>
+			<object id="78940C25">
+				<object id="3D9B605C">
+					<value id="77CDDA7D" type="float">4</value>
+					<value id="FB30611F" type="float">2</value>
+				</object>
+				<object id="4A09684A">
+					<value id="2422B464" type="float">20</value>
+					<value id="2BDCCCDF" type="float">4</value>
+					<value id="3EE17D48" type="float">5</value>
+					<value id="7F9BA593" type="float">1</value>
+					<value id="87ABC033" type="float">0.5</value>
+					<value id="8A7627F8" type="float">5</value>
+					<value id="E9E15913" type="float">0.25</value>
+				</object>
+				<object id="8500B248">
+					<object id="12F51F4D">
+						<value id="01A111CB" type="float">3</value>
+						<value id="11932848" type="float">0.25</value>
+						<value id="3ED84295" type="float">25</value>
+						<value id="4B515DD8" type="float">0</value>
+						<value id="4D63AE5C" type="float">1.5</value>
+						<value id="7C69AA21" type="float">0.5</value>
+						<value id="A80A49EC" type="float">3</value>
+						<value id="AF4DB03E" type="float">0.05</value>
+						<value id="B57D0F6F" type="float">4</value>
+						<value id="B6390ED0" type="float">2.5</value>
+						<value id="B653DE9C" type="float">2.5</value>
+						<value id="FCBBE630" type="float">25</value>
+					</object>
+				</object>
+				<object id="BD26370E">
+					<value name="time" type="float">25</value>
+				</object>
+				<object id="D45D2C3A">
+					<object id="C4A6A18B">
+						<value id="0C75D407" type="float">50</value>
+						<value id="1EFF774B" type="float">3</value>
+						<value id="201A3E19" type="float">6</value>
+						<value id="220FA226" type="float">0</value>
+						<value id="2C304978" type="float">3</value>
+						<value id="31215016" type="float">25</value>
+						<value id="35C1AC3A" type="float">4</value>
+						<value id="3F81F15C" type="float">6</value>
+						<value id="50ADF412" type="float">4</value>
+						<value id="64E031E1" type="float">6</value>
+						<value id="6769EA10" type="float">0.5</value>
+						<value id="6E629DE5" type="float">3</value>
+						<value id="78865AC2" type="float">6</value>
+						<value id="8AE19CEF" type="float">0.25</value>
+						<value id="903F7587" type="float">0.05</value>
+						<value id="9609D472" type="float">0.5</value>
+						<value id="A46335F7" type="float">3</value>
+						<value id="AA714E9B" type="float">0</value>
+						<value id="BEAD4B2A" type="float">0</value>
+						<value id="CADD24A0" type="float">0.05</value>
+						<value id="CF9F456C" type="float">0</value>
+						<value id="D25DCBA5" type="float">0</value>
+						<value id="F3A0CEF4" type="float">0.25</value>
+						<value id="FC4AB1E4" type="float">0</value>
+					</object>
+				</object>
+				<object id="DD8E20BC">
+					<value name="time" type="float">3.5</value>
+				</object>
+				<object name="elite">
+					<value id="4F5AB59D" type="float">0.1</value>
+				</object>
+				<object name="grunt">
+					<value id="4F5AB59D" type="float">0.05</value>
+				</object>
+			</object>
+			<object id="D88A7936">
+				<object id="3D9B605C">
+					<value id="77CDDA7D" type="float">1</value>
+					<value id="FB30611F" type="float">0.5</value>
+				</object>
+				<object id="4A09684A">
+					<value id="2422B464" type="float">20</value>
+					<value id="2BDCCCDF" type="float">1</value>
+					<value id="3EE17D48" type="float">2</value>
+					<value id="7F9BA593" type="float">1</value>
+					<value id="87ABC033" type="float">0.5</value>
+					<value id="8A7627F8" type="float">2</value>
+					<value id="E9E15913" type="float">0.25</value>
+				</object>
+				<object id="8500B248">
+					<object id="12F51F4D">
+						<value id="01A111CB" type="float">3</value>
+						<value id="11932848" type="float">0.25</value>
+						<value id="3ED84295" type="float">25</value>
+						<value id="4B515DD8" type="float">0</value>
+						<value id="4D63AE5C" type="float">0.25</value>
+						<value id="7C69AA21" type="float">0.25</value>
+						<value id="A80A49EC" type="float">3</value>
+						<value id="AF4DB03E" type="float">0.05</value>
+						<value id="B57D0F6F" type="float">1</value>
+						<value id="B6390ED0" type="float">1</value>
+						<value id="B653DE9C" type="float">1</value>
+						<value id="FCBBE630" type="float">25</value>
+					</object>
+				</object>
+				<object id="BD26370E">
+					<value name="time" type="float">15</value>
+				</object>
+				<object id="D45D2C3A">
+					<object id="C4A6A18B">
+						<value id="0C75D407" type="float">50</value>
+						<value id="1EFF774B" type="float">3</value>
+						<value id="201A3E19" type="float">6</value>
+						<value id="220FA226" type="float">0</value>
+						<value id="2C304978" type="float">3</value>
+						<value id="31215016" type="float">25</value>
+						<value id="35C1AC3A" type="float">1</value>
+						<value id="3F81F15C" type="float">3</value>
+						<value id="50ADF412" type="float">10</value>
+						<value id="64E031E1" type="float">6</value>
+						<value id="6769EA10" type="float">0.5</value>
+						<value id="6E629DE5" type="float">3</value>
+						<value id="78865AC2" type="float">12</value>
+						<value id="8AE19CEF" type="float">0.25</value>
+						<value id="903F7587" type="float">0.05</value>
+						<value id="9609D472" type="float">0.5</value>
+						<value id="A46335F7" type="float">3</value>
+						<value id="AA714E9B" type="float">0</value>
+						<value id="BEAD4B2A" type="float">0</value>
+						<value id="CADD24A0" type="float">0.05</value>
+						<value id="CF9F456C" type="float">0</value>
+						<value id="D25DCBA5" type="float">0</value>
+						<value id="F3A0CEF4" type="float">0.25</value>
+						<value id="FC4AB1E4" type="float">0</value>
+					</object>
+				</object>
+				<object id="DD8E20BC">
+					<value name="time" type="float">1</value>
+				</object>
+				<object name="elite">
+					<value id="4F5AB59D" type="float">0.4</value>
+				</object>
+				<object name="grunt">
+					<value id="4F5AB59D" type="float">0.2</value>
+				</object>
+			</object>
+			<object id="EE46694E">
+				<object id="16D9534E">
+					<value id="BB3E8934" type="int">100000</value>
+					<value name="name" type="string">chaos_00</value>
+				</object>
+				<object id="7AACB783">
+					<value id="BB3E8934" type="int">400000</value>
+					<value name="name" type="string">chaos_03</value>
+				</object>
+				<object id="8948C4D2">
+					<value id="BB3E8934" type="int">200000</value>
+					<value name="name" type="string">chaos_01</value>
+				</object>
+				<object id="D5427EC1">
+					<value id="BB3E8934" type="int">300000</value>
+					<value name="name" type="string">chaos_02</value>
+				</object>
+			</object>
+			<object name="normal">
+				<object id="3D9B605C">
+					<value id="77CDDA7D" type="float">3</value>
+					<value id="FB30611F" type="float">1.5</value>
+				</object>
+				<object id="4A09684A">
+					<value id="2422B464" type="float">20</value>
+					<value id="2BDCCCDF" type="float">3</value>
+					<value id="3EE17D48" type="float">4</value>
+					<value id="7F9BA593" type="float">1</value>
+					<value id="87ABC033" type="float">0.5</value>
+					<value id="8A7627F8" type="float">4</value>
+					<value id="E9E15913" type="float">0.25</value>
+				</object>
+				<object id="8500B248">
+					<object id="12F51F4D">
+						<value id="01A111CB" type="float">3</value>
+						<value id="11932848" type="float">0.25</value>
+						<value id="3ED84295" type="float">25</value>
+						<value id="4B515DD8" type="float">0</value>
+						<value id="4D63AE5C" type="float">1</value>
+						<value id="7C69AA21" type="float">0.5</value>
+						<value id="A80A49EC" type="float">3</value>
+						<value id="AF4DB03E" type="float">0.05</value>
+						<value id="B57D0F6F" type="float">3</value>
+						<value id="B6390ED0" type="float">2</value>
+						<value id="B653DE9C" type="float">2</value>
+						<value id="FCBBE630" type="float">25</value>
+					</object>
+				</object>
+				<object id="BD26370E">
+					<value name="time" type="float">25</value>
+				</object>
+				<object id="D45D2C3A">
+					<object id="C4A6A18B">
+						<value id="0C75D407" type="float">50</value>
+						<value id="1EFF774B" type="float">3</value>
+						<value id="201A3E19" type="float">6</value>
+						<value id="220FA226" type="float">0</value>
+						<value id="2C304978" type="float">3</value>
+						<value id="31215016" type="float">25</value>
+						<value id="35C1AC3A" type="float">3</value>
+						<value id="3F81F15C" type="float">5</value>
+						<value id="50ADF412" type="float">6</value>
+						<value id="64E031E1" type="float">6</value>
+						<value id="6769EA10" type="float">0.5</value>
+						<value id="6E629DE5" type="float">3</value>
+						<value id="78865AC2" type="float">8</value>
+						<value id="8AE19CEF" type="float">0.25</value>
+						<value id="903F7587" type="float">0.05</value>
+						<value id="9609D472" type="float">0.5</value>
+						<value id="A46335F7" type="float">3</value>
+						<value id="AA714E9B" type="float">0</value>
+						<value id="BEAD4B2A" type="float">0</value>
+						<value id="CADD24A0" type="float">0.05</value>
+						<value id="CF9F456C" type="float">0</value>
+						<value id="D25DCBA5" type="float">0</value>
+						<value id="F3A0CEF4" type="float">0.25</value>
+						<value id="FC4AB1E4" type="float">0</value>
+					</object>
+				</object>
+				<object id="DD8E20BC">
+					<value name="time" type="float">2.8</value>
+				</object>
+				<object name="elite">
+					<value id="4F5AB59D" type="float">0.2</value>
+				</object>
+				<object name="grunt">
+					<value id="4F5AB59D" type="float">0.1</value>
+				</object>
+			</object>
+		</object>
+	</object>
+</root>

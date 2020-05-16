@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object name="sheldon_service">
+			<value id="0F378C3D" type="string">gui_txt_259</value>
+			<value id="47A830FE" type="string">gui_txt_260</value>
+			<value id="E2573136" type="float">1</value>
+			<value id="EDD67A6A" type="int">60000</value>
+			<object name="sheldon">
+				<value id="2F7B8E17" type="string"></value>
+				<value id="3100AEC3" type="string"></value>
+				<value id="33A26DAA" type="string"></value>
+				<value id="6B4CFFA1" type="string"></value>
+				<value id="70C1A0A4" type="string"></value>
+				<value id="C29C654C" type="string"></value>
+				<value id="C4EEC653" type="string"></value>
+				<value id="E2A3DE45" type="string"></value>
+			</object>
+			<object name="sloth">
+				<value id="2F7B8E17" type="string"></value>
+				<value id="3100AEC3" type="string"></value>
+				<value id="33A26DAA" type="string"></value>
+				<value id="6B4CFFA1" type="string"></value>
+				<value id="70C1A0A4" type="string"></value>
+				<value id="C29C654C" type="string"></value>
+				<value id="C4EEC653" type="string"></value>
+				<value id="E2A3DE45" type="string"></value>
+			</object>
+			<object name="sound_settings">
+				<value id="21D428B3" type="int">70</value>
+				<value id="8FBDAF51" type="int">87</value>
+				<value id="A4AAB6CF" type="int">87</value>
+				<value id="BFFFFAC9" type="int">271</value>
+				<object id="C25A65EF">
+					<value id="73AA05CE" type="int">0</value>
+					<value id="EFB0F806" type="int">1</value>
+					<value name="sound_id" type="int">14</value>
+					<value name="soundbank_id" type="int">5</value>
+					<value name="var_id_focus" type="int">4</value>
+				</object>
+				<object name="helicopter_settings">
+					<value id="65C03FA8" type="float">400</value>
+					<value id="B333CF6D" type="float">0.1</value>
+					<value name="load_max" type="float">1</value>
+					<value name="load_min" type="float">0.5</value>
+					<value name="rpm_max" type="float">0</value>
+					<value name="rpm_min" type="float">0</value>
+				</object>
+			</object>
+		</object>
+	</object>
+</root>

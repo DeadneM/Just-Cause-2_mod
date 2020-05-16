@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<value id="A08D04C3" type="float">1</value>
+		<value id="F9C5FAEE" type="int">2</value>
+		<object id="178DBDF8">
+			<object id="7441DDD4">
+				<value name="default" type="float">3.5</value>
+			</object>
+			<object id="B8053EEE">
+				<value name="default" type="float">6</value>
+			</object>
+		</object>
+		<object id="71E870E5">
+			<object id="E691F700">
+				<value id="224AFAF6" type="float">0</value>
+				<value id="57677BDC" type="int">8</value>
+				<value id="60856E37" type="float">1</value>
+				<value id="A564332F" type="float">0</value>
+				<value id="C67BA7F8" type="float">1</value>
+			</object>
+			<object name="Arctic">
+				<value id="224AFAF6" type="float">1</value>
+				<value id="57677BDC" type="int">1</value>
+				<value id="60856E37" type="float">2</value>
+				<value id="A564332F" type="float">1</value>
+				<value id="C67BA7F8" type="float">2</value>
+			</object>
+			<object name="City">
+				<value id="224AFAF6" type="float">0</value>
+				<value id="57677BDC" type="int">5</value>
+				<value id="60856E37" type="float">1</value>
+				<value id="A564332F" type="float">0</value>
+				<value id="C67BA7F8" type="float">1</value>
+			</object>
+			<object name="Default">
+				<value id="224AFAF6" type="float">0</value>
+				<value id="57677BDC" type="int">7</value>
+				<value id="60856E37" type="float">1</value>
+				<value id="A564332F" type="float">0</value>
+				<value id="C67BA7F8" type="float">1</value>
+			</object>
+			<object name="Desert">
+				<value id="224AFAF6" type="float">0</value>
+				<value id="57677BDC" type="int">2</value>
+				<value id="60856E37" type="float">0</value>
+				<value id="A564332F" type="float">0</value>
+				<value id="C67BA7F8" type="float">0</value>
+			</object>
+			<object name="Grass">
+				<value id="224AFAF6" type="float">0</value>
+				<value id="57677BDC" type="int">6</value>
+				<value id="60856E37" type="float">1</value>
+				<value id="A564332F" type="float">0</value>
+				<value id="C67BA7F8" type="float">1</value>
+			</object>
+			<object name="Jungle">
+				<value id="224AFAF6" type="float">0</value>
+				<value id="57677BDC" type="int">3</value>
+				<value id="60856E37" type="float">1</value>
+				<value id="A564332F" type="float">0</value>
+				<value id="C67BA7F8" type="float">1</value>
+			</object>
+			<object name="Sea">
+				<value id="224AFAF6" type="float">0</value>
+				<value id="57677BDC" type="int">4</value>
+				<value id="60856E37" type="float">1</value>
+				<value id="A564332F" type="float">0</value>
+				<value id="C67BA7F8" type="float">1</value>
+			</object>
+			<object name="Underwater">
+				<value id="224AFAF6" type="float">0</value>
+				<value id="57677BDC" type="int">9</value>
+				<value id="60856E37" type="float">0</value>
+				<value id="A564332F" type="float">0</value>
+				<value id="C67BA7F8" type="float">0</value>
+			</object>
+		</object>
+		<object id="94BFDBD4">
+			<value id="0350ED23" type="int">3</value>
+			<value id="AF10C339" type="int">3</value>
+			<value id="BDE87C7C" type="int">3</value>
+			<value id="C3188F99" type="int">3</value>
+			<value id="C8CA2D61" type="int">3</value>
+			<value id="D0F76E6D" type="int">3</value>
+			<value id="D17E7637" type="int">3</value>
+			<value id="E411F29C" type="int">3</value>
+			<value id="F7D5D884" type="int">3</value>
+			<value id="FBD2E344" type="int">3</value>
+		</object>
+		<object id="D69D4965">
+			<object id="0A10A074">
+				<value id="141874C9" type="float">1</value>
+				<value id="15BA5C5B" type="float">0</value>
+				<value id="2098968F" type="float">0.8</value>
+				<value id="463EECE2" type="float">1</value>
+				<value id="566BD67C" type="float">0.32</value>
+				<value id="679DEF2A" type="float">1.6</value>
+				<value id="77724563" type="float">0.08</value>
+				<value id="84A1EC42" type="float">1</value>
+				<value id="8B639E1E" type="float">0.95</value>
+				<value id="A4D31FCE" type="float">0</value>
+				<value id="AB2627CC" type="float">1</value>
+				<value id="B862814F" type="float">0</value>
+				<value id="B98917F0" type="float">0.1</value>
+				<value id="BD54DE7B" type="float">0.3</value>
+				<value id="CC44E277" type="float">0.6</value>
+				<value id="E57D0A03" type="float">1</value>
+				<value id="FAD89AB2" type="float">10</value>
+				<value name="blur" type="float">0</value>
+				<value name="focal_distance" type="float">150</value>
+				<value name="heat_haze" type="float">0</value>
+			</object>
+			<object id="96232764">
+				<value id="220137A5" type="float">5.5</value>
+				<value id="88D36BA1" type="float">18.5</value>
+				<value id="F10E7EC1" type="float">4.5</value>
+				<value id="F56FFCB7" type="float">19.5</value>
+			</object>
+			<object id="E691F700">
+				<value id="57677BDC" type="int">8</value>
+				<object id="1EEB7740">
+					<value name="focal_distance" type="float">1500</value>
+				</object>
+				<object id="DE6C5FE4">
+					<value name="focal_distance" type="float">1500</value>
+				</object>
+				<object name="max_params">
+					<value name="focal_distance" type="float">2500</value>
+				</object>
+				<object name="min_params">
+					<value name="focal_distance" type="float">1500</value>
+				</object>
+			</object>
+			<object name="Arctic">
+				<value id="57677BDC" type="int">1</value>
+				<object id="1EEB7740">
+					<value id="679DEF2A" type="float">1</value>
+					<value id="AB2627CC" type="float">1</value>
+					<value id="E57D0A03" type="float">1</value>
+				</object>
+				<object id="DE6C5FE4">
+					<value id="679DEF2A" type="float">1</value>
+					<value id="AB2627CC" type="float">1</value>
+					<value id="E57D0A03" type="float">1</value>
+				</object>
+				<object name="max_params">
+					<value id="679DEF2A" type="float">1.25</value>
+					<value id="77724563" type="float">0.04</value>
+					<value id="8B639E1E" type="float">0.9</value>
+					<value id="B98917F0" type="float">0.25</value>
+				</object>
+				<object name="min_params">
+					<value id="679DEF2A" type="float">1.25</value>
+					<value id="77724563" type="float">0.04</value>
+					<value id="8B639E1E" type="float">0.9</value>
+					<value id="B98917F0" type="float">0.25</value>
+				</object>
+			</object>
+			<object name="City">
+				<value id="57677BDC" type="int">5</value>
+				<object id="1EEB7740" />
+				<object id="DE6C5FE4" />
+				<object name="max_params">
+					<value name="heat_haze" type="float">0.5</value>
+				</object>
+				<object name="min_params">
+					<value name="heat_haze" type="float">0.25</value>
+				</object>
+			</object>
+			<object name="Default">
+				<value id="57677BDC" type="int">7</value>
+				<object id="1EEB7740" />
+				<object id="DE6C5FE4" />
+				<object name="max_params" />
+				<object name="min_params" />
+			</object>
+			<object name="default_params">
+				<value id="141874C9" type="float">1</value>
+				<value id="15BA5C5B" type="float">1</value>
+				<value id="2098968F" type="float">0.7</value>
+				<value id="463EECE2" type="float">1</value>
+				<value id="566BD67C" type="float">0.32</value>
+				<value id="679DEF2A" type="float">1</value>
+				<value id="77724563" type="float">0.1</value>
+				<value id="84A1EC42" type="float">1</value>
+				<value id="8B639E1E" type="float">1</value>
+				<value id="A4D31FCE" type="float">0.3</value>
+				<value id="AB2627CC" type="float">1</value>
+				<value id="B862814F" type="float">0</value>
+				<value id="B98917F0" type="float">0.1</value>
+				<value id="BD54DE7B" type="float">0.4</value>
+				<value id="CC44E277" type="float">0.9</value>
+				<value id="E57D0A03" type="float">1</value>
+				<value id="FAD89AB2" type="float">-0.8</value>
+				<value name="blur" type="float">0</value>
+				<value name="focal_distance" type="float">120</value>
+				<value name="heat_haze" type="float">0</value>
+			</object>
+			<object name="Desert">
+				<value id="57677BDC" type="int">2</value>
+				<object id="1EEB7740" />
+				<object id="DE6C5FE4" />
+				<object name="max_params">
+					<value id="15BA5C5B" type="float">0.87</value>
+					<value id="2098968F" type="float">0.75</value>
+					<value id="679DEF2A" type="float">0.89</value>
+					<value id="77724563" type="float">0.04</value>
+					<value id="8B639E1E" type="float">0.87</value>
+					<value id="AB2627CC" type="float">1.34</value>
+					<value id="B862814F" type="float">0</value>
+					<value id="B98917F0" type="float">0.2</value>
+					<value id="BD54DE7B" type="float">0.64</value>
+					<value id="E57D0A03" type="float">1.13</value>
+					<value name="focal_distance" type="float">50</value>
+					<value name="heat_haze" type="float">1.5</value>
+				</object>
+				<object name="min_params">
+					<value id="15BA5C5B" type="float">0.87</value>
+					<value id="2098968F" type="float">0.75</value>
+					<value id="679DEF2A" type="float">0.89</value>
+					<value id="77724563" type="float">0.04</value>
+					<value id="8B639E1E" type="float">0.87</value>
+					<value id="AB2627CC" type="float">1.34</value>
+					<value id="B862814F" type="float">0</value>
+					<value id="B98917F0" type="float">0.2</value>
+					<value id="BD54DE7B" type="float">0.64</value>
+					<value id="E57D0A03" type="float">1.13</value>
+					<value name="focal_distance" type="float">50</value>
+					<value name="heat_haze" type="float">1</value>
+				</object>
+			</object>
+			<object name="Grass">
+				<value id="57677BDC" type="int">6</value>
+				<object id="1EEB7740" />
+				<object id="DE6C5FE4" />
+				<object name="max_params" />
+				<object name="min_params" />
+			</object>
+			<object name="Jungle">
+				<value id="57677BDC" type="int">3</value>
+				<object id="1EEB7740" />
+				<object id="DE6C5FE4" />
+				<object name="max_params">
+					<value name="heat_haze" type="float">1</value>
+				</object>
+				<object name="min_params">
+					<value name="heat_haze" type="float">0.33</value>
+				</object>
+			</object>
+			<object name="Sea">
+				<value id="57677BDC" type="int">4</value>
+				<object id="1EEB7740" />
+				<object id="DE6C5FE4" />
+				<object name="max_params" />
+				<object name="min_params" />
+			</object>
+			<object name="Underwater">
+				<value id="57677BDC" type="int">9</value>
+				<object id="1EEB7740">
+					<value id="679DEF2A" type="float">1.3</value>
+					<value id="BD54DE7B" type="float">0.65</value>
+					<value name="blur" type="float">0.15</value>
+					<value name="focal_distance" type="float">8</value>
+				</object>
+				<object id="DE6C5FE4">
+					<value id="679DEF2A" type="float">1.3</value>
+					<value id="BD54DE7B" type="float">0.65</value>
+					<value name="blur" type="float">0.15</value>
+					<value name="focal_distance" type="float">8</value>
+				</object>
+				<object name="max_params">
+					<value id="679DEF2A" type="float">1.3</value>
+					<value id="BD54DE7B" type="float">0.65</value>
+					<value name="blur" type="float">0.25</value>
+					<value name="focal_distance" type="float">11</value>
+				</object>
+				<object name="min_params">
+					<value id="679DEF2A" type="float">1.3</value>
+					<value id="BD54DE7B" type="float">0.65</value>
+					<value name="blur" type="float">0.15</value>
+					<value name="focal_distance" type="float">8</value>
+				</object>
+			</object>
+		</object>
+		<object id="E675B7C8">
+			<value id="0C479C2F" type="string">textures\landscape\gamezone_gradients.bmp</value>
+			<value id="12C1139F" type="float">30</value>
+			<value id="33C95E4B" type="int">9</value>
+			<value id="49C4C7D7" type="int">10</value>
+			<value id="5756AE96" type="int">7</value>
+			<value id="5AA8F383" type="int">8</value>
+			<value id="7157F3A4" type="float">1000</value>
+			<value id="7EB82C70" type="int">5</value>
+			<value id="9908CD90" type="int">1</value>
+			<value id="9C9319FC" type="float">2.2</value>
+			<value id="A4B44B37" type="int">11</value>
+			<value id="B90E46F4" type="int">4</value>
+			<value id="C0C4CFAC" type="int">2</value>
+			<value id="CCD925ED" type="int">3</value>
+			<value id="CEE04E65" type="int">6</value>
+			<value id="D91F594F" type="float">120</value>
+			<value id="E1E390CB" type="int">0</value>
+			<value id="E2AC8F85" type="float">300</value>
+		</object>
+		<object name="fog">
+			<value id="220137A5" type="float">5.5</value>
+			<value id="88D36BA1" type="float">18.5</value>
+			<value id="F10E7EC1" type="float">4</value>
+			<value id="F56FFCB7" type="float">20</value>
+			<object id="2E2226B2">
+				<value id="532808B7" type="float">1337</value>
+				<value id="6F526F85" type="float">0</value>
+				<value id="7B425F7A" type="float">0.011</value>
+				<value id="D5090A62" type="float">-200</value>
+				<value id="E8422EA1" type="float">800</value>
+			</object>
+			<object id="A11EB197">
+				<value id="532808B7" type="float">3333</value>
+				<value id="6F526F85" type="float">0</value>
+				<value id="7B425F7A" type="float">0.015</value>
+				<value id="D5090A62" type="float">-1800</value>
+				<value id="E8422EA1" type="float">6000</value>
+			</object>
+			<object id="B3BCA14D">
+				<value id="532808B7" type="float">1500</value>
+				<value id="6F526F85" type="float">0</value>
+				<value id="7B425F7A" type="float">0.01337</value>
+				<value id="D5090A62" type="float">-1806</value>
+				<value id="E8422EA1" type="float">6000</value>
+			</object>
+			<object id="F0D37AE5">
+				<value id="532808B7" type="float">5250</value>
+				<value id="6F526F85" type="float">-50</value>
+				<value id="7B425F7A" type="float">0.007</value>
+				<value id="D5090A62" type="float">-200</value>
+				<value id="E8422EA1" type="float">800</value>
+			</object>
+			<object name="day_params">
+				<value id="532808B7" type="float">12000</value>
+				<value id="6F526F85" type="float">200</value>
+				<value id="7B425F7A" type="float">0.001</value>
+				<value id="D5090A62" type="float">-1806</value>
+				<value id="E8422EA1" type="float">3006</value>
+			</object>
+			<object name="night_params">
+				<value id="532808B7" type="float">7777</value>
+				<value id="6F526F85" type="float">420</value>
+				<value id="7B425F7A" type="float">0.013</value>
+				<value id="D5090A62" type="float">-1800</value>
+				<value id="E8422EA1" type="float">4000</value>
+			</object>
+		</object>
+	</object>
+</root>

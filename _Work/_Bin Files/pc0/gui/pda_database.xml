@@ -1,0 +1,4097 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object id="00D8B2F0">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice114</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_114</value>
+		</object>
+		<object id="0131386E">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2t02Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2t02_dif.dds</value>
+			</object>
+		</object>
+		<object id="014AFE24">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v017_military_jeep.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v017_military_cab</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="0163A3FD">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v007_military.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v007_military</value>
+			<value name="vehicle_type" type="int">1</value>
+		</object>
+		<object id="029A2EAD">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v105_military_boat.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v105_military_boat</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="0309BFB4">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">29</value>
+			<value name="name" type="string">statistic_txt_18</value>
+			<value name="order" type="int">152</value>
+		</object>
+		<object id="04220440">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">2</value>
+			<value name="name" type="string">statistic_txt_05</value>
+			<value name="order" type="int">202</value>
+		</object>
+		<object id="04508935">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">25</value>
+			<value name="name" type="string">statistic_txt_15</value>
+			<value name="order" type="int">106</value>
+		</object>
+		<object id="0506B5D6">
+			<value id="207DD059" type="float">1000</value>
+			<value id="3C91B88A" type="string">gen_tut_txt_01</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">tut01</value>
+			<value name="name" type="string">gui_txt_281</value>
+			<value name="text" type="string">db_op_desc_txt_13</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Intel_govinstallations.dds</value>
+			</object>
+		</object>
+		<object id="055224CA">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice124</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_124</value>
+		</object>
+		<object id="0576F8B0">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_op_summary_txt_07</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op07</value>
+			<value name="name" type="string">db_op_name_txt_07</value>
+			<value name="text" type="string">db_op_desc_txt_07</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Chaos_Rico_dif.dds</value>
+			</object>
+		</object>
+		<object id="0612E622">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_profiles_summary_txt_01</value>
+			<value id="7B40D7A7" type="int">2</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles07</value>
+			<value name="name" type="string">db_profiles_name_txt_07</value>
+			<value name="text" type="string">db_profiles_text_txt_07</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_profiles_santosi.dds</value>
+			</object>
+		</object>
+		<object id="0720E5EF">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice36</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_36</value>
+		</object>
+		<object id="084A2E1A">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">27</value>
+			<value name="name" type="string">statistic_txt_68</value>
+			<value name="order" type="int">120</value>
+		</object>
+		<object id="08C4C10A">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v005_tuktuk_taxi.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v005_tuktuk_taxi</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="095E0D93">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_03</value>
+			<value id="7B40D7A7" type="int">1</value>
+			<value id="B304F782" type="int">0</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">controls3</value>
+			<value name="name" type="string">db_agent_name_txt_03</value>
+			<value name="text" type="string">db_agent_text_txt_03</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Basic_Weapon_Handling_dif.dds</value>
+			</object>
+		</object>
+		<object id="0A146C73">
+			<value id="362974D3" type="string">Models\vehicles\03_airvehicles\v009_civil_helicopter.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v009_civil_helicopter</value>
+			<value name="vehicle_type" type="int">3</value>
+		</object>
+		<object id="0B8E9DAA">
+			<value id="207DD059" type="float">10</value>
+			<value id="3C91B88A" type="string">gen_tut_txt_08</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">tut08</value>
+			<value name="name" type="string">gen_tuttitle_txt_09</value>
+			<value name="parent_id" type="string">op21</value>
+			<value name="text" type="string">gen_tut_txt_08</value>
+		</object>
+		<object id="0CB11D37">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v003_tourist.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v003_tourist</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="0CD6854A">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice20</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_20</value>
+		</object>
+		<object id="0DE1B0B2">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice57</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_57</value>
+		</object>
+		<object id="0DF277E5">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v011_sailboat.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v011_sailboat</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="0E4A4C28">
+			<value id="1847E893" type="int">0</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age21</value>
+			<value name="name" type="string">age21_tin_txt_01</value>
+			<value name="text" type="string">age21_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="0E85AF9F">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v047_jeep.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v047_cab</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="0FB1DBF3">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f1t09Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f1t09_dif.dds</value>
+			</object>
+		</object>
+		<object id="11631501">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice49</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_49</value>
+		</object>
+		<object id="11AC5349">
+			<value id="207DD059" type="float">5</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice12</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_01</value>
+		</object>
+		<object id="11CF9EA4">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice73</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_73</value>
+		</object>
+		<object id="121EB329">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice16</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_16</value>
+		</object>
+		<object id="12B85D61">
+			<value id="207DD059" type="float">10</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_56</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent56</value>
+			<value name="name" type="string">db_agent_name_txt_56</value>
+			<value name="parent_id" type="string">agent03</value>
+			<value name="text" type="string">db_agent_text_txt_03</value>
+		</object>
+		<object id="12DB4276">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v022_heavydrop_jeep.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v022_heavydrop_jeep</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="12F4AE79">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v083_motorboat_small.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v083_motorboat_small</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="13284375">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">-1</value>
+			<value name="name" type="string">statistic_txt_77</value>
+			<value name="order" type="int">400</value>
+		</object>
+		<object id="13BB7BA5">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">-1</value>
+			<value name="name" type="string">statistic_txt_78</value>
+			<value name="order" type="int">149</value>
+		</object>
+		<object id="15A754CD">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice38</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_38</value>
+		</object>
+		<object id="17AD3C0C">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice45</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_45</value>
+		</object>
+		<object id="17E235D8">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">71</value>
+			<value name="name" type="string">statistic_txt_40</value>
+			<value name="order" type="int">312</value>
+		</object>
+		<object id="17FB4C6E">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_22</value>
+			<value id="7B40D7A7" type="int">1</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent24</value>
+			<value name="name" type="string">db_agent_name_txt_24</value>
+			<value name="parent_id" type="string">controls4</value>
+			<value name="text" type="string">db_agent_text_txt_24</value>
+		</object>
+		<object id="185D9F89">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3t08Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3t08_dif.dds</value>
+			</object>
+		</object>
+		<object id="1863C64B">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v046_busscoach.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v046_busscoach</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="1899297A">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string"></value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_104</value>
+		</object>
+		<object id="18F0ED41">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">km04Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_km04_dif.dds</value>
+			</object>
+		</object>
+		<object id="1910DFFF">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">km07Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_km07_dif.dds</value>
+			</object>
+		</object>
+		<object id="1C3F1114">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_50</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent50</value>
+			<value name="name" type="string">db_agent_name_txt_41</value>
+			<value name="parent_id" type="string">vehiclestunts</value>
+			<value name="text" type="string">db_agent_text_txt_41</value>
+		</object>
+		<object id="1C5A2AF2">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_op_summary_txt_09</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op09</value>
+			<value name="name" type="string">db_op_name_txt_09</value>
+			<value name="parent_id" type="string">op18</value>
+			<value name="text" type="string">db_op_desc_txt_09</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_op_csk_dif.dds</value>
+			</object>
+		</object>
+		<object id="1CE77565">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v055_vespa.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v055_vespa</value>
+			<value name="vehicle_type" type="int">1</value>
+		</object>
+		<object id="1D1D8C4B">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_42</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent42</value>
+			<value name="name" type="string">db_agent_name_txt_42</value>
+			<value name="parent_id" type="string">vehiclestunts</value>
+			<value name="text" type="string">db_agent_text_txt_42</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_car_hijacking_dif.dds</value>
+			</object>
+		</object>
+		<object id="1D44D3C6">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_44</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent44</value>
+			<value name="name" type="string">db_agent_name_txt_44</value>
+			<value name="text" type="string">db_agent_text_txt_44</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Intel_heat.dds</value>
+			</object>
+		</object>
+		<object id="1D4825BC">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">4</value>
+			<value name="name" type="string">statistic_txt_07</value>
+			<value name="order" type="int">204</value>
+		</object>
+		<object id="1DC92E6E">
+			<value id="207DD059" type="float">60</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">agent33</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">db_agent_text_txt_33</value>
+		</object>
+		<object id="1DD078BA">
+			<value id="207DD059" type="float">60</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice08</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">km01_hint_txt_05</value>
+		</object>
+		<object id="1DD8C77F">
+			<value id="1847E893" type="int">0</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age30</value>
+			<value name="name" type="string">age30_tin_txt_01</value>
+			<value name="text" type="string">age30_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="1DF8DE4A">
+			<value id="7B40D7A7" type="int">8</value>
+			<value name="id" type="string">profiles06</value>
+			<object id="EAA2C748">
+				<value id="14847D67" type="string">db_profiles_info5_txt_06</value>
+				<value id="6CCBF6C1" type="string"> </value>
+				<value id="9E4E622C" type="string">db_profiles_info3_txt_06</value>
+				<value id="AFE27D14" type="string">db_profiles_info2_txt_01</value>
+				<value id="D1C1F32F" type="string">db_profiles_info4_txt_06</value>
+				<value id="D9E27CC5" type="string">db_profiles_info1_txt_06</value>
+			</object>
+		</object>
+		<object id="1DFB4D83">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v082_motorboat_standard_small.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v082_motorboat_fisher</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="1EB5A5D4">
+			<value id="1847E893" type="int">0</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age32</value>
+			<value name="name" type="string">age32_tin_txt_01</value>
+			<value name="text" type="string">age32_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="1FFF5756">
+			<value id="207DD059" type="float">10</value>
+			<value id="3C91B88A" type="string">gen_hint_txt_115</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent10</value>
+			<value name="name" type="string">db_agent_name_txt_10</value>
+			<value name="text" type="string">db_agent_text_txt_10</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Intel_combattactics.dds</value>
+			</object>
+		</object>
+		<object id="204EF375">
+			<value id="1847E893" type="int">8</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age42</value>
+			<value name="name" type="string">age42_tin_txt_01</value>
+			<value name="text" type="string">age42_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="208BD11A">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2m01Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2m01_dif.dds</value>
+			</object>
+		</object>
+		<object id="208BF391">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v014_jeep.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v014_cab</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="20A7FD08">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string"></value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op16</value>
+			<value name="name" type="string">db_op_name_txt_16</value>
+			<value name="text" type="string">db_op_desc_txt_16</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_op_dpl_dif.dds</value>
+			</object>
+		</object>
+		<object id="21615487">
+			<value id="1847E893" type="int">0</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age27</value>
+			<value name="name" type="string">age27_tin_txt_01</value>
+			<value name="text" type="string">age27_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="21C7B92F">
+			<value id="207DD059" type="float">5</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op22</value>
+			<value name="name" type="string">db_op_name_txt_22</value>
+			<value name="text" type="string">db_op_desc_txt_22</value>
+		</object>
+		<object id="222B380E">
+			<value id="207DD059" type="float">5</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice11</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">tut01_hint_txt_08</value>
+		</object>
+		<object id="22369952">
+			<value id="1847E893" type="int">0</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age26</value>
+			<value name="name" type="string">age26_tin_txt_01</value>
+			<value name="text" type="string">age26_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="229837DA">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_47</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent47</value>
+			<value name="name" type="string">db_agent_name_txt_47</value>
+			<value name="parent_id" type="string">tut02</value>
+			<value name="text" type="string">db_agent_text_txt_47</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_profiles_rico_dif.dds</value>
+			</object>
+		</object>
+		<object id="22F8AA75">
+			<value id="207DD059" type="float">60</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice09</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">km01_hint_txt_06</value>
+		</object>
+		<object id="231BBD31">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string"></value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">act_hint_txt_03</value>
+		</object>
+		<object id="2340165E">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v045_firetruck.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v045_firetruck</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="2368C0F1">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice46</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_46</value>
+		</object>
+		<object id="2428FE14">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice99</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_99</value>
+		</object>
+		<object id="24F9278C">
+			<value id="1847E893" type="int">2</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age02</value>
+			<value name="name" type="string">age02_tin_txt_01</value>
+			<value name="text" type="string">age02_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="251352AB">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">90</value>
+			<value name="name" type="string">statistic_txt_59</value>
+			<value name="order" type="int">331</value>
+		</object>
+		<object id="25D3B04D">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">gen_hint_txt_117</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent41</value>
+			<value name="name" type="string">db_agent_name_txt_41</value>
+			<value name="parent_id" type="string">vehiclestunts</value>
+			<value name="text" type="string">db_agent_text_txt_41</value>
+		</object>
+		<object id="265DF27E">
+			<value id="7B40D7A7" type="int">8</value>
+			<value name="id" type="string">profiles01</value>
+			<object id="EAA2C748">
+				<value id="14847D67" type="string">db_profiles_info5_txt_01</value>
+				<value id="6CCBF6C1" type="string"> </value>
+				<value id="9E4E622C" type="string">db_profiles_info3_txt_01</value>
+				<value id="AFE27D14" type="string">db_profiles_info2_txt_01</value>
+				<value id="D1C1F32F" type="string">db_profiles_info4_txt_01</value>
+				<value id="D9E27CC5" type="string">db_profiles_info1_txt_01</value>
+			</object>
+		</object>
+		<object id="2849FEBD">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice76</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_76</value>
+		</object>
+		<object id="28F31D83">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3t12Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3t12_dif.dds</value>
+			</object>
+		</object>
+		<object id="29079663">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v047_jeep.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v047_jeep</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="2A9916FE">
+			<value id="1847E893" type="int">4</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age43</value>
+			<value name="name" type="string">age43_tin_txt_01</value>
+			<value name="text" type="string">age43_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="2BBF31E0">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice69</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_69</value>
+		</object>
+		<object id="2BBFDADD">
+			<value id="1847E893" type="int">2</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age09</value>
+			<value name="name" type="string">age09_tin_txt_01</value>
+			<value name="text" type="string">age09_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="2C21D1C2">
+			<value id="362974D3" type="string">Models\vehicles\03_airvehicles\v064_personal_jet.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v064_personal_jet</value>
+			<value name="vehicle_type" type="int">2</value>
+		</object>
+		<object id="2C6AC067">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">48</value>
+			<value name="name" type="string">statistic_txt_69</value>
+			<value name="order" type="int">210</value>
+		</object>
+		<object id="2C824B29">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3t06Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3t06_dif.dds</value>
+			</object>
+		</object>
+		<object id="2D00C1F5">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v006_moped.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v006_moped</value>
+			<value name="vehicle_type" type="int">1</value>
+		</object>
+		<object id="2D10A5B9">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">37</value>
+			<value name="name" type="string">statistic_txt_24</value>
+			<value name="order" type="int">159</value>
+		</object>
+		<object id="2D346BC1">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">11</value>
+			<value name="name" type="string">statistic_txt_62</value>
+			<value name="order" type="int">121</value>
+		</object>
+		<object id="2DAF1ADA">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice14</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_03</value>
+		</object>
+		<object id="2DCF4416">
+			<value id="207DD059" type="float">10</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_59</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent59</value>
+			<value name="name" type="string">db_agent_name_txt_59</value>
+			<value name="parent_id" type="string">agent03</value>
+			<value name="text" type="string">db_agent_text_txt_03</value>
+		</object>
+		<object id="2DD088A9">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">13</value>
+			<value name="name" type="string">statistic_txt_64</value>
+			<value name="order" type="int">112</value>
+		</object>
+		<object id="2E051445">
+			<value id="1847E893" type="int">8</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age15</value>
+			<value name="name" type="string">age15_tin_txt_01</value>
+			<value name="text" type="string">age15_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="2EB77BA1">
+			<value id="207DD059" type="float">5</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op04</value>
+			<value name="name" type="string">db_op_name_txt_04</value>
+			<value name="text" type="string">db_op_desc_txt_04</value>
+		</object>
+		<object id="2EC5942F">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2m08Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2m08_dif.dds</value>
+			</object>
+		</object>
+		<object id="2EDA6B3A">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_40</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent40</value>
+			<value name="name" type="string">db_agent_name_txt_40</value>
+			<value name="parent_id" type="string">vehiclestunts</value>
+			<value name="text" type="string">db_agent_text_txt_40</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_getting_to_vehicles_dif.dds</value>
+			</object>
+		</object>
+		<object id="2F6ADFFC">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string"></value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op23</value>
+			<value name="name" type="string">db_op_name_txt_23</value>
+			<value name="text" type="string">db_op_desc_txt_23</value>
+		</object>
+		<object id="301845EB">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">-1</value>
+			<value name="name" type="string">statistic_txt_78</value>
+			<value name="order" type="int">299</value>
+		</object>
+		<object id="30439220">
+			<value id="7B40D7A7" type="int">8</value>
+			<value name="id" type="string">profiles12</value>
+			<object id="EAA2C748">
+				<value id="14847D67" type="string">db_profiles_info5_txt_12</value>
+				<value id="6CCBF6C1" type="string"> </value>
+				<value id="9E4E622C" type="string">db_profiles_info3_txt_12</value>
+				<value id="AFE27D14" type="string">db_profiles_info2_txt_01</value>
+				<value id="D1C1F32F" type="string">db_profiles_info4_txt_12</value>
+				<value id="D9E27CC5" type="string">db_profiles_info1_txt_12</value>
+			</object>
+		</object>
+		<object id="307C8F04">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice105</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_105</value>
+		</object>
+		<object id="312DD0AF">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">81</value>
+			<value name="name" type="string">statistic_txt_50</value>
+			<value name="order" type="int">322</value>
+		</object>
+		<object id="31449093">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">km05Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_km05_dif.dds</value>
+			</object>
+		</object>
+		<object id="314815A7">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">82</value>
+			<value name="name" type="string">statistic_txt_51</value>
+			<value name="order" type="int">217</value>
+		</object>
+		<object id="32785526">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice109</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_109</value>
+		</object>
+		<object id="32954D34">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">-1</value>
+			<value name="name" type="string">statistic_txt_78</value>
+			<value name="order" type="int">199</value>
+		</object>
+		<object id="32CCC3C0">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">89</value>
+			<value name="name" type="string">statistic_txt_58</value>
+			<value name="order" type="int">330</value>
+		</object>
+		<object id="33D2CFAB">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice56</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_56</value>
+		</object>
+		<object id="344259A3">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v004_truck_regular.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v004_truck_regular</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="353B3B3F">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice32</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_32</value>
+		</object>
+		<object id="356D6075">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">-1</value>
+			<value name="name" type="string">statistic_txt_80</value>
+			<value name="order" type="int">150</value>
+		</object>
+		<object id="36016FEB">
+			<value id="362974D3" type="string">Models\vehicles\03_airvehicles\v076_black_plane.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v076_black_plane</value>
+			<value name="vehicle_type" type="int">2</value>
+		</object>
+		<object id="36955285">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">52</value>
+			<value name="name" type="string">statistic_txt_71</value>
+			<value name="order" type="int">111</value>
+		</object>
+		<object id="36AC56CA">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_26</value>
+			<value id="7B40D7A7" type="int">1</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent26</value>
+			<value name="name" type="string">db_agent_name_txt_26</value>
+			<value name="parent_id" type="string">controls1</value>
+			<value name="text" type="string">db_agent_text_txt_26</value>
+		</object>
+		<object id="375D0A56">
+			<value id="207DD059" type="float">5</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op01</value>
+			<value name="name" type="string">db_op_name_txt_01</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">db_op_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Intel_panau.dds</value>
+			</object>
+		</object>
+		<object id="376C60CF">
+			<value id="207DD059" type="float">10</value>
+			<value id="3C91B88A" type="string">db_op_summary_txt_21</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op21</value>
+			<value name="name" type="string">gen_tuttitle_txt_08</value>
+			<value name="text" type="string">db_op_desc_txt_21</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Intel_expandingInfluence.dds</value>
+			</object>
+		</object>
+		<object id="3803BFFB">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice117</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_117</value>
+		</object>
+		<object id="38077597">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v020_sugga.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v020_sugga</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="381943EC">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2t14Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2t14_dif.dds</value>
+			</object>
+		</object>
+		<object id="3898BE2A">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice51</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_51</value>
+		</object>
+		<object id="3932E957">
+			<value id="1847E893" type="int">0</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age31</value>
+			<value name="name" type="string">age31_tin_txt_01</value>
+			<value name="text" type="string">age31_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="39F0B939">
+			<value id="207DD059" type="float">8</value>
+			<value id="3C91B88A" type="string">db_op_summary_txt_01</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles15</value>
+			<value name="name" type="string">db_profiles_name_txt_15</value>
+			<value name="text" type="string">db_profiles_text_txt_15</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_reapers_dif.dds</value>
+			</object>
+		</object>
+		<object id="39FB8729">
+			<value id="362974D3" type="string">Models\vehicles\03_airvehicles\v071_jet_fighter.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v071_jet_fighter</value>
+			<value name="vehicle_type" type="int">2</value>
+		</object>
+		<object id="3A6FA080">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">69</value>
+			<value name="name" type="string">statistic_txt_38</value>
+			<value name="order" type="int">310</value>
+		</object>
+		<object id="3ACACCA8">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string"></value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op14</value>
+			<value name="name" type="string">db_op_name_txt_14</value>
+			<value name="text" type="string">db_op_desc_txt_14</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_op_dpv_dif.dds</value>
+			</object>
+		</object>
+		<object id="3B61B58F">
+			<value id="1847E893" type="int">3</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age38</value>
+			<value name="name" type="string">age38_tin_txt_01</value>
+			<value name="text" type="string">age38_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="3B912A92">
+			<value id="1847E893" type="int">1</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age05</value>
+			<value name="name" type="string">age05_tin_txt_01</value>
+			<value name="text" type="string">age05_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="3B974928">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice70</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_70</value>
+		</object>
+		<object id="3C144EEC">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v007_classic_mc.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v007_classic_mc</value>
+			<value name="vehicle_type" type="int">1</value>
+		</object>
+		<object id="3C1E6B91">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">32</value>
+			<value name="name" type="string">statistic_txt_21</value>
+			<value name="order" type="int">155</value>
+		</object>
+		<object id="3C4AF96D">
+			<value id="7B40D7A7" type="int">8</value>
+			<value name="id" type="string">profiles02</value>
+			<object id="EAA2C748">
+				<value id="14847D67" type="string">db_profiles_info5_txt_02</value>
+				<value id="6CCBF6C1" type="string"> </value>
+				<value id="9E4E622C" type="string">db_profiles_info3_txt_02</value>
+				<value id="AFE27D14" type="string">db_profiles_info2_txt_01</value>
+				<value id="D1C1F32F" type="string">db_profiles_info4_txt_02</value>
+				<value id="D9E27CC5" type="string">db_profiles_info1_txt_02</value>
+			</object>
+		</object>
+		<object id="3C71CD54">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice48</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_48</value>
+		</object>
+		<object id="3D35C491">
+			<value id="207DD059" type="float">5</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice06</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">km01_hint_txt_03</value>
+		</object>
+		<object id="3D64E89F">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string"></value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">act_hint_txt_06</value>
+		</object>
+		<object id="3D6A0C78">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_profiles_summary_txt_01</value>
+			<value id="7B40D7A7" type="int">2</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles08</value>
+			<value name="name" type="string">db_profiles_name_txt_08</value>
+			<value name="text" type="string">db_profiles_text_txt_08</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_profiles_razman.dds</value>
+			</object>
+		</object>
+		<object id="3E0D5CCD">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f1t05Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f1t05_dif.dds</value>
+			</object>
+		</object>
+		<object id="3E864597">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v037_sheldon_truck.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v037_sheldon_truck</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="3FFBFC5C">
+			<value id="207DD059" type="float">5</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice10</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">tut01_hint_txt_01</value>
+		</object>
+		<object id="40C7905B">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v025_sportcar.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v025_sportcar</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="40E90EE5">
+			<value id="1847E893" type="int">2</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age10</value>
+			<value name="name" type="string">age10_tin_txt_01</value>
+			<value name="text" type="string">age10_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="41627553">
+			<value id="7B40D7A7" type="int">8</value>
+			<value name="id" type="string">profiles07</value>
+			<object id="EAA2C748">
+				<value id="14847D67" type="string">db_profiles_info5_txt_07</value>
+				<value id="6CCBF6C1" type="string"> </value>
+				<value id="9E4E622C" type="string">db_profiles_info3_txt_07</value>
+				<value id="AFE27D14" type="string">db_profiles_info2_txt_02</value>
+				<value id="D1C1F32F" type="string">db_profiles_info4_txt_07</value>
+				<value id="D9E27CC5" type="string">db_profiles_info1_txt_07</value>
+			</object>
+		</object>
+		<object id="42C08E12">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_36</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent36</value>
+			<value name="name" type="string">db_agent_name_txt_36</value>
+			<value name="parent_id" type="string">agent02</value>
+			<value name="text" type="string">db_agent_text_txt_36</value>
+		</object>
+		<object id="438D5CDB">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">85</value>
+			<value name="name" type="string">statistic_txt_54</value>
+			<value name="order" type="int">214</value>
+		</object>
+		<object id="4467989B">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">km02Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_km02_dif.dds</value>
+			</object>
+		</object>
+		<object id="44A3854E">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v098_indo.vdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v098_indo</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="44BD4940">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice108</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_108</value>
+		</object>
+		<object id="44C507CB">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice47</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_47</value>
+		</object>
+		<object id="45A45D4E">
+			<value id="1847E893" type="int">2</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age24</value>
+			<value name="name" type="string">age24_tin_txt_01</value>
+			<value name="text" type="string">age24_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="45D9E63B">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice116</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_116</value>
+		</object>
+		<object id="45DB8294">
+			<value id="1847E893" type="int">1</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age16</value>
+			<value name="name" type="string">age16_tin_txt_01</value>
+			<value name="text" type="string">age16_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="462C1F20">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v005_tuktuk_civ.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v005_tuktuk_civ</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="46B516A0">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">76</value>
+			<value name="name" type="string">statistic_txt_45</value>
+			<value name="order" type="int">317</value>
+		</object>
+		<object id="47326AD9">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f1t13Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f1t13_dif.dds</value>
+			</object>
+		</object>
+		<object id="47F21368">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">77</value>
+			<value name="name" type="string">statistic_txt_46</value>
+			<value name="order" type="int">318</value>
+		</object>
+		<object id="480ED8FC">
+			<value id="207DD059" type="float">1000</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_39</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string"></value>
+			<value name="name" type="string">db_agent_name_txt_39</value>
+			<value name="parent_id" type="string">agent02</value>
+			<value name="text" type="string">db_agent_text_txt_39</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_tethering1_dif.dds</value>
+			</object>
+		</object>
+		<object id="482219DE">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice33</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_33</value>
+		</object>
+		<object id="48856534">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string"></value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">act_hint_txt_04</value>
+		</object>
+		<object id="4935709E">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2t09Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2t09_dif.dds</value>
+			</object>
+		</object>
+		<object id="49EF5013">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">9</value>
+			<value name="name" type="string">statistic_txt_60</value>
+			<value name="order" type="int">402</value>
+		</object>
+		<object id="49F938C9">
+			<value id="207DD059" type="float">8</value>
+			<value id="3C91B88A" type="string">db_op_summary_txt_01</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles17</value>
+			<value name="name" type="string">db_profiles_name_txt_17</value>
+			<value name="text" type="string">db_profiles_text_txt_17</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_ular_boys_dif.dds</value>
+			</object>
+		</object>
+		<object id="4B29BAC1">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">43</value>
+			<value name="name" type="string">statistic_txt_28</value>
+			<value name="order" type="int">107</value>
+		</object>
+		<object id="4B3A8519">
+			<value id="7B40D7A7" type="int">8</value>
+			<value name="id" type="string">profiles10</value>
+			<object id="EAA2C748">
+				<value id="14847D67" type="string">db_profiles_info5_txt_10</value>
+				<value id="6CCBF6C1" type="string"> </value>
+				<value id="9E4E622C" type="string">db_profiles_info3_txt_10</value>
+				<value id="AFE27D14" type="string">db_profiles_info2_txt_01</value>
+				<value id="D1C1F32F" type="string">db_profiles_info4_txt_10</value>
+				<value id="D9E27CC5" type="string">db_profiles_info1_txt_10</value>
+			</object>
+		</object>
+		<object id="4B7CE4CD">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f1t12Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f1t12_dif.dds</value>
+			</object>
+		</object>
+		<object id="4BD1BA51">
+			<value id="1847E893" type="int">1</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age07</value>
+			<value name="name" type="string">age07_tin_txt_01</value>
+			<value name="text" type="string">age07_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="4BE7EC04">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">36</value>
+			<value name="name" type="string">statistic_txt_23</value>
+			<value name="order" type="int">301</value>
+		</object>
+		<object id="4BE98567">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">3</value>
+			<value name="name" type="string">statistic_txt_06</value>
+			<value name="order" type="int">203</value>
+		</object>
+		<object id="4C069FE2">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice29</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_29</value>
+		</object>
+		<object id="4C3036E1">
+			<value id="362974D3" type="string">Models\vehicles\03_airvehicles\v059_civilian_helicopter.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v059_civilian_helicopter</value>
+			<value name="vehicle_type" type="int">3</value>
+		</object>
+		<object id="4C964F5C">
+			<value id="207DD059" type="float">5</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op02</value>
+			<value name="name" type="string">db_op_name_txt_02</value>
+			<value name="text" type="string">db_op_desc_txt_02</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_datapad1_sheldon_dif.dds</value>
+			</object>
+		</object>
+		<object id="4D935506">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3m05Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3m05_dif.dds</value>
+			</object>
+		</object>
+		<object id="4DE4F72C">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">1</value>
+			<value name="name" type="string">statistic_txt_04</value>
+			<value name="order" type="int">201</value>
+		</object>
+		<object id="4ED480BB">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice53</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_53</value>
+		</object>
+		<object id="4EEF9817">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v088_Djonk.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v088_Djonk</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="4F64DDEA">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice122</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_122</value>
+		</object>
+		<object id="4F6AEB51">
+			<value id="1847E893" type="int">4</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age13</value>
+			<value name="name" type="string">age13_tin_txt_01</value>
+			<value name="text" type="string">age13_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="4F946593">
+			<value id="207DD059" type="float">60</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_02</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent02</value>
+			<value name="name" type="string">db_agent_name_txt_02</value>
+			<value name="text" type="string">db_agent_text_txt_02</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Intel_dualhook.dds</value>
+			</object>
+		</object>
+		<object id="4FF1AF3F">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3m02Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3m02_dif.dds</value>
+			</object>
+		</object>
+		<object id="508C41CA">
+			<value id="362974D3" type="string">Models\vehicles\03_airvehicles\v114_jumbojet.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v114_jumbojet</value>
+			<value name="vehicle_type" type="int">2</value>
+		</object>
+		<object id="5116A1EE">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_profiles_summary_txt_01</value>
+			<value id="7B40D7A7" type="int">2</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles06</value>
+			<value name="name" type="string">db_profiles_name_txt_06</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">db_profiles_text_txt_06</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_profiles_irawan.dds</value>
+			</object>
+		</object>
+		<object id="51F66BB7">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">75</value>
+			<value name="name" type="string">statistic_txt_44</value>
+			<value name="order" type="int">316</value>
+		</object>
+		<object id="524C7602">
+			<value id="1847E893" type="int">3</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age37</value>
+			<value name="name" type="string">age37_tin_txt_01</value>
+			<value name="text" type="string">age37_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="52D83B9C">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">61</value>
+			<value name="name" type="string">statistic_txt_30</value>
+			<value name="order" type="int">333</value>
+		</object>
+		<object id="5309289C">
+			<value id="1847E893" type="int">1</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age06</value>
+			<value name="name" type="string">age06_tin_txt_01</value>
+			<value name="text" type="string">age06_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="5391936F">
+			<value id="1847E893" type="int">8</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age44</value>
+			<value name="name" type="string">age44_tin_txt_01</value>
+			<value name="text" type="string">age44_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="543B054D">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">70</value>
+			<value name="name" type="string">statistic_txt_39</value>
+			<value name="order" type="int">311</value>
+		</object>
+		<object id="54DA40E5">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice27</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_27</value>
+		</object>
+		<object id="5576D2E5">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2t03Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2t03_dif.dds</value>
+			</object>
+		</object>
+		<object id="5615A58A">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice67</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_67</value>
+		</object>
+		<object id="569BE690">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v048_bus_civ.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v048_bus_double</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="57DDA101">
+			<value id="1847E893" type="int">7</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age36</value>
+			<value name="name" type="string">age36_tin_txt_01</value>
+			<value name="text" type="string">age36_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="5810A386">
+			<value id="1847E893" type="int">0</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age20</value>
+			<value name="name" type="string">age20_tin_txt_01</value>
+			<value name="text" type="string">age20_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="589A6D8C">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">40</value>
+			<value name="name" type="string">statistic_txt_27</value>
+			<value name="order" type="int">156</value>
+		</object>
+		<object id="58D48C3D">
+			<value id="1847E893" type="int">6</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age23</value>
+			<value name="name" type="string">age23_tin_txt_01</value>
+			<value name="text" type="string">age23_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="58E3F109">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice22</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_22</value>
+		</object>
+		<object id="5905620F">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice28</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_28</value>
+		</object>
+		<object id="5917604F">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v104_attack_boat.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v104_attack_boat</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="59212F64">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice18</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_18</value>
+		</object>
+		<object id="592C2BF9">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string"></value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">act_hint_txt_07</value>
+		</object>
+		<object id="597CC7A0">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v050_large_super_truck.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v050_large_super_truck</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="599C1438">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_op_summary_txt_20</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op20</value>
+			<value name="name" type="string">db_op_name_txt_20</value>
+			<value name="text" type="string">db_op_desc_txt_20</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Intel_strongholds.dds</value>
+			</object>
+		</object>
+		<object id="5B0D7A33">
+			<value id="207DD059" type="float">1000</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_45</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent45</value>
+			<value name="name" type="string">db_agent_name_txt_45</value>
+			<value name="text" type="string">db_agent_text_txt_45</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Intel_blackmarket.dds</value>
+			</object>
+		</object>
+		<object id="5B88BEF5">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v007_sport.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v007_sport</value>
+			<value name="vehicle_type" type="int">1</value>
+		</object>
+		<object id="5B98D76D">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3t14Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3t14_dif.dds</value>
+			</object>
+		</object>
+		<object id="5C28EC6D">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_profiles_summary_txt_02</value>
+			<value id="7B40D7A7" type="int">2</value>
+			<value id="B304F782" type="int">0</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles02</value>
+			<value name="name" type="string">db_profiles_name_txt_02</value>
+			<value name="text" type="string">db_profiles_text_txt_02</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_profiles_sheldon.dds</value>
+			</object>
+		</object>
+		<object id="5C723EAF">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2m06Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2m06_dif.dds</value>
+			</object>
+		</object>
+		<object id="5CA21DD1">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v028_luxuary_sportcar.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v028_luxuary_sportcar</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="5DB9C058">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice40</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_40</value>
+		</object>
+		<object id="5F75131C">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice44</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_44</value>
+		</object>
+		<object id="6070CD08">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_28</value>
+			<value id="7B40D7A7" type="int">1</value>
+			<value id="B304F782" type="int">0</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">controls4</value>
+			<value name="name" type="string">db_agent_name_txt_28</value>
+			<value name="text" type="string">db_agent_text_txt_28</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_radarstation_arctic_dif.dds</value>
+			</object>
+		</object>
+		<object id="61CE73AA">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice31</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_31</value>
+		</object>
+		<object id="620E60B5">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v089_raceboat.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v089_raceboat</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="63903FD5">
+			<value id="362974D3" type="string">Models\vehicles\03_airvehicles\v072_cargo_plane.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v072_cargo_plane</value>
+			<value name="vehicle_type" type="int">2</value>
+		</object>
+		<object id="63FFD261">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">18</value>
+			<value name="name" type="string">statistic_txt_12</value>
+			<value name="order" type="int">209</value>
+		</object>
+		<object id="65D86BCF">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v044_utilitytruck.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v044_utilitytruck_crane</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="66AED839">
+			<value id="1847E893" type="int">6</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age46</value>
+			<value name="name" type="string">age46_tin_txt_01</value>
+			<value name="text" type="string">age46_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="67806490">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f1m03Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f1m03_dif.dds</value>
+			</object>
+		</object>
+		<object id="678502EF">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v108_armoured_transport.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v108_armoured_transport</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="68DA8448">
+			<value id="207DD059" type="float">10</value>
+			<value id="3C91B88A" type="string">fe_txt_370</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string"></value>
+			<value name="name" type="string">db_agent_name_txt_11</value>
+			<value name="parent_id" type="string"></value>
+			<value name="text" type="string">db_agent_text_txt_29</value>
+		</object>
+		<object id="695CDE20">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v001_sedan.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v001_cab</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="69EE7F21">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice39</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_39</value>
+		</object>
+		<object id="6A142284">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v082_motorboat_standard_small.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v082_motorboat_standard_small</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="6B36ED74">
+			<value id="1847E893" type="int">1</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age08</value>
+			<value name="name" type="string">age08_tin_txt_01</value>
+			<value name="text" type="string">age08_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="6C5DE7F9">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">-1</value>
+			<value name="name" type="string">statistic_txt_74</value>
+			<value name="order" type="int">100</value>
+		</object>
+		<object id="6DBF6AC1">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3t11Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3t11_dif.dds</value>
+			</object>
+		</object>
+		<object id="6DCD48C0">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v041_tractor.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v041_cab_modern</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="6E11503C">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string"></value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">act_hint_txt_08</value>
+		</object>
+		<object id="6E14D305">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v030_super_sportcar.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v030_super_sportcar</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="6E156575">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v056_atv.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v056_Police</value>
+			<value name="vehicle_type" type="int">1</value>
+		</object>
+		<object id="6EC070B7">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_46</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent46</value>
+			<value name="name" type="string">db_agent_name_txt_46</value>
+			<value name="parent_id" type="string">agent45</value>
+			<value name="text" type="string">db_agent_text_txt_46</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_black_market_dif.dds</value>
+			</object>
+		</object>
+		<object id="6F1FFCCB">
+			<value id="207DD059" type="float">60</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice05</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">km01_hint_txt_02</value>
+		</object>
+		<object id="6FD91D85">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string"></value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op17</value>
+			<value name="name" type="string">db_op_name_txt_17</value>
+			<value name="text" type="string">db_op_desc_txt_17</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_op_bfs_dif.dds</value>
+			</object>
+		</object>
+		<object id="70783A50">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice77</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_77</value>
+		</object>
+		<object id="70E6129C">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_profiles_summary_txt_01</value>
+			<value id="7B40D7A7" type="int">2</value>
+			<value id="B304F782" type="int">0</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles01</value>
+			<value name="name" type="string">db_profiles_name_txt_01</value>
+			<value name="text" type="string">db_profiles_text_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_profiles_rico.dds</value>
+			</object>
+		</object>
+		<object id="70F12DAD">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">54</value>
+			<value name="name" type="string">statistic_txt_73</value>
+			<value name="order" type="int">410</value>
+		</object>
+		<object id="717DC45F">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v011_charter.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v011_charter</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="73D84D62">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">83</value>
+			<value name="name" type="string">statistic_txt_52</value>
+			<value name="order" type="int">216</value>
+		</object>
+		<object id="74A5EC2D">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string"></value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op08</value>
+			<value name="name" type="string">db_op_name_txt_08</value>
+			<value name="text" type="string">db_op_desc_txt_08</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_op_dps_dif.dds</value>
+			</object>
+		</object>
+		<object id="74D4E976">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">8</value>
+			<value name="name" type="string">statistic_txt_11</value>
+			<value name="order" type="int">208</value>
+		</object>
+		<object id="750565BA">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">22</value>
+			<value name="name" type="string">statistic_txt_03</value>
+			<value name="order" type="int">103</value>
+		</object>
+		<object id="7547DA8F">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">-1</value>
+			<value name="name" type="string">statistic_txt_78</value>
+			<value name="order" type="int">399</value>
+		</object>
+		<object id="75CB6620">
+			<value id="7B40D7A7" type="int">8</value>
+			<value name="id" type="string">profiles05</value>
+			<object id="EAA2C748">
+				<value id="14847D67" type="string">db_profiles_info5_txt_05</value>
+				<value id="6CCBF6C1" type="string"> </value>
+				<value id="9E4E622C" type="string">db_profiles_info3_txt_05</value>
+				<value id="AFE27D14" type="string">db_profiles_info2_txt_02</value>
+				<value id="D1C1F32F" type="string">db_profiles_info4_txt_05</value>
+				<value id="D9E27CC5" type="string">db_profiles_info1_txt_05</value>
+			</object>
+		</object>
+		<object id="76B526F4">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string"></value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">act_hint_txt_09</value>
+		</object>
+		<object id="76BC1123">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3t03Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3t03_dif.dds</value>
+			</object>
+		</object>
+		<object id="7754CDF4">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v016_military_apc.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v016_military_apc</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="775C515B">
+			<value id="207DD059" type="float">5</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice02</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">db_agent_summary_txt_40</value>
+		</object>
+		<object id="7889C34D">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice42</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_42</value>
+		</object>
+		<object id="78A3D761">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v052_classic.vdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v052_classic</value>
+			<value name="vehicle_type" type="int">1</value>
+		</object>
+		<object id="7946C7B8">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string"></value>
+			<value id="7B40D7A7" type="int">2</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles09</value>
+			<value name="name" type="string">db_profiles_name_txt_09</value>
+			<value name="text" type="string">db_profiles_text_txt_09</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_profiles_mirikov.dds</value>
+			</object>
+		</object>
+		<object id="7956740D">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v056_atv.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v056_Sport</value>
+			<value name="vehicle_type" type="int">1</value>
+		</object>
+		<object id="79B2EC65">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">79</value>
+			<value name="name" type="string">statistic_txt_48</value>
+			<value name="order" type="int">320</value>
+		</object>
+		<object id="79EC63CB">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_55</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent55</value>
+			<value name="name" type="string">db_agent_name_txt_55</value>
+			<value name="parent_id" type="string">tut02</value>
+			<value name="text" type="string">db_agent_text_txt_55</value>
+		</object>
+		<object id="7A4F9979">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v052_motorcross.vdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v052_motorcross</value>
+			<value name="vehicle_type" type="int">1</value>
+		</object>
+		<object id="7A8EA801">
+			<value id="207DD059" type="float">15</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice103</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_103</value>
+		</object>
+		<object id="7B6731BF">
+			<value id="1847E893" type="int">6</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age50</value>
+			<value name="name" type="string">age50_tin_txt_01</value>
+			<value name="text" type="string">age50_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="7BB50CD2">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">5</value>
+			<value name="name" type="string">statistic_txt_08</value>
+			<value name="order" type="int">205</value>
+		</object>
+		<object id="7C41AAE4">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v011_yacht.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v011_yacht</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="7E03F6D8">
+			<value id="1847E893" type="int">0</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age33</value>
+			<value name="name" type="string">age33_tin_txt_01</value>
+			<value name="text" type="string">age33_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="7E1928F7">
+			<value id="207DD059" type="float">5</value>
+			<value id="7B40D7A7" type="int">2</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles05b</value>
+			<value name="name" type="string">db_profiles_name_txt_05</value>
+			<value name="text" type="string">db_profiles_text_txt_05_b</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_profiles_jadetan.dds</value>
+			</object>
+		</object>
+		<object id="7E512CA2">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3t04Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3t04_dif.dds</value>
+			</object>
+		</object>
+		<object id="7E8BF145">
+			<value id="7B40D7A7" type="int">8</value>
+			<value name="id" type="string">profiles03</value>
+			<object id="EAA2C748">
+				<value id="14847D67" type="string">db_profiles_info5_txt_03</value>
+				<value id="6CCBF6C1" type="string"> </value>
+				<value id="9E4E622C" type="string">db_profiles_info3_txt_03</value>
+				<value id="AFE27D14" type="string">db_profiles_info2_txt_02</value>
+				<value id="D1C1F32F" type="string">db_profiles_info4_txt_03</value>
+				<value id="D9E27CC5" type="string">db_profiles_info1_txt_03</value>
+			</object>
+		</object>
+		<object id="7F784999">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice100</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_100</value>
+		</object>
+		<object id="80123C3D">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string"></value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op15</value>
+			<value name="name" type="string">db_op_name_txt_15</value>
+			<value name="text" type="string">db_op_desc_txt_15</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_colonel_mission_dif.dds</value>
+			</object>
+		</object>
+		<object id="802E9224">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v044_utilitytruck.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v044_utilitytruck</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="80635748">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">39</value>
+			<value name="name" type="string">statistic_txt_26</value>
+			<value name="order" type="int">158</value>
+		</object>
+		<object id="806519C0">
+			<value id="362974D3" type="string">Models\vehicles\03_airvehicles\v062_heli_transport.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v062_heli_transport</value>
+			<value name="vehicle_type" type="int">3</value>
+		</object>
+		<object id="82253DDA">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice30</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_30</value>
+		</object>
+		<object id="82E3389B">
+			<value id="1847E893" type="int">6</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age48</value>
+			<value name="name" type="string">age48_tin_txt_01</value>
+			<value name="text" type="string">age48_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="82F86167">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">63</value>
+			<value name="name" type="string">statistic_txt_32</value>
+			<value name="order" type="int">304</value>
+		</object>
+		<object id="832976C8">
+			<value id="1847E893" type="int">3</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age18</value>
+			<value name="name" type="string">age18_tin_txt_01</value>
+			<value name="text" type="string">age18_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="834E0DBE">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice17</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_17</value>
+		</object>
+		<object id="83B14426">
+			<value id="1847E893" type="int">3</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age40</value>
+			<value name="name" type="string">age40_tin_txt_01</value>
+			<value name="text" type="string">age40_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="8494FEF6">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">-1</value>
+			<value name="name" type="string">statistic_txt_75</value>
+			<value name="order" type="int">200</value>
+		</object>
+		<object id="84E155DB">
+			<value id="207DD059" type="float">60</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_02</value>
+			<value id="7B40D7A7" type="int">1</value>
+			<value id="B304F782" type="int">0</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">controls2</value>
+			<value name="name" type="string">db_agent_name_txt_02</value>
+			<value name="text" type="string">db_agent_text_txt_02</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_grappling_hook_basics_dif.dds</value>
+			</object>
+		</object>
+		<object id="850A62DC">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2t11Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2t11_dif.dds</value>
+			</object>
+		</object>
+		<object id="85AE04A1">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_29</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent29</value>
+			<value name="name" type="string">db_agent_name_txt_04</value>
+			<value name="text" type="string">db_agent_text_txt_04</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Intel_explosives.dds</value>
+			</object>
+		</object>
+		<object id="86EB2EFC">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice54</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_54</value>
+		</object>
+		<object id="888582CE">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v025_sportcar.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v025_sportcar_cab</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="88C1E375">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice123</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">db_agent_summary_txt_56</value>
+		</object>
+		<object id="892429D4">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2t08Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2t08_dif.dds</value>
+			</object>
+		</object>
+		<object id="89D6484D">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice74</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_74</value>
+		</object>
+		<object id="89FACBEC">
+			<value id="1847E893" type="int">3</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age17</value>
+			<value name="name" type="string">age17_tin_txt_01</value>
+			<value name="text" type="string">age17_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="8A7FC58C">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">23</value>
+			<value name="name" type="string">statistic_txt_13</value>
+			<value name="order" type="int">104</value>
+		</object>
+		<object id="8B258611">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice37</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_37</value>
+		</object>
+		<object id="8B35302C">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v012_military_tank_small.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v012_military_tank_small</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="8C7415DC">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v056_atv_world.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v056_atv</value>
+			<value name="vehicle_type" type="int">1</value>
+		</object>
+		<object id="8CC1241E">
+			<value id="207DD059" type="float">5</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">vehiclestunts</value>
+			<value name="name" type="string">db_agent_name_txt_41</value>
+			<value name="text" type="string">db_agent_text_txt_41</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Intel_vehiclestunts.dds</value>
+			</object>
+		</object>
+		<object id="8DB55A88">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3t13Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3t13_dif.dds</value>
+			</object>
+		</object>
+		<object id="8DC38783">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice23</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_23</value>
+		</object>
+		<object id="8E08D9A4">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_43</value>
+			<value id="7B40D7A7" type="int">1</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent43</value>
+			<value name="name" type="string">db_agent_name_txt_43</value>
+			<value name="parent_id" type="string">controls4</value>
+			<value name="text" type="string">db_agent_text_txt_43</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_car_controls_dif.dds</value>
+			</object>
+		</object>
+		<object id="8E44BAB6">
+			<value id="7B40D7A7" type="int">8</value>
+			<value name="id" type="string">profiles05b</value>
+			<object id="EAA2C748">
+				<value id="14847D67" type="string">db_profiles_info5_txt_01</value>
+				<value id="6CCBF6C1" type="string"> </value>
+				<value id="9E4E622C" type="string">db_profiles_info3_txt_05</value>
+				<value id="AFE27D14" type="string">db_profiles_info2_txt_02</value>
+				<value id="D1C1F32F" type="string">db_profiles_info4_txt_05</value>
+				<value id="D9E27CC5" type="string">db_profiles_info1_txt_05</value>
+			</object>
+		</object>
+		<object id="8E9923D0">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice75</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_75</value>
+		</object>
+		<object id="8EA62C6E">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v041_tractor.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v041_tractor</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="8EF665A5">
+			<value id="1847E893" type="int">8</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age41</value>
+			<value name="name" type="string">age41_tin_txt_01</value>
+			<value name="text" type="string">age41_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="8F23CFD7">
+			<value id="1847E893" type="int">5</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age45</value>
+			<value name="name" type="string">age45_tin_txt_01</value>
+			<value name="text" type="string">age45_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="900C9585">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v006_vespa.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v006_vespa</value>
+			<value name="vehicle_type" type="int">1</value>
+		</object>
+		<object id="9057436E">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">65</value>
+			<value name="name" type="string">statistic_txt_34</value>
+			<value name="order" type="int">306</value>
+		</object>
+		<object id="90DFB97E">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v023_customcar.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v023_customcar</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="90F82115">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice79</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_79</value>
+		</object>
+		<object id="910B7E67">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v004_truck_garbage.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v004_truck_garbage</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="91250F13">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v017_military_jeep.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v017_military_combi</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="92DC95BA">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice19</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_19</value>
+		</object>
+		<object id="933B26A3">
+			<value id="207DD059" type="float">5</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op05</value>
+			<value name="name" type="string">db_op_name_txt_05</value>
+			<value name="text" type="string">db_op_desc_txt_05</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_datapad4_blaine_dif.dds</value>
+			</object>
+		</object>
+		<object id="93B8D7A8">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_35</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent35</value>
+			<value name="name" type="string">db_agent_name_txt_35</value>
+			<value name="text" type="string">db_agent_text_txt_35</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_sentry_gun_dif.dds</value>
+			</object>
+		</object>
+		<object id="93DF712E">
+			<value id="362974D3" type="string">Models\vehicles\03_airvehicles\v061_attackheli.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v061_attackheli</value>
+			<value name="vehicle_type" type="int">3</value>
+		</object>
+		<object id="93FBE869">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">16</value>
+			<value name="name" type="string">statistic_txt_67</value>
+			<value name="order" type="int">401</value>
+		</object>
+		<object id="94ACD0DB">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_profiles_summary_txt_12</value>
+			<value id="7B40D7A7" type="int">2</value>
+			<value id="B304F782" type="int">0</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles12</value>
+			<value name="name" type="string">db_profiles_name_txt_12</value>
+			<value name="text" type="string">db_profiles_text_txt_12</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_profiles_panay.dds</value>
+			</object>
+		</object>
+		<object id="94B3A682">
+			<value id="1847E893" type="int">7</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age35</value>
+			<value name="name" type="string">age35_tin_txt_01</value>
+			<value name="text" type="string">age35_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="9509D05E">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v007_heavy.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v007_heavy</value>
+			<value name="vehicle_type" type="int">1</value>
+		</object>
+		<object id="953D4BAA">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice85</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">db_agent_summary_txt_37</value>
+		</object>
+		<object id="956E2C50">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f1t16Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f1t16_dif.dds</value>
+			</object>
+		</object>
+		<object id="961DAA60">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v018_military_buggy.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v018_military_buggy</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="963B1AFD">
+			<value id="1847E893" type="int">0</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age29</value>
+			<value name="name" type="string">age29_tin_txt_01</value>
+			<value name="text" type="string">age29_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="968BD214">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice119</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_119</value>
+		</object>
+		<object id="975B545A">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v088_Djonk.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v088_Djonk_house</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="984B2441">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice121</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_121</value>
+		</object>
+		<object id="98A6E573">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v003_work.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v003_work</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="99E74CA7">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice24</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_24</value>
+		</object>
+		<object id="9A4D8A97">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_01</value>
+			<value id="7B40D7A7" type="int">1</value>
+			<value id="B304F782" type="int">0</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">controls1</value>
+			<value name="name" type="string">db_agent_name_txt_01</value>
+			<value name="text" type="string">db_agent_text_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_skydiving_basics_dif.dds</value>
+			</object>
+		</object>
+		<object id="9AEEA388">
+			<value id="207DD059" type="float">5</value>
+			<value id="7B40D7A7" type="int">2</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles05</value>
+			<value name="name" type="string">db_profiles_name_txt_05</value>
+			<value name="text" type="string">db_profiles_text_txt_05</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_profiles_jadetan.dds</value>
+			</object>
+		</object>
+		<object id="9B63CD5C">
+			<value id="207DD059" type="float">5</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op03</value>
+			<value name="name" type="string">db_op_name_txt_03</value>
+			<value name="text" type="string">db_op_desc_txt_03</value>
+		</object>
+		<object id="9CC93266">
+			<value id="207DD059" type="float">10</value>
+			<value id="3C91B88A" type="string">gen_tut_txt_02</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">tut02</value>
+			<value name="name" type="string">db_agent_name_txt_52</value>
+			<value name="text" type="string">db_agent_text_txt_52</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Intel_resourceitems.dds</value>
+			</object>
+		</object>
+		<object id="9D7BADC8">
+			<value id="7B40D7A7" type="int">8</value>
+			<value name="id" type="string">profiles04</value>
+			<object id="EAA2C748">
+				<value id="14847D67" type="string">db_profiles_info5_txt_04</value>
+				<value id="6CCBF6C1" type="string">db_profiles_info5_txt_03</value>
+				<value id="9E4E622C" type="string">db_profiles_info3_txt_04</value>
+				<value id="AFE27D14" type="string">db_profiles_info2_txt_01</value>
+				<value id="D1C1F32F" type="string">db_profiles_info4_txt_04</value>
+				<value id="D9E27CC5" type="string">db_profiles_info1_txt_04</value>
+			</object>
+		</object>
+		<object id="9E6191A7">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v004_truck_buss.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v004_truck_buss</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="9E634AF0">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_48</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent48</value>
+			<value name="name" type="string">db_agent_name_txt_48</value>
+			<value name="parent_id" type="string">agent03</value>
+			<value name="text" type="string">db_agent_text_txt_03</value>
+		</object>
+		<object id="9F3DBA20">
+			<value id="362974D3" type="string">Models\vehicles\03_airvehicles\v009_military_helicopter.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v009_military_helicopter</value>
+			<value name="vehicle_type" type="int">3</value>
+		</object>
+		<object id="9F5F8681">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">km03Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_km03_dif.dds</value>
+			</object>
+		</object>
+		<object id="9FD7941C">
+			<value id="207DD059" type="float">10</value>
+			<value id="3C91B88A" type="string">gen_tut_txt_09</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">tut09</value>
+			<value name="name" type="string">db_op_name_txt_21</value>
+			<value name="parent_id" type="string">op21</value>
+			<value name="text" type="string">db_agent_text_txt_45</value>
+		</object>
+		<object id="A0DC7DFF">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">64</value>
+			<value name="name" type="string">statistic_txt_33</value>
+			<value name="order" type="int">305</value>
+		</object>
+		<object id="A190210F">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice111</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_111</value>
+		</object>
+		<object id="A1D521C0">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v041_tractor.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v041_cab</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="A29B1028">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string"></value>
+			<value id="7B40D7A7" type="int">2</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles11</value>
+			<value name="name" type="string">db_profiles_name_txt_11</value>
+			<value name="text" type="string">db_profiles_text_txt_11</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_profiles_washio.dds</value>
+			</object>
+		</object>
+		<object id="A4DEAF37">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">60</value>
+			<value name="name" type="string">statistic_txt_29</value>
+			<value name="order" type="int">332</value>
+		</object>
+		<object id="A5C53C6A">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2t10Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2t10_dif.dds</value>
+			</object>
+		</object>
+		<object id="A63ED84F">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice78</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_78</value>
+		</object>
+		<object id="A6E030E6">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v034_sport_buggy.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v034_sport_buggy</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="A7643BBC">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string"></value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op12</value>
+			<value name="name" type="string">db_op_name_txt_12</value>
+			<value name="text" type="string">db_op_desc_txt_12</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_op_dcs_dif.dds</value>
+			</object>
+		</object>
+		<object id="A7C920CE">
+			<value id="1847E893" type="int">4</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age12</value>
+			<value name="name" type="string">age12_tin_txt_01</value>
+			<value name="text" type="string">age12_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="A7FEDF62">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string"></value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">act_hint_txt_05</value>
+		</object>
+		<object id="A8B550FD">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">21</value>
+			<value name="name" type="string">statistic_txt_01</value>
+			<value name="order" type="int">101</value>
+		</object>
+		<object id="A933A1FD">
+			<value id="207DD059" type="float">5</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op06</value>
+			<value name="name" type="string">db_op_name_txt_06</value>
+			<value name="text" type="string">db_op_desc_txt_06</value>
+		</object>
+		<object id="A9EBC08E">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice81</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_81</value>
+		</object>
+		<object id="AA51C136">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v082_motorboat_standard_small.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v082_motorboat_tourist</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="AA5F45A3">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v047_jeep.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v047_softtop</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="AB276C51">
+			<value id="7B40D7A7" type="int">8</value>
+			<value name="id" type="string">profiles09</value>
+			<object id="EAA2C748">
+				<value id="14847D67" type="string">db_profiles_info5_txt_09</value>
+				<value id="6CCBF6C1" type="string"> </value>
+				<value id="9E4E622C" type="string">db_profiles_info3_txt_09</value>
+				<value id="AFE27D14" type="string">db_profiles_info2_txt_01</value>
+				<value id="D1C1F32F" type="string">db_profiles_info4_txt_09</value>
+				<value id="D9E27CC5" type="string">db_profiles_info1_txt_09</value>
+			</object>
+		</object>
+		<object id="AD163922">
+			<value id="207DD059" type="float">8</value>
+			<value id="3C91B88A" type="string">db_op_summary_txt_01</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles16</value>
+			<value name="name" type="string">db_profiles_name_txt_16</value>
+			<value name="text" type="string">db_profiles_text_txt_16</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_roaches_dif.dds</value>
+			</object>
+		</object>
+		<object id="AD22ACA5">
+			<value id="1847E893" type="int">3</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age39</value>
+			<value name="name" type="string">age39_tin_txt_01</value>
+			<value name="text" type="string">age39_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="AD940CCE">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3m06Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3m06_dif.dds</value>
+			</object>
+		</object>
+		<object id="AE89EFAC">
+			<value id="207DD059" type="float">60</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_32</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string"></value>
+			<value name="name" type="string">db_agent_name_txt_32</value>
+			<value name="text" type="string">db_agent_text_txt_32</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Hanging_from_helicopter_dif.dds</value>
+			</object>
+		</object>
+		<object id="AFBF1270">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2m05Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2m05_dif.dds</value>
+			</object>
+		</object>
+		<object id="AFC4A5BF">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">67</value>
+			<value name="name" type="string">statistic_txt_36</value>
+			<value name="order" type="int">212</value>
+		</object>
+		<object id="B0907D44">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice13</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_02</value>
+		</object>
+		<object id="B0E95904">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice82</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_tut_txt_04</value>
+		</object>
+		<object id="B0FF7349">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice50</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_50</value>
+		</object>
+		<object id="B102E91F">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">53</value>
+			<value name="name" type="string">statistic_txt_72</value>
+			<value name="order" type="int">409</value>
+		</object>
+		<object id="B157E39A">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice80</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_80</value>
+		</object>
+		<object id="B1EC2103">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_54</value>
+			<value id="7B40D7A7" type="int">1</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent54</value>
+			<value name="name" type="string">db_agent_name_txt_54</value>
+			<value name="parent_id" type="string">controls4</value>
+			<value name="text" type="string">db_agent_text_txt_54</value>
+		</object>
+		<object id="B2B36341">
+			<value id="1847E893" type="int">5</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age11</value>
+			<value name="name" type="string">age11_tin_txt_01</value>
+			<value name="text" type="string">age11_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="B345A131">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_53</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent53</value>
+			<value name="name" type="string">db_agent_name_txt_53</value>
+			<value name="parent_id" type="string">tut02</value>
+			<value name="text" type="string">db_agent_text_txt_53</value>
+		</object>
+		<object id="B34CA373">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v015_military_vehicle.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v015_military_vehicle</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="B3ADFFFD">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3t01Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3t01_dif.dds</value>
+			</object>
+		</object>
+		<object id="B42CB88D">
+			<value id="362974D3" type="string">Models\vehicles\03_airvehicles\v010_personal_propellerplane.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v010_personal_propellerplane</value>
+			<value name="vehicle_type" type="int">2</value>
+		</object>
+		<object id="B44EF617">
+			<value id="1847E893" type="int">2</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age01</value>
+			<value name="name" type="string">age01_tin_txt_01</value>
+			<value name="text" type="string">age01_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="B48791A5">
+			<value id="362974D3" type="string">Models\vehicles\03_airvehicles\v067_speedplane.vdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v067_speedplane</value>
+			<value name="vehicle_type" type="int">2</value>
+		</object>
+		<object id="B4BEFEF9">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice41</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_41</value>
+		</object>
+		<object id="B4D91A7F">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">38</value>
+			<value name="name" type="string">statistic_txt_25</value>
+			<value name="order" type="int">157</value>
+		</object>
+		<object id="B54209A4">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f1t10Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f1t10_dif.dds</value>
+			</object>
+		</object>
+		<object id="B5CEDE14">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice15</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">str_hint_txt_01</value>
+		</object>
+		<object id="B5F0F7A4">
+			<value id="362974D3" type="string">Models\vehicles\03_airvehicles\v009_civil_helicopter_2.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v009_civil_helicopter_2</value>
+			<value name="vehicle_type" type="int">3</value>
+		</object>
+		<object id="B6FAF432">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v014_jeep.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v014_jeep</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="B7C86F93">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_03</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent03</value>
+			<value name="name" type="string">db_agent_name_txt_03</value>
+			<value name="text" type="string">db_agent_text_txt_03</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Intel_basicweapon.dds</value>
+			</object>
+		</object>
+		<object id="B8ECCCEC">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice83</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">db_agent_summary_txt_34</value>
+		</object>
+		<object id="B9787773">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3m04Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3m04_dif.dds</value>
+			</object>
+		</object>
+		<object id="B97AE917">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice118</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_118</value>
+		</object>
+		<object id="B9E99916">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_31</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent31</value>
+			<value name="name" type="string">db_agent_name_txt_31</value>
+			<value name="parent_id" type="string">agent02</value>
+			<value name="text" type="string">db_agent_text_txt_31</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Reeling_to_vehicles_dif.dds</value>
+			</object>
+		</object>
+		<object id="BA221E42">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">84</value>
+			<value name="name" type="string">statistic_txt_53</value>
+			<value name="order" type="int">213</value>
+		</object>
+		<object id="BD35C1B1">
+			<value id="1847E893" type="int">6</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age49</value>
+			<value name="name" type="string">age49_tin_txt_01</value>
+			<value name="text" type="string">age49_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="BD6D2744">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v035_sport_custom.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v035_sport_custom</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="BDF93117">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_profiles_summary_txt_03</value>
+			<value id="7B40D7A7" type="int">2</value>
+			<value id="B304F782" type="int">0</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles03</value>
+			<value name="name" type="string">db_profiles_name_txt_03</value>
+			<value name="text" type="string">db_profiles_text_txt_03</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_profiles_kane.dds</value>
+			</object>
+		</object>
+		<object id="BE21EC7E">
+			<value id="207DD059" type="float">60</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice07</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">km01_hint_txt_04</value>
+		</object>
+		<object id="BE34C289">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3t05Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3t05_dif.dds</value>
+			</object>
+		</object>
+		<object id="BEB95C63">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice21</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_21</value>
+		</object>
+		<object id="BF601269">
+			<value id="207DD059" type="float">10</value>
+			<value id="3C91B88A" type="string">gen_tut_txt_07</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">tut07</value>
+			<value name="name" type="string">gen_tuttitle_txt_07</value>
+			<value name="text" type="string">gen_tuttext_txt_07</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Intel_grapplinghook.dds</value>
+			</object>
+		</object>
+		<object id="C04D678E">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice106</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_106</value>
+		</object>
+		<object id="C0FBA5DD">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice71</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_71</value>
+		</object>
+		<object id="C2AE9E05">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">68</value>
+			<value name="name" type="string">statistic_txt_37</value>
+			<value name="order" type="int">309</value>
+		</object>
+		<object id="C34020BE">
+			<value id="207DD059" type="float">10</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_41</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">tut10</value>
+			<value name="name" type="string">db_agent_name_txt_41</value>
+			<value name="parent_id" type="string">vehiclestunts</value>
+			<value name="text" type="string">gen_tuttext_txt_07</value>
+		</object>
+		<object id="C3440ECE">
+			<value id="207DD059" type="float">1000</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_39</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent39</value>
+			<value name="name" type="string">db_agent_name_txt_40</value>
+			<value name="parent_id" type="string">agent02</value>
+			<value name="text" type="string">db_agent_text_txt_39</value>
+		</object>
+		<object id="C3BEA99B">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v011_houseboat.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v011_houseboat</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="C484945D">
+			<value id="207DD059" type="float">60</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice04</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">km01_hint_txt_01</value>
+		</object>
+		<object id="C4901F71">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">20</value>
+			<value name="name" type="string">statistic_txt_02</value>
+			<value name="order" type="int">102</value>
+		</object>
+		<object id="C5B49723">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">31</value>
+			<value name="name" type="string">statistic_txt_20</value>
+			<value name="order" type="int">154</value>
+		</object>
+		<object id="C648CD3A">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">10</value>
+			<value name="name" type="string">statistic_txt_61</value>
+			<value name="order" type="int">403</value>
+		</object>
+		<object id="C6B26FF2">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice26</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_26</value>
+		</object>
+		<object id="C6EE6941">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f1t04Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f1t04_dif.dds</value>
+			</object>
+		</object>
+		<object id="C7B75D03">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice68</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_68</value>
+		</object>
+		<object id="C85061EA">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">87</value>
+			<value name="name" type="string">statistic_txt_56</value>
+			<value name="order" type="int">328</value>
+		</object>
+		<object id="C9510780">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice25</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_25</value>
+		</object>
+		<object id="CAD3A20E">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v087_catamaran_speedboat.vdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v087_catamaran_speedboat</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="CAF6DB65">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2t15Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2t15_dif.dds</value>
+			</object>
+		</object>
+		<object id="CAF77458">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f1m07Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f1m07_dif.dds</value>
+			</object>
+		</object>
+		<object id="CB5BA72A">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v017_military_jeep.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v017_military_jeep</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="CC191DFB">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2t12Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2t12_dif.dds</value>
+			</object>
+		</object>
+		<object id="CD6D5B40">
+			<value id="207DD059" type="float">10</value>
+			<value id="3C91B88A" type="string">fe_txt_370</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">tut03</value>
+			<value name="name" type="string">db_agent_name_txt_11</value>
+			<value name="parent_id" type="string">agent45</value>
+			<value name="text" type="string">db_agent_text_txt_45</value>
+		</object>
+		<object id="CD6E0E9B">
+			<value id="1847E893" type="int">5</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age22</value>
+			<value name="name" type="string">age22_tin_txt_01</value>
+			<value name="text" type="string">age22_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="CDACC317">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v088_Djonk.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v088_Djonk_poor</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="CDE75FAB">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v086_barge.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v086_barge</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="CFB809A2">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice72</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_72</value>
+		</object>
+		<object id="D0892FD3">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">agent58</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">db_agent_summary_txt_58</value>
+		</object>
+		<object id="D0F59C55">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">gen_hint_txt_116</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent37</value>
+			<value name="name" type="string">db_agent_name_txt_37</value>
+			<value name="parent_id" type="string">vehiclestunts</value>
+			<value name="text" type="string">db_agent_text_txt_37</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Helicopter_Hijacking_dif.dds</value>
+			</object>
+		</object>
+		<object id="D13449D6">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f1t11Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f1t11_dif.dds</value>
+			</object>
+		</object>
+		<object id="D1A65834">
+			<value id="207DD059" type="float">60</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_30</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent30</value>
+			<value name="name" type="string">db_agent_name_txt_30</value>
+			<value name="parent_id" type="string">agent01</value>
+			<value name="text" type="string">db_agent_text_txt_30</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_slingshot_dif.dds</value>
+			</object>
+		</object>
+		<object id="D2450B52">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3t09Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3t09_dif.dds</value>
+			</object>
+		</object>
+		<object id="D2A61744">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">19</value>
+			<value name="name" type="string">statistic_txt_17</value>
+			<value name="order" type="int">110</value>
+		</object>
+		<object id="D2A75B34">
+			<value id="1847E893" type="int">5</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age14</value>
+			<value name="name" type="string">age14_tin_txt_01</value>
+			<value name="text" type="string">age14_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="D3A2E406">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">17</value>
+			<value name="name" type="string">statistic_txt_16</value>
+			<value name="order" type="int">109</value>
+		</object>
+		<object id="D3FB7D86">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">88</value>
+			<value name="name" type="string">statistic_txt_57</value>
+			<value name="order" type="int">329</value>
+		</object>
+		<object id="D408437D">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_38</value>
+			<value id="7B40D7A7" type="int">1</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent38</value>
+			<value name="name" type="string">db_agent_name_txt_38</value>
+			<value name="parent_id" type="string">controls2</value>
+			<value name="text" type="string">db_agent_text_txt_38</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_helicopter_controls_dif.dds</value>
+			</object>
+		</object>
+		<object id="D49D1FE5">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v036_city_jeep.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v036_city_jeep</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="D4F0AC6A">
+			<value id="1847E893" type="int">1</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age25</value>
+			<value name="name" type="string">age25_tin_txt_01</value>
+			<value name="text" type="string">age25_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="D7DCBEA7">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_op_summary_txt_11</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op11</value>
+			<value name="name" type="string">db_op_name_txt_11</value>
+			<value name="parent_id" type="string">op18</value>
+			<value name="text" type="string">db_op_desc_txt_11</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_op_cbb_dif.dds</value>
+			</object>
+		</object>
+		<object id="D8120268">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v056_atv.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v056_Gimp</value>
+			<value name="vehicle_type" type="int">1</value>
+		</object>
+		<object id="D83A73E8">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice101</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_101</value>
+		</object>
+		<object id="D8C76353">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">24</value>
+			<value name="name" type="string">statistic_txt_14</value>
+			<value name="order" type="int">105</value>
+		</object>
+		<object id="D8F08911">
+			<value id="7B40D7A7" type="int">8</value>
+			<value name="id" type="string">profiles11</value>
+			<object id="EAA2C748">
+				<value id="14847D67" type="string">db_profiles_info5_txt_11</value>
+				<value id="6CCBF6C1" type="string"> </value>
+				<value id="9E4E622C" type="string">db_profiles_info3_txt_11</value>
+				<value id="AFE27D14" type="string">db_profiles_info2_txt_01</value>
+				<value id="D1C1F32F" type="string">db_profiles_info4_txt_11</value>
+				<value id="D9E27CC5" type="string">db_profiles_info1_txt_11</value>
+			</object>
+		</object>
+		<object id="DA29893F">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v025_sportcar.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v025_sportcar_softtop</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="DA760A61">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string"></value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op19</value>
+			<value name="name" type="string">db_op_name_txt_19</value>
+			<value name="text" type="string">db_op_desc_txt_19</value>
+		</object>
+		<object id="DB12AA1E">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string"></value>
+			<value id="7B40D7A7" type="int">2</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles04</value>
+			<value name="name" type="string">db_profiles_name_txt_04</value>
+			<value name="text" type="string">db_profiles_text_txt_04</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_profiles_blaine.dds</value>
+			</object>
+		</object>
+		<object id="DCB76CCE">
+			<value id="207DD059" type="float">10</value>
+			<value id="3C91B88A" type="string">gen_tut_txt_06</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">tut06</value>
+			<value name="name" type="string">gen_tuttitle_txt_06</value>
+			<value name="parent_id" type="string">agent44</value>
+			<value name="text" type="string">db_agent_text_txt_28</value>
+		</object>
+		<object id="DCFCA543">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice115</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_115</value>
+		</object>
+		<object id="DF8B6D82">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v028_luxuary_sportcar.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v028_luxuary_cab</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="DF8E84AE">
+			<value id="3C91B88A" type="string">this is km01 employer summary...</value>
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">km01Emp</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">this is km01 employer text...</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_km01_dif.dds</value>
+			</object>
+		</object>
+		<object id="DFF71173">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice110</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_110</value>
+		</object>
+		<object id="DFF9EB88">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string"></value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op18</value>
+			<value name="name" type="string">db_op_name_txt_18</value>
+			<value name="text" type="string">db_op_desc_txt_18</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Intel_factionitems.dds</value>
+			</object>
+		</object>
+		<object id="E01102B5">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v109_limo.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v109_limo</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="E0418323">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">14</value>
+			<value name="name" type="string">statistic_txt_65</value>
+			<value name="order" type="int">406</value>
+		</object>
+		<object id="E059C481">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">12</value>
+			<value name="name" type="string">statistic_txt_63</value>
+			<value name="order" type="int">404</value>
+		</object>
+		<object id="E0C495A9">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string"></value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">act_hint_txt_01</value>
+		</object>
+		<object id="E0E40C56">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v041_tractor.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v041_tractor_modern</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="E1347686">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice107</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_107</value>
+		</object>
+		<object id="E241C35B">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v016_military_apc.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v016_military_tank</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="E35793C4">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v004_truck_transport.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v004_truck_transport</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="E387F9B2">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice52</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_52</value>
+		</object>
+		<object id="E527608A">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">7</value>
+			<value name="name" type="string">statistic_txt_10</value>
+			<value name="order" type="int">207</value>
+		</object>
+		<object id="E6624456">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">-1</value>
+			<value name="name" type="string">statistic_txt_76</value>
+			<value name="order" type="int">300</value>
+		</object>
+		<object id="E78B8D87">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice43</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_43</value>
+		</object>
+		<object id="E82E87A0">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice120</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_120</value>
+		</object>
+		<object id="E85E9ED8">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">73</value>
+			<value name="name" type="string">statistic_txt_42</value>
+			<value name="order" type="int">314</value>
+		</object>
+		<object id="E8E63C03">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v024_sportscar.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v024_sportscar</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="E9DD4106">
+			<value id="207DD059" type="float">10</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_57</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent57</value>
+			<value name="name" type="string">db_agent_name_txt_34</value>
+			<value name="parent_id" type="string">agent29</value>
+			<value name="text" type="string">db_agent_text_txt_03</value>
+		</object>
+		<object id="EA384518">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">74</value>
+			<value name="name" type="string">statistic_txt_43</value>
+			<value name="order" type="int">315</value>
+		</object>
+		<object id="EAD3B3F6">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_34</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string"></value>
+			<value name="name" type="string">db_agent_name_txt_34</value>
+			<value name="text" type="string">db_agent_text_txt_34</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_triggered_c4_dif.dds</value>
+			</object>
+		</object>
+		<object id="EB5BDA03">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v048_bus_civ.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v048_bus_civ</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object id="EC66A4A3">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">km06Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_km06_dif.dds</value>
+			</object>
+		</object>
+		<object id="EC8C3125">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3t15Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3t15_dif.dds</value>
+			</object>
+		</object>
+		<object id="EC93331A">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice112</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_112</value>
+		</object>
+		<object id="ECADE6F2">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice84</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">db_agent_summary_txt_45</value>
+		</object>
+		<object id="ECE6DD34">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2t04Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2t04_dif.dds</value>
+			</object>
+		</object>
+		<object id="ECEBAA08">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string"></value>
+			<value id="7B40D7A7" type="int">2</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles10</value>
+			<value name="name" type="string">db_profiles_name_txt_10</value>
+			<value name="text" type="string">db_profiles_text_txt_10</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_profiles_sun.dds</value>
+			</object>
+		</object>
+		<object id="ED276FCF">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2t16Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2t16_dif.dds</value>
+			</object>
+		</object>
+		<object id="ED67F1DC">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_profiles_summary_txt_14</value>
+			<value id="7B40D7A7" type="int">2</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles14</value>
+			<value name="name" type="string">db_profiles_name_txt_14</value>
+			<value name="text" type="string">db_profiles_text_txt_14</value>
+		</object>
+		<object id="ED8C3946">
+			<value id="1847E893" type="int">2</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age03</value>
+			<value name="name" type="string">age03_tin_txt_01</value>
+			<value name="text" type="string">age03_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="EDD465C3">
+			<value id="1847E893" type="int">6</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age47</value>
+			<value name="name" type="string">age47_tin_txt_01</value>
+			<value name="text" type="string">age47_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="EDEF823A">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_agent_summary_txt_01</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">agent01</value>
+			<value name="name" type="string">db_agent_name_txt_01</value>
+			<value name="text" type="string">db_agent_text_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_Intel_parachute.dds</value>
+			</object>
+		</object>
+		<object id="EEEC6D0D">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_profiles_summary_txt_05</value>
+			<value id="7B40D7A7" type="int">2</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">profiles18</value>
+			<value name="name" type="string">db_profiles_name_txt_05</value>
+			<value name="text" type="string">db_profiles_text_txt_05_b</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">db_profiles_jadetan.dds</value>
+			</object>
+		</object>
+		<object id="EF13D9A8">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string"></value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">act_hint_txt_02</value>
+		</object>
+		<object id="EFFBA035">
+			<value id="362974D3" type="string">Models\vehicles\02_seavehicles\v088_Djonk.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v088_Djonk_cabin</value>
+			<value name="vehicle_type" type="int">4</value>
+		</object>
+		<object id="F161D6F3">
+			<value id="1847E893" type="int">5</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age19</value>
+			<value name="name" type="string">age19_tin_txt_01</value>
+			<value name="text" type="string">age19_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="F16815F5">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3t07Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3t07_dif.dds</value>
+			</object>
+		</object>
+		<object id="F19D56B2">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">62</value>
+			<value name="name" type="string">statistic_txt_31</value>
+			<value name="order" type="int">303</value>
+		</object>
+		<object id="F29E29DC">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2t07Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2t07_dif.dds</value>
+			</object>
+		</object>
+		<object id="F3425C4D">
+			<value id="207DD059" type="float">10</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice113</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_113</value>
+		</object>
+		<object id="F38AFD6C">
+			<value id="207DD059" type="float">3</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice03</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">db_agent_summary_txt_51</value>
+		</object>
+		<object id="F3F5E817">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">6</value>
+			<value name="name" type="string">statistic_txt_09</value>
+			<value name="order" type="int">206</value>
+		</object>
+		<object id="F418231F">
+			<value id="207DD059" type="float">5</value>
+			<value id="3C91B88A" type="string">db_op_summary_txt_10</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">op10</value>
+			<value name="name" type="string">db_op_name_txt_10</value>
+			<value name="parent_id" type="string">op18</value>
+			<value name="text" type="string">db_op_desc_txt_10</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_op_cdd_dif.dds</value>
+			</object>
+		</object>
+		<object id="F481D09B">
+			<value id="362974D3" type="string">Models\vehicles\03_airvehicles\v060_attackheli.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v060_attackheli</value>
+			<value name="vehicle_type" type="int">3</value>
+		</object>
+		<object id="F4B7F73D">
+			<value id="207DD059" type="float">10</value>
+			<value id="3C91B88A" type="string">gen_hint_txt_104</value>
+			<value id="7B40D7A7" type="int">0</value>
+			<value id="B304F782" type="int">1</value>
+			<value id="C70A9933" type="int">0</value>
+			<value name="id" type="string">notice104</value>
+			<value name="name" type="string">db_agent_name_txt_40</value>
+			<value name="parent_id" type="string">agent02</value>
+			<value name="text" type="string">db_agent_text_txt_29</value>
+		</object>
+		<object id="F526A2F4">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">78</value>
+			<value name="name" type="string">statistic_txt_47</value>
+			<value name="order" type="int">319</value>
+		</object>
+		<object id="F5B4A57E">
+			<value id="207DD059" type="float">7</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice102</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_102</value>
+		</object>
+		<object id="F6106CD7">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice35</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_35</value>
+		</object>
+		<object id="F691EE31">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2t13Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2t13_dif.dds</value>
+			</object>
+		</object>
+		<object id="F8F1F11B">
+			<value id="207DD059" type="float">1000</value>
+			<value id="7B40D7A7" type="int">7</value>
+			<value name="id" type="string">notice34</value>
+			<value name="priority" type="int">0</value>
+			<value name="text" type="string">gen_hint_txt_34</value>
+		</object>
+		<object id="F91F5B1E">
+			<value id="7B40D7A7" type="int">8</value>
+			<value name="id" type="string">profiles08</value>
+			<object id="EAA2C748">
+				<value id="14847D67" type="string">db_profiles_info5_txt_08</value>
+				<value id="6CCBF6C1" type="string"> </value>
+				<value id="9E4E622C" type="string">db_profiles_info3_txt_08</value>
+				<value id="AFE27D14" type="string">db_profiles_info2_txt_01</value>
+				<value id="D1C1F32F" type="string">db_profiles_info4_txt_08</value>
+				<value id="D9E27CC5" type="string">db_profiles_info1_txt_08</value>
+			</object>
+		</object>
+		<object id="F9504CBF">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">34</value>
+			<value name="name" type="string">statistic_txt_22</value>
+			<value name="order" type="int">151</value>
+		</object>
+		<object id="F9D65B8D">
+			<value id="1847E893" type="int">7</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age34</value>
+			<value name="name" type="string">age34_tin_txt_01</value>
+			<value name="text" type="string">age34_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="FB6C6C77">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f3t16Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f3t16_dif.dds</value>
+			</object>
+		</object>
+		<object id="FD2ACCD7">
+			<value id="1847E893" type="int">0</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age28</value>
+			<value name="name" type="string">age28_tin_txt_01</value>
+			<value name="text" type="string">age28_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="FD3F9B6F">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">50</value>
+			<value name="name" type="string">statistic_txt_70</value>
+			<value name="order" type="int">211</value>
+		</object>
+		<object id="FDE56C69">
+			<value id="1847E893" type="int">2</value>
+			<value id="7B40D7A7" type="int">5</value>
+			<value id="9FFF7BEF" type="int">1</value>
+			<value name="id" type="string">age04</value>
+			<value name="name" type="string">age04_tin_txt_01</value>
+			<value name="text" type="string">age04_desc_txt_01</value>
+			<object id="6DB1CFF2">
+				<value name="filename" type="string">str_age01.dds</value>
+			</object>
+		</object>
+		<object id="FF2D92A2">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2m07Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2m07_dif.dds</value>
+			</object>
+		</object>
+		<object id="FF5EE3C1">
+			<value id="7B40D7A7" type="int">3</value>
+			<value id="F4EF3D5B" type="int">30</value>
+			<value name="name" type="string">statistic_txt_19</value>
+			<value name="order" type="int">153</value>
+		</object>
+		<object id="FFF0048D">
+			<value id="7B40D7A7" type="int">6</value>
+			<value name="id" type="string">f2t01Emp</value>
+			<object id="6DB1CFF2">
+				<value id="F2270A0F" type="string">db_profiles_img_txt_01</value>
+				<value name="filename" type="string">str_intfile_f2t01_dif.dds</value>
+			</object>
+		</object>
+		<object name="vehicle_0">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v001_sedan.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v001_sedan</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object name="vehicle_1">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v002_combi.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v002_combi</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object name="vehicle_2">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v002_police.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v002_police</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object name="vehicle_3">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v002_sedan.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v002_sedan</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object name="vehicle_4">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v002_sedan_taxi.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v002_sedan_taxi</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object name="vehicle_5">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v002_sport.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v002_sport</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object name="vehicle_6">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v003_cover.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v003_cover</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object name="vehicle_7">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v003_hardtop.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v003_hardtop</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object name="vehicle_8">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v003_icecream.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v003_icecream</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+		<object name="vehicle_9">
+			<value id="362974D3" type="string">Models\vehicles\01_landvehicles\v003_lorry.mvdoll</value>
+			<value id="7B40D7A7" type="int">4</value>
+			<value name="name" type="string">v003_lorry</value>
+			<value name="vehicle_type" type="int">0</value>
+		</object>
+	</object>
+</root>

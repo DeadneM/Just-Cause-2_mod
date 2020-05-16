@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object id="039AA904">
+			<value id="4247FEAA" type="string">animations\animationsets\parachute.asb</value>
+			<value name="effect_filename" type="string">Effects\ParachuteEffectSettings\ParachuteEffects.bin</value>
+			<value name="item_id" type="string">parachute00</value>
+			<value name="model" type="string">weapons\gae05\GAE05_LOD1-GAE05</value>
+			<value name="pickup_event" type="string">parachute00.pickup.execute</value>
+			<value name="skeleton" type="string">animations\skeletons\syncReadThis\parachute.bsk</value>
+			<value name="state_machine" type="string">animations\statemachine\parachute.afsm</value>
+		</object>
+	</object>
+</root>

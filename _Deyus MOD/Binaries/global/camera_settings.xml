@@ -1,0 +1,1181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="Raw" endian="Little">
+	<object>
+		<object name="settings">
+			<object name="0">
+				<value name="Inherits" type="string">Normal</value>
+				<value id="15ED1FEA" type="vec">0.55,1.55,0</value>
+				<value id="4995A552" type="float">40</value>
+				<value id="54AB6349" type="string">Onfoot Camera</value>
+				<value id="72C30229" type="int">5</value>
+				<value id="80CF2614" type="vec">0.55,1.55,3</value>
+				<value id="A0A4FF07" type="int">3</value>
+				<value id="C7A62EFE" type="int">0</value>
+				<value id="CDEAD79E" type="vec">0,1.8,3</value>
+				<value id="E2083586" type="vec">0,1.8,0</value>
+			</object>
+			<object name="1">
+				<value name="Collision" type="int">8</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="FocusType" type="int">2</value>
+				<value name="Input" type="int">2</value>
+				<value name="Movement" type="int">3</value>
+				<value id="0A4C2BDC" type="int">2</value>
+				<value id="15ED1FEA" type="vec">0,-1,0</value>
+				<value id="50692F83" type="int">2</value>
+				<value id="54AB6349" type="string">Parachute Camera</value>
+				<value id="80CF2614" type="vec">0,2,6.75</value>
+				<value id="8E260E93" type="int">5</value>
+				<value id="8FC27E6C" type="vec2">-90,120</value>
+				<value id="93D9CAE6" type="vec">0,3.75,-0.5</value>
+				<value id="C26C0EC2" type="float">0.1</value>
+				<value id="C4AFB170" type="float">12</value>
+				<value id="C7A62EFE" type="int">1</value>
+				<value id="D72B460E" type="int">1</value>
+			</object>
+			<object name="10">
+				<value name="FocusType" type="int">1</value>
+				<value id="0A4C2BDC" type="int">1</value>
+				<value id="15ED1FEA" type="vec">0,0.8,-0.75</value>
+				<value id="1ACABE1C" type="int">2</value>
+				<value id="54AB6349" type="string">Roof to Front camera</value>
+				<value id="80CF2614" type="vec">-3.75,2,2</value>
+				<value id="C7A62EFE" type="int">10</value>
+			</object>
+			<object name="11">
+				<value name="FocusType" type="int">1</value>
+				<value id="0A4C2BDC" type="int">1</value>
+				<value id="15ED1FEA" type="vec">0,0.8,-0.75</value>
+				<value id="1ACABE1C" type="int">2</value>
+				<value id="54AB6349" type="string">Roof to Rear camera</value>
+				<value id="80CF2614" type="vec">-3.75,2,2</value>
+				<value id="C7A62EFE" type="int">11</value>
+			</object>
+			<object name="12">
+				<value name="Inherits" type="string">Motorcycle</value>
+				<value id="15ED1FEA" type="vec">0,2,0</value>
+				<value id="54AB6349" type="string">ATV</value>
+				<value id="80CF2614" type="vec">0,2.5,5</value>
+				<value id="C7A62EFE" type="int">12</value>
+				<value id="CDEAD79E" type="vec">0,2.2,0.5</value>
+				<value id="E2083586" type="vec">0,2.2,-0.5</value>
+			</object>
+			<object name="13">
+				<value name="FocusType" type="int">3</value>
+				<value id="0A4C2BDC" type="int">4</value>
+				<value id="15ED1FEA" type="vec">0,0.75,0</value>
+				<value id="1ACABE1C" type="int">2</value>
+				<value id="54AB6349" type="string">Front to Roof Camera</value>
+				<value id="80CF2614" type="vec">-7.5,1.5,2.5</value>
+				<value id="C7A62EFE" type="int">13</value>
+			</object>
+			<object name="14">
+				<value name="Inherits" type="string">Hijack</value>
+				<value id="15ED1FEA" type="vec">-1.5,0.6,-0.25</value>
+				<value id="1ACABE1C" type="int">2</value>
+				<value id="54AB6349" type="string">Front Left Stunt Camera</value>
+				<value id="80CF2614" type="vec">-1.8,0.5,3.4</value>
+				<value id="82BBC61C" type="vec2">-45,45</value>
+				<value id="8FC27E6C" type="vec2">-15,25</value>
+				<value id="C7A62EFE" type="int">14</value>
+			</object>
+			<object name="15">
+				<value name="Inherits" type="string">Hijack</value>
+				<value id="15ED1FEA" type="vec">1.5,0.6,-0.25</value>
+				<value id="1ACABE1C" type="int">2</value>
+				<value id="54AB6349" type="string">Front Right Stunt Camera</value>
+				<value id="80CF2614" type="vec">1.8,0.4,3.4</value>
+				<value id="82BBC61C" type="vec2">-45,45</value>
+				<value id="8FC27E6C" type="vec2">-15,25</value>
+				<value id="C7A62EFE" type="int">15</value>
+			</object>
+			<object name="16">
+				<value name="Inherits" type="string">Hijack</value>
+				<value id="15ED1FEA" type="vec">0,0.5,0</value>
+				<value id="54AB6349" type="string">Front Down Stunt Camera</value>
+				<value id="80CF2614" type="vec">0,0.4,3.4</value>
+				<value id="8FC27E6C" type="vec2">0,25</value>
+				<value id="C7A62EFE" type="int">16</value>
+			</object>
+			<object name="17">
+				<value name="Inherits" type="string">Hijack</value>
+				<value id="15ED1FEA" type="vec">-1.5,0.6,-0.25</value>
+				<value id="1ACABE1C" type="int">2</value>
+				<value id="54AB6349" type="string">Rear Left Stunt Camera</value>
+				<value id="80CF2614" type="vec">-1.8,0.4,3.4</value>
+				<value id="82BBC61C" type="vec2">-5,45</value>
+				<value id="8FC27E6C" type="vec2">-15,25</value>
+				<value id="C7A62EFE" type="int">17</value>
+			</object>
+			<object name="18">
+				<value name="Inherits" type="string">Hijack</value>
+				<value id="15ED1FEA" type="vec">1.5,0.6,-0.25</value>
+				<value id="1ACABE1C" type="int">2</value>
+				<value id="54AB6349" type="string">Rear Right Stunt Camera</value>
+				<value id="80CF2614" type="vec">1.8,0.5,3.4</value>
+				<value id="82BBC61C" type="vec2">-70,10</value>
+				<value id="8FC27E6C" type="vec2">-15,25</value>
+				<value id="C7A62EFE" type="int">18</value>
+			</object>
+			<object name="19">
+				<value name="Inherits" type="string">Hijack</value>
+				<value id="15ED1FEA" type="vec">0,0.5,0</value>
+				<value id="54AB6349" type="string">Rear Down Stunt Camera</value>
+				<value id="80CF2614" type="vec">0,0.4,3.4</value>
+				<value id="8FC27E6C" type="vec2">0,25</value>
+				<value id="C7A62EFE" type="int">19</value>
+			</object>
+			<object name="2">
+				<value name="Inherits" type="string">Normal</value>
+				<value id="15ED1FEA" type="vec">0,1.1,0</value>
+				<value id="4995A552" type="float">40</value>
+				<value id="54AB6349" type="string">Freefall Camera</value>
+				<value id="72C30229" type="int">5</value>
+				<value id="80CF2614" type="vec">0,1.1,3</value>
+				<value id="A0A4FF07" type="int">3</value>
+				<value id="C7A62EFE" type="int">2</value>
+				<value id="CDEAD79E" type="vec">0,1.8,3</value>
+				<value id="E2083586" type="vec">0,1.8,0</value>
+			</object>
+			<object name="20">
+				<value name="FocusType" type="int">1</value>
+				<value id="0A4C2BDC" type="int">4</value>
+				<value id="15ED1FEA" type="vec">0,0,0</value>
+				<value id="1ACABE1C" type="int">2</value>
+				<value id="54AB6349" type="string">Driver to Belly Stunt Camera</value>
+				<value id="80CF2614" type="vec">-4.5,2,2</value>
+				<value id="C7A62EFE" type="int">20</value>
+			</object>
+			<object name="21">
+				<value name="Collision" type="int">4</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="FocusType" type="int">8</value>
+				<value name="Input" type="int">2</value>
+				<value name="Movement" type="int">1</value>
+				<value id="0A4C2BDC" type="int">8</value>
+				<value id="15ED1FEA" type="vec">0.5,-0.5,0</value>
+				<value id="1ACABE1C" type="int">1</value>
+				<value id="4995A552" type="float">50</value>
+				<value id="54AB6349" type="string">Hang drop</value>
+				<value id="80CF2614" type="vec">0.5,-0.5,4</value>
+				<value id="8FC27E6C" type="vec2">-60,60</value>
+				<value id="A0A4FF07" type="int">2</value>
+				<value id="C7A62EFE" type="int">21</value>
+			</object>
+			<object name="22">
+				<value name="Collision" type="int">1</value>
+				<value name="FocusType" type="int">2</value>
+				<value id="0A4C2BDC" type="int">2</value>
+				<value id="15ED1FEA" type="vec">0,1,0</value>
+				<value id="1ACABE1C" type="int">2</value>
+				<value id="308000FD" type="int">2</value>
+				<value id="50692F83" type="int">2</value>
+				<value id="54AB6349" type="string">Reel to Belly</value>
+				<value id="80CF2614" type="vec">-2,2,8</value>
+				<value id="8E260E93" type="float">1.5</value>
+				<value id="B31052F6" type="float">500</value>
+				<value id="C7A62EFE" type="int">22</value>
+			</object>
+			<object name="23">
+				<value name="AimType" type="int">0</value>
+				<value name="FocusType" type="int">7</value>
+				<value name="Input" type="int">0</value>
+				<value name="Movement" type="int">2</value>
+				<value id="0A4C2BDC" type="int">7</value>
+				<value id="15ED1FEA" type="vec">0,0.5,0</value>
+				<value id="54AB6349" type="string">Struggle Camera 1</value>
+				<value id="80CF2614" type="vec">-2.5,1,-1.5</value>
+				<value id="C7A62EFE" type="int">23</value>
+			</object>
+			<object name="24">
+				<value name="Inherits" type="string">Normal</value>
+				<value id="15ED1FEA" type="vec">0.55,0.75,0</value>
+				<value id="4995A552" type="float">40</value>
+				<value id="54AB6349" type="string">Reeling from wall</value>
+				<value id="72C30229" type="int">5</value>
+				<value id="80CF2614" type="vec">0.55,0.55,4</value>
+				<value id="A0A4FF07" type="int">3</value>
+				<value id="C7A62EFE" type="int">24</value>
+				<value id="CDEAD79E" type="vec">0,1.12,4</value>
+				<value id="E2083586" type="vec">0,1.8,0</value>
+			</object>
+			<object name="25">
+				<value name="Crosshair" type="int">1</value>
+				<value name="Inherits" type="string">Normal</value>
+				<value id="15ED1FEA" type="vec">0,0.5,0</value>
+				<value id="4995A552" type="float">40</value>
+				<value id="54AB6349" type="string">Ragdoll</value>
+				<value id="72C30229" type="int">5</value>
+				<value id="80CF2614" type="vec">0,4.5,3.3</value>
+				<value id="A0A4FF07" type="int">3</value>
+				<value id="C7A62EFE" type="int">25</value>
+			</object>
+			<object name="26">
+				<value name="AimType" type="int">1</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="Inherits" type="string">Normal</value>
+				<value id="15ED1FEA" type="vec">0.55,1.55,0</value>
+				<value id="24868714" type="float">0.5</value>
+				<value id="4995A552" type="float">20</value>
+				<value id="54AB6349" type="string">Shoulder cam</value>
+				<value id="80CF2614" type="vec">0.55,1.55,3</value>
+				<value id="A0A4FF07" type="int">3</value>
+				<value id="C7A62EFE" type="int">26</value>
+				<value id="CDEAD79E" type="vec">0,1.8,3</value>
+				<value id="E2083586" type="vec">0,1.8,0</value>
+			</object>
+			<object name="27">
+				<value name="AimType" type="int">1</value>
+				<value name="Collision" type="int">9</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="FocusType" type="int">15</value>
+				<value name="Input" type="int">0</value>
+				<value name="Movement" type="int">2</value>
+				<value id="0A4C2BDC" type="int">15</value>
+				<value id="15ED1FEA" type="vec">0,0.2,-5</value>
+				<value id="4995A552" type="float">40</value>
+				<value id="49B4A2D6" type="vec2">0,0</value>
+				<value id="54AB6349" type="string">Mounted Minigun</value>
+				<value id="80CF2614" type="vec">0,0.45,0.85</value>
+				<value id="C7A62EFE" type="int">27</value>
+			</object>
+			<object name="28">
+				<value name="AimType" type="int">1</value>
+				<value name="Collision" type="int">9</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="FocusType" type="int">15</value>
+				<value name="Input" type="int">0</value>
+				<value name="Movement" type="int">2</value>
+				<value id="0A4C2BDC" type="int">15</value>
+				<value id="15ED1FEA" type="vec">0,0.2,-5</value>
+				<value id="4995A552" type="float">40</value>
+				<value id="49B4A2D6" type="vec2">0,0</value>
+				<value id="54AB6349" type="string">Mounted Machinegun</value>
+				<value id="80CF2614" type="vec">0,0.4,0.85</value>
+				<value id="C7A62EFE" type="int">28</value>
+			</object>
+			<object name="29">
+				<value name="Inherits" type="string">Normal</value>
+				<value id="15ED1FEA" type="vec">0.55,0.75,0</value>
+				<value id="4995A552" type="float">40</value>
+				<value id="54AB6349" type="string">Reeling from ground</value>
+				<value id="72C30229" type="int">5</value>
+				<value id="80CF2614" type="vec">0.55,0.75,4</value>
+				<value id="A0A4FF07" type="int">3</value>
+				<value id="C7A62EFE" type="int">29</value>
+				<value id="CDEAD79E" type="vec">0,1.8,4</value>
+				<value id="E2083586" type="vec">0,1.8,0</value>
+			</object>
+			<object name="3">
+				<value name="AimType" type="int">1</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="Inherits" type="string">Normal</value>
+				<value name="Input" type="int">1</value>
+				<value id="15ED1FEA" type="vec">0.55,1.55,0</value>
+				<value id="24868714" type="float">0.1</value>
+				<value id="4995A552" type="float">15</value>
+				<value id="54AB6349" type="string">Sniper1</value>
+				<value id="80CF2614" type="vec">0.55,1.55,3</value>
+				<value id="A0A4FF07" type="int">3</value>
+				<value id="C7A62EFE" type="int">3</value>
+				<value id="CDEAD79E" type="vec">0,1.8,2.5</value>
+				<value id="E2083586" type="vec">0,1.8,0</value>
+			</object>
+			<object name="30">
+				<value name="Collision" type="int">3</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="FocusType" type="int">2</value>
+				<value name="Input" type="int">2</value>
+				<value name="Movement" type="int">2</value>
+				<value id="0A4C2BDC" type="int">2</value>
+				<value id="15ED1FEA" type="vec">0,0,0</value>
+				<value id="1ACABE1C" type="int">2</value>
+				<value id="4995A552" type="float">50</value>
+				<value id="54AB6349" type="string">Reeled-in wall</value>
+				<value id="80CF2614" type="vec">0,0,1.25</value>
+				<value id="8FC27E6C" type="vec2">-80,80</value>
+				<value id="93D9CAE6" type="vec">-0.15,0.7,1.25</value>
+				<value id="A0A4FF07" type="int">2</value>
+				<value id="C7A62EFE" type="int">30</value>
+			</object>
+			<object name="31">
+				<value name="Inherits" type="string">Normal</value>
+				<value id="15ED1FEA" type="vec">0.55,0.75,0</value>
+				<value id="4995A552" type="float">40</value>
+				<value id="54AB6349" type="string">Start Reel from wall</value>
+				<value id="72C30229" type="int">5</value>
+				<value id="80CF2614" type="vec">0.55,0.55,4</value>
+				<value id="A0A4FF07" type="int">3</value>
+				<value id="C7A62EFE" type="int">31</value>
+				<value id="CDEAD79E" type="vec">0,1.12,4</value>
+				<value id="E2083586" type="vec">0,1.8,0</value>
+			</object>
+			<object name="32">
+				<value name="Inherits" type="string">Car</value>
+				<value id="15ED1FEA" type="vec">0,4.5,0</value>
+				<value id="49B4A2D6" type="vec2">2.5,15</value>
+				<value id="54AB6349" type="string">Tank camera</value>
+				<value id="80CF2614" type="vec">0,6,10</value>
+				<value id="8FC27E6C" type="vec2">-10,25</value>
+				<value id="B31052F6" type="float">9</value>
+				<value id="C7A62EFE" type="int">32</value>
+				<value id="CDEAD79E" type="vec">0,5.5,0.5</value>
+				<value id="E0D6E82A" type="vec2">45,180</value>
+				<value id="E2083586" type="vec">0,5.5,-0.5</value>
+			</object>
+			<object name="33">
+				<value name="Inherits" type="string">Boat</value>
+				<value id="15ED1FEA" type="vec">0,3.25,3</value>
+				<value id="49B4A2D6" type="vec2">4.5,9</value>
+				<value id="54AB6349" type="string">SmallBoat</value>
+				<value id="80CF2614" type="vec">0,4.5,10.5</value>
+				<value id="C7A62EFE" type="int">33</value>
+				<value id="CDEAD79E" type="vec">0,2.25,0.5</value>
+				<value id="E2083586" type="vec">0,2.25,-0.5</value>
+			</object>
+			<object name="34">
+				<value name="Inherits" type="string">Plane</value>
+				<value id="15ED1FEA" type="vec">0,3,-8</value>
+				<value id="49B4A2D6" type="vec2">13,23</value>
+				<value id="54AB6349" type="string">Small Plane</value>
+				<value id="80CF2614" type="vec">0,4,15</value>
+				<value id="C50B11D7" type="vec2">100,30</value>
+				<value id="C7A62EFE" type="int">34</value>
+				<value id="CDEAD79E" type="vec">0,4,15</value>
+				<value id="E2083586" type="vec">0,3,-8</value>
+			</object>
+			<object name="35">
+				<value name="Inherits" type="string">Boat</value>
+				<value id="15ED1FEA" type="vec">0,2.25,0</value>
+				<value id="49B4A2D6" type="vec2">7,11</value>
+				<value id="54AB6349" type="string">SpeedBoat</value>
+				<value id="80CF2614" type="vec">0,3.5,10</value>
+				<value id="8FC27E6C" type="vec2">-55,50</value>
+				<value id="C7A62EFE" type="int">35</value>
+				<value id="CDEAD79E" type="vec">0,2.5,0.5</value>
+				<value id="E0D6E82A" type="vec2">180,180</value>
+				<value id="E2083586" type="vec">0,2.25,-0.5</value>
+			</object>
+			<object name="36">
+				<value name="Inherits" type="string">Car</value>
+				<value id="15ED1FEA" type="vec">0,3.5,0</value>
+				<value id="49B4A2D6" type="vec2">6,100</value>
+				<value id="54AB6349" type="string">Truck</value>
+				<value id="80CF2614" type="vec">0,5,11</value>
+				<value id="B31052F6" type="float">9</value>
+				<value id="C7A62EFE" type="int">36</value>
+				<value id="CDEAD79E" type="vec">0,5,0.5</value>
+				<value id="E2083586" type="vec">0,5,-0.5</value>
+			</object>
+			<object name="37">
+				<value name="Inherits" type="string">Motorcycle</value>
+				<value id="15ED1FEA" type="vec">0,1.8,0</value>
+				<value id="54AB6349" type="string">Motorcycle</value>
+				<value id="80CF2614" type="vec">0,2.2,4</value>
+				<value id="C7A62EFE" type="int">37</value>
+				<value id="CDEAD79E" type="vec">0,2.2,0.5</value>
+				<value id="E2083586" type="vec">0,2.2,-0.5</value>
+			</object>
+			<object name="38">
+				<value name="Collision" type="int">4</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="FocusType" type="int">2</value>
+				<value name="Input" type="int">2</value>
+				<value name="Movement" type="int">1</value>
+				<value id="0A4C2BDC" type="int">2</value>
+				<value id="15ED1FEA" type="vec">0,0.2,-0.1</value>
+				<value id="54AB6349" type="string">Swimming</value>
+				<value id="80CF2614" type="vec">0,0.2,3</value>
+				<value id="8FC27E6C" type="vec2">-60,50</value>
+				<value id="A0A4FF07" type="int">2</value>
+				<value id="C7A62EFE" type="int">38</value>
+				<value id="FB71B57E" type="int">4</value>
+			</object>
+			<object name="39">
+				<value name="AimType" type="int">0</value>
+				<value name="Collision" type="int">4</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="FocusType" type="int">2</value>
+				<value name="Input" type="int">2</value>
+				<value name="Movement" type="int">1</value>
+				<value id="0A4C2BDC" type="int">2</value>
+				<value id="15ED1FEA" type="vec">0,0,-0.1</value>
+				<value id="54AB6349" type="string">Diving</value>
+				<value id="80CF2614" type="vec">0,0.2,3</value>
+				<value id="8FC27E6C" type="vec2">-50,50</value>
+				<value id="C7A62EFE" type="int">39</value>
+			</object>
+			<object name="4">
+				<value name="Inherits" type="string">Car</value>
+				<value id="15ED1FEA" type="vec">0,2.25,-1</value>
+				<value id="54AB6349" type="string">Sedan</value>
+				<value id="80CF2614" type="vec">0,2.75,7</value>
+				<value id="C7A62EFE" type="int">4</value>
+				<value id="CDEAD79E" type="vec">0,2.25,0.5</value>
+				<value id="E2083586" type="vec">0,2.25,-0.5</value>
+			</object>
+			<object name="40">
+				<value name="AimType" type="int">0</value>
+				<value name="Collision" type="int">1</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="FocusType" type="int">2</value>
+				<value name="Input" type="int">2</value>
+				<value name="Movement" type="int">2</value>
+				<value id="0A4C2BDC" type="int">2</value>
+				<value id="15ED1FEA" type="vec">0,0,0</value>
+				<value id="54AB6349" type="string">Ladder</value>
+				<value id="80CF2614" type="vec">0,0,1.25</value>
+				<value id="82BBC61C" type="vec2">-45,45</value>
+				<value id="8FC27E6C" type="vec2">-75,75</value>
+				<value id="93D9CAE6" type="vec">0,1.3,0.75</value>
+				<value id="C7A62EFE" type="int">40</value>
+			</object>
+			<object name="41">
+				<value name="Collision" type="int">1</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="FocusType" type="int">2</value>
+				<value name="Input" type="int">0</value>
+				<value name="Movement" type="int">1</value>
+				<value id="0A4C2BDC" type="int">2</value>
+				<value id="15ED1FEA" type="vec">0,0,0</value>
+				<value id="308000FD" type="int">2</value>
+				<value id="54AB6349" type="string">Death cam</value>
+				<value id="80CF2614" type="vec">0,4,8</value>
+				<value id="A0A4FF07" type="int">2</value>
+				<value id="B31052F6" type="float">1</value>
+				<value id="C7A62EFE" type="int">41</value>
+			</object>
+			<object name="42">
+				<value name="Inherits" type="string">Normal</value>
+				<value id="15ED1FEA" type="vec">0.55,0.75,0</value>
+				<value id="4995A552" type="float">40</value>
+				<value id="54AB6349" type="string">Reeling from hang</value>
+				<value id="72C30229" type="int">5</value>
+				<value id="80CF2614" type="vec">0.55,0.55,4</value>
+				<value id="A0A4FF07" type="int">3</value>
+				<value id="C7A62EFE" type="int">42</value>
+				<value id="CDEAD79E" type="vec">0,1.12,4</value>
+				<value id="E2083586" type="vec">0,1.8,0</value>
+			</object>
+			<object name="43">
+				<value name="Inherits" type="string">Normal</value>
+				<value id="15ED1FEA" type="vec">0.55,0.75,0</value>
+				<value id="4995A552" type="float">40</value>
+				<value id="54AB6349" type="string">Start Reel from hang</value>
+				<value id="72C30229" type="int">5</value>
+				<value id="80CF2614" type="vec">0.55,0.55,4</value>
+				<value id="A0A4FF07" type="int">3</value>
+				<value id="C7A62EFE" type="int">43</value>
+				<value id="CDEAD79E" type="vec">0,1.12,4</value>
+				<value id="E2083586" type="vec">0,1.8,0</value>
+			</object>
+			<object name="44">
+				<value name="Inherits" type="string">Chopper</value>
+				<value id="0E75C851" type="vec">0,-3,0</value>
+				<value id="0EABFABB" type="vec">0,6,25</value>
+				<value id="15ED1FEA" type="vec">0,5.25,-2</value>
+				<value id="49B4A2D6" type="vec2">10,25</value>
+				<value id="54AB6349" type="string">Chopper Medium</value>
+				<value id="80CF2614" type="vec">0,6,20</value>
+				<value id="C7A62EFE" type="int">44</value>
+				<value id="CDEAD79E" type="vec">0,6,0.5</value>
+				<value id="E2083586" type="vec">0,6,-0.5</value>
+			</object>
+			<object name="45">
+				<value name="Collision" type="int">4</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="FocusType" type="int">2</value>
+				<value name="Input" type="int">2</value>
+				<value name="Movement" type="int">1</value>
+				<value id="0A4C2BDC" type="int">2</value>
+				<value id="15ED1FEA" type="vec">1,0,0</value>
+				<value id="1ACABE1C" type="int">1</value>
+				<value id="4995A552" type="float">50</value>
+				<value id="54AB6349" type="string">Reeled-in heli hang</value>
+				<value id="80CF2614" type="vec">1,0,6</value>
+				<value id="8FC27E6C" type="vec2">-60,60</value>
+				<value id="93D9CAE6" type="vec">0,-0.65,0</value>
+				<value id="A0A4FF07" type="int">2</value>
+				<value id="C7A62EFE" type="int">45</value>
+				<value id="CDEAD79E" type="vec">0,0,6</value>
+				<value id="E2083586" type="vec">0,0,0</value>
+			</object>
+			<object name="46">
+				<value name="Collision" type="int">1</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="FocusType" type="int">1</value>
+				<value name="Input" type="int">2</value>
+				<value name="Movement" type="int">2</value>
+				<value id="0A4C2BDC" type="int">1</value>
+				<value id="15ED1FEA" type="vec">0.2,0.5,0</value>
+				<value id="1ACABE1C" type="int">2</value>
+				<value id="54AB6349" type="string">Front Stunt Camera</value>
+				<value id="80CF2614" type="vec">0.2,0.85,4.4</value>
+				<value id="82BBC61C" type="vec2">-70,70</value>
+				<value id="8FC27E6C" type="vec2">-5,25</value>
+				<value id="C7A62EFE" type="int">46</value>
+			</object>
+			<object name="47">
+				<value name="Collision" type="int">1</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="FocusType" type="int">1</value>
+				<value name="Input" type="int">2</value>
+				<value name="Movement" type="int">2</value>
+				<value id="0A4C2BDC" type="int">1</value>
+				<value id="15ED1FEA" type="vec">-1.25,0.5,0</value>
+				<value id="1ACABE1C" type="int">2</value>
+				<value id="54AB6349" type="string">Front Left Stunt Camera</value>
+				<value id="80CF2614" type="vec">-1.75,0.5,4.4</value>
+				<value id="82BBC61C" type="vec2">-70,70</value>
+				<value id="8FC27E6C" type="vec2">-15,25</value>
+				<value id="C7A62EFE" type="int">47</value>
+			</object>
+			<object name="48">
+				<value name="Collision" type="int">1</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="FocusType" type="int">1</value>
+				<value name="Input" type="int">2</value>
+				<value name="Movement" type="int">2</value>
+				<value id="0A4C2BDC" type="int">1</value>
+				<value id="15ED1FEA" type="vec">1.25,0.5,-0.25</value>
+				<value id="1ACABE1C" type="int">2</value>
+				<value id="54AB6349" type="string">Front Right Stunt Camera</value>
+				<value id="80CF2614" type="vec">1.75,0.4,4.4</value>
+				<value id="82BBC61C" type="vec2">-70,70</value>
+				<value id="8FC27E6C" type="vec2">-15,25</value>
+				<value id="C7A62EFE" type="int">48</value>
+			</object>
+			<object name="49">
+				<value name="Inherits" type="string">Plane</value>
+				<value id="15ED1FEA" type="vec">0,3,-8</value>
+				<value id="49B4A2D6" type="vec2">6,27.5</value>
+				<value id="54AB6349" type="string">Jet Fighter</value>
+				<value id="80CF2614" type="vec">0,6.5,18</value>
+				<value id="C7A62EFE" type="int">49</value>
+				<value id="CDEAD79E" type="vec">0,6,0.5</value>
+				<value id="E2083586" type="vec">0,6,-0.5</value>
+			</object>
+			<object name="5">
+				<value name="AimType" type="int">1</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="Inherits" type="string">Normal</value>
+				<value name="Input" type="int">1</value>
+				<value id="15ED1FEA" type="vec">0.55,1.25,0</value>
+				<value id="24868714" type="float">0.1</value>
+				<value id="4995A552" type="float">15</value>
+				<value id="54AB6349" type="string">Sniper on roof</value>
+				<value id="80CF2614" type="vec">0.55,1.25,2.5</value>
+				<value id="8FC27E6C" type="vec2">-65,65</value>
+				<value id="A0A4FF07" type="int">3</value>
+				<value id="C7A62EFE" type="int">5</value>
+				<value id="CDEAD79E" type="vec">0,1.8,2.5</value>
+				<value id="E2083586" type="vec">0,1.8,0</value>
+			</object>
+			<object name="50">
+				<value name="FocusType" type="int">2</value>
+				<value id="0A4C2BDC" type="int">4</value>
+				<value id="15ED1FEA" type="vec">0,1.5,0</value>
+				<value id="1ACABE1C" type="int">0</value>
+				<value id="54AB6349" type="string">Front to Driver</value>
+				<value id="80CF2614" type="vec">-2,2,5</value>
+				<value id="C7A62EFE" type="int">50</value>
+			</object>
+			<object name="51">
+				<value name="FocusType" type="int">4</value>
+				<value id="0A4C2BDC" type="int">4</value>
+				<value id="15ED1FEA" type="vec">-1,1.5,-1</value>
+				<value id="1ACABE1C" type="int">0</value>
+				<value id="54AB6349" type="string">Rear to Driver</value>
+				<value id="80CF2614" type="vec">-2,2,5</value>
+				<value id="C7A62EFE" type="int">51</value>
+			</object>
+			<object name="52">
+				<value name="Inherits" type="string">Boat</value>
+				<value id="15ED1FEA" type="vec">0,5,5</value>
+				<value id="49B4A2D6" type="vec2">6,17.5</value>
+				<value id="54AB6349" type="string">BiggerBoat</value>
+				<value id="80CF2614" type="vec">0,6.5,20</value>
+				<value id="C50B11D7" type="vec2">10,3</value>
+				<value id="C7A62EFE" type="int">52</value>
+				<value id="CDEAD79E" type="vec">0,6.5,0.5</value>
+				<value id="E2083586" type="vec">0,6.5,-0.5</value>
+			</object>
+			<object name="53">
+				<value name="AimType" type="int">0</value>
+				<value name="FocusType" type="int">11</value>
+				<value name="Input" type="int">1</value>
+				<value name="Movement" type="int">1</value>
+				<value id="0A4C2BDC" type="int">11</value>
+				<value id="15ED1FEA" type="vec">0,0,0</value>
+				<value id="54AB6349" type="string">SoakFly</value>
+				<value id="80CF2614" type="vec">0,0,3</value>
+				<value id="C7A62EFE" type="int">53</value>
+			</object>
+			<object name="54">
+				<value name="AimType" type="int">0</value>
+				<value name="FocusType" type="int">9</value>
+				<value name="Input" type="int">4</value>
+				<value name="Movement" type="int">1</value>
+				<value id="0A4C2BDC" type="int">9</value>
+				<value id="15ED1FEA" type="vec">0,0,-10</value>
+				<value id="1ACABE1C" type="int">1</value>
+				<value id="24868714" type="float">1</value>
+				<value id="54AB6349" type="string">FreeFly</value>
+				<value id="80CF2614" type="vec">0,0,0</value>
+				<value id="8FC27E6C" type="vec2">45,-45</value>
+				<value id="C7A62EFE" type="int">54</value>
+			</object>
+			<object name="55">
+				<value name="AimType" type="int">0</value>
+				<value name="FocusType" type="int">10</value>
+				<value name="Input" type="int">3</value>
+				<value name="Movement" type="int">1</value>
+				<value id="0A4C2BDC" type="int">10</value>
+				<value id="15ED1FEA" type="vec">0,0,-10</value>
+				<value id="1ACABE1C" type="int">1</value>
+				<value id="24868714" type="float">1</value>
+				<value id="54AB6349" type="string">MovieCam</value>
+				<value id="80CF2614" type="vec">0,0,0</value>
+				<value id="8FC27E6C" type="vec2">45,-45</value>
+				<value id="C7A62EFE" type="int">55</value>
+			</object>
+			<object name="56">
+				<value name="AimType" type="int">0</value>
+				<value name="FocusType" type="int">2</value>
+				<value name="Input" type="int">1</value>
+				<value name="Movement" type="int">1</value>
+				<value id="0A4C2BDC" type="int">2</value>
+				<value id="15ED1FEA" type="vec">0,1,0</value>
+				<value id="24868714" type="float">0.5</value>
+				<value id="54AB6349" type="string">DebugCam1</value>
+				<value id="80CF2614" type="vec">0,2,5</value>
+				<value id="C7A62EFE" type="int">56</value>
+			</object>
+			<object name="57">
+				<value name="Inherits" type="string">Plane</value>
+				<value id="15ED1FEA" type="vec">0,5,-8</value>
+				<value id="49B4A2D6" type="vec2">20,43</value>
+				<value id="54AB6349" type="string">Black Plane</value>
+				<value id="80CF2614" type="vec">0,9.5,35</value>
+				<value id="C7A62EFE" type="int">57</value>
+				<value id="CDEAD79E" type="vec">0,9,0.5</value>
+				<value id="E2083586" type="vec">0,9,-0.5</value>
+			</object>
+			<object name="58">
+				<value name="AimType" type="int">0</value>
+				<value name="FocusType" type="int">2</value>
+				<value name="Input" type="int">1</value>
+				<value name="Movement" type="int">1</value>
+				<value id="0A4C2BDC" type="int">2</value>
+				<value id="15ED1FEA" type="vec">0,1,0</value>
+				<value id="24868714" type="float">0.5</value>
+				<value id="54AB6349" type="string">DebugCam2</value>
+				<value id="80CF2614" type="vec">0,2,15</value>
+				<value id="C7A62EFE" type="int">58</value>
+			</object>
+			<object name="59">
+				<value name="Inherits" type="string">Chopper</value>
+				<value id="0E75C851" type="vec">0,-5,0</value>
+				<value id="0EABFABB" type="vec">0,4.25,25</value>
+				<value id="15ED1FEA" type="vec">0,3.5,-2</value>
+				<value id="49B4A2D6" type="vec2">5,30</value>
+				<value id="54AB6349" type="string">Chopper Lifter</value>
+				<value id="80CF2614" type="vec">0,4.25,18</value>
+				<value id="C7A62EFE" type="int">59</value>
+				<value id="CDEAD79E" type="vec">0,4.25,0.5</value>
+				<value id="E2083586" type="vec">0,3.25,-0.5</value>
+			</object>
+			<object name="6">
+				<value name="Inherits" type="string">Normal</value>
+				<value id="15ED1FEA" type="vec">0.55,1.25,0</value>
+				<value id="31A9D4BB" type="int">0</value>
+				<value id="54AB6349" type="string">Roof Stunt Camera</value>
+				<value id="80CF2614" type="vec">0.55,1.25,3</value>
+				<value id="8FC27E6C" type="vec2">-45,65</value>
+				<value id="A0A4FF07" type="int">3</value>
+				<value id="C7A62EFE" type="int">6</value>
+				<value id="CDEAD79E" type="vec">0,1.8,3</value>
+				<value id="E2083586" type="vec">0,1.8,0</value>
+			</object>
+			<object name="60">
+				<value name="Inherits" type="string">Plane2<!--Plane--></value><!-- ace - from bering xtreme mod -->
+				<value id="15ED1FEA" type="vec">0,12,-5</value>
+				<value id="49B4A2D6" type="vec2">40,56</value>
+				<value id="54AB6349" type="string">Large Plane</value>
+				<value id="80CF2614" type="vec">0,15,50</value>
+				<value id="C4AFB170" type="float">9</value>
+				<value id="C7A62EFE" type="int">60</value>
+				<value id="CC2187D9" type="float">60</value>
+				<value id="CDEAD79E" type="vec">0,13,0.5</value>
+				<value id="E2083586" type="vec">0,13,-0.5</value>
+			</object>
+			<object name="61">
+				<value name="Inherits" type="string">Boat</value>
+				<value id="15ED1FEA" type="vec">0,3.5,5</value>
+				<value id="49B4A2D6" type="vec2">10,10</value>
+				<value id="54AB6349" type="string">BigBoat</value>
+				<value id="80CF2614" type="vec">0,5,14</value>
+				<value id="C50B11D7" type="vec2">10,3</value>
+				<value id="C7A62EFE" type="int">61</value>
+				<value id="CDEAD79E" type="vec">0,5,0.5</value>
+				<value id="E2083586" type="vec">0,5,-0.5</value>
+			</object>
+			<object name="62">
+				<value name="Inherits" type="string">Car</value>
+				<value id="15ED1FEA" type="vec">0,2.75,-1</value>
+				<value id="54AB6349" type="string">Jeep</value>
+				<value id="80CF2614" type="vec">0,3.25,7.5</value>
+				<value id="8FC27E6C" type="vec2">-12.5,25</value>
+				<value id="C7A62EFE" type="int">62</value>
+				<value id="CDEAD79E" type="vec">0,3.25,0.5</value>
+				<value id="E2083586" type="vec">0,3.25,-0.5</value>
+			</object>
+			<object name="63">
+				<value name="Inherits" type="string">Car</value>
+				<value id="15ED1FEA" type="vec">0,1.75,-1</value>
+				<value id="49B4A2D6" type="vec2">4,100</value>
+				<value id="54AB6349" type="string">Micros</value>
+				<value id="80CF2614" type="vec">0,2.5,5.5</value>
+				<value id="C7A62EFE" type="int">63</value>
+				<value id="CDEAD79E" type="vec">0,2.25,0.5</value>
+				<value id="E2083586" type="vec">0,2.25,-0.5</value>
+			</object>
+			<object name="64">
+				<value name="Inherits" type="string">Car</value>
+				<value id="15ED1FEA" type="vec">0,2.25,-1</value>
+				<value id="54AB6349" type="string">Sports</value>
+				<value id="80CF2614" type="vec">0,2.5,7.5</value>
+				<value id="8E260E93" type="float">12</value>
+				<value id="C7A62EFE" type="int">64</value>
+				<value id="CC2187D9" type="float">90</value>
+				<value id="CDEAD79E" type="vec">0,2.25,0.5</value>
+				<value id="E2083586" type="vec">0,2.25,-0.5</value>
+				<value id="F8AE9BFD" type="vec2">10,60</value>
+			</object>
+			<object name="65">
+				<value name="Collision" type="int">4</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="FocusType" type="int">2</value>
+				<value name="Input" type="int">2</value>
+				<value name="Movement" type="int">1</value>
+				<value id="0A4C2BDC" type="int">2</value>
+				<value id="15ED1FEA" type="vec">0.45,0,0</value>
+				<value id="1ACABE1C" type="int">1</value>
+				<value id="4995A552" type="float">50</value>
+				<value id="54AB6349" type="string">Reeled-in hang</value>
+				<value id="80CF2614" type="vec">0.45,0,6</value>
+				<value id="8FC27E6C" type="vec2">-60,60</value>
+				<value id="93D9CAE6" type="vec">0,-0.5,0</value>
+				<value id="A0A4FF07" type="int">2</value>
+				<value id="C7A62EFE" type="int">65</value>
+				<value id="CDEAD79E" type="vec">0,0,6</value>
+				<value id="E2083586" type="vec">0,0,0</value>
+			</object>
+			<object name="66">
+				<value name="Inherits" type="string">Chopper</value>
+				<value id="0E75C851" type="vec">0,-3,0</value>
+				<value id="0EABFABB" type="vec">0,8,19</value>
+				<value id="15ED1FEA" type="vec">0,3.5,-2</value>
+				<value id="49B4A2D6" type="vec2">10,16</value>
+				<value id="54AB6349" type="string">Chopper Small</value>
+				<value id="80CF2614" type="vec">0,5,14</value>
+				<value id="C7A62EFE" type="int">66</value>
+				<value id="CDEAD79E" type="vec">0,5,0.5</value>
+				<value id="E2083586" type="vec">0,5,-0.5</value>
+			</object>
+			<object name="67">
+				<value name="AimType" type="int">1</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="Inherits" type="string">Normal</value>
+				<value id="15ED1FEA" type="vec">0.55,1.25,0</value>
+				<value id="24868714" type="float">0.5</value>
+				<value id="4995A552" type="float">25</value>
+				<value id="54AB6349" type="string">Roof shoulder cam</value>
+				<value id="80CF2614" type="vec">0.55,1.25,2.5</value>
+				<value id="8FC27E6C" type="vec2">-45,65</value>
+				<value id="A0A4FF07" type="int">3</value>
+				<value id="C7A62EFE" type="int">67</value>
+				<value id="CDEAD79E" type="vec">0,1.8,2.5</value>
+				<value id="E2083586" type="vec">0,1.8,0</value>
+			</object>
+			<object name="68">
+				<value name="Collision" type="int">1</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="FocusType" type="int">2</value>
+				<value name="Input" type="int">2</value>
+				<value name="Movement" type="int">1</value>
+				<value id="0A4C2BDC" type="int">2</value>
+				<value id="0E75C851" type="vec">-1,0,0</value>
+				<value id="0EABFABB" type="vec">0,0,0</value>
+				<value id="15ED1FEA" type="vec">1.5,0.5,-0.5</value>
+				<value id="1ACABE1C" type="int">1</value>
+				<value id="31A9D4BB" type="int">2</value>
+				<value id="54AB6349" type="string">Bomb Camera</value>
+				<value id="72C30229" type="int">1</value>
+				<value id="80CF2614" type="vec">2,1,3.75</value>
+				<value id="8FC27E6C" type="vec2">-50,30</value>
+				<value id="A0A4FF07" type="int">2</value>
+				<value id="C7A62EFE" type="int">68</value>
+			</object>
+			<object name="69">
+				<value name="AimType" type="int">2</value>
+				<value name="Disabled" type="int">1</value>
+				<value name="Inherits" type="string">Normal</value>
+				<value id="15ED1FEA" type="vec">0.55,1.2,0</value>
+				<value id="4995A552" type="float">40</value>
+				<value id="54AB6349" type="string">Crouch Camera</value>
+				<value id="80CF2614" type="vec">0.55,1.4,3</value>
+				<value id="A0A4FF07" type="int">2</value>
+				<value id="C7A62EFE" type="int">69</value>
+				<value id="CDEAD79E" type="vec">0,1.6,3</value>
+				<value id="E2083586" type="vec">0,1.6,0</value>
+			</object>
+			<object name="7">
+				<value name="Inherits" type="string">Hijack</value>
+				<value id="15ED1FEA" type="vec">0.175,0.72,-0.5</value>
+				<value id="1ACABE1C" type="int">2</value>
+				<value id="54AB6349" type="string">Front Stunt Camera</value>
+				<value id="80CF2614" type="vec">0.35,1.1,3.4</value>
+				<value id="82BBC61C" type="vec2">-55,70</value>
+				<value id="8FC27E6C" type="vec2">-5,45</value>
+				<value id="C7A62EFE" type="int">7</value>
+				<value id="E57BF9C2" type="int">1</value>
+			</object>
+			<object name="70">
+				<value name="Inherits" type="string">Car</value>
+				<value id="15ED1FEA" type="vec">0,5,0</value>
+				<value id="54AB6349" type="string">Bus</value>
+				<value id="80CF2614" type="vec">0,6,14</value>
+				<value id="B31052F6" type="float">9</value>
+				<value id="C7A62EFE" type="int">70</value>
+				<value id="CDEAD79E" type="vec">0,5.5,0.5</value>
+				<value id="E2083586" type="vec">0,5.5,-0.5</value>
+			</object>
+			<object name="71">
+				<value name="Inherits" type="string">Car</value>
+			<!--<value name="AimType" type="int">1</value>
+				<value name="Input" type="int">1</value>-->
+				<value id="54AB6349" type="string">Bus Reverse</value>
+				<value id="15ED1FEA" type="vec">0,0,0</value>
+				<value id="80CF2614" type="vec">0,0,0</value>
+				<value id="B31052F6" type="float">9</value>
+				<value id="C7A62EFE" type="int">71</value>
+				<value id="CDEAD79E" type="vec">0,5.5,0.5</value>
+				<value id="E2083586" type="vec">0,5.5,-0.5</value>
+			</object>
+			<object name="72">
+				<value name="Inherits" type="string">Dashboard</value>
+				<value id="54AB6349" type="string">Sedan Reverse</value>
+				<value id="15ED1FEA" type="vec">-0.1,-1,-60</value>
+				<value id="80CF2614" type="vec">0.1,0.65,0.28</value>
+				<value id="C7A62EFE" type="int">72</value>
+				<value id="CDEAD79E" type="vec">0,2.25,0.5</value>
+				<value id="E2083586" type="vec">0,2.25,-0.5</value>
+			</object>
+			<object name="73">
+				<value name="Inherits" type="string">Dashboard</value>
+				<value id="54AB6349" type="string">Sports Reverse</value>
+				<value id="15ED1FEA" type="vec">-0.2,-2,-60</value>
+				<value id="80CF2614" type="vec">0.2,0.65,0.28</value>
+				<value id="8E260E93" type="float">12</value>
+				<value id="C7A62EFE" type="int">73</value>
+				<value id="CC2187D9" type="float">90</value>
+				<value id="CDEAD79E" type="vec">0,2.25,0.5</value>
+				<value id="E2083586" type="vec">0,2.25,-0.5</value>
+				<value id="F8AE9BFD" type="vec2">10,60</value>
+				<value id="FB71B57E" type="int">0</value>
+				</object>
+			<object name="74">
+				<value name="Inherits" type="string">Dashboard</value>
+				<value id="15ED1FEA" type="vec">-0.1,-3,-60</value>
+				<value id="54AB6349" type="string">Jeep Reverse</value>
+				<value id="80CF2614" type="vec">0.1,0.75,0.28</value>
+				<value id="8FC27E6C" type="vec2">-12.5,25</value>
+				<value id="C7A62EFE" type="int">74</value>
+				<value id="CDEAD79E" type="vec">0,3.25,0.5</value>
+				<value id="E2083586" type="vec">0,3.25,-0.5</value>
+			</object>
+			<object name="75">
+				<value name="Inherits" type="string">Dashboard</value>
+				<value id="15ED1FEA" type="vec">-0.1,1,-38</value>
+				<value id="49B4A2D6" type="vec2">6,100</value>
+				<value id="54AB6349" type="string">Truck Reverse</value>
+				<value id="80CF2614" type="vec">0.1,0.75,0.28</value>
+				<value id="B31052F6" type="float">9</value>
+				<value id="C7A62EFE" type="int">75</value>
+				<value id="CDEAD79E" type="vec">0,5,0.5</value>
+				<value id="E2083586" type="vec">0,5,-0.5</value>
+			</object>
+			<object name="76">
+				<value name="Inherits" type="string">Car</value>
+				<value id="15ED1FEA" type="vec">0,0,0</value>
+				<value id="49B4A2D6" type="vec2">2.5,15</value>
+				<value id="54AB6349" type="string">Tank Reverse</value>
+				<value id="80CF2614" type="vec">0,0,0</value>
+				<value id="8FC27E6C" type="vec2">-10,25</value>
+				<value id="B31052F6" type="float">9</value>
+				<value id="C7A62EFE" type="int">76</value>
+				<value id="CDEAD79E" type="vec">0,5.5,0.5</value>
+				<value id="E0D6E82A" type="vec2">45,180</value>
+				<value id="E2083586" type="vec">0,5.5,-0.5</value>
+			</object>
+			<object name="77">
+				<value name="Inherits" type="string">Motorcycle</value>
+				<value id="15ED1FEA" type="vec">0,0,0</value>
+				<value id="54AB6349" type="string">Motorcycle Reverse</value>
+				<value id="80CF2614" type="vec">0,0,0</value>
+				<value id="C7A62EFE" type="int">77</value>
+				<value id="CDEAD79E" type="vec">0,2.2,0.5</value>
+				<value id="E2083586" type="vec">0,2.2,-0.5</value>
+			</object>
+			<object name="78">
+				<value name="Inherits" type="string">Motorcycle</value>
+				<value id="15ED1FEA" type="vec">0,0,0</value>
+				<value id="54AB6349" type="string">ATV Reverse</value>
+				<value id="80CF2614" type="vec">0,0,0</value>
+				<value id="C7A62EFE" type="int">78</value>
+				<value id="CDEAD79E" type="vec">0,2.2,0.5</value>
+				<value id="E2083586" type="vec">0,2.2,-0.5</value>
+			</object>
+			<object name="79">
+				<value name="AimType" type="int">0</value>
+				<value name="Inherits" type="string">Plane</value>
+				<value name="Input" type="int">0</value>
+				<value id="15ED1FEA" type="vec">0,3,1</value>
+				<value id="4995A552" type="float">65</value>
+				<value id="49B4A2D6" type="vec2">2,27.5</value>
+				<value id="54AB6349" type="string">Arve Reverse</value>
+				<value id="80CF2614" type="vec">0,3.5,-15</value>
+				<value id="C7A62EFE" type="int">79</value>
+				<value id="FB71B57E" type="int">0</value>
+			</object>
+			<object name="8">
+				<value name="Inherits" type="string">Hijack</value>
+				<value id="15ED1FEA" type="vec">0.25,0.75,-0.5</value>
+				<value id="54AB6349" type="string">Rear Stunt Camera</value>
+				<value id="80CF2614" type="vec">0.3,0.85,3.4</value>
+				<value id="8FC27E6C" type="vec2">-5,45</value>
+				<value id="C7A62EFE" type="int">8</value>
+			</object>
+			<object name="80">
+				<value name="AimType" type="int">0</value>
+				<value name="Inherits" type="string">Boat</value>
+				<value name="Input" type="int">0</value>
+				<value id="15ED1FEA" type="vec">0,2.25,3</value>
+				<value id="49B4A2D6" type="vec2">4.5,30</value>
+				<value id="54AB6349" type="string">SmallBoat Reverse</value>
+				<value id="80CF2614" type="vec">0,2.5,-15</value>
+				<value id="C7A62EFE" type="int">80</value>
+				<value id="CDEAD79E" type="vec">0,2.5,0.5</value>
+				<value id="E2083586" type="vec">0,2.25,-0.5</value>
+				<value id="FB71B57E" type="int">0</value>
+			</object>
+			<object name="81">
+				<value name="Inherits" type="string">Boat</value>
+				<value name="Input" type="int">0</value>
+				<value id="15ED1FEA" type="vec">0,3.5,5</value>
+				<value id="49B4A2D6" type="vec2">10,40</value>
+				<value id="54AB6349" type="string">BigBoat Reverse</value>
+				<value id="80CF2614" type="vec">0,5.5,-20</value>
+				<value id="C50B11D7" type="vec2">10,3</value>
+				<value id="C7A62EFE" type="int">81</value>
+				<value id="FB71B57E" type="int">0</value>
+			</object>
+			<object name="82">
+				<value name="AimType" type="int">0</value>
+				<value name="Disabled" type="int">0</value>
+				<value name="FocusType" type="int">2</value>
+				<value name="Input" type="int">1</value>
+				<value name="Movement" type="int">1</value>
+				<value id="0A4C2BDC" type="int">2</value>
+				<value id="15ED1FEA" type="vec">0,1,0</value>
+				<value id="1ACABE1C" type="int">3</value>
+				<value id="24868714" type="float">0.5</value>
+				<value id="54AB6349" type="string">Mats Special Stunt Party Camera</value>
+				<value id="80CF2614" type="vec">0,2,5</value>
+				<value id="A0A4FF07" type="int">3</value>
+				<value id="C7A62EFE" type="int">82</value>
+			</object>
+			<object name="83">
+				<value name="Inherits" type="string">Boat</value>
+				<value id="15ED1FEA" type="vec">0,2.25,0</value>
+				<value id="49B4A2D6" type="vec2">5,11</value>
+				<value id="54AB6349" type="string">Catamaran SpeedBoat</value>
+				<value id="80CF2614" type="vec">0,3.5,10</value>
+				<value id="8FC27E6C" type="vec2">-90,90</value>
+				<value id="C7A62EFE" type="int">83</value>
+				<value id="CDEAD79E" type="vec">0,3.5,0.5</value>
+				<value id="E0D6E82A" type="vec2">180,180</value>
+				<value id="E2083586" type="vec">0,2.25,-0.5</value>
+			</object>
+			<object name="84">
+				<value name="Inherits" type="string">Plane</value>
+				<value id="15ED1FEA" type="vec">0,5,-8</value>
+				<value id="49B4A2D6" type="vec2">6,23</value>
+				<value id="54AB6349" type="string">V010 Small Plane</value>
+				<value id="80CF2614" type="vec">0,6,15</value>
+				<value id="C50B11D7" type="vec2">100,30</value>
+				<value id="C7A62EFE" type="int">84</value>
+				<value id="CDEAD79E" type="vec">0,5,0.5</value>
+				<value id="E2083586" type="vec">0,5,-0.5</value>
+			</object>
+			<object name="85">
+				<value name="Collision" type="int">0</value>
+				<value name="Inherits" type="string">Chopper</value>
+				<value name="Input" type="int">0</value>
+				<value id="15ED1FEA" type="vec">0,5.25,-2</value>
+				<value id="49B4A2D6" type="vec2">10,25</value>
+				<value id="54AB6349" type="string">Chopper medium enter</value>
+				<value id="80CF2614" type="vec">0,1,20</value>
+				<value id="C7A62EFE" type="int">85</value>
+			</object>
+			<object name="86">
+				<value name="Collision" type="int">0</value>
+				<value name="Inherits" type="string">Chopper</value>
+				<value name="Input" type="int">0</value>
+				<value id="15ED1FEA" type="vec">0,3.5,-2</value>
+				<value id="49B4A2D6" type="vec2">10,16</value>
+				<value id="54AB6349" type="string">Chopper Small enter</value>
+				<value id="80CF2614" type="vec">0,1,14</value>
+				<value id="C7A62EFE" type="int">86</value>
+			</object>
+			<object name="87">
+				<value name="AimType" type="int">0</value>
+				<value name="Inherits" type="string">Plane</value>
+				<value name="Input" type="int">0</value>
+				<value id="15ED1FEA" type="vec">0,10,1</value>
+				<value id="4995A552" type="float">55</value>
+				<value id="49B4A2D6" type="vec2">2,37.5</value>
+				<value id="54AB6349" type="string">Big Arve Reverse</value>
+				<value id="80CF2614" type="vec">0,10.5,-35</value>
+				<value id="C7A62EFE" type="int">87</value>
+				<value id="FB71B57E" type="int">0</value>
+			</object>
+			<object name="88">
+				<value name="AimType" type="int">0</value>
+				<value name="Disabled" type="int">0</value>
+				<value name="FocusType" type="int">3</value>
+				<value name="Input" type="int">1</value>
+				<value name="Movement" type="int">1</value>
+				<value id="0A4C2BDC" type="int">2</value>
+				<value id="15ED1FEA" type="vec">0,1,0</value>
+				<value id="1ACABE1C" type="int">3</value>
+				<value id="24868714" type="float">0.5</value>
+				<value id="54AB6349" type="string">Mats Special Stunt Party Camera for Airplanes</value>
+				<value id="80CF2614" type="vec">-2,3,10</value>
+				<value id="A0A4FF07" type="int">3</value>
+				<value id="C7A62EFE" type="int">88</value>
+			</object>
+			<object name="89">
+				<value name="AimType" type="int">0</value>
+				<value name="Inherits" type="string">Plane</value>
+				<value name="Input" type="int">0</value>
+				<value id="15ED1FEA" type="vec">0,5,1</value>
+				<value id="4995A552" type="float">65</value>
+				<value id="49B4A2D6" type="vec2">2,27.5</value>
+				<value id="54AB6349" type="string">V010 Reverse</value>
+				<value id="80CF2614" type="vec">0,5.5,-15</value>
+				<value id="C7A62EFE" type="int">89</value>
+				<value id="FB71B57E" type="int">0</value>
+			</object>
+			<object name="9">
+				<value name="Collision" type="int">3</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="FocusType" type="int">8</value>
+				<value name="Input" type="int">0</value>
+				<value name="Movement" type="int">1</value>
+				<value id="0A4C2BDC" type="int">8</value>
+				<value id="15ED1FEA" type="vec">0,0,0</value>
+				<value id="1ACABE1C" type="int">2</value>
+				<value id="4995A552" type="float">50</value>
+				<value id="54AB6349" type="string">Reeled-in jump/release</value>
+				<value id="80CF2614" type="vec">0,0,1.25</value>
+				<value id="8FC27E6C" type="vec2">-80,80</value>
+				<value id="A0A4FF07" type="int">2</value>
+				<value id="C7A62EFE" type="int">9</value>
+			</object>
+			<object name="90">
+				<value name="FocusType" type="int">12</value>
+				<value name="Inherits" type="string">Reeling</value>
+				<value name="Movement" type="int">9</value>
+				<value id="0A4C2BDC" type="int">3</value>
+				<value id="15ED1FEA" type="vec">0.3,0,0</value>
+				<value id="49B4A2D6" type="vec2">4,7</value>
+				<value id="54AB6349" type="string">End Reel to hang</value>
+				<value id="80CF2614" type="vec">0.3,-1,4</value>
+				<value id="C7A62EFE" type="int">90</value>
+				<value id="CDEAD79E" type="vec">0,-1,4</value>
+				<value id="E2083586" type="vec">0,0,0</value>
+			</object>
+			<object name="91">
+				<value name="Inherits" type="string">Car</value>
+				<value id="15ED1FEA" type="vec">0,4,0</value>
+				<value id="49B4A2D6" type="vec2">2.5,15</value>
+				<value id="54AB6349" type="string">Hover camera</value>
+				<value id="80CF2614" type="vec">0,5,12</value>
+				<value id="8FC27E6C" type="vec2">-10,25</value>
+				<value id="B31052F6" type="float">9</value>
+				<value id="C7A62EFE" type="int">91</value>
+				<value id="CDEAD79E" type="vec">0,5.5,0.5</value>
+				<value id="E0D6E82A" type="vec2">45,180</value>
+				<value id="E2083586" type="vec">0,5.5,-0.5</value>
+			</object>
+			<object name="92">
+				<value name="Inherits" type="string">Car</value>
+				<value id="15ED1FEA" type="vec">0,3.25,0</value>
+				<value id="49B4A2D6" type="vec2">6,10</value>
+				<value id="54AB6349" type="string">MonsterTruck</value>
+				<value id="80CF2614" type="vec">0,4.75,8.5</value>
+				<value id="8FC27E6C" type="vec2">-2.5,30</value>
+				<value id="B31052F6" type="float">9</value>
+				<value id="C7A62EFE" type="int">92</value>
+				<value id="CDEAD79E" type="vec">0,5,0.5</value>
+				<value id="E2083586" type="vec">0,5,-0.5</value>
+			</object>
+			<object name="93"><!-- ace - new "gunner cam" based off bering xtreme -->
+				<value name="AimType" type="int">2</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="Disabled" type="int">0</value>
+				<value name="FocusType" type="int">1</value>
+				<value name="Inherits" type="string">Normal</value>
+				<value name="Input" type="int">1</value>
+				<value name="Movement" type="int">1</value>
+			<!--<value id="15ED1FEA" type="vec">0,-19.5,-2</value>-->
+				<value id="15ED1FEA" type="vec">0,-15,-10</value>
+				<value id="4995A552" type="float">30</value>
+				<value id="49B4A2D6" type="vec2">10,16</value>
+				<value id="54AB6349" type="string">Big Arve Gunner</value>
+				<value id="80CF2614" type="vec">0,1,20.243</value>
+				<value id="C7A62EFE" type="int">93</value>
+				<value id="FB71B57E" type="int">0</value>
+			</object>
+			<object name="94"><!-- ace - new "gunner cam" for large attack choppers -->
+				<value name="AimType" type="int">2</value>
+				<value name="Crosshair" type="int">0</value>
+				<value name="Disabled" type="int">0</value>
+				<value name="FocusType" type="int">1</value>
+				<value name="Inherits" type="string">Normal</value>
+				<value name="Input" type="int">1</value>
+				<value name="Movement" type="int">1</value>
+			<!--<value id="15ED1FEA" type="vec">0,-19.5,-2</value>-->
+				<value id="15ED1FEA" type="vec">0,-15,-5</value><!-- posotion -->
+				<value id="4995A552" type="float">30</value>
+				<value id="49B4A2D6" type="vec2">10,16</value>
+				<value id="54AB6349" type="string">Heli Arve Gunner</value>
+				<value id="80CF2614" type="vec">0,1,20.243</value>
+			<!--<value id="80CF2614" type="vec">0,0.45,0.85</value>-->
+				<value id="C7A62EFE" type="int">94</value>
+				<value id="FB71B57E" type="int">0</value>
+			</object>
+		</object>
+		<object id="FE9E4CB9">
+			<value id="0E471111" type="int">28</value>
+			<value id="1D2186A5" type="int">41</value>
+			<value id="5278FDA8" type="int">58</value>
+			<value id="5704F09E" type="int">56</value>
+			<value id="8BC51759" type="int">53</value>
+			<value id="9F271715" type="int">55</value>
+			<value id="D5B48073" type="int">54</value>
+		</object>
+	</object>
+</container>

@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="Raw" endian="Little">
+	<object>
+		<object name="Birds">
+			<value name="MaxAmount" type="int">96</value>
+			<object name="lolwut"><!-- ace - its a bird, its a plane, its..a UFO!?! -->
+				<value name="AllowOverSpawnzone" type="int">0</value>
+				<value name="BodySize" type="float">11</value>
+				<value name="DeathEffect" type="int">249<!--429--></value>
+				<value name="Flock" type="int">0</value>
+				<value name="HitDistance" type="float">10</value>
+				<!--<value name="Index" type="int">4</value>-->
+				<value name="Leg0_Angle" type="vec">0,83.169,0</value>
+				<value name="Leg0_Offset" type="vec">-0.037,0.03,-0.05</value>
+				<value name="Leg1_Angle" type="vec">39.64,114.591,-45.751</value>
+				<value name="Leg1_Offset" type="vec">-0.037,0.03,-0.036</value>
+				<value name="Leg2_Angle" type="vec">0,143.239,20.508</value>
+				<value name="Leg2_Offset" type="vec">-0.034,0.035,-0.016</value>
+				<value name="Leg3_Angle" type="vec">-0.664,-77.412,0</value>
+				<value name="Leg3_Offset" type="vec">0.037,0.029,-0.05</value>
+				<value name="Leg4_Angle" type="vec">39.637,-113.855,45.752</value>
+				<value name="Leg4_Offset" type="vec">0.037,0.029,-0.03</value>
+				<value name="Leg5_Angle" type="vec">0,-143.24,-20.51</value>
+				<value name="Leg5_Offset" type="vec">0.037,0.029,-0.004</value>
+				<value name="LegModelName" type="string">v320_lod1-body<!--v062_lod1-step--></value><!-- ace - test -->
+				<value name="ModelName" type="string">v320_lod1-body</value>
+				<value name="MaxAbsoluteAltitude" type="float">9001</value>
+				<value name="MaxRelativeAltitude" type="float">1337</value>
+				<value name="MaxTurnRate" type="float">0.25</value><!-- was 1.2 -->
+				<value name="MaxVelocity" type="float">125</value><!-- was 10 -->
+				<value name="MaxVerticalAcceleration" type="float">5</value><!-- was 0.8 -->
+				<value name="MaxVerticalVelocity" type="float">125</value><!-- was 1.8 -->
+				<value name="MinAbsoluteAltitude" type="float">125</value>
+				<value name="MinRelativeAltitude" type="float">75</value>
+				<value name="SpawnEffect" type="int">272<!--251--></value>
+				<value name="SpawnFrequency" type="float">0.0001</value><!-- ace - rare sighting, can't miss it -->
+				<value name="TurnRateAcceleration" type="float">1.5</value><!-- 0.5 -->
+				<value name="WingBeatFrequency" type="float">0.5</value>
+				<value name="WingLength" type="float">33</value><!-- was 0.9 -->
+			</object>
+			<object name="eagle">
+				<value name="BodySize" type="float">1.1</value>
+				<value name="DeathEffect" type="int">38</value>
+				<value name="Flock" type="int">0</value>
+				<value name="HitDistance" type="float">2</value>
+				<value name="Index" type="int">4</value>
+				<value name="MaxAbsoluteAltitude" type="float">5000</value>
+				<value name="MaxRelativeAltitude" type="float">100</value>
+				<value name="MaxTurnRate" type="float">1</value>
+				<value name="MaxVelocity" type="float">13</value>
+				<value name="MaxVerticalAcceleration" type="float">0.5</value>
+				<value name="MaxVerticalVelocity" type="float">1.5</value>
+				<value name="MinAbsoluteAltitude" type="float">0</value>
+				<value name="MinRelativeAltitude" type="float">20</value>
+				<value name="SpawnFrequency" type="float">1</value>
+				<value name="TurnRateAcceleration" type="float">0.3</value>
+				<value name="WingBeatFrequency" type="float">1</value>
+				<value name="WingLength" type="float">1.3</value>
+			</object>
+			<object name="seagull">
+				<value name="BodySize" type="float">0.4</value>
+				<value name="DeathEffect" type="int">38</value>
+				<value name="Flock" type="int">1</value>
+				<value name="HitDistance" type="float">2</value>
+				<value name="Index" type="int">0</value>
+				<value name="MaxAbsoluteAltitude" type="float">400</value>
+				<value name="MaxRelativeAltitude" type="float">60</value>
+				<value name="MaxTurnRate" type="float">1.5</value>
+				<value name="MaxVelocity" type="float">4</value>
+				<value name="MaxVerticalAcceleration" type="float">1</value>
+				<value name="MaxVerticalVelocity" type="float">2</value>
+				<value name="MinAbsoluteAltitude" type="float">0</value>
+				<value name="MinRelativeAltitude" type="float">5</value>
+				<value name="SpawnFrequency" type="float">25</value>
+				<value name="TurnRateAcceleration" type="float">0.5</value>
+				<value name="WingBeatFrequency" type="float">2</value>
+				<value name="WingLength" type="float">0.3</value>
+			</object>
+			<object id="2C3F59F5">
+				<value name="BodySize" type="float">0.4</value>
+				<value name="DeathEffect" type="int">38</value>
+				<value name="Flock" type="int">1</value>
+				<value name="HitDistance" type="float">2</value>
+				<value name="Index" type="int">3</value>
+				<value name="MaxAbsoluteAltitude" type="float">5000</value>
+				<value name="MaxRelativeAltitude" type="float">20</value>
+				<value name="MaxTurnRate" type="float">1.5</value>
+				<value name="MaxVelocity" type="float">4</value>
+				<value name="MaxVerticalAcceleration" type="float">1</value>
+				<value name="MaxVerticalVelocity" type="float">2</value>
+				<value name="MinAbsoluteAltitude" type="float">0</value>
+				<value name="MinRelativeAltitude" type="float">5</value>
+				<value name="SpawnFrequency" type="float">10</value>
+				<value name="TurnRateAcceleration" type="float">0.5</value>
+				<value name="WingBeatFrequency" type="float">3</value>
+				<value name="WingLength" type="float">0.3</value>
+			</object>
+			<object id="597718D8">
+				<value name="BodySize" type="float">0.4</value>
+				<value name="DeathEffect" type="int">38</value>
+				<value name="Flock" type="int">1</value>
+				<value name="HitDistance" type="float">2</value>
+				<value name="Index" type="int">1</value>
+				<value name="MaxAbsoluteAltitude" type="float">5000</value>
+				<value name="MaxRelativeAltitude" type="float">20</value>
+				<value name="MaxTurnRate" type="float">1.5</value>
+				<value name="MaxVelocity" type="float">8</value>
+				<value name="MaxVerticalAcceleration" type="float">1</value>
+				<value name="MaxVerticalVelocity" type="float">2</value>
+				<value name="MinAbsoluteAltitude" type="float">0</value>
+				<value name="MinRelativeAltitude" type="float">5</value>
+				<value name="SpawnFrequency" type="float">10</value>
+				<value name="TurnRateAcceleration" type="float">0.5</value>
+				<value name="WingBeatFrequency" type="float">3</value>
+				<value name="WingLength" type="float">0.4</value>
+			</object>
+			<object id="FEDD395E">
+				<value name="BodySize" type="float">0.4</value>
+				<value name="DeathEffect" type="int">38</value>
+				<value name="Flock" type="int">1</value>
+				<value name="HitDistance" type="float">2</value>
+				<value name="Index" type="int">2</value>
+				<value name="MaxAbsoluteAltitude" type="float">5000</value>
+				<value name="MaxRelativeAltitude" type="float">20</value>
+				<value name="MaxTurnRate" type="float">1.5</value>
+				<value name="MaxVelocity" type="float">5</value>
+				<value name="MaxVerticalAcceleration" type="float">1</value>
+				<value name="MaxVerticalVelocity" type="float">2</value>
+				<value name="MinAbsoluteAltitude" type="float">0</value>
+				<value name="MinRelativeAltitude" type="float">5</value>
+				<value name="SpawnFrequency" type="float">10</value>
+				<value name="TurnRateAcceleration" type="float">0.5</value>
+				<value name="WingBeatFrequency" type="float">3</value>
+				<value name="WingLength" type="float">0.3</value>
+			</object>
+		</object>
+		<object name="Fishes">
+			<value name="MaxAmount" type="int">48</value>
+			<object name="fish1">
+				<value name="Flock" type="int">1</value>
+				<value name="DeathEffect" type="int">39</value>
+				<value name="HitDistance" type="float">1</value>
+				<value name="DepthMax" type="float">500</value>
+				<value name="DepthMin" type="float">0.25</value>
+				<value name="DrawDistance" type="float">45</value>
+				<value name="ModelName" type="string">Models\\Animals\\critter_fish\\CritFish01_LOD1-body</value>
+				<value name="Size" type="float">10</value>
+				<value name="SpawnFrequency" type="float">500<!--200--></value>
+				<value name="TurnRate" type="float">0.5</value>
+				<value id="7D5F0D7E" type="float">50</value>
+				<value id="A0A46B6E" type="float">1.5</value>
+				<value id="B139C136" type="float">0.2</value>
+				<value id="C2B4995C" type="float">1.5</value>
+				<value id="E566BD46" type="float">3</value>
+				<value id="E6716024" type="float">100</value>
+				<value id="EFF3B3B8" type="float">2</value>
+			</object>
+			<object name="fish2">
+				<value name="DeathEffect" type="int">39</value>
+				<value name="HitDistance" type="float">1.5</value>
+				<value name="DepthMax" type="float">750</value>
+				<value name="DepthMin" type="float">0.25</value>
+				<value name="DrawDistance" type="float">30</value>
+				<value name="ModelName" type="string">Models\\Animals\\critter_fish\\CritFish02_LOD1-body</value>
+				<value name="Size" type="float">15</value>
+				<value name="SpawnFrequency" type="float">250<!--150--></value>
+				<value name="TurnRate" type="float">1</value>
+				<value id="7D5F0D7E" type="float">50</value>
+				<value id="A0A46B6E" type="float">1</value>
+				<value id="B139C136" type="float">0.4</value>
+				<value id="C2B4995C" type="float">1</value>
+				<value id="E566BD46" type="float">3</value>
+				<value id="E6716024" type="float">100</value>
+				<value id="EFF3B3B8" type="float">2</value>
+			</object>
+			<object name="fish3">
+				<value name="DeathEffect" type="int">39</value>
+				<value name="HitDistance" type="float">2</value>
+				<value name="DepthMax" type="float">1000</value>
+				<value name="DepthMin" type="float">0.25</value>
+				<value name="DrawDistance" type="float">25</value>
+				<value name="ModelName" type="string">Models\\Animals\\critter_fish\\CritFish03_LOD1-body</value>
+				<value name="Size" type="float">20</value>
+				<value name="SpawnFrequency" type="float">150</value>
+				<value name="TurnRate" type="float">2.5</value><!-- was 1.5 -->
+				<value id="7D5F0D7E" type="float">50</value>
+				<value id="A0A46B6E" type="float">1</value>
+				<value id="B139C136" type="float">0.6</value>
+				<value id="C2B4995C" type="float">1</value>
+				<value id="E566BD46" type="float">4</value>
+				<value id="E6716024" type="float">150</value>
+				<value id="EFF3B3B8" type="float">2</value>
+			</object>
+			<object name="bigfish">
+				<value name="Flock" type="int">1</value>
+				<value name="DeathEffect" type="int">249<!--39--></value>
+				<value name="HitDistance" type="float">5</value>
+				<value name="DepthMax" type="float">1000</value>
+				<value name="DepthMin" type="float">5</value>
+				<value name="DrawDistance" type="float">50</value>
+				<value name="Leg0_Angle" type="vec">0,83.169,0</value>
+				<value name="Leg0_Offset" type="vec">-0.037,0.03,-0.05</value>
+				<value name="Leg1_Angle" type="vec">39.64,114.591,-45.751</value>
+				<value name="Leg1_Offset" type="vec">-0.037,0.03,-0.036</value>
+				<value name="Leg2_Angle" type="vec">0,143.239,20.508</value>
+				<value name="Leg2_Offset" type="vec">-0.034,0.035,-0.016</value>
+				<value name="Leg3_Angle" type="vec">-0.664,-77.412,0</value>
+				<value name="Leg3_Offset" type="vec">0.037,0.029,-0.05</value>
+				<value name="Leg4_Angle" type="vec">39.637,-113.855,45.752</value>
+				<value name="Leg4_Offset" type="vec">0.037,0.029,-0.03</value>
+				<value name="Leg5_Angle" type="vec">0,-143.24,-20.51</value>
+				<value name="Leg5_Offset" type="vec">0.037,0.029,-0.004</value>
+				<value name="LegModelName" type="string">go001_lod2-b</value>
+				<value name="ModelName" type="string">v320_lod1-body</value>
+				<value name="Size" type="float">50</value>
+				<value name="SpawnFrequency" type="float">0.1</value>
+				<value name="TurnRate" type="float">6</value><!-- was 1.5 -->
+				<value id="7D5F0D7E" type="float">50</value>
+				<value id="A0A46B6E" type="float">1</value>
+				<value id="B139C136" type="float">0.6</value>
+				<value id="C2B4995C" type="float">1</value>
+				<value id="E566BD46" type="float">4</value>
+				<value id="E6716024" type="float">150</value>
+				<value id="EFF3B3B8" type="float">2</value>
+			</object>
+		</object>
+		<object name="Insects">
+			<value name="MaxAmount" type="int">64</value>
+			<object name="lolwtf"><!-- ace - test, if anybody is paying attention.. -->
+				<value name="AllowOverSpawnzone" type="int">1</value>
+				<value name="DeathEffect" type="int">249<!--39--></value>
+				<value name="HitDistance" type="float">20</value>
+				<value name="Flock" type="int">1</value>
+				<value name="BodySize" type="float">25</value>
+				<!--<value name="GameZone_0" type="int">2</value>
+				<value name="GameZone_1" type="int">3</value>
+				<value name="GameZone_2" type="int">6</value>
+				<value name="GameZone_3" type="int">7</value>-->
+				<!--<value name="Index" type="int">1</value>-->
+				<value name="Leg0_Angle" type="vec">0,83.169,0</value>
+				<value name="Leg0_Offset" type="vec">-0.037,0.03,-0.05</value>
+				<value name="Leg1_Angle" type="vec">39.64,114.591,-45.751</value>
+				<value name="Leg1_Offset" type="vec">-0.037,0.03,-0.036</value>
+				<value name="Leg2_Angle" type="vec">0,143.239,20.508</value>
+				<value name="Leg2_Offset" type="vec">-0.034,0.035,-0.016</value>
+				<value name="Leg3_Angle" type="vec">-0.664,-77.412,0</value>
+				<value name="Leg3_Offset" type="vec">0.037,0.029,-0.05</value>
+				<value name="Leg4_Angle" type="vec">39.637,-113.855,45.752</value>
+				<value name="Leg4_Offset" type="vec">0.037,0.029,-0.03</value>
+				<value name="Leg5_Angle" type="vec">0,-143.24,-20.51</value>
+				<value name="Leg5_Offset" type="vec">0.037,0.029,-0.004</value>
+				<value name="LegModelName" type="string">WEA34_LOD1-D<!--v062_lod1-step--></value>
+				<value name="ModelName" type="string">v320_lod1-body_dst</value>
+				<value name="MaxAbsoluteAltitude" type="float">5000</value>
+				<value name="MaxRelativeAltitude" type="float">1500</value>
+				<value name="MaxTurnRate" type="float">0.5</value><!-- 4/5 -->
+				<value name="MaxVelocity" type="float">150</value>
+				<value name="MaxVerticalAcceleration" type="float">150</value>
+				<value name="MaxVerticalVelocity" type="float">150</value>
+				<value name="MinAbsoluteAltitude" type="float">150</value>
+				<value name="MinRelativeAltitude" type="float">50</value>
+				<value name="SpawnEffect" type="int">272<!--251--></value>
+				<value name="SpawnFrequency" type="float">0.001</value>
+				<value name="TurnRateAcceleration" type="float">5</value>
+				<value name="WingBeatFrequency" type="float">1</value>
+				<value name="WingLength" type="float">20</value>
+			</object>
+			<object name="dragonfly">
+				<value name="Flock" type="int">1</value>
+				<value name="AllowOverSpawnzone" type="int">1</value>
+				<value name="DeathEffect" type="int">39</value>
+				<value name="HitDistance" type="float">0.1</value>
+				<value name="BodySize" type="float">0.12</value>
+				<value name="GameZone_0" type="int">2</value>
+				<value name="GameZone_1" type="int">3</value>
+				<value name="GameZone_2" type="int">6</value>
+				<value name="GameZone_3" type="int">7</value>
+				<value name="Index" type="int">1</value>
+				<value name="MaxAbsoluteAltitude" type="float">500</value>
+				<value name="MaxRelativeAltitude" type="float">10<!--6--></value>
+				<value name="MaxTurnRate" type="float">9</value><!-- 4/5 -->
+				<value name="MaxVelocity" type="float">3.5</value>
+				<value name="MaxVerticalAcceleration" type="float">0.4</value>
+				<value name="MaxVerticalVelocity" type="float">1.4</value>
+				<value name="MinAbsoluteAltitude" type="float">0</value>
+				<value name="MinRelativeAltitude" type="float">0.25</value>
+				<value name="SpawnFrequency" type="float">10</value>
+				<value name="TurnRateAcceleration" type="float">1.4</value>
+				<value name="WingBeatFrequency" type="float">7</value>
+				<value name="WingLength" type="float">0.12</value>
+			</object>
+			<object id="8EDD7471">
+				<value name="Flock" type="int">1</value>
+				<value name="AllowOverSpawnzone" type="int">1</value>
+				<value name="DeathEffect" type="int">39</value>
+				<value name="HitDistance" type="float">0.07</value>
+				<value name="BodySize" type="float">0.08</value>
+				<value name="GameZone_0" type="int">2</value>
+				<value name="GameZone_1" type="int">3</value>
+				<value name="GameZone_2" type="int">6</value>
+				<value name="GameZone_3" type="int">7</value>
+				<value name="Index" type="int">0</value>
+				<value name="MaxAbsoluteAltitude" type="float">500</value>
+				<value name="MaxRelativeAltitude" type="float">10<!--4--></value>
+				<value name="MaxTurnRate" type="float">2.5</value>
+				<value name="MaxVelocity" type="float">1.5</value>
+				<value name="MaxVerticalAcceleration" type="float">0.2</value>
+				<value name="MaxVerticalVelocity" type="float">1</value>
+				<value name="MinAbsoluteAltitude" type="float">0</value>
+				<value name="MinRelativeAltitude" type="float">0.25</value>
+				<value name="SpawnFrequency" type="float">15</value>
+				<value name="TurnRateAcceleration" type="float">1</value>
+				<value name="WingBeatFrequency" type="float">8</value>
+				<value name="WingLength" type="float">0.04</value>
+			</object>
+			<object id="DF85D907">
+				<value name="Flock" type="int">1</value>
+				<value name="AllowOverSpawnzone" type="int">1</value>
+				<value name="DeathEffect" type="int">39</value>
+				<value name="HitDistance" type="float">0.075</value>
+				<value name="BodySize" type="float">0.1</value>
+				<value name="GameZone_0" type="int">2</value>
+				<value name="GameZone_1" type="int">3</value>
+				<value name="GameZone_2" type="int">6</value>
+				<value name="GameZone_3" type="int">7</value>
+				<value name="Index" type="int">2</value>
+				<value name="MaxAbsoluteAltitude" type="float">500</value>
+				<value name="MaxRelativeAltitude" type="float">15</value>
+				<value name="MaxTurnRate" type="float">9</value><!-- 3.5 -->
+				<value name="MaxVelocity" type="float">2.25</value>
+				<value name="MaxVerticalAcceleration" type="float">0.3</value>
+				<value name="MaxVerticalVelocity" type="float">3</value><!-- 1.2 -->
+				<value name="MinAbsoluteAltitude" type="float">0</value>
+				<value name="MinRelativeAltitude" type="float">0.25</value>
+				<value name="SpawnFrequency" type="float">15</value>
+				<value name="TurnRateAcceleration" type="float">2.5</value><!-- 1.2 -->
+				<value name="WingBeatFrequency" type="float">6</value>
+				<value name="WingLength" type="float">0.08</value>
+			</object>
+		</object>
+		<object name="Scorpions"> <!-- ace - tweaked scorpion spawn rate - 10/19/2016 -->
+			<value name="MaxAmount" type="int">7</value>
+			<object name="scorpion1"><!-- ace - also tweaked other, small things.  they're rare lol - 11/17/2016 -->
+				<value name="AllowOverSpawnzone" type="int">1</value>
+				<value name="DeathEffect" type="int">285<!-- 39 --></value>
+				<value name="DespawnDistance" type="float">55</value>
+				<value name="GameZone_0" type="int">2</value>
+				<value name="GameZone_1" type="int">3</value>
+				<value name="GameZone_2" type="int">6</value>
+				<value name="GameZone_3" type="int">7</value>
+				<value name="HitDistance" type="float">0.5</value>
+				<value name="Leg0_Angle" type="vec">0,83.169,0</value>
+				<value name="Leg0_Offset" type="vec">-0.037,0.03,-0.05</value>
+				<value name="Leg1_Angle" type="vec">39.64,114.591,-45.751</value>
+				<value name="Leg1_Offset" type="vec">-0.037,0.03,-0.036</value>
+				<value name="Leg2_Angle" type="vec">0,143.239,20.508</value>
+				<value name="Leg2_Offset" type="vec">-0.034,0.035,-0.016</value>
+				<value name="Leg3_Angle" type="vec">-0.664,-77.412,0</value>
+				<value name="Leg3_Offset" type="vec">0.037,0.029,-0.05</value>
+				<value name="Leg4_Angle" type="vec">39.637,-113.855,45.752</value>
+				<value name="Leg4_Offset" type="vec">0.037,0.029,-0.03</value>
+				<value name="Leg5_Angle" type="vec">0,-143.24,-20.51</value>
+				<value name="Leg5_Offset" type="vec">0.037,0.029,-0.004</value>
+				<value name="LegModelName" type="string">Models\\Animals\\critter_scorpion\\CritScorpion_LOD1-Leg</value>
+				<value name="ModelName" type="string">Models\\Animals\\critter_scorpion\\CritScorpion_LOD1-Body</value>
+				<value name="SpawnDistance" type="float">33</value>
+				<value name="SpawnEffect" type="int">429<!-- 270 --></value>
+				<value name="SpawnFrequency" type="float">0.0013</value>
+				<value name="SpawnWaitTime" type="int">0</value>
+				<value name="Scale" type="float">5</value>
+				<value name="BodySize" type="float">5</value>
+				<value name="Flock" type="int">1</value>
+			</object>
+		</object>
+	</object>
+</container>

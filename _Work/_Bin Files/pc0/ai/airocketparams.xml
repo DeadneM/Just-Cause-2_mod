@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object id="6E71359A">
+			<object id="6E71359A">
+				<value id="35A85B17" type="float">20</value>
+				<value id="3FCCD114" type="float">50</value>
+				<value id="5B3CF92A" type="float">1.2</value>
+				<value id="873F2D7B" type="float">2</value>
+				<value id="9993824E" type="float">5</value>
+				<value id="F1CDB62E" type="float">3</value>
+				<value id="FE768514" type="float">3.5</value>
+				<value name="acceleration" type="float">3</value>
+			</object>
+			<object id="91335811">
+				<value id="35A85B17" type="float">40</value>
+				<value id="3FCCD114" type="float">50</value>
+				<value id="5B3CF92A" type="float">1.2</value>
+				<value id="873F2D7B" type="float">3</value>
+				<value id="9993824E" type="float">30</value>
+				<value id="F1CDB62E" type="float">3</value>
+				<value id="FE768514" type="float">3.5</value>
+				<value name="acceleration" type="float">3</value>
+			</object>
+			<object id="EC385607">
+				<value id="35A85B17" type="float">40</value>
+				<value id="3FCCD114" type="float">150</value>
+				<value id="5B3CF92A" type="float">1.2</value>
+				<value id="873F2D7B" type="float">3</value>
+				<value id="9993824E" type="float">30</value>
+				<value id="F1CDB62E" type="float">3</value>
+				<value id="FE768514" type="float">3.5</value>
+				<value name="acceleration" type="float">3</value>
+			</object>
+		</object>
+		<object id="EC385607">
+			<object id="6E71359A">
+				<value id="35A85B17" type="float">25</value>
+				<value id="3FCCD114" type="float">10</value>
+				<value id="5B3CF92A" type="float">1.2</value>
+				<value id="873F2D7B" type="float">2</value>
+				<value id="9993824E" type="float">15</value>
+				<value id="F1CDB62E" type="float">2</value>
+				<value id="FE768514" type="float">3.5</value>
+				<value name="acceleration" type="float">3</value>
+			</object>
+			<object id="91335811">
+				<value id="35A85B17" type="float">40</value>
+				<value id="3FCCD114" type="float">50</value>
+				<value id="5B3CF92A" type="float">1.2</value>
+				<value id="873F2D7B" type="float">3</value>
+				<value id="9993824E" type="float">30</value>
+				<value id="F1CDB62E" type="float">3</value>
+				<value id="FE768514" type="float">3.5</value>
+				<value name="acceleration" type="float">3</value>
+			</object>
+			<object id="EC385607">
+				<value id="35A85B17" type="float">75</value>
+				<value id="3FCCD114" type="float">20</value>
+				<value id="5B3CF92A" type="float">1.2</value>
+				<value id="873F2D7B" type="float">3</value>
+				<value id="9993824E" type="float">60</value>
+				<value id="F1CDB62E" type="float">3</value>
+				<value id="FE768514" type="float">5.5</value>
+				<value name="acceleration" type="float">5</value>
+			</object>
+		</object>
+	</object>
+</root>

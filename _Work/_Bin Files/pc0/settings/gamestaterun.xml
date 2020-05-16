@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object name="night_light">
+			<value name="above_cam" type="float">2.5</value>
+			<value name="color" type="vec4">0.2,0.3,0.5,1</value>
+			<value name="dawn_end" type="float">8</value>
+			<value name="dawn_start" type="float">5</value>
+			<value name="dusk_end" type="float">20</value>
+			<value name="dusk_start" type="float">18</value>
+			<value name="infront_cam" type="float">0</value>
+			<value name="range" type="float">15</value>
+		</object>
+	</object>
+</root>

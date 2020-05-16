@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object id="AD4888AE">
+			<object id="14D03856">
+				<value id="CB0CC3F4" type="string">gui_action_button_X_press_event</value>
+				<value id="CF2D344A" type="string">UIContract</value>
+				<value name="action" type="string">PDA_EXTRACTION</value>
+			</object>
+			<object id="FB94FAF6">
+				<value id="CB0CC3F4" type="string">gui_action_button_Y_press_event</value>
+				<value id="CF2D344A" type="string">UIContract</value>
+				<value name="action" type="string">PDA_POLITICAL_MAP</value>
+			</object>
+			<object name="GUI_CANCEL">
+				<value id="CB0CC3F4" type="string">gui_action_button_B_press_event</value>
+				<value id="CF2D344A" type="string">UIContract</value>
+				<value name="action" type="string">GUI_CANCEL</value>
+			</object>
+			<object name="GUI_OK">
+				<value id="CB0CC3F4" type="string">gui_action_button_A_press_event</value>
+				<value id="CF2D344A" type="string">UIContract</value>
+				<value name="action" type="string">GUI_OK</value>
+			</object>
+		</object>
+	</object>
+</root>

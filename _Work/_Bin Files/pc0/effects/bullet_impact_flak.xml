@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object name="ava_effect">
+			<object name="effect_components">
+				<object id="40D38A94">
+					<value name="type" type="int">9</value>
+					<value name="uid" type="int">4</value>
+					<object name="variations">
+						<object id="55851DAF">
+							<value name="attack" type="float">0.01</value>
+							<value name="distance_attenuation_max" type="float">30</value>
+							<value name="distance_attenuation_min" type="float">5</value>
+							<value name="gain" type="float">0.25</value>
+							<value name="hold" type="float">1.1</value>
+							<value name="looping" type="int">0</value>
+							<value name="release" type="float">0.2</value>
+							<value name="target" type="int">0</value>
+							<value name="target_param" type="int">3</value>
+							<value name="type" type="int">0</value>
+							<value name="uid" type="int">0</value>
+						</object>
+					</object>
+				</object>
+				<object id="54236B22">
+					<value name="type" type="int">1</value>
+					<value name="uid" type="int">1</value>
+					<object name="variations">
+						<object name="Default">
+							<value name="name" type="string">fx_exp_grenade_01</value>
+							<value name="uid" type="int">0</value>
+						</object>
+						<object name="Sand">
+							<value name="name" type="string">fx_exp_grenade_sand_01</value>
+							<value name="uid" type="int">2</value>
+						</object>
+						<object name="Snow">
+							<value name="name" type="string">fx_exp_grenade_snow_01</value>
+							<value name="uid" type="int">3</value>
+						</object>
+						<object name="Soil">
+							<value name="name" type="string">fx_exp_grenade_dirt_01</value>
+							<value name="uid" type="int">1</value>
+						</object>
+						<object name="Water">
+							<value name="name" type="string">fx_exp_grenade_water_01</value>
+							<value name="uid" type="int">4</value>
+						</object>
+					</object>
+				</object>
+				<object id="570310C8">
+					<value name="type" type="int">7</value>
+					<value name="uid" type="int">3</value>
+					<object name="variations">
+						<object name="Default">
+							<value id="1B20850D" type="vec">0,0.5,0</value>
+							<value name="uid" type="int">0</value>
+							<object id="331AD791">
+								<value name="diffuse" type="vec">0,0,0</value>
+								<value name="multiplier" type="float">8</value>
+								<value name="radius" type="float">16</value>
+								<value name="timestamp" type="float">0.15</value>
+								<value name="type" type="int">0</value>
+							</object>
+							<object id="A775AB55">
+								<value name="diffuse" type="vec">1,0.65,0.2</value>
+								<value name="multiplier" type="float">8</value>
+								<value name="radius" type="float">16</value>
+								<value name="timestamp" type="float">0</value>
+								<value name="type" type="int">0</value>
+							</object>
+						</object>
+					</object>
+				</object>
+				<object id="BBC51E2B">
+					<value name="type" type="int">3</value>
+					<value name="uid" type="int">2</value>
+					<object name="variations">
+						<object name="Metal">
+							<value name="lifetime" type="float">100</value>
+							<value name="prio" type="int">4</value>
+							<value name="size" type="vec4">4.1,4.3,4.3,4.1</value>
+							<value name="texture0" type="string">Decals/Explosion_DIF.dds</value>
+							<value name="texture1" type="string">Decals/Explosion_NRM.dds</value>
+							<value name="texture2" type="string">Decals/Explosion_SPC.dds</value>
+							<value name="uid" type="int">0</value>
+							<value name="uv_coord_max" type="vec2">1,1</value>
+							<value name="uv_coord_min" type="vec2">0,0</value>
+						</object>
+					</object>
+				</object>
+				<object id="CA6EC803">
+					<value name="type" type="int">0</value>
+					<value name="uid" type="int">0</value>
+					<object name="variations">
+						<object id="DEF9AE75">
+							<value name="bank_id" type="int">17</value>
+							<value name="bypass_posteffects" type="int">1</value>
+							<value name="focus_target_id" type="int">3</value>
+							<value name="sound_id" type="int">40</value>
+							<value name="uid" type="int">0</value>
+							<value name="var_id_focus" type="int">2</value>
+						</object>
+					</object>
+				</object>
+			</object>
+			<object name="interaction_matrix">
+				<object name="default_item">
+					<value id="54236B22" type="string">1:0</value>
+					<value id="570310C8" type="string">3:0</value>
+					<value id="BBC51E2B" type="string">2:0</value>
+					<value id="CA6EC803" type="string">0:0</value>
+				</object>
+				<object name="material_interactions">
+					<object id="506E34CB">
+						<value name="uid" type="int">32</value>
+						<object name="default_item">
+							<value id="54236B22" type="string">1:3</value>
+						</object>
+					</object>
+					<object id="6D5A2563">
+						<value name="uid" type="int">3</value>
+						<object name="default_item">
+							<value id="54236B22" type="string">1:1</value>
+						</object>
+					</object>
+					<object id="B9D517DE">
+						<value name="uid" type="int">33</value>
+						<object name="default_item">
+							<value id="54236B22" type="string">1:1</value>
+						</object>
+					</object>
+					<object name="Grass">
+						<value name="uid" type="int">34</value>
+						<object name="default_item">
+							<value id="54236B22" type="string">1:1</value>
+						</object>
+					</object>
+					<object name="Ice">
+						<value name="uid" type="int">5</value>
+						<object name="default_item">
+							<value id="54236B22" type="string">1:3</value>
+						</object>
+					</object>
+					<object name="Sand">
+						<value name="uid" type="int">0</value>
+						<object name="default_item">
+							<value id="54236B22" type="string">1:2</value>
+						</object>
+					</object>
+					<object name="Snow">
+						<value name="uid" type="int">2</value>
+						<object name="default_item">
+							<value id="54236B22" type="string">1:3</value>
+						</object>
+					</object>
+					<object name="Soil">
+						<value name="uid" type="int">1</value>
+						<object name="default_item">
+							<value id="54236B22" type="string">1:1</value>
+						</object>
+					</object>
+					<object name="Water">
+						<value name="uid" type="int">7</value>
+						<object name="default_item">
+							<value id="54236B22" type="string">1:4</value>
+						</object>
+					</object>
+				</object>
+				<object name="water_item">
+					<value id="54236B22" type="string">1:4</value>
+				</object>
+			</object>
+			<object name="settings">
+				<value name="max_instances" type="int">20</value>
+				<value name="priority" type="int">0</value>
+			</object>
+		</object>
+	</object>
+</root>

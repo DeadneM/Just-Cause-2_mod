@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<object name="Boat">
+			<value id="0A4C2BDC" type="int">4</value>
+			<value id="308000FD" type="int">2</value>
+			<value id="31A9D4BB" type="int">2</value>
+			<value id="4995A552" type="float">50</value>
+			<value id="49B4A2D6" type="vec2">10,13</value>
+			<value id="50692F83" type="int">2</value>
+			<value id="51742451" type="vec">1.5,1.5,1.5</value>
+			<value id="6B037C65" type="vec">0,0,0</value>
+			<value id="8E260E93" type="float">5</value>
+			<value id="8FC27E6C" type="vec2">-55,85</value>
+			<value id="91D99FA5" type="vec2">10,40</value>
+			<value id="A0A4FF07" type="int">1</value>
+			<value id="A3B42BA2" type="vec2">20,20</value>
+			<value id="B31052F6" type="float">20</value>
+			<value id="C26C0EC2" type="float">2</value>
+			<value id="C4AFB170" type="float">10</value>
+			<value id="C50B11D7" type="vec2">30,5</value>
+			<value id="CC2187D9" type="float">45</value>
+			<value id="D72B460E" type="int">0</value>
+			<value id="E0D6E82A" type="vec2">20,15</value>
+			<value id="E57BF9C2" type="int">1</value>
+			<value id="F8AE9BFD" type="vec2">5,60</value>
+			<value id="FB71B57E" type="int">2</value>
+			<value name="AimType" type="int">1</value>
+			<value name="Collision" type="int">6</value>
+			<value name="Crosshair" type="int">2</value>
+			<value name="FocusType" type="int">4</value>
+			<value name="Input" type="int">1</value>
+			<value name="Movement" type="int">7</value>
+		</object>
+		<object name="Car">
+			<value id="0A4C2BDC" type="int">4</value>
+			<value id="1ACABE1C" type="int">2</value>
+			<value id="24868714" type="float">1.5</value>
+			<value id="308000FD" type="int">1</value>
+			<value id="31A9D4BB" type="int">2</value>
+			<value id="4947FAA0" type="int">1</value>
+			<value id="4995A552" type="float">50</value>
+			<value id="49B4A2D6" type="vec2">4,100</value>
+			<value id="50692F83" type="int">2</value>
+			<value id="51742451" type="vec">1.5,1.5,1.5</value>
+			<value id="6B037C65" type="vec">0,1,0</value>
+			<value id="8E260E93" type="float">8</value>
+			<value id="8FC27E6C" type="vec2">-55,85</value>
+			<value id="91D99FA5" type="vec2">1,40</value>
+			<value id="A0A4FF07" type="int">1</value>
+			<value id="A3B42BA2" type="vec2">20,20</value>
+			<value id="B31052F6" type="float">10</value>
+			<value id="C26C0EC2" type="float">1</value>
+			<value id="C4AFB170" type="float">5</value>
+			<value id="C50B11D7" type="vec2">5,1</value>
+			<value id="CC2187D9" type="float">45</value>
+			<value id="D72B460E" type="int">0</value>
+			<value id="E0D6E82A" type="vec2">90,180</value>
+			<value id="E57BF9C2" type="int">1</value>
+			<value id="F8AE9BFD" type="vec2">10,40</value>
+			<value id="FB71B57E" type="int">2</value>
+			<value name="AimType" type="int">1</value>
+			<value name="Collision" type="int">5</value>
+			<value name="Crosshair" type="int">2</value>
+			<value name="FocusType" type="int">4</value>
+			<value name="Input" type="int">1</value>
+			<value name="Movement" type="int">6</value>
+		</object>
+		<object name="Chopper">
+			<value id="0A4C2BDC" type="int">4</value>
+			<value id="0E75C851" type="vec">0,-6,-2</value>
+			<value id="0EABFABB" type="vec">0,6,20</value>
+			<value id="1ACABE1C" type="int">2</value>
+			<value id="24868714" type="float">0.5</value>
+			<value id="31A9D4BB" type="int">2</value>
+			<value id="416F7CA8" type="float">10</value>
+			<value id="49B4A2D6" type="vec2">5,30</value>
+			<value id="51742451" type="vec">0.2,10,0.2</value>
+			<value id="6B037C65" type="vec">10,10,0.2</value>
+			<value id="72C30229" type="int">2</value>
+			<value id="82BBC61C" type="vec2">-1,1</value>
+			<value id="8FC27E6C" type="vec2">-55,85</value>
+			<value id="A0A4FF07" type="int">1</value>
+			<value id="A3B42BA2" type="vec2">20,10</value>
+			<value id="C26C0EC2" type="float">5</value>
+			<value id="C4AFB170" type="float">5</value>
+			<value id="CC2187D9" type="float">45</value>
+			<value id="D72B460E" type="int">0</value>
+			<value id="E0D6E82A" type="vec2">90,90</value>
+			<value id="E57BF9C2" type="int">1</value>
+			<value id="F8AE9BFD" type="vec2">10,50</value>
+			<value id="FB71B57E" type="int">2</value>
+			<value name="AimType" type="int">1</value>
+			<value name="Collision" type="int">7</value>
+			<value name="Crosshair" type="int">2</value>
+			<value name="FocusType" type="int">4</value>
+			<value name="Input" type="int">2</value>
+			<value name="Movement" type="int">3</value>
+		</object>
+		<object name="Hijack">
+			<value id="0A4C2BDC" type="int">1</value>
+			<value id="82BBC61C" type="vec2">-70,70</value>
+			<value name="Collision" type="int">1</value>
+			<value name="Crosshair" type="int">0</value>
+			<value name="FocusType" type="int">1</value>
+			<value name="Input" type="int">2</value>
+			<value name="Movement" type="int">2</value>
+		</object>
+		<object name="Motorcycle">
+			<value id="0A4C2BDC" type="int">4</value>
+			<value id="1ACABE1C" type="int">2</value>
+			<value id="24868714" type="float">1.5</value>
+			<value id="308000FD" type="int">1</value>
+			<value id="31A9D4BB" type="int">0</value>
+			<value id="4995A552" type="float">50</value>
+			<value id="49B4A2D6" type="vec2">1,100</value>
+			<value id="50692F83" type="int">2</value>
+			<value id="51742451" type="vec">0.75,0.75,0.75</value>
+			<value id="6B037C65" type="vec">0,0.5,0</value>
+			<value id="8E260E93" type="float">10</value>
+			<value id="8FC27E6C" type="vec2">-55,85</value>
+			<value id="91D99FA5" type="vec2">10,40</value>
+			<value id="A0A4FF07" type="int">0</value>
+			<value id="A3B42BA2" type="vec2">25,10</value>
+			<value id="B31052F6" type="float">10</value>
+			<value id="C26C0EC2" type="float">0.5</value>
+			<value id="C4AFB170" type="float">3</value>
+			<value id="C50B11D7" type="vec2">50,20</value>
+			<value id="CC2187D9" type="float">45</value>
+			<value id="D72B460E" type="int">0</value>
+			<value id="E0D6E82A" type="vec2">90,90</value>
+			<value id="E57BF9C2" type="int">1</value>
+			<value id="F8AE9BFD" type="vec2">10,40</value>
+			<value id="FB71B57E" type="int">2</value>
+			<value name="AimType" type="int">2</value>
+			<value name="Collision" type="int">5</value>
+			<value name="Crosshair" type="int">0</value>
+			<value name="FocusType" type="int">4</value>
+			<value name="Input" type="int">1</value>
+			<value name="Movement" type="int">6</value>
+		</object>
+		<object name="Normal">
+			<value id="0A4C2BDC" type="int">2</value>
+			<value id="1ACABE1C" type="int">2</value>
+			<value id="8FC27E6C" type="vec2">-55,85</value>
+			<value id="A0A4FF07" type="int">2</value>
+			<value id="EE146062" type="vec2">0,0</value>
+			<value name="Collision" type="int">4</value>
+			<value name="Crosshair" type="int">0</value>
+			<value name="FocusType" type="int">2</value>
+			<value name="Input" type="int">2</value>
+			<value name="Movement" type="int">1</value>
+		</object>
+		<object name="Plane">
+			<value id="0A4C2BDC" type="int">4</value>
+			<value id="24868714" type="float">2</value>
+			<value id="31A9D4BB" type="int">0</value>
+			<value id="8FC27E6C" type="vec2">-55,85</value>
+			<value id="91D99FA5" type="vec2">50,10</value>
+			<value id="A3B42BA2" type="vec2">20,10</value>
+			<value id="C26C0EC2" type="float">0.4</value>
+			<value id="C4AFB170" type="float">1</value>
+			<value id="C50B11D7" type="vec2">100,50</value>
+			<value id="CC2187D9" type="float">45</value>
+			<value id="D72B460E" type="int">0</value>
+			<value id="E0D6E82A" type="vec2">10,10</value>
+			<value id="E57BF9C2" type="int">1</value>
+			<value id="F8AE9BFD" type="vec2">10,80</value>
+			<value id="FB71B57E" type="int">2</value>
+			<value name="AimType" type="int">1</value>
+			<value name="Collision" type="int">7</value>
+			<value name="Crosshair" type="int">2</value>
+			<value name="FocusType" type="int">4</value>
+			<value name="Input" type="int">1</value>
+			<value name="Movement" type="int">8</value>
+		</object>
+		<object name="Reeling">
+			<value id="0A4C2BDC" type="int">2</value>
+			<value id="1ACABE1C" type="int">2</value>
+			<value id="4995A552" type="float">45</value>
+			<value id="8FC27E6C" type="vec2">-55,85</value>
+			<value id="A0A4FF07" type="int">1</value>
+			<value id="AECB0555" type="int">1</value>
+			<value name="AimType" type="int">2</value>
+			<value name="Collision" type="int">10</value>
+			<value name="Crosshair" type="int">3</value>
+			<value name="FocusType" type="int">12</value>
+			<value name="Input" type="int">0</value>
+			<value name="Movement" type="int">10</value>
+		</object>
+	</object>
+</root>
