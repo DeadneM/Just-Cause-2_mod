@@ -17,7 +17,7 @@
 				<value id="87EEB199" type="float">0.1</value>
 				<value id="D83854C9" type="float">0.25</value>
 				<value id="F873E6D4" type="float">0.6</value>
-				<value name="height" type="float">0.5</value>
+				<value name="height" type="float">0.75</value>
 				<value name="name" type="string">Desert_Grass_Dry</value>
 				<value name="width" type="float">0.8</value>
 			</object>
@@ -37,7 +37,7 @@
 				<value id="F873E6D4" type="float">0.3</value>
 				<value name="height" type="float">1.25</value>
 				<value name="name" type="string">Desert_Shrub_Dry</value>
-				<value name="width" type="float">1.1</value>
+				<value name="width" type="float">1</value>
 			</object>
 			<object name="2">
 				<value id="090D5EE6" type="float">1</value>
@@ -53,9 +53,9 @@
 				<value id="87EEB199" type="float">0.05</value>
 				<value id="D83854C9" type="float">0.5</value>
 				<value id="F873E6D4" type="float">0.6</value>
-				<value name="height" type="float">1.25</value>
+				<value name="height" type="float">1.5</value>
 				<value name="name" type="string">Desert_Grass_Shrub</value>
-				<value name="width" type="float">1.1</value>
+				<value name="width" type="float">1</value>
 			</object>
 		</object>
 	</object>

@@ -5,7 +5,7 @@
 			<value name="separation_vel" type="float">1.15</value>
 			<value name="threshold_com_rolling" type="float">0.75</value>
 			<value name="threshold_rolling" type="float">0.25</value>
-			<value name="threshold_scrape" type="float">1.5</value>
+			<value name="threshold_scrape" type="float">1.25</value>
 		</object>
 	</object>
 </root>

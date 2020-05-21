@@ -650,20 +650,20 @@
 					<value name="level_5" type="float">2.5</value>
 				</object>
 				<object name="damage">
-					<value name="level_0" type="float">2.5</value>
-					<value name="level_1" type="float">2.5</value>
-					<value name="level_2" type="float">2.5</value>
-					<value name="level_3" type="float">2.5</value>
-					<value name="level_4" type="float">2.5</value>
-					<value name="level_5" type="float">2.5</value>
-				</object>
-				<object name="damage_max">
 					<value name="level_0" type="float">5</value>
 					<value name="level_1" type="float">5</value>
 					<value name="level_2" type="float">5</value>
 					<value name="level_3" type="float">5</value>
 					<value name="level_4" type="float">5</value>
 					<value name="level_5" type="float">5</value>
+				</object>
+				<object name="damage_max">
+					<value name="level_0" type="float">10</value>
+					<value name="level_1" type="float">10</value>
+					<value name="level_2" type="float">10</value>
+					<value name="level_3" type="float">10</value>
+					<value name="level_4" type="float">10</value>
+					<value name="level_5" type="float">10</value>
 				</object>
 				<object name="firerate">
 					<value name="level_0" type="float">0</value>

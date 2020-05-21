@@ -17,9 +17,9 @@
 				<value id="87EEB199" type="float">0.05</value>
 				<value id="D83854C9" type="float">0.5</value>
 				<value id="F873E6D4" type="float">0.6</value>
-				<value name="height" type="float">0.45</value>
+				<value name="height" type="float">0.5</value>
 				<value name="name" type="string">Grass_Thin</value>
-				<value name="width" type="float">0.9</value>
+				<value name="width" type="float">1</value>
 			</object>
 			<object name="1">
 				<value id="090D5EE6" type="float">0.5</value>
@@ -35,7 +35,7 @@
 				<value id="87EEB199" type="float">0.05</value>
 				<value id="D83854C9" type="float">0.5</value>
 				<value id="F873E6D4" type="float">0.6</value>
-				<value name="height" type="float">0.65</value>
+				<value name="height" type="float">0.6</value>
 				<value name="name" type="string">Grass_Thick</value>
 				<value name="width" type="float">1</value>
 			</object>
@@ -53,9 +53,9 @@
 				<value id="87EEB199" type="float">0.03</value>
 				<value id="D83854C9" type="float">0.5</value>
 				<value id="F873E6D4" type="float">0.6</value>
-				<value name="height" type="float">0.6</value>
+				<value name="height" type="float">0.5</value>
 				<value name="name" type="string">Palmforest_Grass_Thin</value>
-				<value name="width" type="float">0.9</value>
+				<value name="width" type="float">1</value>
 			</object>
 			<object name="11">
 				<value id="090D5EE6" type="float">0.5</value>
@@ -71,9 +71,9 @@
 				<value id="87EEB199" type="float">0.05</value>
 				<value id="D83854C9" type="float">0.5</value>
 				<value id="F873E6D4" type="float">0.6</value>
-				<value name="height" type="float">0.7</value>
+				<value name="height" type="float">0.75</value>
 				<value name="name" type="string">Palmforest_Grass_Thick</value>
-				<value name="width" type="float">1.15</value>
+				<value name="width" type="float">1.25</value>
 			</object>
 			<object name="12">
 				<value id="090D5EE6" type="float">1</value>
@@ -89,7 +89,7 @@
 				<value id="87EEB199" type="float">0.07</value>
 				<value id="D83854C9" type="float">1</value>
 				<value id="F873E6D4" type="float">0.8</value>
-				<value name="height" type="float">0.6</value>
+				<value name="height" type="float">0.5</value>
 				<value name="name" type="string">Palmforest_Grass_Flowers</value>
 				<value name="width" type="float">0.8</value>
 			</object>
@@ -125,9 +125,9 @@
 				<value id="87EEB199" type="float">0.02</value>
 				<value id="D83854C9" type="float">0.5</value>
 				<value id="F873E6D4" type="float">0.6</value>
-				<value name="height" type="float">1.1</value>
+				<value name="height" type="float">1.15</value>
 				<value name="name" type="string">Costalforest_Grass_Shrub</value>
-				<value name="width" type="float">1.1</value>
+				<value name="width" type="float">1</value>
 			</object>
 			<object name="15">
 				<value id="090D5EE6" type="float">0.75</value>
@@ -143,9 +143,9 @@
 				<value id="87EEB199" type="float">0.01</value>
 				<value id="D83854C9" type="float">1</value>
 				<value id="F873E6D4" type="float">0.3</value>
-				<value name="height" type="float">0.95</value>
+				<value name="height" type="float">0.85</value>
 				<value name="name" type="string">Costalforest_Shrub_Dry</value>
-				<value name="width" type="float">0.9</value>
+				<value name="width" type="float">1</value>
 			</object>
 			<object name="16">
 				<value id="090D5EE6" type="float">0.25</value>
@@ -179,9 +179,9 @@
 				<value id="87EEB199" type="float">0.03</value>
 				<value id="D83854C9" type="float">1</value>
 				<value id="F873E6D4" type="float">0.8</value>
-				<value name="height" type="float">0.6</value>
+				<value name="height" type="float">0.5</value>
 				<value name="name" type="string">Jungle_Grass_Leafs</value>
-				<value name="width" type="float">1.1</value>
+				<value name="width" type="float">1</value>
 			</object>
 			<object name="18">
 				<value id="090D5EE6" type="float">0.5</value>
@@ -197,9 +197,9 @@
 				<value id="87EEB199" type="float">0.03</value>
 				<value id="D83854C9" type="float">1</value>
 				<value id="F873E6D4" type="float">0.8</value>
-				<value name="height" type="float">0.6</value>
+				<value name="height" type="float">0.5</value>
 				<value name="name" type="string">Jungle_Grass_Leafs_Red</value>
-				<value name="width" type="float">1.15</value>
+				<value name="width" type="float">1</value>
 			</object>
 			<object name="19">
 				<value id="090D5EE6" type="float">0.5</value>
@@ -215,7 +215,7 @@
 				<value id="87EEB199" type="float">0.05</value>
 				<value id="D83854C9" type="float">0.5</value>
 				<value id="F873E6D4" type="float">0.8</value>
-				<value name="height" type="float">0.6</value>
+				<value name="height" type="float">0.45</value>
 				<value name="name" type="string">Lawn_Grass_Thick</value>
 				<value name="width" type="float">1</value>
 			</object>
@@ -233,9 +233,9 @@
 				<value id="87EEB199" type="float">0.05</value>
 				<value id="D83854C9" type="float">1</value>
 				<value id="F873E6D4" type="float">0.8</value>
-				<value name="height" type="float">0.6</value>
+				<value name="height" type="float">0.5</value>
 				<value name="name" type="string">Grass_Leafs</value>
-				<value name="width" type="float">0.9</value>
+				<value name="width" type="float">0.75</value>
 			</object>
 			<object name="20">
 				<value id="090D5EE6" type="float">0.25</value>
@@ -251,9 +251,9 @@
 				<value id="87EEB199" type="float">0.05</value>
 				<value id="D83854C9" type="float">0.5</value>
 				<value id="F873E6D4" type="float">0.8</value>
-				<value name="height" type="float">0.4</value>
+				<value name="height" type="float">0.45</value>
 				<value name="name" type="string">Lawn_Grass_Thin</value>
-				<value name="width" type="float">0.8</value>
+				<value name="width" type="float">0.7</value>
 			</object>
 			<object name="21">
 				<value id="090D5EE6" type="float">1</value>
@@ -269,9 +269,9 @@
 				<value id="87EEB199" type="float">0.02</value>
 				<value id="D83854C9" type="float">0.5</value>
 				<value id="F873E6D4" type="float">0.6</value>
-				<value name="height" type="float">1.1</value>
+				<value name="height" type="float">1.25</value>
 				<value name="name" type="string">Road_Edge_Grass_Shrub</value>
-				<value name="width" type="float">1.1</value>
+				<value name="width" type="float">1</value>
 			</object>
 			<object name="22">
 				<value id="090D5EE6" type="float">0.75</value>
@@ -305,7 +305,7 @@
 				<value id="87EEB199" type="float">0.05</value>
 				<value id="D83854C9" type="float">0.5</value>
 				<value id="F873E6D4" type="float">0.8</value>
-				<value name="height" type="float">0.45</value>
+				<value name="height" type="float">0.35</value>
 				<value name="name" type="string">Road_Edge_Grass_Thin</value>
 				<value name="width" type="float">0.8</value>
 			</object>
@@ -341,9 +341,9 @@
 				<value id="87EEB199" type="float">0.07</value>
 				<value id="D83854C9" type="float">1</value>
 				<value id="F873E6D4" type="float">0.8</value>
-				<value name="height" type="float">0.6</value>
+				<value name="height" type="float">0.5</value>
 				<value name="name" type="string">Field_Grass_Flowers</value>
-				<value name="width" type="float">1.1</value>
+				<value name="width" type="float">1</value>
 			</object>
 			<object name="26">
 				<value id="090D5EE6" type="float">0.5</value>
@@ -361,7 +361,7 @@
 				<value id="F873E6D4" type="float">0.6</value>
 				<value name="height" type="float">0.7</value>
 				<value name="name" type="string">Poppy_Field_Grass_Thick</value>
-				<value name="width" type="float">1.15</value>
+				<value name="width" type="float">1.25</value>
 			</object>
 			<object name="27">
 				<value id="090D5EE6" type="float">1</value>
@@ -395,7 +395,7 @@
 				<value id="87EEB199" type="float">0.05</value>
 				<value id="D83854C9" type="float">1</value>
 				<value id="F873E6D4" type="float">0.8</value>
-				<value name="height" type="float">0.6</value>
+				<value name="height" type="float">0.5</value>
 				<value name="name" type="string">Grass_Leafs_Red</value>
 				<value name="width" type="float">1</value>
 			</object>
@@ -431,9 +431,9 @@
 				<value id="87EEB199" type="float">0.05</value>
 				<value id="D83854C9" type="float">1</value>
 				<value id="F873E6D4" type="float">0.8</value>
-				<value name="height" type="float">0.6</value>
+				<value name="height" type="float">0.5</value>
 				<value name="name" type="string">Grass_Flowers</value>
-				<value name="width" type="float">1.1</value>
+				<value name="width" type="float">1</value>
 			</object>
 			<object name="6">
 				<value id="090D5EE6" type="float">0.75</value>
@@ -449,7 +449,7 @@
 				<value id="87EEB199" type="float">0.1</value>
 				<value id="D83854C9" type="float">0.25</value>
 				<value id="F873E6D4" type="float">0.8</value>
-				<value name="height" type="float">0.6</value>
+				<value name="height" type="float">0.4</value>
 				<value name="name" type="string">Grass_Dry</value>
 				<value name="width" type="float">0.5</value>
 			</object>
@@ -467,9 +467,9 @@
 				<value id="87EEB199" type="float">0.1</value>
 				<value id="D83854C9" type="float">0.25</value>
 				<value id="F873E6D4" type="float">0.6</value>
-				<value name="height" type="float">0.5</value>
+				<value name="height" type="float">0.4</value>
 				<value name="name" type="string">Palmforest_Edge_Grass_Dry</value>
-				<value name="width" type="float">0.8</value>
+				<value name="width" type="float">0.7</value>
 			</object>
 			<object name="8">
 				<value id="090D5EE6" type="float">0.75</value>
@@ -503,9 +503,9 @@
 				<value id="87EEB199" type="float">0.05</value>
 				<value id="D83854C9" type="float">0.5</value>
 				<value id="F873E6D4" type="float">0.6</value>
-				<value name="height" type="float">0.55</value>
+				<value name="height" type="float">0.45</value>
 				<value name="name" type="string">Palmforest_Edge_Grass_Thin</value>
-				<value name="width" type="float">0.9</value>
+				<value name="width" type="float">0.8</value>
 			</object>
 		</object>
 	</object>
