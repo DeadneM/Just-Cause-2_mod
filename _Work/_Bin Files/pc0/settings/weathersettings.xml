@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<value name="acceleration" type="float">1</value>
+		<value name="cloud_base" type="float">2000</value>
+		<value name="cloud_height" type="float">800</value>
+		<value name="cloud_particle_count" type="int">200</value>
+		<value name="draw_distance" type="float">20000</value>
+		<value name="god_ray_count" type="int">100</value>
+		<value name="mist_altitude" type="float">550</value>
+		<value name="mist_count" type="int">500</value>
+		<value name="severity" type="float">1</value>
+	</object>
+</root>

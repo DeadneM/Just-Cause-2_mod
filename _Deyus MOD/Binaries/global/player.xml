@@ -230,8 +230,8 @@
 				<value name="resistance_effect_max_resistance" type="float">0</value>
 				<value name="resistance_effect_min" type="float">0.1</value>
 				<value name="resistance_effect_min_resistance" type="float">100</value>
-				<value name="resistance_regen_delay" type="float">2.5</value>
-				<value name="resistance_regen_rate" type="float">250</value>
+				<value name="resistance_regen_delay" type="float">0.5</value>
+				<value name="resistance_regen_rate" type="float">100</value>
 			</object>
 			<object name="melee">
 				<object name="kick">

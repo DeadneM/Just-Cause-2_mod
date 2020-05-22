@@ -19,7 +19,7 @@
 				<value id="F873E6D4" type="float">0.6</value>
 				<value name="height" type="float">0.6</value>
 				<value name="name" type="string">Grass_Thin</value>
-				<value name="width" type="float">1</value>
+				<value name="width" type="float">0.7</value>
 			</object>
 			<object name="1">
 				<value id="090D5EE6" type="float">0.5</value>

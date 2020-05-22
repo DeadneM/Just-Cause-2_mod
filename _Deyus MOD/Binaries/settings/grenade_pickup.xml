@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".bin">
+	<object>
+		<value id="702B9F2D" type="int">1</value>
+		<value id="86116420" type="int">1</value>
+		<value id="8D18B9E4" type="int">1</value>
+		<value name="name" type="string">pickup.grenade</value>
+		<object id="080FF619" />
+		<object name="editor" />
+		<object name="Root">
+			<value id="3DF2164D" type="string"></value>
+			<value id="445067B6" type="int">0</value>
+			<value id="574A9836" type="int">0</value>
+			<value id="6066EF36" type="int">1</value>
+			<value id="702B9F2D" type="int">1</value>
+			<value id="723C0932" type="int">1</value>
+			<value id="86116420" type="int">1</value>
+			<value id="8D18B9E4" type="int">1</value>
+			<value id="93DC85B3" type="int">0</value>
+			<value id="9ACAE5CD" type="vec">0,0,0</value>
+			<value id="9FD961DE" type="int">0</value>
+			<value id="CEE5568B" type="int">1</value>
+			<value id="D687D34D" type="float">-1</value>
+			<value id="F0B1B39A" type="int">0</value>
+			<value id="F1BFAEF9" type="int">-1</value>
+			<value name="layer" type="string">default</value>
+			<value name="population" type="int">500</value>
+			<value name="size" type="vec2">0,0</value>
+			<object id="07DBC5AD">
+				<value id="692808C5" type="int">0</value>
+				<value id="702B9F2D" type="int">1</value>
+				<value id="86116420" type="int">1</value>
+				<value id="8D18B9E4" type="int">1</value>
+				<value id="976B6A1D" type="string">CSmartObject1</value>
+				<value id="D7FA7FE3" type="string">{0BF802C8-652B-41A1-8682-B625208AAC81}</value>
+				<value name="_class" type="string">CItem</value>
+				<value name="_object_id" type="int">131843501</value>
+				<value name="enabled" type="int">1</value>
+				<value name="icon" type="int">0</value>
+				<value name="itemtype" type="int">0</value>
+				<value name="modelname" type="string">weapons\wea33\wea33-wea33.lod</value>
+				<value name="name" type="string">Handgrenade</value>
+				<value name="pickup_count" type="int">5</value>
+				<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+				<object id="4B78C654">
+					<value id="08BAF9F5" type="string"></value>
+					<value id="692808C5" type="int">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="7F368D35" type="string"></value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="976B6A1D" type="string">CSmartObjectTrigger1</value>
+					<value id="BB801F07" type="string"></value>
+					<value id="E72F7E06" type="int">-1</value>
+					<value name="_class" type="string">CSmartObject</value>
+					<value name="_object_id" type="int">1343529391</value>
+					<value name="disable" type="string"></value>
+					<value name="enable" type="string"></value>
+					<value name="enabled" type="int">1</value>
+					<value name="enter_event" type="string"></value>
+					<value name="exit_event" type="string"></value>
+					<value name="mission_name" type="string"></value>
+					<value name="model_filename" type="string"></value>
+					<value name="name" type="string">SmartObject1</value>
+					<value name="save" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+					<object id="ABB091DE">
+						<value id="702B9F2D" type="int">1</value>
+						<value id="86116420" type="int">1</value>
+						<value id="8D18B9E4" type="int">1</value>
+						<value id="976B6A1D" type="string">CGrenadePickupAction1</value>
+						<value name="_class" type="string">CSmartObjectTrigger</value>
+						<value name="_object_id" type="int">849125074</value>
+						<value name="box_size" type="vec">1,1,1</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="name" type="string">SmartObjectTrigger1</value>
+						<object id="AF340425">
+							<value id="191434AB" type="int">0</value>
+							<value id="1AD70819" type="int">0</value>
+							<value id="1E0C1BC2" type="string"></value>
+							<value id="2CF00DCB" type="int">1</value>
+							<value id="32D444CC" type="int">0</value>
+							<value id="37757A6D" type="string"></value>
+							<value id="3A1F258A" type="int">0</value>
+							<value id="3EFF86A9" type="string"></value>
+							<value id="43E453A4" type="int">0</value>
+							<value id="4CC77F2F" type="int">0</value>
+							<value id="5AFFE35E" type="int">0</value>
+							<value id="5D655631" type="string"></value>
+							<value id="62E2C2CE" type="string"></value>
+							<value id="63F9EA61" type="int">0</value>
+							<value id="702B9F2D" type="int">1</value>
+							<value id="70F24645" type="int">1</value>
+							<value id="742CDD23" type="int">-1</value>
+							<value id="855DAF02" type="int">0</value>
+							<value id="86116420" type="int">1</value>
+							<value id="8CBAEA30" type="float">360</value>
+							<value id="8D18B9E4" type="int">1</value>
+							<value id="A1C34309" type="int">0</value>
+							<value id="AF893859" type="string"></value>
+							<value id="B92848E1" type="int">0</value>
+							<value id="C6B879C0" type="int">0</value>
+							<value id="CAD390EE" type="int">0</value>
+							<value id="D0003E19" type="string"></value>
+							<value id="D6D617CC" type="string"></value>
+							<value id="DA72FF7B" type="string"></value>
+							<value id="EECA5657" type="int">38</value>
+							<value id="F0E7F73D" type="string"></value>
+							<value id="F6D62EA4" type="string">hud_button_12</value>
+							<value name="_class" type="string">CGrenadePickupAction</value>
+							<value name="_object_id" type="int">298009322</value>
+							<value name="blend_time" type="float">0.2</value>
+							<value name="explosive_type" type="int">0</value>
+							<value name="name" type="string">GrenadePickupAction1</value>
+							<value name="priority" type="int">1</value>
+						</object>
+					</object>
+				</object>
+				<object id="B6A00A8C">
+					<value id="0AA0FDED" type="string"></value>
+					<value id="1F2624DB" type="int">1</value>
+					<value id="641D73F0" type="int">1</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="9A4A5864" type="float">1</value>
+					<value id="C9099365" type="string"></value>
+					<value id="D337272A" type="int">0</value>
+					<value id="F82B8A98" type="string"></value>
+					<value name="_class" type="string">COutline</value>
+					<value name="_object_id" type="int">2043227232</value>
+					<value name="color" type="vec4">220,120,0,75</value>
+					<value name="name" type="string">Outline1</value>
+					<value name="width" type="int">3</value>
+				</object>
+			</object>
+		</object>
+	</object>
+</root>
