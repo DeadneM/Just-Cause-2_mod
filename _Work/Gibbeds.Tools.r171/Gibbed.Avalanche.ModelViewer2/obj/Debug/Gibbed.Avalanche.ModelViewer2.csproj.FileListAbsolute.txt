@@ -1,0 +1,9 @@
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\Gibbed.Avalanche.ModelViewer2.exe
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\Gibbed.Avalanche.ModelViewer2.pdb
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ModelViewer2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ModelViewer2\obj\Debug\Gibbed.Avalanche.ModelViewer2.Viewer.resources
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ModelViewer2\obj\Debug\Gibbed.Avalanche.ModelViewer2.Properties.Resources.resources
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ModelViewer2\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ModelViewer2\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ModelViewer2\obj\Debug\Gibbed.Avalanche.ModelViewer2.exe
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ModelViewer2\obj\Debug\Gibbed.Avalanche.ModelViewer2.pdb

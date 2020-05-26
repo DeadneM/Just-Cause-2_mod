@@ -1,0 +1,5 @@
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.IO\bin\Debug\Gibbed.IO.dll
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.IO\bin\Debug\Gibbed.IO.pdb
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.IO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.IO\obj\Debug\Gibbed.IO.dll
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.IO\obj\Debug\Gibbed.IO.pdb

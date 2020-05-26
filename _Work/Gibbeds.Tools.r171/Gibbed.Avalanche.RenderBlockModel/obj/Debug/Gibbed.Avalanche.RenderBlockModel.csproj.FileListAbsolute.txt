@@ -1,0 +1,11 @@
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.RenderBlockModel\bin\Debug\Gibbed.Avalanche.RenderBlockModel.dll
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.RenderBlockModel\bin\Debug\Gibbed.Avalanche.RenderBlockModel.pdb
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.RenderBlockModel\bin\Debug\Gibbed.Avalanche.FileFormats.dll
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.RenderBlockModel\bin\Debug\Gibbed.IO.dll
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.RenderBlockModel\bin\Debug\Gibbed.ProjectData.dll
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.RenderBlockModel\bin\Debug\Gibbed.Avalanche.FileFormats.pdb
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.RenderBlockModel\bin\Debug\Gibbed.IO.pdb
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.RenderBlockModel\bin\Debug\Gibbed.ProjectData.pdb
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.RenderBlockModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.RenderBlockModel\obj\Debug\Gibbed.Avalanche.RenderBlockModel.dll
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.RenderBlockModel\obj\Debug\Gibbed.Avalanche.RenderBlockModel.pdb

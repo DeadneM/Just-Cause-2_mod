@@ -1,0 +1,6 @@
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\RebuildFileLists.exe.config
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\RebuildFileLists.exe
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\RebuildFileLists.pdb
+C:\Users\Amaury\Desktop\jc2\gibbedr171\RebuildFileLists\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amaury\Desktop\jc2\gibbedr171\RebuildFileLists\obj\x86\Debug\RebuildFileLists.exe
+C:\Users\Amaury\Desktop\jc2\gibbedr171\RebuildFileLists\obj\x86\Debug\RebuildFileLists.pdb

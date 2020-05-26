@@ -1,0 +1,5 @@
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.ProjectData\bin\Debug\Gibbed.ProjectData.dll
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.ProjectData\bin\Debug\Gibbed.ProjectData.pdb
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.ProjectData\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.ProjectData\obj\Debug\Gibbed.ProjectData.dll
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.ProjectData\obj\Debug\Gibbed.ProjectData.pdb

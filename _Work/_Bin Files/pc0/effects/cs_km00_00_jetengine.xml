@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="Raw" endian="Little">
+	<object>
+		<object name="ava_effect">
+			<object name="effect_components">
+				<object id="54236B22">
+					<value name="type" type="int">1</value>
+					<value name="uid" type="int">0</value>
+					<object name="variations">
+						<object name="Default">
+							<value name="kill_when_finished" type="int">1</value>
+							<value name="name" type="string">cs_km00_00_jetengine_01</value>
+							<value name="uid" type="int">0</value>
+						</object>
+					</object>
+				</object>
+			</object>
+			<object name="inputs">
+				<value name="impulse" type="int">0</value>
+			</object>
+			<object name="interaction_matrix">
+				<object name="default_item">
+					<value id="54236B22" type="string">0:0</value>
+				</object>
+			</object>
+			<object name="settings">
+				<value name="hold" type="float">1</value>
+				<value name="max_instances" type="int">10</value>
+				<value name="priority" type="int">0</value>
+			</object>
+		</object>
+	</object>
+</container>

@@ -1,0 +1,3245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".mvdoll">
+	<object>
+		<object name="_vdoll">
+			<value name="_name" type="string">CVehicleProp</value>
+			<value name="_vehicletype" type="int">0</value>
+			<value name="nof_rotors" type="int">0</value>
+			<value name="nof_wheels" type="int">4</value>
+			<object name="_default_modules">
+				<object id="31371174">
+					<value id="A80EF9C6" type="int">35</value>
+					<value id="C71A85BB" type="int">65</value>
+					<value id="F3E36D12" type="string">Editor\Vehicles\LAVE\Modules\Steering\Str_35D_65kmh.mod</value>
+					<value name="_class" type="string">CCarSteeringModule</value>
+					<value name="_name" type="string">Str_35D_65kmh</value>
+				</object>
+				<object id="3DAD18D3">
+					<value id="91ABE407" type="float">4</value>
+					<value id="F3E36D12" type="string">Editor\Vehicles\LAVE\Modules\Base\Global_SuperSport.mod</value>
+					<value name="_class" type="string">CCarGlobalModule</value>
+					<value name="_name" type="string">Global_SuperSport</value>
+					<value name="AirDensity" type="float">1.3</value>
+					<value name="AngularDamping" type="float">0.075</value>
+					<value name="Boyancy" type="float">1.85</value>
+					<value name="CollisionSpinDamping" type="float">0.05</value>
+					<value name="CollisionSpinThreshold" type="float">2</value>
+					<value name="DeadZone" type="float">0</value>
+					<value name="ExtraGravity" type="float">-2</value>
+					<value name="InitialSlope" type="float">0.5</value>
+					<value name="LinearDamping" type="float">0</value>
+					<value name="MaxVelocityRatio" type="float">0</value>
+					<value name="MinVelocityRatio" type="float">0</value>
+					<value name="NormalClippingAngle" type="float">0.2</value>
+					<value name="NormalSpinDamping" type="float">1.05</value>
+					<value name="SlopeChangeX" type="float">0.75</value>
+				</object>
+				<object id="683F81F2">
+					<value id="08459773" type="float">150</value>
+					<value id="2C48766B" type="float">200</value>
+					<value id="A277FE8C" type="float">0.75</value>
+					<value id="C06C5451" type="float">0.9</value>
+					<value id="F3E36D12" type="string">Editor\Vehicles\LAVE\Modules\Axis\Axis_V24_Rear.mod</value>
+					<value name="_class" type="string">CWheelModule</value>
+					<value name="_name" type="string">Axis_V24_Rear</value>
+					<value name="armour" type="float">20</value>
+					<value name="broken_friction" type="float">50</value>
+					<value name="broken_mass" type="float">15</value>
+					<value name="broken_radius" type="float">0.15</value>
+					<value name="friction" type="float">1.6</value>
+					<value name="hitpoints" type="float">200</value>
+					<value name="mass" type="float">75</value>
+					<value name="max_friction" type="float">1.9</value>
+					<value name="radius" type="float">0.36</value>
+					<value name="sink_friction_coeff" type="float">0</value>
+					<value name="slip_angle" type="float">0.1</value>
+					<value name="viscosity" type="float">0.01</value>
+					<value name="wheel_axis" type="int">1</value>
+					<value name="wheel_nr" type="int">2</value>
+					<value name="width" type="float">0.375</value>
+					<object id="22BC2BA5">
+						<value id="863E66F9" type="int">1</value>
+						<value id="F3E36D12" type="string">Editor\Vehicles\LAVE\Modules\Axis\Axis_V24_Rear.mod</value>
+						<value name="_class" type="string">CBrakeModule</value>
+						<value name="_name" type="string">Brake_750</value>
+						<value name="handbrake" type="int">1</value>
+						<value name="max_brake_torque" type="float">1500</value>
+						<value name="min_time_to_block" type="float">10</value>
+						<value name="power_distribution" type="int">100</value>
+					</object>
+					<object id="89598B52">
+						<value id="F3E36D12" type="string">Editor\Vehicles\LAVE\Modules\Axis\Axis_V24_Rear.mod</value>
+						<value name="_class" type="string">CSuspensionModule</value>
+						<value name="_name" type="string">Susp_Sedan_20cm</value>
+						<value name="antirollbar_strength" type="float">0</value>
+						<value name="compression" type="float">2.25</value>
+						<value name="direction" type="vec">-0.075,-1,0</value>
+						<value name="length" type="float">0.12</value>
+						<value name="relaxation" type="float">4</value>
+						<value name="strength" type="float">40</value>
+					</object>
+				</object>
+				<object id="718DC3F6">
+					<value id="F3E36D12" type="string">Editor\Vehicles\LAVE\Modules\Engine\Eng_Spr_V024.mod</value>
+					<value name="_class" type="string">CCarEngineModule</value>
+					<value name="_name" type="string">Eng_Spr_V024</value>
+					<value name="clutchsliprpm" type="float">0</value>
+					<value name="downshift_rpm" type="string">3000,3500,4000, 4500</value>
+					<value name="resistance_max" type="float">0.15</value>
+					<value name="resistance_min" type="float">0.075</value>
+					<value name="resistance_opt" type="float">0.1</value>
+					<value name="rpm_max" type="float">8500</value>
+					<value name="rpm_min" type="float">2000</value>
+					<value name="rpm_opt" type="float">4000</value>
+					<value name="rpm_powerband" type="int">0</value>
+					<value name="torque_max" type="float">0.4</value>
+					<value name="torque_min" type="float">1</value>
+					<value name="torque_opt" type="float">350</value>
+					<value name="upshift_rpm" type="string">7500,7300,7200,7700</value>
+				</object>
+				<object id="81BFF5EC">
+					<value id="5CD39AA3" type="float">0.8</value>
+					<value id="6AD79A9F" type="float">0.4</value>
+					<value id="7453DF4D" type="float">5</value>
+					<value id="776BB39A" type="float">1</value>
+					<value id="9482DFBD" type="float">0.8</value>
+					<value id="C46D206A" type="float">-2500</value>
+					<value id="F3E36D12" type="string">Editor\Vehicles\LAVE\Modules\Base\RayCast_Sport_V024.mod</value>
+					<value name="_class" type="string">CCarRaycastModule</value>
+					<value name="_name" type="string">RayCast_Sport_V024</value>
+				</object>
+				<object id="87F042C4">
+					<value id="F3E36D12" type="string">editor\vehicles\lave\modules\ai\ai_35d_default.mod</value>
+					<value name="_class" type="string">CAiModule</value>
+					<value name="_name" type="string">AI_35D_Default</value>
+					<value name="acc_d" type="float">0</value>
+					<value name="acc_i" type="float">0</value>
+					<value name="acc_p" type="float">0.1</value>
+					<value name="speed_backward" type="float">50</value>
+					<value name="speed_forward" type="float">150</value>
+					<value name="stop_d" type="float">0</value>
+					<value name="stop_i" type="float">0</value>
+					<value name="stop_p" type="float">0.3</value>
+					<value name="turn_d" type="float">0</value>
+					<value name="turn_i" type="float">0</value>
+					<value name="turn_p" type="float">1.25</value>
+				</object>
+				<object id="99BC8593">
+					<value id="08459773" type="float">150</value>
+					<value id="2C48766B" type="float">200</value>
+					<value id="A277FE8C" type="float">0.75</value>
+					<value id="C06C5451" type="float">0.75</value>
+					<value id="F3E36D12" type="string">Editor\Vehicles\LAVE\Modules\Axis\Axis_V24_Front.mod</value>
+					<value name="_class" type="string">CWheelModule</value>
+					<value name="_name" type="string">Axis_V24_Front</value>
+					<value name="armour" type="float">20</value>
+					<value name="broken_friction" type="float">50</value>
+					<value name="broken_mass" type="float">15</value>
+					<value name="broken_radius" type="float">0.15</value>
+					<value name="friction" type="float">1.6</value>
+					<value name="hitpoints" type="float">200</value>
+					<value name="mass" type="float">75</value>
+					<value name="max_friction" type="float">1.9</value>
+					<value name="radius" type="float">0.36</value>
+					<value name="sink_friction_coeff" type="float">0</value>
+					<value name="slip_angle" type="float">0.075</value>
+					<value name="viscosity" type="float">0.01</value>
+					<value name="wheel_axis" type="int">0</value>
+					<value name="wheel_nr" type="int">0</value>
+					<value name="width" type="float">0.375</value>
+					<object id="22BC2BA5">
+						<value id="863E66F9" type="int">1</value>
+						<value id="F3E36D12" type="string">Editor\Vehicles\LAVE\Modules\Axis\Axis_V24_Front.mod</value>
+						<value name="_class" type="string">CBrakeModule</value>
+						<value name="_name" type="string">Brake_1000</value>
+						<value name="handbrake" type="int">0</value>
+						<value name="max_brake_torque" type="float">2000</value>
+						<value name="min_time_to_block" type="float">10</value>
+						<value name="power_distribution" type="int">100</value>
+					</object>
+					<object id="89598B52">
+						<value id="F3E36D12" type="string">Editor\Vehicles\LAVE\Modules\Axis\Axis_V24_Front.mod</value>
+						<value name="_class" type="string">CSuspensionModule</value>
+						<value name="_name" type="string">Susp_Sedan_20cm</value>
+						<value name="antirollbar_strength" type="float">0</value>
+						<value name="compression" type="float">2.5</value>
+						<value name="direction" type="vec">-0.05000003,-1,0</value>
+						<value name="length" type="float">0.12</value>
+						<value name="relaxation" type="float">7</value>
+						<value name="strength" type="float">40</value>
+					</object>
+				</object>
+				<object id="A6DB0131">
+					<value id="E8CBDA9D" type="float">0.75</value>
+					<value id="F3E36D12" type="string">editor\vehicles\lave\modules\base\cardamage_low.mod</value>
+					<value name="_class" type="string">CVehicleDamageModule</value>
+					<value name="_name" type="string">CarDamage_Low</value>
+					<value name="bullet_armor" type="int">5</value>
+					<value name="deform_scale" type="float">0.003</value>
+					<value name="explosion_armor" type="int">0</value>
+					<value name="explosion_threshold" type="int">75</value>
+					<value name="glass_armor" type="int">1</value>
+					<value name="impact_armor" type="int">2</value>
+					<value name="max_health" type="int">500</value>
+					<value name="metal_armor" type="int">40</value>
+				</object>
+				<object id="AD34F3C5">
+					<value id="EC5A823D" type="int">1</value>
+					<value id="F3E36D12" type="string">Editor\Vehicles\LAVE\Modules\Base\PB_V024.mod</value>
+					<value name="_class" type="string">CCarPhysicalBaseModule</value>
+					<value name="_name" type="string">PB_V024</value>
+					<value name="CenterOfMass" type="vec">0,0.5,0.1</value>
+					<value name="ChassiMass" type="float">1250</value>
+					<value name="DragCoefficent" type="float">1</value>
+					<value name="FrontalArea" type="float">1.5</value>
+					<value name="InertiaPitch" type="float">1.35</value>
+					<value name="InertiaRoll" type="float">0.55</value>
+					<value name="InertiaYaw" type="float">1.35</value>
+					<value name="LiftCoefficent" type="float">-0.25</value>
+				</object>
+				<object id="BB5F3B56">
+					<value id="0739740B" type="float">3</value>
+					<value id="7976EB47" type="float">20</value>
+					<value id="975655BC" type="float">1</value>
+					<value id="97D6CC7A" type="int">5</value>
+					<value id="C9D728C7" type="string">3.25, 2.05, 1.35, 1,  0.8</value>
+					<value id="DD70F454" type="float">150</value>
+					<value id="EB6B03D2" type="float">0.15</value>
+					<value id="F3E36D12" type="string">Editor\Vehicles\LAVE\Modules\Transmission\Trm_Spr_V024.mod</value>
+					<value name="_class" type="string">CCarTransmissionModule</value>
+					<value name="_name" type="string">Trm_Spr_V024</value>
+				</object>
+				<object name="CGroupModule_CBoyancyModule">
+					<value id="F3E36D12" type="string">editor\vehicles\lave\modules\bouyancy\bou_v024.mod</value>
+					<value name="_class" type="string">CGroupModule</value>
+					<value name="_name" type="string">CGroupModule_CBoyancyModule</value>
+					<value name="export_grouped" type="int">1</value>
+					<value name="num_parts" type="int">3</value>
+					<object name="CBoyancyModule_0">
+						<value id="578CCC6B" type="float">0</value>
+						<value id="DC7C4744" type="float">20</value>
+						<value id="F3E36D12" type="string">editor\vehicles\lave\modules\bouyancy\bou_v024.mod</value>
+						<value name="_class" type="string">CBoyancyModule</value>
+						<value name="_name" type="string">V024_Boyancy</value>
+						<value name="drag" type="float">1000</value>
+						<value name="position" type="vec">0,0.6,-1.142559</value>
+						<value name="radius" type="float">0.55</value>
+						<value name="side_area" type="float">3</value>
+					</object>
+					<object name="CBoyancyModule_1">
+						<value id="578CCC6B" type="float">0</value>
+						<value id="DC7C4744" type="float">20</value>
+						<value id="F3E36D12" type="string">editor\vehicles\lave\modules\bouyancy\bou_v024.mod</value>
+						<value name="_class" type="string">CBoyancyModule</value>
+						<value name="_name" type="string">V024_Boyancy</value>
+						<value name="drag" type="float">0</value>
+						<value name="position" type="vec">0,0.6,1.27704</value>
+						<value name="radius" type="float">0</value>
+						<value name="side_area" type="float">0</value>
+					</object>
+					<object name="CBoyancyModule_2">
+						<value id="578CCC6B" type="float">0</value>
+						<value id="DC7C4744" type="float">20</value>
+						<value id="F3E36D12" type="string">editor\vehicles\lave\modules\bouyancy\bou_v024.mod</value>
+						<value name="_class" type="string">CBoyancyModule</value>
+						<value name="_name" type="string">V024_Boyancy</value>
+						<value name="drag" type="float">0</value>
+						<value name="position" type="vec">0,0.6,0.1910397</value>
+						<value name="radius" type="float">0</value>
+						<value name="side_area" type="float">0</value>
+					</object>
+				</object>
+			</object>
+			<object name="_families">
+				<object id="19C1479C">
+					<value name="_class" type="string">CFamilyProp</value>
+					<value name="_name" type="string">CFamilyProp</value>
+					<value name="VehicleID" type="string">V024_Sportscar</value>
+					<object id="12C48E08">
+						<value id="28CC5503" type="string"></value>
+						<value name="_class" type="string">CCollectionProp</value>
+						<value name="_GUID" type="int">-482133966</value>
+						<value name="_name" type="string">WeaponUpgrades</value>
+						<object id="C227BCD2">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">1988402363</value>
+							<value name="_name" type="string">1</value>
+							<object id="02D25A50">
+								<value name="_class" type="string">CReferenceProp</value>
+								<value name="_GUID" type="int">-1062223395</value>
+								<value name="_name" type="string">V024-Mount_ref</value>
+								<value name="_refGUID" type="int">-1871819245</value>
+							</object>
+						</object>
+						<object id="DAA546AC">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">1385703824</value>
+							<value name="_name" type="string">0</value>
+							<object id="94E83497">
+								<value name="_class" type="string">CReferenceProp</value>
+								<value name="_GUID" type="int">-1210089768</value>
+								<value name="_name" type="string">V024-Trunk_ref</value>
+								<value name="_refGUID" type="int">1265696984</value>
+								<object id="2AFF6384">
+									<value name="_class" type="string">CReferenceProp</value>
+									<value name="_GUID" type="int">1205952548</value>
+									<value name="_name" type="string">V024-BK_L_ref</value>
+									<value name="_refGUID" type="int">507686615</value>
+								</object>
+							</object>
+							<object id="DEA87AEC">
+								<value name="_class" type="string">CExcludeProp</value>
+								<value name="_name" type="string">CExcludeProp</value>
+								<value name="Exclude0" type="int">-343725778</value>
+								<value name="Exclude1" type="int">0</value>
+								<value name="Exclude2" type="int">0</value>
+								<value name="Exclude3" type="int">0</value>
+								<value name="Exclude4" type="int">0</value>
+								<value name="Exclude5" type="int">0</value>
+								<value name="Exclude6" type="int">0</value>
+								<value name="Exclude7" type="int">0</value>
+								<value name="Exclude8" type="int">0</value>
+								<value name="Exclude9" type="int">0</value>
+							</object>
+						</object>
+						<object id="FB6906C0">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-1851038469</value>
+							<value name="_name" type="string">Default</value>
+							<object id="212D358E">
+								<value name="_class" type="string">CExcludeProp</value>
+								<value name="_name" type="string">CExcludeProp</value>
+								<value name="Exclude0" type="int">-343725778</value>
+								<value name="Exclude1" type="int">0</value>
+								<value name="Exclude2" type="int">0</value>
+								<value name="Exclude3" type="int">0</value>
+								<value name="Exclude4" type="int">0</value>
+								<value name="Exclude5" type="int">0</value>
+								<value name="Exclude6" type="int">0</value>
+								<value name="Exclude7" type="int">0</value>
+								<value name="Exclude8" type="int">0</value>
+								<value name="Exclude9" type="int">0</value>
+							</object>
+							<object id="2C4D9530">
+								<value name="_class" type="string">CReferenceProp</value>
+								<value name="_GUID" type="int">-217497622</value>
+								<value name="_name" type="string">V024-Trunk_ref</value>
+								<value name="_refGUID" type="int">1265696984</value>
+								<object id="DF0015D3">
+									<value name="_class" type="string">CReferenceProp</value>
+									<value name="_GUID" type="int">283115002</value>
+									<value name="_name" type="string">V024-BK_L_ref</value>
+									<value name="_refGUID" type="int">507686615</value>
+								</object>
+							</object>
+						</object>
+					</object>
+					<object id="23A0EB4A">
+						<value id="28CC5503" type="string"></value>
+						<value name="_class" type="string">CCollectionProp</value>
+						<value name="_GUID" type="int">-590928379</value>
+						<value name="_name" type="string">HandlingUpgrades</value>
+						<object id="05555BAF">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-761274547</value>
+							<value name="_name" type="string">5</value>
+							<object name="_modules">
+								<object id="08FE8C89">
+									<value id="EC5A823D" type="int">1</value>
+									<value name="_class" type="string">CCarPhysicalBaseModule</value>
+									<value name="_name" type="string">V024_Handling_5</value>
+									<value name="CenterOfMass" type="vec">0,0.45,0.05</value>
+									<value name="ChassiMass" type="float">1250</value>
+									<value name="DragCoefficent" type="float">1</value>
+									<value name="FrontalArea" type="float">1.5</value>
+									<value name="InertiaPitch" type="float">1.35</value>
+									<value name="InertiaRoll" type="float">0.55</value>
+									<value name="InertiaYaw" type="float">1.35</value>
+									<value name="LiftCoefficent" type="float">-0.4</value>
+								</object>
+								<object id="40AF47E4">
+									<value id="A80EF9C6" type="int">40</value>
+									<value id="C71A85BB" type="int">80</value>
+									<value name="_class" type="string">CCarSteeringModule</value>
+									<value name="_name" type="string">Str_35D_80kmh</value>
+								</object>
+								<object id="683F81F2">
+									<object id="0B369AFE">
+										<value id="863E66F9" type="int">1</value>
+										<value name="_class" type="string">CBrakeModule</value>
+										<value name="_name" type="string">Brake_750</value>
+										<value name="handbrake" type="int">1</value>
+										<value name="max_brake_torque" type="float">1500</value>
+										<value name="min_time_to_block" type="float">10</value>
+										<value name="power_distribution" type="int">100</value>
+									</object>
+									<object id="3A14E15F">
+										<value name="_class" type="string">CSuspensionModule</value>
+										<value name="_name" type="string">Susp_Sedan_20cm</value>
+										<value name="antirollbar_strength" type="float">0</value>
+										<value name="compression" type="float">2.25</value>
+										<value name="direction" type="vec">-0.075,-1,0</value>
+										<value name="length" type="float">0.12</value>
+										<value name="relaxation" type="float">4</value>
+										<value name="strength" type="float">40</value>
+									</object>
+								</object>
+								<object id="99BC8593">
+									<object id="6850A682">
+										<value name="_class" type="string">CSuspensionModule</value>
+										<value name="_name" type="string">Susp_Sedan_20cm</value>
+										<value name="antirollbar_strength" type="float">0</value>
+										<value name="compression" type="float">2.5</value>
+										<value name="direction" type="vec">-0.05000003,-1,0</value>
+										<value name="length" type="float">0.12</value>
+										<value name="relaxation" type="float">7</value>
+										<value name="strength" type="float">40</value>
+									</object>
+									<object id="EF121534">
+										<value id="863E66F9" type="int">1</value>
+										<value name="_class" type="string">CBrakeModule</value>
+										<value name="_name" type="string">Brake_1000</value>
+										<value name="handbrake" type="int">0</value>
+										<value name="max_brake_torque" type="float">2000</value>
+										<value name="min_time_to_block" type="float">10</value>
+										<value name="power_distribution" type="int">100</value>
+									</object>
+								</object>
+							</object>
+						</object>
+						<object id="195C03CC">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">1365375058</value>
+							<value name="_name" type="string">0</value>
+						</object>
+						<object id="7F355AF3">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">182957765</value>
+							<value name="_name" type="string">4</value>
+							<object name="_modules">
+								<object id="4165DE6E">
+									<value id="EC5A823D" type="int">1</value>
+									<value name="_class" type="string">CCarPhysicalBaseModule</value>
+									<value name="_name" type="string">V024_Handling_4</value>
+									<value name="CenterOfMass" type="vec">0,0.46,0.06</value>
+									<value name="ChassiMass" type="float">1250</value>
+									<value name="DragCoefficent" type="float">1</value>
+									<value name="FrontalArea" type="float">1.5</value>
+									<value name="InertiaPitch" type="float">1.35</value>
+									<value name="InertiaRoll" type="float">0.55</value>
+									<value name="InertiaYaw" type="float">1.35</value>
+									<value name="LiftCoefficent" type="float">-0.37</value>
+								</object>
+								<object id="4D0EA24F">
+									<value id="A80EF9C6" type="int">39</value>
+									<value id="C71A85BB" type="int">77</value>
+									<value name="_class" type="string">CCarSteeringModule</value>
+									<value name="_name" type="string">Str_35D_77kmh</value>
+								</object>
+								<object id="683F81F2">
+									<object id="23A91880">
+										<value id="863E66F9" type="int">1</value>
+										<value name="_class" type="string">CBrakeModule</value>
+										<value name="_name" type="string">Brake_750</value>
+										<value name="handbrake" type="int">1</value>
+										<value name="max_brake_torque" type="float">1500</value>
+										<value name="min_time_to_block" type="float">10</value>
+										<value name="power_distribution" type="int">100</value>
+									</object>
+									<object id="270CC7B0">
+										<value name="_class" type="string">CSuspensionModule</value>
+										<value name="_name" type="string">Susp_Sedan_20cm</value>
+										<value name="antirollbar_strength" type="float">0</value>
+										<value name="compression" type="float">2.25</value>
+										<value name="direction" type="vec">-0.075,-1,0</value>
+										<value name="length" type="float">0.12</value>
+										<value name="relaxation" type="float">4</value>
+										<value name="strength" type="float">40</value>
+									</object>
+								</object>
+								<object id="99BC8593">
+									<object id="1E367C80">
+										<value name="_class" type="string">CSuspensionModule</value>
+										<value name="_name" type="string">Susp_Sedan_20cm</value>
+										<value name="antirollbar_strength" type="float">0</value>
+										<value name="compression" type="float">2.5</value>
+										<value name="direction" type="vec">-0.05000003,-1,0</value>
+										<value name="length" type="float">0.12</value>
+										<value name="relaxation" type="float">7</value>
+										<value name="strength" type="float">40</value>
+									</object>
+									<object id="E9242228">
+										<value id="863E66F9" type="int">1</value>
+										<value name="_class" type="string">CBrakeModule</value>
+										<value name="_name" type="string">Brake_1000</value>
+										<value name="handbrake" type="int">0</value>
+										<value name="max_brake_torque" type="float">2000</value>
+										<value name="min_time_to_block" type="float">10</value>
+										<value name="power_distribution" type="int">100</value>
+									</object>
+								</object>
+							</object>
+						</object>
+						<object id="8BC022E3">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-466905897</value>
+							<value name="_name" type="string">2</value>
+							<object name="_modules">
+								<object id="2248A8AD">
+									<value id="EC5A823D" type="int">1</value>
+									<value name="_class" type="string">CCarPhysicalBaseModule</value>
+									<value name="_name" type="string">V024_Handling_2</value>
+									<value name="CenterOfMass" type="vec">0,0.48,0.08</value>
+									<value name="ChassiMass" type="float">1250</value>
+									<value name="DragCoefficent" type="float">1</value>
+									<value name="FrontalArea" type="float">1.5</value>
+									<value name="InertiaPitch" type="float">1.35</value>
+									<value name="InertiaRoll" type="float">0.55</value>
+									<value name="InertiaYaw" type="float">1.35</value>
+									<value name="LiftCoefficent" type="float">-0.31</value>
+								</object>
+								<object id="683F81F2">
+									<object id="2BADAD6E">
+										<value id="863E66F9" type="int">1</value>
+										<value name="_class" type="string">CBrakeModule</value>
+										<value name="_name" type="string">Brake_750</value>
+										<value name="handbrake" type="int">1</value>
+										<value name="max_brake_torque" type="float">1500</value>
+										<value name="min_time_to_block" type="float">10</value>
+										<value name="power_distribution" type="int">100</value>
+									</object>
+									<object id="62794315">
+										<value name="_class" type="string">CSuspensionModule</value>
+										<value name="_name" type="string">Susp_Sedan_20cm</value>
+										<value name="antirollbar_strength" type="float">0</value>
+										<value name="compression" type="float">2.25</value>
+										<value name="direction" type="vec">-0.075,-1,0</value>
+										<value name="length" type="float">0.12</value>
+										<value name="relaxation" type="float">4</value>
+										<value name="strength" type="float">40</value>
+									</object>
+								</object>
+								<object id="7EAED08C">
+									<value id="A80EF9C6" type="int">37</value>
+									<value id="C71A85BB" type="int">71</value>
+									<value name="_class" type="string">CCarSteeringModule</value>
+									<value name="_name" type="string">Str_35D_71kmh</value>
+								</object>
+								<object id="99BC8593">
+									<object id="78439392">
+										<value id="863E66F9" type="int">1</value>
+										<value name="_class" type="string">CBrakeModule</value>
+										<value name="_name" type="string">Brake_1000</value>
+										<value name="handbrake" type="int">0</value>
+										<value name="max_brake_torque" type="float">2000</value>
+										<value name="min_time_to_block" type="float">10</value>
+										<value name="power_distribution" type="int">100</value>
+									</object>
+									<object id="DA918C66">
+										<value name="_class" type="string">CSuspensionModule</value>
+										<value name="_name" type="string">Susp_Sedan_20cm</value>
+										<value name="antirollbar_strength" type="float">0</value>
+										<value name="compression" type="float">2.5</value>
+										<value name="direction" type="vec">-0.05000003,-1,0</value>
+										<value name="length" type="float">0.12</value>
+										<value name="relaxation" type="float">7</value>
+										<value name="strength" type="float">40</value>
+									</object>
+								</object>
+							</object>
+						</object>
+						<object id="D9E0538E">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-1184056089</value>
+							<value name="_name" type="string">1</value>
+							<object name="_modules">
+								<object id="49C76D05">
+									<value id="EC5A823D" type="int">1</value>
+									<value name="_class" type="string">CCarPhysicalBaseModule</value>
+									<value name="_name" type="string">V024_Handling_1</value>
+									<value name="CenterOfMass" type="vec">0,0.49,0.09</value>
+									<value name="ChassiMass" type="float">1250</value>
+									<value name="DragCoefficent" type="float">1</value>
+									<value name="FrontalArea" type="float">1.5</value>
+									<value name="InertiaPitch" type="float">1.35</value>
+									<value name="InertiaRoll" type="float">0.55</value>
+									<value name="InertiaYaw" type="float">1.35</value>
+									<value name="LiftCoefficent" type="float">-0.28</value>
+								</object>
+								<object id="683F81F2">
+									<object id="68109B87">
+										<value id="863E66F9" type="int">1</value>
+										<value name="_class" type="string">CBrakeModule</value>
+										<value name="_name" type="string">Brake_750</value>
+										<value name="handbrake" type="int">1</value>
+										<value name="max_brake_torque" type="float">1500</value>
+										<value name="min_time_to_block" type="float">10</value>
+										<value name="power_distribution" type="int">100</value>
+									</object>
+									<object id="A77FA521">
+										<value name="_class" type="string">CSuspensionModule</value>
+										<value name="_name" type="string">Susp_Sedan_20cm</value>
+										<value name="antirollbar_strength" type="float">0</value>
+										<value name="compression" type="float">2.25</value>
+										<value name="direction" type="vec">-0.075,-1,0</value>
+										<value name="length" type="float">0.12</value>
+										<value name="relaxation" type="float">4</value>
+										<value name="strength" type="float">40</value>
+									</object>
+								</object>
+								<object id="99BC8593">
+									<object id="74E03D1C">
+										<value id="863E66F9" type="int">1</value>
+										<value name="_class" type="string">CBrakeModule</value>
+										<value name="_name" type="string">Brake_1000</value>
+										<value name="handbrake" type="int">0</value>
+										<value name="max_brake_torque" type="float">2000</value>
+										<value name="min_time_to_block" type="float">10</value>
+										<value name="power_distribution" type="int">100</value>
+									</object>
+									<object id="EBB32B5F">
+										<value name="_class" type="string">CSuspensionModule</value>
+										<value name="_name" type="string">Susp_Sedan_20cm</value>
+										<value name="antirollbar_strength" type="float">0</value>
+										<value name="compression" type="float">2.5</value>
+										<value name="direction" type="vec">-0.05000003,-1,0</value>
+										<value name="length" type="float">0.12</value>
+										<value name="relaxation" type="float">7</value>
+										<value name="strength" type="float">40</value>
+									</object>
+								</object>
+								<object id="E1283DD2">
+									<value id="A80EF9C6" type="int">36</value>
+									<value id="C71A85BB" type="int">68</value>
+									<value name="_class" type="string">CCarSteeringModule</value>
+									<value name="_name" type="string">Str_35D_68kmh</value>
+								</object>
+							</object>
+						</object>
+						<object id="DE921B53">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">1220743139</value>
+							<value name="_name" type="string">3</value>
+							<object name="_modules">
+								<object id="16580B70">
+									<value id="EC5A823D" type="int">1</value>
+									<value name="_class" type="string">CCarPhysicalBaseModule</value>
+									<value name="_name" type="string">V024_Handling_3</value>
+									<value name="CenterOfMass" type="vec">0,0.47,0.07</value>
+									<value name="ChassiMass" type="float">1250</value>
+									<value name="DragCoefficent" type="float">1</value>
+									<value name="FrontalArea" type="float">1.5</value>
+									<value name="InertiaPitch" type="float">1.35</value>
+									<value name="InertiaRoll" type="float">0.55</value>
+									<value name="InertiaYaw" type="float">1.35</value>
+									<value name="LiftCoefficent" type="float">-0.34</value>
+								</object>
+								<object id="37455E1E">
+									<value id="A80EF9C6" type="int">38</value>
+									<value id="C71A85BB" type="int">74</value>
+									<value name="_class" type="string">CCarSteeringModule</value>
+									<value name="_name" type="string">Str_35D_74kmh</value>
+								</object>
+								<object id="683F81F2">
+									<object id="2353FD70">
+										<value name="_class" type="string">CSuspensionModule</value>
+										<value name="_name" type="string">Susp_Sedan_20cm</value>
+										<value name="antirollbar_strength" type="float">0</value>
+										<value name="compression" type="float">2.25</value>
+										<value name="direction" type="vec">-0.075,-1,0</value>
+										<value name="length" type="float">0.12</value>
+										<value name="relaxation" type="float">4</value>
+										<value name="strength" type="float">40</value>
+									</object>
+									<object id="7F050CDE">
+										<value id="863E66F9" type="int">1</value>
+										<value name="_class" type="string">CBrakeModule</value>
+										<value name="_name" type="string">Brake_750</value>
+										<value name="handbrake" type="int">1</value>
+										<value name="max_brake_torque" type="float">1500</value>
+										<value name="min_time_to_block" type="float">10</value>
+										<value name="power_distribution" type="int">100</value>
+									</object>
+								</object>
+								<object id="99BC8593">
+									<object id="1352E577">
+										<value name="_class" type="string">CSuspensionModule</value>
+										<value name="_name" type="string">Susp_Sedan_20cm</value>
+										<value name="antirollbar_strength" type="float">0</value>
+										<value name="compression" type="float">2.5</value>
+										<value name="direction" type="vec">-0.05000003,-1,0</value>
+										<value name="length" type="float">0.12</value>
+										<value name="relaxation" type="float">7</value>
+										<value name="strength" type="float">40</value>
+									</object>
+									<object id="4C917820">
+										<value id="863E66F9" type="int">1</value>
+										<value name="_class" type="string">CBrakeModule</value>
+										<value name="_name" type="string">Brake_1000</value>
+										<value name="handbrake" type="int">0</value>
+										<value name="max_brake_torque" type="float">2000</value>
+										<value name="min_time_to_block" type="float">10</value>
+										<value name="power_distribution" type="int">100</value>
+									</object>
+								</object>
+							</object>
+						</object>
+					</object>
+					<object id="63F90E1B">
+						<value id="28CC5503" type="string"></value>
+						<value name="_class" type="string">CCollectionProp</value>
+						<value name="_GUID" type="int">-796049473</value>
+						<value name="_name" type="string">ArmorUpgrades</value>
+						<object id="53A92295">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-1297157484</value>
+							<value name="_name" type="string">0</value>
+						</object>
+						<object id="61373619">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-360187056</value>
+							<value name="_name" type="string">5</value>
+							<object name="_modules">
+								<object id="B13BC9AF">
+									<value id="E8CBDA9D" type="float">0.75</value>
+									<value name="_class" type="string">CVehicleDamageModule</value>
+									<value name="_name" type="string">CarDamage_LOW_Upgrd_5</value>
+									<value name="bullet_armor" type="int">5</value>
+									<value name="deform_scale" type="float">0.003</value>
+									<value name="explosion_armor" type="int">0</value>
+									<value name="explosion_threshold" type="int">75</value>
+									<value name="glass_armor" type="int">1</value>
+									<value name="impact_armor" type="int">2</value>
+									<value name="max_health" type="int">1500</value>
+									<value name="metal_armor" type="int">40</value>
+								</object>
+							</object>
+						</object>
+						<object id="934123E9">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-1618407217</value>
+							<value name="_name" type="string">2</value>
+							<object name="_modules">
+								<object id="8122B67D">
+									<value id="E8CBDA9D" type="float">0.75</value>
+									<value name="_class" type="string">CVehicleDamageModule</value>
+									<value name="_name" type="string">CarDamage_LOW_Upgrd_2</value>
+									<value name="bullet_armor" type="int">5</value>
+									<value name="deform_scale" type="float">0.003</value>
+									<value name="explosion_armor" type="int">0</value>
+									<value name="explosion_threshold" type="int">75</value>
+									<value name="glass_armor" type="int">1</value>
+									<value name="impact_armor" type="int">2</value>
+									<value name="max_health" type="int">900</value>
+									<value name="metal_armor" type="int">40</value>
+								</object>
+							</object>
+						</object>
+						<object id="B4DD6D1D">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-1213226105</value>
+							<value name="_name" type="string">3</value>
+							<object name="_modules">
+								<object id="F433785D">
+									<value id="E8CBDA9D" type="float">0.75</value>
+									<value name="_class" type="string">CVehicleDamageModule</value>
+									<value name="_name" type="string">CarDamage_LOW_Upgrd_3</value>
+									<value name="bullet_armor" type="int">5</value>
+									<value name="deform_scale" type="float">0.003</value>
+									<value name="explosion_armor" type="int">0</value>
+									<value name="explosion_threshold" type="int">75</value>
+									<value name="glass_armor" type="int">1</value>
+									<value name="impact_armor" type="int">2</value>
+									<value name="max_health" type="int">1100</value>
+									<value name="metal_armor" type="int">40</value>
+								</object>
+							</object>
+						</object>
+						<object id="D76A5172">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">1783508513</value>
+							<value name="_name" type="string">4</value>
+							<object name="_modules">
+								<object id="23BFBBDD">
+									<value id="E8CBDA9D" type="float">0.75</value>
+									<value name="_class" type="string">CVehicleDamageModule</value>
+									<value name="_name" type="string">CarDamage_LOW_Upgrd_4</value>
+									<value name="bullet_armor" type="int">5</value>
+									<value name="deform_scale" type="float">0.003</value>
+									<value name="explosion_armor" type="int">0</value>
+									<value name="explosion_threshold" type="int">75</value>
+									<value name="glass_armor" type="int">1</value>
+									<value name="impact_armor" type="int">2</value>
+									<value name="max_health" type="int">1300</value>
+									<value name="metal_armor" type="int">40</value>
+								</object>
+							</object>
+						</object>
+						<object id="FC810447">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-543350242</value>
+							<value name="_name" type="string">1</value>
+							<object name="_modules">
+								<object id="212F31B6">
+									<value id="E8CBDA9D" type="float">0.75</value>
+									<value name="_class" type="string">CVehicleDamageModule</value>
+									<value name="_name" type="string">CarDamage_LOW_Upgrd_1</value>
+									<value name="bullet_armor" type="int">5</value>
+									<value name="deform_scale" type="float">0.003</value>
+									<value name="explosion_armor" type="int">0</value>
+									<value name="explosion_threshold" type="int">75</value>
+									<value name="glass_armor" type="int">1</value>
+									<value name="impact_armor" type="int">2</value>
+									<value name="max_health" type="int">700</value>
+									<value name="metal_armor" type="int">40</value>
+								</object>
+							</object>
+						</object>
+					</object>
+					<object id="747100AB">
+						<value id="28CC5503" type="string"></value>
+						<value name="_class" type="string">CCollectionProp</value>
+						<value name="_GUID" type="int">-1674468427</value>
+						<value name="_name" type="string">TopSpeedUpgrades</value>
+						<object id="4091D910">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">512103239</value>
+							<value name="_name" type="string">1</value>
+							<object name="_modules">
+								<object id="4AA05EAF">
+									<value id="91ABE407" type="float">4</value>
+									<value name="_class" type="string">CCarGlobalModule</value>
+									<value name="_name" type="string">V024_TopSpeed_1</value>
+									<value name="AirDensity" type="float">1.25</value>
+									<value name="AngularDamping" type="float">0.075</value>
+									<value name="Boyancy" type="float">1.85</value>
+									<value name="CollisionSpinDamping" type="float">0.05</value>
+									<value name="CollisionSpinThreshold" type="float">2</value>
+									<value name="DeadZone" type="float">0</value>
+									<value name="ExtraGravity" type="float">-2</value>
+									<value name="InitialSlope" type="float">0.5</value>
+									<value name="LinearDamping" type="float">0</value>
+									<value name="MaxVelocityRatio" type="float">0</value>
+									<value name="MinVelocityRatio" type="float">0</value>
+									<value name="NormalClippingAngle" type="float">0.2</value>
+									<value name="NormalSpinDamping" type="float">1.05</value>
+									<value name="SlopeChangeX" type="float">0.75</value>
+								</object>
+								<object id="6783B052">
+									<value id="0739740B" type="float">3</value>
+									<value id="7976EB47" type="float">20</value>
+									<value id="975655BC" type="float">1</value>
+									<value id="97D6CC7A" type="int">5</value>
+									<value id="C9D728C7" type="string">3.25, 2.05, 1.35, 1,  0.8</value>
+									<value id="DD70F454" type="float">155</value>
+									<value id="EB6B03D2" type="float">0.15</value>
+									<value name="_class" type="string">CCarTransmissionModule</value>
+									<value name="_name" type="string">V024_TopSpeed_Trm_1</value>
+								</object>
+							</object>
+						</object>
+						<object id="7CCB0A51">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">347653473</value>
+							<value name="_name" type="string">0</value>
+						</object>
+						<object id="A424CA35">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-496994037</value>
+							<value name="_name" type="string">5</value>
+							<object name="_modules">
+								<object id="91AB54D1">
+									<value id="91ABE407" type="float">4</value>
+									<value name="_class" type="string">CCarGlobalModule</value>
+									<value name="_name" type="string">V024_TopSpeed_5</value>
+									<value name="AirDensity" type="float">1.05</value>
+									<value name="AngularDamping" type="float">0.075</value>
+									<value name="Boyancy" type="float">1.85</value>
+									<value name="CollisionSpinDamping" type="float">0.05</value>
+									<value name="CollisionSpinThreshold" type="float">2</value>
+									<value name="DeadZone" type="float">0</value>
+									<value name="ExtraGravity" type="float">-2</value>
+									<value name="InitialSlope" type="float">0.5</value>
+									<value name="LinearDamping" type="float">0</value>
+									<value name="MaxVelocityRatio" type="float">0</value>
+									<value name="MinVelocityRatio" type="float">0</value>
+									<value name="NormalClippingAngle" type="float">0.2</value>
+									<value name="NormalSpinDamping" type="float">1.05</value>
+									<value name="SlopeChangeX" type="float">0.75</value>
+								</object>
+								<object id="C01FD04E">
+									<value id="0739740B" type="float">3</value>
+									<value id="7976EB47" type="float">20</value>
+									<value id="975655BC" type="float">1</value>
+									<value id="97D6CC7A" type="int">5</value>
+									<value id="C9D728C7" type="string">3.25, 2.05, 1.35, 1,  0.8</value>
+									<value id="DD70F454" type="float">175</value>
+									<value id="EB6B03D2" type="float">0.15</value>
+									<value name="_class" type="string">CCarTransmissionModule</value>
+									<value name="_name" type="string">V024_TopSpeed_Trm_5</value>
+								</object>
+							</object>
+						</object>
+						<object id="A712EBAE">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-454762506</value>
+							<value name="_name" type="string">2</value>
+							<object name="_modules">
+								<object id="3633C7BF">
+									<value id="0739740B" type="float">3</value>
+									<value id="7976EB47" type="float">20</value>
+									<value id="975655BC" type="float">1</value>
+									<value id="97D6CC7A" type="int">5</value>
+									<value id="C9D728C7" type="string">3.25, 2.05, 1.35, 1,  0.8</value>
+									<value id="DD70F454" type="float">160</value>
+									<value id="EB6B03D2" type="float">0.15</value>
+									<value name="_class" type="string">CCarTransmissionModule</value>
+									<value name="_name" type="string">V024_TopSpeed_Trm_2</value>
+								</object>
+								<object id="38A7847D">
+									<value id="91ABE407" type="float">3</value>
+									<value name="_class" type="string">CCarGlobalModule</value>
+									<value name="_name" type="string">V024_TopSpeed_2</value>
+									<value name="AirDensity" type="float">1.2</value>
+									<value name="AngularDamping" type="float">0.075</value>
+									<value name="Boyancy" type="float">1.85</value>
+									<value name="CollisionSpinDamping" type="float">0.05</value>
+									<value name="CollisionSpinThreshold" type="float">2</value>
+									<value name="DeadZone" type="float">0</value>
+									<value name="ExtraGravity" type="float">-2</value>
+									<value name="InitialSlope" type="float">0.5</value>
+									<value name="LinearDamping" type="float">0</value>
+									<value name="MaxVelocityRatio" type="float">0</value>
+									<value name="MinVelocityRatio" type="float">0</value>
+									<value name="NormalClippingAngle" type="float">0.2</value>
+									<value name="NormalSpinDamping" type="float">1.05</value>
+									<value name="SlopeChangeX" type="float">0.75</value>
+								</object>
+							</object>
+						</object>
+						<object id="D32D7262">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">1142043123</value>
+							<value name="_name" type="string">4</value>
+							<object name="_modules">
+								<object id="81763369">
+									<value id="0739740B" type="float">3</value>
+									<value id="7976EB47" type="float">20</value>
+									<value id="975655BC" type="float">1</value>
+									<value id="97D6CC7A" type="int">5</value>
+									<value id="C9D728C7" type="string">3.25, 2.05, 1.35, 1,  0.8</value>
+									<value id="DD70F454" type="float">170</value>
+									<value id="EB6B03D2" type="float">0.15</value>
+									<value name="_class" type="string">CCarTransmissionModule</value>
+									<value name="_name" type="string">V024_TopSpeed_Trm_4</value>
+								</object>
+								<object id="AB1503DB">
+									<value id="91ABE407" type="float">4</value>
+									<value name="_class" type="string">CCarGlobalModule</value>
+									<value name="_name" type="string">V024_TopSpeed_4</value>
+									<value name="AirDensity" type="float">1.1</value>
+									<value name="AngularDamping" type="float">0.075</value>
+									<value name="Boyancy" type="float">1.85</value>
+									<value name="CollisionSpinDamping" type="float">0.05</value>
+									<value name="CollisionSpinThreshold" type="float">2</value>
+									<value name="DeadZone" type="float">0</value>
+									<value name="ExtraGravity" type="float">-2</value>
+									<value name="InitialSlope" type="float">0.5</value>
+									<value name="LinearDamping" type="float">0</value>
+									<value name="MaxVelocityRatio" type="float">0</value>
+									<value name="MinVelocityRatio" type="float">0</value>
+									<value name="NormalClippingAngle" type="float">0.2</value>
+									<value name="NormalSpinDamping" type="float">1.05</value>
+									<value name="SlopeChangeX" type="float">0.75</value>
+								</object>
+							</object>
+						</object>
+						<object id="E072469E">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">1216890340</value>
+							<value name="_name" type="string">3</value>
+							<object name="_modules">
+								<object id="E62CB6FF">
+									<value id="0739740B" type="float">3</value>
+									<value id="7976EB47" type="float">20</value>
+									<value id="975655BC" type="float">1</value>
+									<value id="97D6CC7A" type="int">5</value>
+									<value id="C9D728C7" type="string">3.25, 2.05, 1.35, 1,  0.8</value>
+									<value id="DD70F454" type="float">165</value>
+									<value id="EB6B03D2" type="float">0.15</value>
+									<value name="_class" type="string">CCarTransmissionModule</value>
+									<value name="_name" type="string">V024_TopSpeed_Trm_3</value>
+								</object>
+								<object id="F199C31E">
+									<value id="91ABE407" type="float">4</value>
+									<value name="_class" type="string">CCarGlobalModule</value>
+									<value name="_name" type="string">V024_TopSpeed_3</value>
+									<value name="AirDensity" type="float">1.15</value>
+									<value name="AngularDamping" type="float">0.075</value>
+									<value name="Boyancy" type="float">1.85</value>
+									<value name="CollisionSpinDamping" type="float">0.05</value>
+									<value name="CollisionSpinThreshold" type="float">2</value>
+									<value name="DeadZone" type="float">0</value>
+									<value name="ExtraGravity" type="float">-2</value>
+									<value name="InitialSlope" type="float">0.5</value>
+									<value name="LinearDamping" type="float">0</value>
+									<value name="MaxVelocityRatio" type="float">0</value>
+									<value name="MinVelocityRatio" type="float">0</value>
+									<value name="NormalClippingAngle" type="float">0.2</value>
+									<value name="NormalSpinDamping" type="float">1.05</value>
+									<value name="SlopeChangeX" type="float">0.75</value>
+								</object>
+							</object>
+						</object>
+					</object>
+					<object id="AD57DEC7">
+						<value id="28CC5503" type="string"></value>
+						<value name="_class" type="string">CCollectionProp</value>
+						<value name="_GUID" type="int">860086605</value>
+						<value name="_name" type="string">AccelerationUpgrades</value>
+						<object id="1DB40CCE">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-1985793395</value>
+							<value name="_name" type="string">0</value>
+						</object>
+						<object id="4E84A244">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">454445278</value>
+							<value name="_name" type="string">4</value>
+							<object name="_modules">
+								<object id="28558B26">
+									<value name="_class" type="string">CCarEngineModule</value>
+									<value name="_name" type="string">V024_Acceleration_4</value>
+									<value name="clutchsliprpm" type="float">0</value>
+									<value name="downshift_rpm" type="string">3000,3500,4000, 4500</value>
+									<value name="resistance_max" type="float">0.15</value>
+									<value name="resistance_min" type="float">0.075</value>
+									<value name="resistance_opt" type="float">0.1</value>
+									<value name="rpm_max" type="float">8500</value>
+									<value name="rpm_min" type="float">2000</value>
+									<value name="rpm_opt" type="float">4000</value>
+									<value name="rpm_powerband" type="int">0</value>
+									<value name="torque_max" type="float">0.4</value>
+									<value name="torque_min" type="float">1</value>
+									<value name="torque_opt" type="float">430</value>
+									<value name="upshift_rpm" type="string">7500,7300,7200,7700</value>
+								</object>
+							</object>
+						</object>
+						<object id="74E0DB2E">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">6047931</value>
+							<value name="_name" type="string">3</value>
+							<object name="_modules">
+								<object id="5C54DD8C">
+									<value name="_class" type="string">CCarEngineModule</value>
+									<value name="_name" type="string">V024_Acceleration_3</value>
+									<value name="clutchsliprpm" type="float">0</value>
+									<value name="downshift_rpm" type="string">3000,3500,4000, 4500</value>
+									<value name="resistance_max" type="float">0.15</value>
+									<value name="resistance_min" type="float">0.075</value>
+									<value name="resistance_opt" type="float">0.1</value>
+									<value name="rpm_max" type="float">8500</value>
+									<value name="rpm_min" type="float">2000</value>
+									<value name="rpm_opt" type="float">4000</value>
+									<value name="rpm_powerband" type="int">0</value>
+									<value name="torque_max" type="float">0.4</value>
+									<value name="torque_min" type="float">1</value>
+									<value name="torque_opt" type="float">410</value>
+									<value name="upshift_rpm" type="string">7500,7300,7200,7700</value>
+								</object>
+							</object>
+						</object>
+						<object id="7E87F0BF">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-616278221</value>
+							<value name="_name" type="string">5</value>
+							<object name="_modules">
+								<object id="BCE29C99">
+									<value name="_class" type="string">CCarEngineModule</value>
+									<value name="_name" type="string">V024_Acceleration_5</value>
+									<value name="clutchsliprpm" type="float">0</value>
+									<value name="downshift_rpm" type="string">3000,3500,4000, 4500</value>
+									<value name="resistance_max" type="float">0.15</value>
+									<value name="resistance_min" type="float">0.075</value>
+									<value name="resistance_opt" type="float">0.1</value>
+									<value name="rpm_max" type="float">8500</value>
+									<value name="rpm_min" type="float">2000</value>
+									<value name="rpm_opt" type="float">4000</value>
+									<value name="rpm_powerband" type="int">0</value>
+									<value name="torque_max" type="float">0.4</value>
+									<value name="torque_min" type="float">1</value>
+									<value name="torque_opt" type="float">450</value>
+									<value name="upshift_rpm" type="string">7500,7300,7200,7700</value>
+								</object>
+							</object>
+						</object>
+						<object id="D4D184D5">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-104494550</value>
+							<value name="_name" type="string">1</value>
+							<object name="_modules">
+								<object id="623D6010">
+									<value name="_class" type="string">CCarEngineModule</value>
+									<value name="_name" type="string">V024_Acceleration_1</value>
+									<value name="clutchsliprpm" type="float">0</value>
+									<value name="downshift_rpm" type="string">3000,3500,4000, 4500</value>
+									<value name="resistance_max" type="float">0.15</value>
+									<value name="resistance_min" type="float">0.075</value>
+									<value name="resistance_opt" type="float">0.1</value>
+									<value name="rpm_max" type="float">8500</value>
+									<value name="rpm_min" type="float">2000</value>
+									<value name="rpm_opt" type="float">4000</value>
+									<value name="rpm_powerband" type="int">0</value>
+									<value name="torque_max" type="float">0.4</value>
+									<value name="torque_min" type="float">1</value>
+									<value name="torque_opt" type="float">370</value>
+									<value name="upshift_rpm" type="string">7500,7300,7200,7700</value>
+								</object>
+							</object>
+						</object>
+						<object id="F4638944">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-782214080</value>
+							<value name="_name" type="string">2</value>
+							<object name="_modules">
+								<object id="A2C2A4C2">
+									<value name="_class" type="string">CCarEngineModule</value>
+									<value name="_name" type="string">V024_Acceleration_2</value>
+									<value name="clutchsliprpm" type="float">0</value>
+									<value name="downshift_rpm" type="string">3000,3500,4000, 4500</value>
+									<value name="resistance_max" type="float">0.15</value>
+									<value name="resistance_min" type="float">0.075</value>
+									<value name="resistance_opt" type="float">0.1</value>
+									<value name="rpm_max" type="float">8500</value>
+									<value name="rpm_min" type="float">2000</value>
+									<value name="rpm_opt" type="float">4000</value>
+									<value name="rpm_powerband" type="int">0</value>
+									<value name="torque_max" type="float">0.4</value>
+									<value name="torque_min" type="float">1</value>
+									<value name="torque_opt" type="float">390</value>
+									<value name="upshift_rpm" type="string">7500,7300,7200,7700</value>
+								</object>
+							</object>
+						</object>
+					</object>
+					<object id="CEBF1DA7">
+						<value name="_class" type="string">CReferenceProp</value>
+						<value name="_GUID" type="int">1751742557</value>
+						<value name="_name" type="string">V024-Body_ref</value>
+						<value name="_refGUID" type="int">-714848838</value>
+						<object id="0AABD6DF">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">2137034712</value>
+							<value name="_name" type="string">V024-whiper_L_ref</value>
+							<value name="_refGUID" type="int">1130885672</value>
+						</object>
+						<object id="11C2E0F0">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">1520749806</value>
+							<value name="_name" type="string">Body2</value>
+							<value name="_refGUID" type="int">1520749806</value>
+						</object>
+						<object id="1B260AA0">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">393153468</value>
+							<value name="_name" type="string">V024-Door_R_ref</value>
+							<value name="_refGUID" type="int">37980167</value>
+							<object id="4A569725">
+								<value name="_class" type="string">CReferenceProp</value>
+								<value name="_GUID" type="int">310811173</value>
+								<value name="_name" type="string">V024-Mirror_R_ref</value>
+								<value name="_refGUID" type="int">-1308785080</value>
+							</object>
+						</object>
+						<object id="1E155F4F">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">-819885238</value>
+							<value name="_name" type="string">SportSeat</value>
+							<value name="_refGUID" type="int">-819885238</value>
+						</object>
+						<object id="21A67F7D">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">-773672209</value>
+							<value name="_name" type="string">Hardtop</value>
+							<value name="_refGUID" type="int">-53361175</value>
+						</object>
+						<object id="24A96F2E">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">981151178</value>
+							<value name="_name" type="string">Standard</value>
+							<value name="_refGUID" type="int">981151178</value>
+						</object>
+						<object id="317DF080">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">-1441630074</value>
+							<value name="_name" type="string">Sport01</value>
+							<value name="_refGUID" type="int">-1441630074</value>
+						</object>
+						<object id="39FFCDAB">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">743075460</value>
+							<value name="_name" type="string">V024-HL_R_ref</value>
+							<value name="_refGUID" type="int">312120316</value>
+						</object>
+						<object id="441908D1">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">-540953820</value>
+							<value name="_name" type="string">V024-whiper_R_ref</value>
+							<value name="_refGUID" type="int">32304084</value>
+						</object>
+						<object id="46E53B2E">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">947945812</value>
+							<value name="_name" type="string">V024-Door_L_ref</value>
+							<value name="_refGUID" type="int">2014447166</value>
+							<object id="83495C70">
+								<value name="_class" type="string">CReferenceProp</value>
+								<value name="_GUID" type="int">-1157905408</value>
+								<value name="_name" type="string">V024-Mirror_L_ref</value>
+								<value name="_refGUID" type="int">-1501120214</value>
+							</object>
+						</object>
+						<object id="54414843">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">1146787281</value>
+							<value name="_name" type="string">V024-Hood_ref</value>
+							<value name="_refGUID" type="int">-1572687931</value>
+						</object>
+						<object id="6876B7DE">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">308276527</value>
+							<value name="_name" type="string">Body2</value>
+							<value name="_refGUID" type="int">308276527</value>
+						</object>
+						<object id="6BB913D4">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">1132415771</value>
+							<value name="_name" type="string">V024-HL_L_ref</value>
+							<value name="_refGUID" type="int">259103742</value>
+						</object>
+						<object id="721B300B">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">-951590402</value>
+							<value name="_name" type="string">V024-T_R_ref</value>
+							<value name="_refGUID" type="int">-397290077</value>
+						</object>
+						<object id="7BB0DD38">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">55905679</value>
+							<value name="_name" type="string">Sport01</value>
+							<value name="_refGUID" type="int">55905679</value>
+						</object>
+						<object id="85CF3B9C">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">74300737</value>
+							<value name="_name" type="string">V024-T_L_ref</value>
+							<value name="_refGUID" type="int">646173280</value>
+						</object>
+						<object id="864EBCD9">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">461657203</value>
+							<value name="_name" type="string">SportSeat</value>
+							<value name="_refGUID" type="int">461657203</value>
+						</object>
+						<object id="8EC0E140">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">-1346952454</value>
+							<value name="_name" type="string">Body2</value>
+							<value name="_refGUID" type="int">-1346952454</value>
+						</object>
+						<object id="93E72490">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">1435358621</value>
+							<value name="_name" type="string">V024-I_BL_ref</value>
+							<value name="_refGUID" type="int">1845967514</value>
+						</object>
+						<object id="A3B36B5F">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">-681878527</value>
+							<value name="_name" type="string">Sport01</value>
+							<value name="_refGUID" type="int">-681878527</value>
+						</object>
+						<object id="AAC08A22">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">-1687670245</value>
+							<value name="_name" type="string">Sport01</value>
+							<value name="_refGUID" type="int">-1687670245</value>
+						</object>
+						<object id="B4E29918">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">-1506107611</value>
+							<value name="_name" type="string">Standard01</value>
+							<value name="_refGUID" type="int">-1506107611</value>
+							<object id="F2FDC14B">
+								<value name="_class" type="string">CReferenceProp</value>
+								<value name="_GUID" type="int">10511565</value>
+								<value name="_name" type="string">Standard01R</value>
+								<value name="_refGUID" type="int">10511565</value>
+							</object>
+						</object>
+						<object id="C02D4223">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">-440030668</value>
+							<value name="_name" type="string">Standard</value>
+							<value name="_refGUID" type="int">-440030668</value>
+						</object>
+						<object id="DF5E59D5">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">1431099053</value>
+							<value name="_name" type="string">V024-I_BR_ref</value>
+							<value name="_refGUID" type="int">188020589</value>
+						</object>
+						<object id="EA1065ED">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">2023106830</value>
+							<value name="_name" type="string">Standard</value>
+							<value name="_refGUID" type="int">2023106830</value>
+						</object>
+						<object id="FBEB5F2D">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">-1310294888</value>
+							<value name="_name" type="string">Body2</value>
+							<value name="_refGUID" type="int">-1310294888</value>
+						</object>
+					</object>
+				</object>
+			</object>
+			<object name="_parts">
+				<object id="C1F46444">
+					<value id="E2D67F7B" type="float">0.33</value>
+					<value id="F91767CB" type="int">0</value>
+					<value name="_class" type="string">CPartProp</value>
+					<value name="_GUID" type="int">-714848838</value>
+					<value name="_name" type="string">V024-Body</value>
+					<value name="is_rotor" type="int">0</value>
+					<value name="is_staticsuspension" type="int">0</value>
+					<value name="is_steering" type="int">0</value>
+					<value name="is_suspension" type="int">0</value>
+					<value name="is_uppersteering" type="int">0</value>
+					<value name="is_wheel" type="int">0</value>
+					<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+					<value name="mass" type="int">100</value>
+					<value name="model" type="string">models\vehicles\01_landvehicles\v024_lave_class06\v024-body_m.lod</value>
+					<value name="model_shrt" type="string">v024-body_m.lod</value>
+					<value name="part_type" type="string"></value>
+					<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-Body_COL.pfx</value>
+					<value name="pfx_shrt" type="string">v024_lod1-body_col.pfx</value>
+					<value name="rotor_slot" type="int">0</value>
+					<value name="skin_to_parent" type="int">0</value>
+					<value name="wheel_slot" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+					<object id="0CEF63EC">
+						<value id="F91767CB" type="int">1</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">646173280</value>
+						<value name="_name" type="string">V024-T_L</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string"></value>
+						<value name="model_shrt" type="string"></value>
+						<value name="part_type" type="string">t_l</value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-T_L_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-t_l_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">1</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<object name="_modules">
+							<object id="6444D888">
+								<value name="_class" type="string">CPartDamageModule</value>
+								<value name="_name" type="string">Light_Damage</value>
+								<value name="always_enabled" type="int">0</value>
+								<value name="break_at" type="int">2</value>
+								<value name="damage_health" type="int">1</value>
+								<value name="max_health" type="int">2</value>
+								<value name="should_break" type="int">1</value>
+								<value name="should_explode" type="int">1</value>
+							</object>
+						</object>
+					</object>
+					<object id="0D702736">
+						<value id="A44C3510" type="int">1</value>
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-1310294888</value>
+						<value name="_name" type="string">Body2</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\2_V024-Suspension1-Body2.lod</value>
+						<value name="model_shrt" type="string">2_v024-suspension1-body2.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\04_SharedAssets\Suspensions\Suspension1\Suspension1_LOD1-Body2_COL.pfx</value>
+						<value name="pfx_shrt" type="string">suspension1_lod1-body2_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">-1,0,-1.224606E-16, 0,1,0, 1.224606E-16,0,-1, 0.81,0.3726932,1.48973</value>
+					</object>
+					<object id="116E9F53">
+						<value id="A44C3510" type="int">1</value>
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">981151178</value>
+						<value name="_name" type="string">Standard</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,-1.490116E-08, 0,1.490116E-08,1, 0,1.490116E-08,5.960464E-08</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Exhaustpipe01-Standard.lod</value>
+						<value name="model_shrt" type="string">v024-exhaustpipe01-standard.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\04_SharedAssets\Exhaustpipe\Class00\Exhaustpipe01_LOD1-Standard_COL.pfx</value>
+						<value name="pfx_shrt" type="string">exhaustpipe01_lod1-standard_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">0.9999999,0,0, 0,0.9956229,-0.0934607, 0,0.09346071,0.9956229, 0.2653025,0.1516877,0.8077216</value>
+					</object>
+					<object id="16547988">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">37980167</value>
+						<value name="_name" type="string">V024-Door_R</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Door_R.lod</value>
+						<value name="model_shrt" type="string">v024-door_r.lod</value>
+						<value name="part_type" type="string">Door_CR1</value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-Door_R_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-door_r_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<object id="A19C3C92">
+							<value id="F91767CB" type="int">0</value>
+							<value name="_class" type="string">CPartProp</value>
+							<value name="_GUID" type="int">-1308785080</value>
+							<value name="_name" type="string">V024-Mirror_R</value>
+							<value name="is_rotor" type="int">0</value>
+							<value name="is_staticsuspension" type="int">0</value>
+							<value name="is_steering" type="int">0</value>
+							<value name="is_suspension" type="int">0</value>
+							<value name="is_uppersteering" type="int">0</value>
+							<value name="is_wheel" type="int">0</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							<value name="mass" type="int">100</value>
+							<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Mirror_R.lod</value>
+							<value name="model_shrt" type="string">v024-mirror_r.lod</value>
+							<value name="part_type" type="string"></value>
+							<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-Mirror_R_COL.pfx</value>
+							<value name="pfx_shrt" type="string">v024_lod1-mirror_r_col.pfx</value>
+							<value name="rotor_slot" type="int">0</value>
+							<value name="skin_to_parent" type="int">0</value>
+							<value name="wheel_slot" type="int">0</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							<object name="_modules">
+								<object id="7DCAE06F">
+									<value name="_class" type="string">CPartDamageModule</value>
+									<value name="_name" type="string">Attach_Damage</value>
+									<value name="always_enabled" type="int">0</value>
+									<value name="break_at" type="int">10</value>
+									<value name="damage_health" type="int">10</value>
+									<value name="max_health" type="int">20</value>
+									<value name="should_break" type="int">1</value>
+									<value name="should_explode" type="int">0</value>
+								</object>
+							</object>
+						</object>
+						<object name="_modules">
+							<object id="A7246283">
+								<value name="_class" type="string">CPartDamageModule</value>
+								<value name="_name" type="string">Door_Low</value>
+								<value name="always_enabled" type="int">0</value>
+								<value name="break_at" type="int">1</value>
+								<value name="damage_health" type="int">450</value>
+								<value name="max_health" type="int">500</value>
+								<value name="should_break" type="int">1</value>
+								<value name="should_explode" type="int">0</value>
+							</object>
+						</object>
+					</object>
+					<object id="32994F03">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">2014447166</value>
+						<value name="_name" type="string">V024-Door_L</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Door_L.lod</value>
+						<value name="model_shrt" type="string">v024-door_l.lod</value>
+						<value name="part_type" type="string">Door_CL1</value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-Door_L_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-door_l_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<object id="93861AA8">
+							<value id="F91767CB" type="int">0</value>
+							<value name="_class" type="string">CPartProp</value>
+							<value name="_GUID" type="int">-1501120214</value>
+							<value name="_name" type="string">V024-Mirror_L</value>
+							<value name="is_rotor" type="int">0</value>
+							<value name="is_staticsuspension" type="int">0</value>
+							<value name="is_steering" type="int">0</value>
+							<value name="is_suspension" type="int">0</value>
+							<value name="is_uppersteering" type="int">0</value>
+							<value name="is_wheel" type="int">0</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							<value name="mass" type="int">100</value>
+							<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Mirror_L.lod</value>
+							<value name="model_shrt" type="string">v024-mirror_l.lod</value>
+							<value name="part_type" type="string"></value>
+							<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-Mirror_L_COL.pfx</value>
+							<value name="pfx_shrt" type="string">v024_lod1-mirror_l_col.pfx</value>
+							<value name="rotor_slot" type="int">0</value>
+							<value name="skin_to_parent" type="int">0</value>
+							<value name="wheel_slot" type="int">0</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							<object name="_modules">
+								<object id="6911EE5A">
+									<value name="_class" type="string">CPartDamageModule</value>
+									<value name="_name" type="string">Attach_Damage</value>
+									<value name="always_enabled" type="int">0</value>
+									<value name="break_at" type="int">10</value>
+									<value name="damage_health" type="int">10</value>
+									<value name="max_health" type="int">20</value>
+									<value name="should_break" type="int">1</value>
+									<value name="should_explode" type="int">0</value>
+								</object>
+							</object>
+						</object>
+						<object name="_modules">
+							<object id="5D053819">
+								<value name="_class" type="string">CPartDamageModule</value>
+								<value name="_name" type="string">Door_Low</value>
+								<value name="always_enabled" type="int">0</value>
+								<value name="break_at" type="int">1</value>
+								<value name="damage_health" type="int">450</value>
+								<value name="max_health" type="int">500</value>
+								<value name="should_break" type="int">1</value>
+								<value name="should_explode" type="int">0</value>
+							</object>
+						</object>
+					</object>
+					<object id="34E2803F">
+						<value id="A44C3510" type="int">1</value>
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">1520749806</value>
+						<value name="_name" type="string">Body2</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\1_V024-Suspension1-Body2.lod</value>
+						<value name="model_shrt" type="string">1_v024-suspension1-body2.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\04_SharedAssets\Suspensions\Suspension1\Suspension1_LOD1-Body2_COL.pfx</value>
+						<value name="pfx_shrt" type="string">suspension1_lod1-body2_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">-1,0,-1.224606E-16, 0,1,0, 1.224606E-16,0,-1, 0.81,0.3726932,-1.385437</value>
+					</object>
+					<object id="389A2961">
+						<value id="A44C3510" type="int">1</value>
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-1441630074</value>
+						<value name="_name" type="string">Sport01</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">1</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Tyres01-Sport01.lod</value>
+						<value name="model_shrt" type="string">v024-tyres01-sport01.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string"></value>
+						<value name="pfx_shrt" type="string"></value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="tyre_scale" type="vec">0.7570891,0.7570891,0.7570891</value>
+						<value name="wheel_slot" type="int">1</value>
+						<value name="world" type="mat">-1,0,-1.010639E-15, 0,1,0, 1.010639E-15,0,-1, 0.8440661,0.4203683,-1.38457</value>
+					</object>
+					<object id="3CD756AC">
+						<value id="F91767CB" type="int">1</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">259103742</value>
+						<value name="_name" type="string">V024-HL_L</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string"></value>
+						<value name="model_shrt" type="string"></value>
+						<value name="part_type" type="string">hl_l</value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-HL_L_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-hl_l_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">1</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<object name="_modules">
+							<object id="A9AAD468">
+								<value name="_class" type="string">CPartDamageModule</value>
+								<value name="_name" type="string">Light_Damage</value>
+								<value name="always_enabled" type="int">0</value>
+								<value name="break_at" type="int">2</value>
+								<value name="damage_health" type="int">1</value>
+								<value name="max_health" type="int">2</value>
+								<value name="should_break" type="int">1</value>
+								<value name="should_explode" type="int">1</value>
+							</object>
+						</object>
+					</object>
+					<object id="43938070">
+						<value id="A44C3510" type="int">1</value>
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-1687670245</value>
+						<value name="_name" type="string">Sport01</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">1</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Tyres01-Sport01.lod</value>
+						<value name="model_shrt" type="string">v024-tyres01-sport01.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string"></value>
+						<value name="pfx_shrt" type="string"></value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="tyre_scale" type="vec">0.7570891,0.7570891,0.7570891</value>
+						<value name="wheel_slot" type="int">2</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.8360431,0.4203683,1.490803</value>
+					</object>
+					<object id="46E6E653">
+						<value id="A44C3510" type="int">1</value>
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">55905679</value>
+						<value name="_name" type="string">Sport01</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">1</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Tyres01-Sport01.lod</value>
+						<value name="model_shrt" type="string">v024-tyres01-sport01.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string"></value>
+						<value name="pfx_shrt" type="string"></value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="tyre_scale" type="vec">0.7570891,0.7570891,0.7570891</value>
+						<value name="wheel_slot" type="int">3</value>
+						<value name="world" type="mat">-1,0,-1.010639E-15, 0,1,0, 1.010639E-15,0,-1, 0.8349168,0.4203683,1.490803</value>
+					</object>
+					<object id="5D84AB18">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">32304084</value>
+						<value name="_name" type="string">V024-whiper_R</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-whiper_R.lod</value>
+						<value name="model_shrt" type="string">v024-whiper_r.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-whiper_R_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-whiper_r_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<object name="_modules">
+							<object id="B437E47F">
+								<value name="_class" type="string">CPartDamageModule</value>
+								<value name="_name" type="string">Attach_Damage</value>
+								<value name="always_enabled" type="int">0</value>
+								<value name="break_at" type="int">10</value>
+								<value name="damage_health" type="int">10</value>
+								<value name="max_health" type="int">20</value>
+								<value name="should_break" type="int">1</value>
+								<value name="should_explode" type="int">0</value>
+							</object>
+						</object>
+					</object>
+					<object id="6B6E5BA1">
+						<value id="A44C3510" type="int">1</value>
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">308276527</value>
+						<value name="_name" type="string">Body2</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\0_V024-Suspension1-Body2.lod</value>
+						<value name="model_shrt" type="string">0_v024-suspension1-body2.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\04_SharedAssets\Suspensions\Suspension1\Suspension1_LOD1-Body2_COL.pfx</value>
+						<value name="pfx_shrt" type="string">suspension1_lod1-body2_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.8102372,0.3726932,1.48973</value>
+					</object>
+					<object id="78792C5F">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">1130885672</value>
+						<value name="_name" type="string">V024-whiper_L</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-whiper_L.lod</value>
+						<value name="model_shrt" type="string">v024-whiper_l.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-whiper_L_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-whiper_l_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<object name="_modules">
+							<object id="D6096499">
+								<value name="_class" type="string">CPartDamageModule</value>
+								<value name="_name" type="string">Attach_Damage</value>
+								<value name="always_enabled" type="int">0</value>
+								<value name="break_at" type="int">10</value>
+								<value name="damage_health" type="int">10</value>
+								<value name="max_health" type="int">20</value>
+								<value name="should_break" type="int">1</value>
+								<value name="should_explode" type="int">0</value>
+							</object>
+						</object>
+					</object>
+					<object id="897A6059">
+						<value id="A44C3510" type="int">1</value>
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-819885238</value>
+						<value name="_name" type="string">SportSeat</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\0_V024-Seats01-SportSeat.lod</value>
+						<value name="model_shrt" type="string">0_v024-seats01-sportseat.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\04_SharedAssets\Seat\Class05\Seats01_LOD1-SportSeat_COL.pfx</value>
+						<value name="pfx_shrt" type="string">seats01_lod1-sportseat_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0.643931,0.2906261,0.05781901</value>
+					</object>
+					<object id="92232D5D">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-322118183</value>
+						<value name="_name" type="string">V024-VHLMGL</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-VHLMGL.lod</value>
+						<value name="model_shrt" type="string">v024-vhlmgl.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-VHLMGL_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-vhlmgl_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+					</object>
+					<object id="A38F2182">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-536105243</value>
+						<value name="_name" type="string">V024-VHLMGR</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-VHLMGR.lod</value>
+						<value name="model_shrt" type="string">v024-vhlmgr.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-VHLMGR_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-vhlmgr_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+					</object>
+					<object id="A3C38EBF">
+						<value id="A44C3510" type="int">1</value>
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-1506107611</value>
+						<value name="_name" type="string">Standard01</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Steering01-Standard01.lod</value>
+						<value name="model_shrt" type="string">v024-steering01-standard01.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\04_SharedAssets\Steeringwheel\Class05\Steering01_LOD1-Standard01_COL.pfx</value>
+						<value name="pfx_shrt" type="string">steering01_lod1-standard01_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.4190049,0.6553944,-0.4991355</value>
+						<object id="CD2D9AA9">
+							<value id="A44C3510" type="int">1</value>
+							<value id="F91767CB" type="int">0</value>
+							<value name="_class" type="string">CPartProp</value>
+							<value name="_GUID" type="int">10511565</value>
+							<value name="_name" type="string">Standard01R</value>
+							<value name="is_rotor" type="int">0</value>
+							<value name="is_staticsuspension" type="int">0</value>
+							<value name="is_steering" type="int">0</value>
+							<value name="is_suspension" type="int">0</value>
+							<value name="is_uppersteering" type="int">0</value>
+							<value name="is_wheel" type="int">0</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							<value name="mass" type="int">100</value>
+							<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Steering01-Standard01R.lod</value>
+							<value name="model_shrt" type="string">v024-steering01-standard01r.lod</value>
+							<value name="part_type" type="string"></value>
+							<value name="pfx" type="string">Models\Vehicles\04_SharedAssets\Steeringwheel\Class05\Steering01_LOD1-Standard01R_COL.pfx</value>
+							<value name="pfx_shrt" type="string">steering01_lod1-standard01r_col.pfx</value>
+							<value name="rotor_slot" type="int">0</value>
+							<value name="skin_to_parent" type="int">0</value>
+							<value name="wheel_slot" type="int">0</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.4190049,0.6553944,-0.4991355</value>
+						</object>
+					</object>
+					<object id="A850E026">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-1572687931</value>
+						<value name="_name" type="string">V024-Hood</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Hood.lod</value>
+						<value name="model_shrt" type="string">v024-hood.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-Hood_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-hood_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<object name="_modules">
+							<object id="AA9D7E70">
+								<value name="_class" type="string">CPartDamageModule</value>
+								<value name="_name" type="string">Hood_Stunt_Medium</value>
+								<value name="always_enabled" type="int">0</value>
+								<value name="break_at" type="int">-1</value>
+								<value name="damage_health" type="int">600</value>
+								<value name="max_health" type="int">650</value>
+								<value name="should_break" type="int">1</value>
+								<value name="should_explode" type="int">0</value>
+							</object>
+						</object>
+					</object>
+					<object id="AD5599CF">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-2130441707</value>
+						<value name="_name" type="string">V024-Base</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Base.lod</value>
+						<value name="model_shrt" type="string">v024-base.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-Base_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-base_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+					</object>
+					<object id="B0909679">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">1265696984</value>
+						<value name="_name" type="string">V024-Trunk</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">models\vehicles\01_landvehicles\v024_lave_class06\v024-trunk_m.lod</value>
+						<value name="model_shrt" type="string">v024-trunk_m.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-Trunk_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-trunk_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<object id="954AAB4C">
+							<value id="F91767CB" type="int">1</value>
+							<value name="_class" type="string">CPartProp</value>
+							<value name="_GUID" type="int">507686615</value>
+							<value name="_name" type="string">V024-BK_L</value>
+							<value name="is_rotor" type="int">0</value>
+							<value name="is_staticsuspension" type="int">0</value>
+							<value name="is_steering" type="int">0</value>
+							<value name="is_suspension" type="int">0</value>
+							<value name="is_uppersteering" type="int">0</value>
+							<value name="is_wheel" type="int">0</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							<value name="mass" type="int">100</value>
+							<value name="model" type="string"></value>
+							<value name="model_shrt" type="string"></value>
+							<value name="part_type" type="string">bk_l</value>
+							<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-BK_L_COL.pfx</value>
+							<value name="pfx_shrt" type="string">v024_lod1-bk_l_col.pfx</value>
+							<value name="rotor_slot" type="int">0</value>
+							<value name="skin_to_parent" type="int">1</value>
+							<value name="wheel_slot" type="int">0</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							<object name="_modules">
+								<object id="9C36F62B">
+									<value name="_class" type="string">CPartDamageModule</value>
+									<value name="_name" type="string">Light_Damage</value>
+									<value name="always_enabled" type="int">0</value>
+									<value name="break_at" type="int">2</value>
+									<value name="damage_health" type="int">1</value>
+									<value name="max_health" type="int">2</value>
+									<value name="should_break" type="int">1</value>
+									<value name="should_explode" type="int">1</value>
+								</object>
+							</object>
+						</object>
+						<object name="_modules">
+							<object id="450117F1">
+								<value name="_class" type="string">CPartDamageModule</value>
+								<value name="_name" type="string">Door_Low</value>
+								<value name="always_enabled" type="int">0</value>
+								<value name="break_at" type="int">1</value>
+								<value name="damage_health" type="int">450</value>
+								<value name="max_health" type="int">500</value>
+								<value name="should_break" type="int">1</value>
+								<value name="should_explode" type="int">0</value>
+							</object>
+						</object>
+					</object>
+					<object id="B20BACFC">
+						<value id="F91767CB" type="int">1</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">1845967514</value>
+						<value name="_name" type="string">V024-I_BL</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string"></value>
+						<value name="model_shrt" type="string"></value>
+						<value name="part_type" type="string">i_bl</value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-I_BL_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-i_bl_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">1</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<object name="_modules">
+							<object id="9C99AA72">
+								<value name="_class" type="string">CPartDamageModule</value>
+								<value name="_name" type="string">Light_Damage</value>
+								<value name="always_enabled" type="int">0</value>
+								<value name="break_at" type="int">2</value>
+								<value name="damage_health" type="int">1</value>
+								<value name="max_health" type="int">2</value>
+								<value name="should_break" type="int">1</value>
+								<value name="should_explode" type="int">1</value>
+							</object>
+						</object>
+					</object>
+					<object id="B4866197">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-1871819245</value>
+						<value name="_name" type="string">V024-Mount</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Mount.lod</value>
+						<value name="model_shrt" type="string">v024-mount.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-Mount_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-mount_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<object name="_smartobjects">
+							<value name="_object_id" type="int">-2062341971</value>
+							<object id="1D683118">
+								<value id="0F230C7C" type="string">Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Base.lod</value>
+								<value id="1DD83F56" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+								<value id="21132EA3" type="float">0.025</value>
+								<value id="24C59385" type="float">0.05</value>
+								<value id="2B418226" type="float">-1</value>
+								<value id="36BC8F9C" type="mat">1,0,0, 0,1,0, 0,0,1, -0.15,0.4,0</value>
+								<value id="42276C44" type="float">0</value>
+								<value id="4A444186" type="float">6</value>
+								<value id="4FACFCDE" type="vec">0,0,0</value>
+								<value id="5197ED83" type="float">0</value>
+								<value id="770144DD" type="float">0.025</value>
+								<value id="78C47562" type="string"></value>
+								<value id="7C9B6925" type="int">10000</value>
+								<value id="874553F1" type="mat">1,0,0, 0,1,0, 0,0,1, 0.15,0.4,0</value>
+								<value id="9E310FDA" type="string"></value>
+								<value id="C30C209D" type="string">V024-VHLMG_L</value>
+								<value id="CDF747CB" type="float">1</value>
+								<value id="CE05B350" type="vec">0,0,0</value>
+								<value id="D1B6AB49" type="string"></value>
+								<value id="E049D90F" type="string"></value>
+								<value id="E08C56C6" type="string"></value>
+								<value id="EDBB176D" type="string">local::weapon1</value>
+								<value id="F41B9F22" type="string">local::aimmg</value>
+								<value id="F6E6E360" type="float">-1</value>
+								<value name="_class" type="string">CVehicleMountedGun</value>
+								<value name="_object_id" type="int">-343725778</value>
+								<value name="_object_key" type="string">{85D79C27-8E3F-4434-8867-647916308F88}</value>
+								<value name="disable_event" type="string"></value>
+								<value name="enable_event" type="string"></value>
+								<value name="enabled" type="int">1</value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,1.105963,1.29252</value>
+								<value name="name" type="string">VehicleMountedMinguns</value>
+								<value name="weapon_name" type="string">V024-VHLMG_R</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,1.105963,1.29252</value>
+							</object>
+						</object>
+					</object>
+					<object id="B65C68A9">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-53361175</value>
+						<value name="_name" type="string">V024-Roof</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Roof.lod</value>
+						<value name="model_shrt" type="string">v024-roof.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-Roof_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-roof_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+					</object>
+					<object id="C79E7393">
+						<value id="F91767CB" type="int">1</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-397290077</value>
+						<value name="_name" type="string">V024-T_R</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string"></value>
+						<value name="model_shrt" type="string"></value>
+						<value name="part_type" type="string">t_r</value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-T_R_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-t_r_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">1</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<object name="_modules">
+							<object id="CEEF1D47">
+								<value name="_class" type="string">CPartDamageModule</value>
+								<value name="_name" type="string">Light_Damage</value>
+								<value name="always_enabled" type="int">0</value>
+								<value name="break_at" type="int">2</value>
+								<value name="damage_health" type="int">1</value>
+								<value name="max_health" type="int">2</value>
+								<value name="should_break" type="int">1</value>
+								<value name="should_explode" type="int">1</value>
+							</object>
+						</object>
+					</object>
+					<object id="CB9BE1E1">
+						<value id="A44C3510" type="int">1</value>
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-440030668</value>
+						<value name="_name" type="string">Standard</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,-1.490116E-08, 0,1.490116E-08,1, -2.980232E-08,1.490116E-08,5.960464E-08</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\0_V024-Exhaustpipe01-Standard.lod</value>
+						<value name="model_shrt" type="string">0_v024-exhaustpipe01-standard.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\04_SharedAssets\Exhaustpipe\Class00\Exhaustpipe01_LOD1-Standard_COL.pfx</value>
+						<value name="pfx_shrt" type="string">exhaustpipe01_lod1-standard_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">0.9999999,0,0, 0,0.9956229,-0.0934607, 0,0.09346071,0.9956229, -0.2340298,0.1516877,0.8077216</value>
+					</object>
+					<object id="D6A7D446">
+						<value id="A44C3510" type="int">1</value>
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">461657203</value>
+						<value name="_name" type="string">SportSeat</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Seats01-SportSeat.lod</value>
+						<value name="model_shrt" type="string">v024-seats01-sportseat.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\04_SharedAssets\Seat\Class05\Seats01_LOD1-SportSeat_COL.pfx</value>
+						<value name="pfx_shrt" type="string">seats01_lod1-sportseat_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.2511945,0.2906261,0.05781901</value>
+					</object>
+					<object id="DB174E65">
+						<value id="A44C3510" type="int">1</value>
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-681878527</value>
+						<value name="_name" type="string">Sport01</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">1</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Tyres01-Sport01.lod</value>
+						<value name="model_shrt" type="string">v024-tyres01-sport01.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string"></value>
+						<value name="pfx_shrt" type="string"></value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="tyre_scale" type="vec">0.7570891,0.7570891,0.7570891</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.8360431,0.4203683,-1.38457</value>
+					</object>
+					<object id="E21F8AA1">
+						<value id="A44C3510" type="int">1</value>
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">2023106830</value>
+						<value name="_name" type="string">Standard</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-UndercarriageClass06-Standard.lod</value>
+						<value name="model_shrt" type="string">v024-undercarriageclass06-standard.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\04_SharedAssets\Undercarriage\Class06\UndercarriageClass06_LOD1-Standard_COL.pfx</value>
+						<value name="pfx_shrt" type="string">undercarriageclass06_lod1-standard_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.8739541,0.1521486,-0.9555175</value>
+					</object>
+					<object id="EC94DF37">
+						<value id="F91767CB" type="int">1</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">188020589</value>
+						<value name="_name" type="string">V024-I_BR</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string"></value>
+						<value name="model_shrt" type="string"></value>
+						<value name="part_type" type="string">i_br</value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-I_BR_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-i_br_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">1</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<object name="_modules">
+							<object id="E4AE4AB5">
+								<value name="_class" type="string">CPartDamageModule</value>
+								<value name="_name" type="string">Light_Damage</value>
+								<value name="always_enabled" type="int">0</value>
+								<value name="break_at" type="int">2</value>
+								<value name="damage_health" type="int">1</value>
+								<value name="max_health" type="int">2</value>
+								<value name="should_break" type="int">1</value>
+								<value name="should_explode" type="int">1</value>
+							</object>
+						</object>
+					</object>
+					<object id="EE92CD9D">
+						<value id="A44C3510" type="int">1</value>
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-1346952454</value>
+						<value name="_name" type="string">Body2</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024-Suspension1-Body2.lod</value>
+						<value name="model_shrt" type="string">v024-suspension1-body2.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\04_SharedAssets\Suspensions\Suspension1\Suspension1_LOD1-Body2_COL.pfx</value>
+						<value name="pfx_shrt" type="string">suspension1_lod1-body2_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.8102372,0.3726932,-1.385437</value>
+					</object>
+					<object id="F9FB38C8">
+						<value id="F91767CB" type="int">1</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">312120316</value>
+						<value name="_name" type="string">V024-HL_R</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string"></value>
+						<value name="model_shrt" type="string"></value>
+						<value name="part_type" type="string">hl_r</value>
+						<value name="pfx" type="string">Models\Vehicles\01_LandVehicles\V024_LAVE_Class06\V024_LOD1-HL_R_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v024_lod1-hl_r_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">1</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<object name="_modules">
+							<object id="2220286B">
+								<value name="_class" type="string">CPartDamageModule</value>
+								<value name="_name" type="string">Light_Damage</value>
+								<value name="always_enabled" type="int">0</value>
+								<value name="break_at" type="int">2</value>
+								<value name="damage_health" type="int">1</value>
+								<value name="max_health" type="int">2</value>
+								<value name="should_break" type="int">1</value>
+								<value name="should_explode" type="int">1</value>
+							</object>
+						</object>
+					</object>
+					<object name="_effects">
+						<object id="0EC77BD9">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">372</value>
+							<value name="local" type="mat">1,0,0, 0,0.997413,-0.07188468, 0,0.07188468,0.997413, 0.251232,0.2028349,2.100241</value>
+							<value name="usage" type="int">2</value>
+							<value name="world" type="mat">1,0,0, 0,0.997413,-0.07188468, 0,0.07188468,0.997413, 0.251232,0.2028349,2.100241</value>
+						</object>
+						<object id="36757682">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">371</value>
+							<value name="local" type="mat">1,0,0, 0,0.997413,-0.07188468, 0,0.07188468,0.997413, 0.251232,0.2028349,2.100241</value>
+							<value name="usage" type="int">3</value>
+							<value name="world" type="mat">1,0,0, 0,0.997413,-0.07188468, 0,0.07188468,0.997413, 0.251232,0.2028349,2.100241</value>
+						</object>
+						<object id="4FB8A1BC">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">153</value>
+							<value name="local" type="mat">-1,0,3.972848E-05, 0,1,0, -3.972848E-05,0,-1, -0.856993,0.7297766,-1.414575</value>
+							<value name="usage" type="int">14</value>
+							<value name="world" type="mat">-1,0,3.972848E-05, 0,1,0, -3.972848E-05,0,-1, -0.856993,0.7297766,-1.414575</value>
+						</object>
+						<object id="592F6F24">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">151</value>
+							<value name="local" type="mat">-1,0,3.972848E-05, 0,1,0, -3.972848E-05,0,-1, -0.8569931,0.7297766,-1.414575</value>
+							<value name="usage" type="int">13</value>
+							<value name="world" type="mat">-1,0,3.972848E-05, 0,1,0, -3.972848E-05,0,-1, -0.8569931,0.7297766,-1.414575</value>
+						</object>
+						<object id="67A0DDFA">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">406</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0.2883247,0</value>
+							<value name="usage" type="int">15</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0.2883247,0</value>
+						</object>
+						<object id="69810617">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">128</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							<value name="usage" type="int">1</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						</object>
+						<object id="70E5C7C8">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">151</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0.717674,0.7125506,-1.414575</value>
+							<value name="usage" type="int">13</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0.717674,0.7125506,-1.414575</value>
+						</object>
+						<object id="86C6286D">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">371</value>
+							<value name="local" type="mat">1,0,0, 0,0.997413,-0.07188468, 0,0.07188468,0.997413, -0.251232,0.2028349,2.100241</value>
+							<value name="usage" type="int">3</value>
+							<value name="world" type="mat">1,0,0, 0,0.997413,-0.07188468, 0,0.07188468,0.997413, -0.251232,0.2028349,2.100241</value>
+						</object>
+						<object id="92C7C802">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">150</value>
+							<value name="local" type="mat">-1,0,3.972848E-05, 0,1,0, -3.972848E-05,0,-1, -0.856993,0.7297766,-1.414575</value>
+							<value name="usage" type="int">12</value>
+							<value name="world" type="mat">-1,0,3.972848E-05, 0,1,0, -3.972848E-05,0,-1, -0.856993,0.7297766,-1.414575</value>
+						</object>
+						<object id="B51D8328">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">153</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0.717674,0.7125506,-1.414575</value>
+							<value name="usage" type="int">14</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0.717674,0.7125506,-1.414575</value>
+						</object>
+						<object id="DC463FA4">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">150</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0.717674,0.7125506,-1.414575</value>
+							<value name="usage" type="int">12</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0.717674,0.7125506,-1.414575</value>
+						</object>
+						<object id="EED85BFB">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">372</value>
+							<value name="local" type="mat">1,0,0, 0,0.997413,-0.07188468, 0,0.07188468,0.997413, -0.251232,0.2028349,2.100241</value>
+							<value name="usage" type="int">2</value>
+							<value name="world" type="mat">1,0,0, 0,0.997413,-0.07188468, 0,0.07188468,0.997413, -0.251232,0.2028349,2.100241</value>
+						</object>
+					</object>
+					<object name="_smartobjects">
+						<value name="_object_id" type="int">-2062341971</value>
+						<object id="9EFAD088">
+							<value id="08BAF9F5" type="string"></value>
+							<value id="692808C5" type="int">0</value>
+							<value id="7F368D35" type="string"></value>
+							<value id="ACB2D862" type="int">1</value>
+							<value id="BB801F07" type="string"></value>
+							<value id="E72F7E06" type="int">-1</value>
+							<value name="_class" type="string">CSmartObject</value>
+							<value name="_object_id" type="int">-507279244</value>
+							<value name="_object_key" type="string">{BA9CDBD8-2E6A-462D-B347-839C281BD5A8}</value>
+							<value name="disable" type="string"></value>
+							<value name="enable" type="string"></value>
+							<value name="enabled" type="int">1</value>
+							<value name="enter_event" type="string"></value>
+							<value name="exit_event" type="string"></value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0.4390009,0.492826,0.35508</value>
+							<value name="mission_name" type="string"></value>
+							<value name="model_filename" type="string"></value>
+							<value name="name" type="string">SO_Shotgun</value>
+							<value name="save" type="int">0</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0.4390009,0.492826,0.35508</value>
+							<object id="4BBEDB05">
+								<value id="191434AB" type="int">1</value>
+								<value id="1AD70819" type="int">0</value>
+								<value id="1E0C1BC2" type="string"></value>
+								<value id="2CF00DCB" type="int">0</value>
+								<value id="32D444CC" type="int">0</value>
+								<value id="37757A6D" type="string">Car_shotgun_exit</value>
+								<value id="3A1F258A" type="int">0</value>
+								<value id="3EFF86A9" type="string"></value>
+								<value id="43E453A4" type="int">0</value>
+								<value id="4CC77F2F" type="int">0</value>
+								<value id="5AFFE35E" type="int">0</value>
+								<value id="5D655631" type="string">S_EXITING_VEHICLE</value>
+								<value id="62E2C2CE" type="string"></value>
+								<value id="63F9EA61" type="int">0</value>
+								<value id="70F24645" type="int">1</value>
+								<value id="742CDD23" type="int">0</value>
+								<value id="855DAF02" type="int">0</value>
+								<value id="8CBAEA30" type="float">180</value>
+								<value id="960557B8" type="int">0</value>
+								<value id="97D579B2" type="vec">1,-0.2,0</value>
+								<value id="A1C34309" type="int">1</value>
+								<value id="A810086F" type="int">1</value>
+								<value id="AF893859" type="string"></value>
+								<value id="B92848E1" type="int">0</value>
+								<value id="C6B879C0" type="int">0</value>
+								<value id="CAD390EE" type="int">1</value>
+								<value id="D0003E19" type="string">S_UPRIGHT_IDLE</value>
+								<value id="D6D617CC" type="string">vhl.shotgun.exit</value>
+								<value id="D808BFC1" type="string"></value>
+								<value id="DA72FF7B" type="string"></value>
+								<value id="EECA5657" type="int">38</value>
+								<value id="F0E7F73D" type="string"></value>
+								<value id="F6D62EA4" type="string">hud_button_03</value>
+								<value name="_class" type="string">CExitPassengerSeatAction</value>
+								<value name="_object_id" type="int">-179258949</value>
+								<value name="_object_key" type="string">{7AD4C253-ADA7-4305-B763-AE4E461F848A}</value>
+								<value name="blend_time" type="float">0.1</value>
+								<value name="disable_event" type="string"></value>
+								<value name="enable_event" type="string"></value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -0.4390009,-0.492826,-0.35508</value>
+								<value name="name" type="string">ExitLeftDriverAction</value>
+								<value name="priority" type="int">1</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							</object>
+							<object id="6AFF90ED">
+								<value id="17F26974" type="vec">0.2818063,0.7668277,-0.2220544</value>
+								<value id="423A8370" type="int">0</value>
+								<value id="691FFFE6" type="vec">0.1587844,0.6620754,-0.2223675</value>
+								<value id="9576EE4E" type="int">138973236</value>
+								<value id="CD867357" type="int">1</value>
+								<value name="_class" type="string">CIKTarget</value>
+								<value name="_index0" type="int">126</value>
+								<value name="_index1" type="int">127</value>
+								<value name="_index2" type="int">138</value>
+								<value name="_index3" type="int">128</value>
+								<value name="_weight0" type="float">0.3745891</value>
+								<value name="_weight1" type="float">0.3406231</value>
+								<value name="_weight2" type="float">0.2064402</value>
+								<value name="_weight3" type="float">0.07834751</value>
+								<value name="local" type="mat">0.973101,0.2303594,-0.002999833, 0.2090068,-0.8772748,0.432094, 0.09690524,-0.4210981,-0.9018236, 0.2818063,0.7668277,-0.2220544</value>
+								<value name="name" type="int">-521763203</value>
+							</object>
+							<object id="873734CB">
+								<value id="191434AB" type="int">1</value>
+								<value id="1AD70819" type="int">0</value>
+								<value id="1E0C1BC2" type="string"></value>
+								<value id="2CF00DCB" type="int">1</value>
+								<value id="32D444CC" type="int">0</value>
+								<value id="37757A6D" type="string">Car_shotgun_jumptodriver</value>
+								<value id="3A1F258A" type="int">0</value>
+								<value id="3EFF86A9" type="string">vhl.driver.enter car.driver.enter</value>
+								<value id="43E453A4" type="int">0</value>
+								<value id="4CC77F2F" type="int">0</value>
+								<value id="5AFFE35E" type="int">0</value>
+								<value id="5D655631" type="string">S_PERFORMING_STUNT</value>
+								<value id="62E2C2CE" type="string"></value>
+								<value id="63F9EA61" type="int">2012018476</value>
+								<value id="70F24645" type="int">1</value>
+								<value id="742CDD23" type="int">-1</value>
+								<value id="855DAF02" type="int">0</value>
+								<value id="8CBAEA30" type="float">180</value>
+								<value id="A1C34309" type="int">1</value>
+								<value id="AF893859" type="string"></value>
+								<value id="B92848E1" type="int">1</value>
+								<value id="C6B879C0" type="int">0</value>
+								<value id="CAD390EE" type="int">0</value>
+								<value id="D0003E19" type="string">S_IDLE_VEHICLE</value>
+								<value id="D6D617CC" type="string">vhl.shotgun.exit</value>
+								<value id="D808BFC1" type="string"></value>
+								<value id="DA72FF7B" type="string"></value>
+								<value id="EECA5657" type="int">39</value>
+								<value id="F0E7F73D" type="string"></value>
+								<value id="F6D62EA4" type="string">hud_button_02</value>
+								<value name="_class" type="string">CPassengerToDriverAction</value>
+								<value name="_object_id" type="int">-1169311239</value>
+								<value name="_object_key" type="string">{4CC0097E-6527-4E3B-AE5E-8B944295B889}</value>
+								<value name="blend_time" type="float">0.1</value>
+								<value name="disable_event" type="string"></value>
+								<value name="enable_event" type="string"></value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -0.4390009,-0.492826,-0.35508</value>
+								<value name="name" type="string">PassengerToDriverAction</value>
+								<value name="priority" type="int">10</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							</object>
+							<object id="EBE11315">
+								<value name="_class" type="string">CSmartObjectTrigger</value>
+								<value name="_object_id" type="int">765865788</value>
+								<value name="_object_key" type="string">{2A125D04-CC30-4CF1-B557-0323B95EF433}</value>
+								<value name="box_size" type="vec">1.331797,1,2.223598</value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 1.91561,0.517174,-0.5322648</value>
+								<value name="name" type="string">EnterLeftDriverTrigger</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 2.354611,1.01,-0.1771848</value>
+								<object id="6BE4B4FE">
+									<value id="16A0C327" type="int">1</value>
+									<value id="191434AB" type="int">1</value>
+									<value id="1AD70819" type="int">0</value>
+									<value id="1E0C1BC2" type="string">vhl.shotgun.enter</value>
+									<value id="2CF00DCB" type="int">0</value>
+									<value id="32D444CC" type="int">0</value>
+									<value id="37757A6D" type="string">Car_shotgun_enter</value>
+									<value id="3A1F258A" type="int">0</value>
+									<value id="3EFF86A9" type="string">vhl.shotgun.enter</value>
+									<value id="43E453A4" type="int">1</value>
+									<value id="4691986B" type="int">0</value>
+									<value id="4CC77F2F" type="int">0</value>
+									<value id="5AFFE35E" type="int">0</value>
+									<value id="5D655631" type="string">S_ENTER_VEHICLE</value>
+									<value id="62E2C2CE" type="string"></value>
+									<value id="63F9EA61" type="int">-507279244</value>
+									<value id="70C67072" type="int">23</value>
+									<value id="70F24645" type="int">1</value>
+									<value id="742CDD23" type="int">64</value>
+									<value id="816BEC44" type="string"></value>
+									<value id="855DAF02" type="int">0</value>
+									<value id="8CBAEA30" type="float">180</value>
+									<value id="A1C34309" type="int">0</value>
+									<value id="A810086F" type="int">1</value>
+									<value id="AF893859" type="string"></value>
+									<value id="B74DEE00" type="int">0</value>
+									<value id="B92848E1" type="int">0</value>
+									<value id="C6B879C0" type="int">0</value>
+									<value id="C7178584" type="string"></value>
+									<value id="CAD390EE" type="int">0</value>
+									<value id="D0003E19" type="string">S_IDLE_PASSENGER_VEHICLE</value>
+									<value id="D6D617CC" type="string"></value>
+									<value id="D808BFC1" type="string"></value>
+									<value id="DA72FF7B" type="string"></value>
+									<value id="EECA5657" type="int">38</value>
+									<value id="F0DB4C3B" type="int">0</value>
+									<value id="F0E7F73D" type="string"></value>
+									<value id="F6D62EA4" type="string">hud_button_02</value>
+									<value name="_class" type="string">CEnterPassengerSeatAction</value>
+									<value name="_object_id" type="int">-1740392396</value>
+									<value name="_object_key" type="string">{6279D065-F01A-40BB-AD88-8CC4767D4557}</value>
+									<value name="blend_time" type="float">0.1</value>
+									<value name="disable_event" type="string"></value>
+									<value name="enable_event" type="string"></value>
+									<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -0.04851413,0.01999998,-0.01053368</value>
+									<value name="name" type="string">EnterLeftDriverAction</value>
+									<value name="priority" type="int">2</value>
+									<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 2.29,1.03,-0.2006075</value>
+								</object>
+							</object>
+							<object id="F6C10593">
+								<value id="21C3008A" type="int">0</value>
+								<value id="5BC0764C" type="int">64</value>
+								<value id="742CDD23" type="int">64</value>
+								<value id="CCEAA327" type="string"></value>
+								<value name="_class" type="string">CPassengerSeatController</value>
+								<value name="_object_id" type="int">742161527</value>
+								<value name="_object_key" type="string">{D29E0F7F-47A3-403D-B97B-6FDDE467BAD7}</value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -0.4390009,-0.492826,-0.35508</value>
+								<value name="name" type="string">PassengerSeatController</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							</object>
+						</object>
+						<object id="B5BBD6BB">
+							<value id="08BAF9F5" type="string"></value>
+							<value id="692808C5" type="int">0</value>
+							<value id="7F368D35" type="string"></value>
+							<value id="ACB2D862" type="int">1</value>
+							<value id="BB801F07" type="string"></value>
+							<value id="E72F7E06" type="int">-1</value>
+							<value name="_class" type="string">CSmartObject</value>
+							<value name="_object_id" type="int">-1108869789</value>
+							<value name="_object_key" type="string">{A602B5F1-257A-4924-8050-19A2F8497AD0}</value>
+							<value name="disable" type="string"></value>
+							<value name="enable" type="string"></value>
+							<value name="enabled" type="int">1</value>
+							<value name="enter_event" type="string"></value>
+							<value name="exit_event" type="string"></value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -0.2507956,0.9618025,-1.264718</value>
+							<value name="mission_name" type="string"></value>
+							<value name="model_filename" type="string"></value>
+							<value name="name" type="string">SO_Hood_RD</value>
+							<value name="save" type="int">0</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.2507956,0.9618025,-1.264718</value>
+							<object id="0DD8CE9B">
+								<value id="191434AB" type="int">1</value>
+								<value id="1AD70819" type="int">0</value>
+								<value id="1E0C1BC2" type="string"></value>
+								<value id="2CF00DCB" type="int">0</value>
+								<value id="32D444CC" type="int">0</value>
+								<value id="37757A6D" type="string"></value>
+								<value id="3A1F258A" type="int">0</value>
+								<value id="3EFF86A9" type="string"></value>
+								<value id="43E453A4" type="int">0</value>
+								<value id="4CC77F2F" type="int">0</value>
+								<value id="5AFFE35E" type="int">0</value>
+								<value id="5D655631" type="string">S_PERFORMING_STUNT</value>
+								<value id="62E2C2CE" type="string"></value>
+								<value id="63F9EA61" type="int">0</value>
+								<value id="70F24645" type="int">1</value>
+								<value id="742CDD23" type="int">1</value>
+								<value id="855DAF02" type="int">0</value>
+								<value id="8CBAEA30" type="float">180</value>
+								<value id="A1C34309" type="int">1</value>
+								<value id="AF893859" type="string"></value>
+								<value id="B92848E1" type="int">0</value>
+								<value id="C6B879C0" type="int">0</value>
+								<value id="CAD390EE" type="int">0</value>
+								<value id="D0003E19" type="string">S_PARACHUTE</value>
+								<value id="D6D617CC" type="string">vhl.defaultstunt.exit</value>
+								<value id="DA72FF7B" type="string"></value>
+								<value id="EECA5657" type="int">71</value>
+								<value id="F0E7F73D" type="string"></value>
+								<value id="F6D62EA4" type="string">hud_button_04</value>
+								<value name="_class" type="string">CParachuteFromRoofAction</value>
+								<value name="_object_id" type="int">704315413</value>
+								<value name="_object_key" type="string">{098E8AAF-C5B0-4DBB-A8B6-B402BA0A0869}</value>
+								<value name="blend_time" type="float">0.1</value>
+								<value name="disable_event" type="string"></value>
+								<value name="enable_event" type="string"></value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0.1492673,-0.3834631,-0.7614864</value>
+								<value name="name" type="string">RoofToParachuteAction</value>
+								<value name="priority" type="int">10</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.1015283,0.5783393,-2.026205</value>
+							</object>
+							<object id="11C2F76C">
+								<value id="9576EE4E" type="int">138973236</value>
+								<value name="_class" type="string">CHelperPoint</value>
+								<value name="_index0" type="int">160</value>
+								<value name="_index1" type="int">168</value>
+								<value name="_index2" type="int">153</value>
+								<value name="_index3" type="int">154</value>
+								<value name="_object_id" type="int">1227338564</value>
+								<value name="_object_key" type="string">{B6A523B0-565E-454E-916F-E214F332B88C}</value>
+								<value name="_weight0" type="float">0.4149002</value>
+								<value name="_weight1" type="float">0.3245839</value>
+								<value name="_weight2" type="float">0.1446581</value>
+								<value name="_weight3" type="float">0.1158579</value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,-0.09834522,0</value>
+								<value name="name" type="string">HP_Hood_RD_DST</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.2507956,0.8634573,-1.264718</value>
+							</object>
+							<object id="678106AF">
+								<value id="5BC0764C" type="int">6</value>
+								<value id="742CDD23" type="int">6</value>
+								<value id="CCEAA327" type="string"></value>
+								<value id="EF33086C" type="string"></value>
+								<value name="_class" type="string">CRoofTopStuntController</value>
+								<value name="_object_id" type="int">-162841744</value>
+								<value name="_object_key" type="string">{20E82BAD-6414-47E1-9678-8406A0EAE59A}</value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0.1492673,-0.3834631,-0.7614864</value>
+								<value name="name" type="string">RoofStuntController</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.1015283,0.5783393,-2.026205</value>
+							</object>
+							<object id="68BDA7AD">
+								<value id="16A0C327" type="int">1</value>
+								<value id="191434AB" type="int">1</value>
+								<value id="1AD70819" type="int">0</value>
+								<value id="1E0C1BC2" type="string"></value>
+								<value id="2CF00DCB" type="int">0</value>
+								<value id="32D444CC" type="int">0</value>
+								<value id="37757A6D" type="string">roof_to_driver</value>
+								<value id="3A1F258A" type="int">0</value>
+								<value id="3EFF86A9" type="string">vhl.driver.enter car.driver.enter</value>
+								<value id="43E453A4" type="int">0</value>
+								<value id="4691986B" type="int">0</value>
+								<value id="4CC77F2F" type="int">0</value>
+								<value id="5AFFE35E" type="int">0</value>
+								<value id="5D655631" type="string">S_PERFORMING_STUNT</value>
+								<value id="62E2C2CE" type="string"></value>
+								<value id="63F9EA61" type="int">2012018476</value>
+								<value id="70C67072" type="int">23</value>
+								<value id="70F24645" type="int">1</value>
+								<value id="742CDD23" type="int">64</value>
+								<value id="816BEC44" type="string">vhl.allied.exit</value>
+								<value id="855DAF02" type="int">0</value>
+								<value id="8AE9358F" type="int">0</value>
+								<value id="8CBAEA30" type="float">180</value>
+								<value id="A1C34309" type="int">1</value>
+								<value id="A810086F" type="int">0</value>
+								<value id="AF893859" type="string"></value>
+								<value id="B74DEE00" type="int">0</value>
+								<value id="B92848E1" type="int">0</value>
+								<value id="C6B879C0" type="int">0</value>
+								<value id="C7178584" type="string">vhl.allied.enter</value>
+								<value id="CAD390EE" type="int">0</value>
+								<value id="D0003E19" type="string">S_IDLE_VEHICLE</value>
+								<value id="D6D617CC" type="string">vhl.defaultstunt.exit</value>
+								<value id="D808BFC1" type="string">CAB</value>
+								<value id="DA72FF7B" type="string"></value>
+								<value id="EECA5657" type="int">38</value>
+								<value id="F0DB4C3B" type="int">0</value>
+								<value id="F0E7F73D" type="string"></value>
+								<value id="F6D62EA4" type="string">hud_button_02</value>
+								<value name="_class" type="string">CEnterDriverSeatFromRoofAction</value>
+								<value name="_object_id" type="int">-335486740</value>
+								<value name="_object_key" type="string">{65BA08BA-63AD-4EF0-A8C6-5B24A7225282}</value>
+								<value name="blend_time" type="float">0.1</value>
+								<value name="disable_event" type="string"></value>
+								<value name="enable_event" type="string"></value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0.1492673,-0.3834631,-0.7614864</value>
+								<value name="name" type="string">RoofToDriverAction</value>
+								<value name="priority" type="int">1</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.1015283,0.5783393,-2.026205</value>
+							</object>
+							<object id="9C0A05A9">
+								<value name="_class" type="string">CSmartObjectTrigger</value>
+								<value name="_object_id" type="int">1792474300</value>
+								<value name="_object_key" type="string">{45379608-707B-4A22-9FAE-A611CC1B1431}</value>
+								<value name="box_size" type="vec">5.946879,2.58,8.138161</value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0.2507956,1.718198,1.331127</value>
+								<value name="name" type="string">GroundToRoofTrigger</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,2.68,0.06640884</value>
+								<object id="283FC489">
+									<value id="191434AB" type="int">1</value>
+									<value id="1AD70819" type="int">0</value>
+									<value id="1E0C1BC2" type="string"></value>
+									<value id="2CF00DCB" type="int">0</value>
+									<value id="304F9CD9" type="int">0</value>
+									<value id="32D444CC" type="int">0</value>
+									<value id="37757A6D" type="string">ground_to_roof_action</value>
+									<value id="3A1F258A" type="int">0</value>
+									<value id="3EFF86A9" type="string">vhl.defaultstunt.enter</value>
+									<value id="43E453A4" type="int">0</value>
+									<value id="4CC77F2F" type="int">0</value>
+									<value id="56CA6A6F" type="int">-1</value>
+									<value id="5AFFE35E" type="int">1</value>
+									<value id="5D655631" type="string">S_UPRIGHT_IDLE</value>
+									<value id="62E2C2CE" type="string"></value>
+									<value id="63F9EA61" type="int">-1108869789</value>
+									<value id="70F24645" type="int">1</value>
+									<value id="742CDD23" type="int">6</value>
+									<value id="855DAF02" type="int">0</value>
+									<value id="8CBAEA30" type="float">180</value>
+									<value id="A1C34309" type="int">1</value>
+									<value id="AF893859" type="string"></value>
+									<value id="B92848E1" type="int">0</value>
+									<value id="C6B879C0" type="int">0</value>
+									<value id="CAD390EE" type="int">0</value>
+									<value id="D0003E19" type="string">S_ROOFTOP_STUNTPOSITION_IDLE</value>
+									<value id="D6D617CC" type="string"></value>
+									<value id="DA72FF7B" type="string"></value>
+									<value id="EECA5657" type="int">119</value>
+									<value id="F0E7F73D" type="string"></value>
+									<value id="F6D62EA4" type="string">hud_button_01</value>
+									<value name="_class" type="string">CGrapplingJumpAction</value>
+									<value name="_object_id" type="int">2087062749</value>
+									<value name="_object_key" type="string">{9C593C50-B81A-4BFF-A1AE-882FFF58A7CC}</value>
+									<value name="blend_time" type="float">0.1</value>
+									<value name="disable_event" type="string"></value>
+									<value name="enable_event" type="string"></value>
+									<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -0.01707253,-0.02894664,0.009718872</value>
+									<value name="name" type="string">GroundToRoofAction</value>
+									<value name="priority" type="int">2</value>
+									<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.1015283,2.605318,0.1455026</value>
+								</object>
+							</object>
+							<object id="CD989E68">
+								<value name="_class" type="string">CSmartObjectTrigger</value>
+								<value name="_object_id" type="int">-632374094</value>
+								<value name="_object_key" type="string">{EC29C947-1A6E-4B7D-8A7B-16F13FCDB91A}</value>
+								<value name="box_size" type="vec">15.56585,14.83402,17.76398</value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0.2507956,16.19965,1.264718</value>
+								<value name="name" type="string">ParachuteToRoofTrigger</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,17.16146,0</value>
+								<object id="5DEBCDE7">
+									<value id="191434AB" type="int">1</value>
+									<value id="1AD70819" type="int">0</value>
+									<value id="1E0C1BC2" type="string"></value>
+									<value id="2CF00DCB" type="int">0</value>
+									<value id="32D444CC" type="int">0</value>
+									<value id="37757A6D" type="string"></value>
+									<value id="3A1F258A" type="int">0</value>
+									<value id="3EFF86A9" type="string">vhl.defaultstunt.enter</value>
+									<value id="43E453A4" type="int">0</value>
+									<value id="4CC77F2F" type="int">0</value>
+									<value id="5AFFE35E" type="int">1</value>
+									<value id="5D655631" type="string">S_UPRIGHT_IDLE</value>
+									<value id="62E2C2CE" type="string"></value>
+									<value id="63F9EA61" type="int">-1108869789</value>
+									<value id="70F24645" type="int">1</value>
+									<value id="742CDD23" type="int">1</value>
+									<value id="855DAF02" type="int">0</value>
+									<value id="8CBAEA30" type="float">180</value>
+									<value id="A1C34309" type="int">1</value>
+									<value id="AF893859" type="string"></value>
+									<value id="B92848E1" type="int">0</value>
+									<value id="C6B879C0" type="int">0</value>
+									<value id="CAD390EE" type="int">0</value>
+									<value id="D0003E19" type="string">S_UPRIGHT_IDLE</value>
+									<value id="D6D617CC" type="string"></value>
+									<value id="DA72FF7B" type="string"></value>
+									<value id="EECA5657" type="int">119</value>
+									<value id="F0E7F73D" type="string"></value>
+									<value id="F6D62EA4" type="string">hud_button_01</value>
+									<value name="_class" type="string">CParachuteToSOAction</value>
+									<value name="_object_id" type="int">1965896999</value>
+									<value name="_object_key" type="string">{BA812201-B568-4400-A4FC-98CD83B8E4FB}</value>
+									<value name="blend_time" type="float">0.1</value>
+									<value name="disable_event" type="string"></value>
+									<value name="enable_event" type="string"></value>
+									<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,-1.156899,0</value>
+									<value name="name" type="string">ParachuteToRoofAction</value>
+									<value name="priority" type="int">1</value>
+									<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+								</object>
+							</object>
+							<object id="EB183ED0">
+								<value id="191434AB" type="int">1</value>
+								<value id="1AD70819" type="int">0</value>
+								<value id="1E0C1BC2" type="string"></value>
+								<value id="2CF00DCB" type="int">0</value>
+								<value id="32D444CC" type="int">0</value>
+								<value id="37757A6D" type="string"></value>
+								<value id="3A1F258A" type="int">0</value>
+								<value id="3EFF86A9" type="string"></value>
+								<value id="43E453A4" type="int">0</value>
+								<value id="4CC77F2F" type="int">0</value>
+								<value id="5AFFE35E" type="int">0</value>
+								<value id="5D655631" type="string">S_UPRIGHT_IDLE</value>
+								<value id="62E2C2CE" type="string"></value>
+								<value id="63F9EA61" type="int">0</value>
+								<value id="70F24645" type="int">1</value>
+								<value id="742CDD23" type="int">0</value>
+								<value id="855DAF02" type="int">0</value>
+								<value id="8CBAEA30" type="float">180</value>
+								<value id="A1C34309" type="int">1</value>
+								<value id="AF893859" type="string"></value>
+								<value id="B92848E1" type="int">0</value>
+								<value id="C6B879C0" type="int">0</value>
+								<value id="CAD390EE" type="int">0</value>
+								<value id="D0003E19" type="string">S_UPRIGHT_IDLE</value>
+								<value id="D6D617CC" type="string">vhl.defaultstunt.exit</value>
+								<value id="D808BFC1" type="string"></value>
+								<value id="DA72FF7B" type="string"></value>
+								<value id="EECA5657" type="int">71</value>
+								<value id="F0E7F73D" type="string"></value>
+								<value id="F6D62EA4" type="string">hud_button_06</value>
+								<value name="_class" type="string">CRoofToGroundJumpAction</value>
+								<value name="_object_id" type="int">-1309647866</value>
+								<value name="_object_key" type="string">{BA25C970-0511-4E13-BFE1-FA604F223D1E}</value>
+								<value name="blend_time" type="float">0.1</value>
+								<value name="disable_event" type="string"></value>
+								<value name="enable_event" type="string"></value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0.1492673,-0.3834631,-0.7614864</value>
+								<value name="name" type="string">JumpToGroundAction</value>
+								<value name="priority" type="int">1</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.1015283,0.5783393,-2.026205</value>
+							</object>
+						</object>
+						<object id="E6DFEFBA">
+							<value id="08BAF9F5" type="string"></value>
+							<value id="692808C5" type="int">0</value>
+							<value id="7F368D35" type="string"></value>
+							<value id="ACB2D862" type="int">1</value>
+							<value id="BB801F07" type="string"></value>
+							<value id="E72F7E06" type="int">-1</value>
+							<value name="_class" type="string">CSmartObject</value>
+							<value name="_object_id" type="int">2012018476</value>
+							<value name="_object_key" type="string">{B6C2B43D-0D31-4055-BA48-207C6DF8C79D}</value>
+							<value name="disable" type="string"></value>
+							<value name="enable" type="string"></value>
+							<value name="enabled" type="int">1</value>
+							<value name="enter_event" type="string"></value>
+							<value name="exit_event" type="string"></value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -0.4466771,0.4723204,0.3621686</value>
+							<value name="mission_name" type="string"></value>
+							<value name="model_filename" type="string"></value>
+							<value name="name" type="string">SO_Driver</value>
+							<value name="save" type="int">0</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.4466771,0.4723204,0.3621686</value>
+							<object id="0AAB6A5C">
+								<value id="191434AB" type="int">1</value>
+								<value id="1AD70819" type="int">0</value>
+								<value id="1E0C1BC2" type="string"></value>
+								<value id="2CF00DCB" type="int">0</value>
+								<value id="32D444CC" type="int">0</value>
+								<value id="37757A6D" type="string"></value>
+								<value id="3A1F258A" type="int">0</value>
+								<value id="3EFF86A9" type="string"></value>
+								<value id="43E453A4" type="int">0</value>
+								<value id="4CC77F2F" type="int">0</value>
+								<value id="5AFFE35E" type="int">0</value>
+								<value id="5D655631" type="string">S_PERFORMING_STUNT</value>
+								<value id="62E2C2CE" type="string"></value>
+								<value id="63F9EA61" type="int">0</value>
+								<value id="70F24645" type="int">1</value>
+								<value id="742CDD23" type="int">1</value>
+								<value id="855DAF02" type="int">0</value>
+								<value id="8CBAEA30" type="float">180</value>
+								<value id="A1C34309" type="int">1</value>
+								<value id="AF893859" type="string"></value>
+								<value id="B92848E1" type="int">0</value>
+								<value id="C6B879C0" type="int">0</value>
+								<value id="CAD390EE" type="int">0</value>
+								<value id="D0003E19" type="string">S_PARACHUTE</value>
+								<value id="D6D617CC" type="string">vhl.driver.exit</value>
+								<value id="DA72FF7B" type="string"></value>
+								<value id="EECA5657" type="int">71</value>
+								<value id="F0E7F73D" type="string"></value>
+								<value id="F6D62EA4" type="string">hud_button_04</value>
+								<value name="_class" type="string">CParachuteFromDriverSeatAction</value>
+								<value name="_object_id" type="int">414827219</value>
+								<value name="_object_key" type="string">{F9E0AE20-0F96-4F9F-B564-86EA4425E687}</value>
+								<value name="blend_time" type="float">0.1</value>
+								<value name="disable_event" type="string"></value>
+								<value name="enable_event" type="string"></value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0.4466771,-0.4723204,-0.3621686</value>
+								<value name="name" type="string">DriverToParachuteAction</value>
+								<value name="priority" type="int">1</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							</object>
+							<object id="2F172B8D">
+								<value id="191434AB" type="int">1</value>
+								<value id="1AD70819" type="int">0</value>
+								<value id="1E0C1BC2" type="string"></value>
+								<value id="2CF00DCB" type="int">0</value>
+								<value id="32D444CC" type="int">0</value>
+								<value id="37757A6D" type="string">Car_driver_exit</value>
+								<value id="3A1F258A" type="int">0</value>
+								<value id="3EFF86A9" type="string"></value>
+								<value id="43E453A4" type="int">0</value>
+								<value id="4CC77F2F" type="int">0</value>
+								<value id="5AFFE35E" type="int">0</value>
+								<value id="5D655631" type="string">S_EXITING_VEHICLE</value>
+								<value id="62E2C2CE" type="string"></value>
+								<value id="63F9EA61" type="int">0</value>
+								<value id="70F24645" type="int">1</value>
+								<value id="742CDD23" type="int">0</value>
+								<value id="855DAF02" type="int">0</value>
+								<value id="8CBAEA30" type="float">180</value>
+								<value id="960557B8" type="int">0</value>
+								<value id="97D579B2" type="vec">-1,0.2,0</value>
+								<value id="A1C34309" type="int">1</value>
+								<value id="A810086F" type="int">0</value>
+								<value id="AF893859" type="string"></value>
+								<value id="B92848E1" type="int">0</value>
+								<value id="C6B879C0" type="int">0</value>
+								<value id="CAD390EE" type="int">1</value>
+								<value id="D0003E19" type="string">S_UPRIGHT_IDLE</value>
+								<value id="D6D617CC" type="string">vhl.driver.exit</value>
+								<value id="D808BFC1" type="string"></value>
+								<value id="DA72FF7B" type="string"></value>
+								<value id="EECA5657" type="int">38</value>
+								<value id="F0E7F73D" type="string"></value>
+								<value id="F6D62EA4" type="string">hud_button_03</value>
+								<value name="_class" type="string">CExitDriverSeatAction</value>
+								<value name="_object_id" type="int">-2028986632</value>
+								<value name="_object_key" type="string">{4DAE4C11-DCDB-4B76-835B-DBD75A4AE079}</value>
+								<value name="blend_time" type="float">0.1</value>
+								<value name="disable_event" type="string"></value>
+								<value name="enable_event" type="string"></value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0.4466771,-0.4723204,-0.3621686</value>
+								<value name="name" type="string">ExitDriverAction</value>
+								<value name="priority" type="int">1</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							</object>
+							<object id="3E97A64A">
+								<value id="17F26974" type="vec">-0.5307276,-0.1405199,-0.3271186</value>
+								<value id="423A8370" type="int">0</value>
+								<value id="691FFFE6" type="vec">-0.5307276,-0.1405199,-0.3271186</value>
+								<value id="9576EE4E" type="int">138973236</value>
+								<value id="CD867357" type="int">4</value>
+								<value name="_class" type="string">CIKTarget</value>
+								<value name="_index0" type="int">181</value>
+								<value name="_index1" type="int">183</value>
+								<value name="_index2" type="int">166</value>
+								<value name="_index3" type="int">211</value>
+								<value name="_weight0" type="float">0.3950692</value>
+								<value name="_weight1" type="float">0.389282</value>
+								<value name="_weight2" type="float">0.1176749</value>
+								<value name="_weight3" type="float">0.09797397</value>
+								<value name="local" type="mat">0.2741101,-0.03670695,0.9609976, 0.2243228,0.9741471,-0.02677547, -0.9351701,0.222913,0.2752577, -0.5307276,-0.1405199,-0.3271186</value>
+								<value name="name" type="int">1042497589</value>
+							</object>
+							<object id="3F32769D">
+								<value name="_class" type="string">CSmartObjectTrigger</value>
+								<value name="_object_id" type="int">-1573341466</value>
+								<value name="_object_key" type="string">{79202110-6D72-4470-BC8D-405E791BF02A}</value>
+								<value name="box_size" type="vec">1.331797,1,2.223598</value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -1.907934,0.5376796,-0.5393534</value>
+								<value name="name" type="string">EnterDriverTrigger</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -2.354611,1.01,-0.1771848</value>
+								<object id="4FB7C3CB">
+									<value id="16A0C327" type="int">1</value>
+									<value id="191434AB" type="int">1</value>
+									<value id="1AD70819" type="int">0</value>
+									<value id="1E0C1BC2" type="string"></value>
+									<value id="2CF00DCB" type="int">0</value>
+									<value id="32D444CC" type="int">0</value>
+									<value id="37757A6D" type="string">Car_driver_enter</value>
+									<value id="3A1F258A" type="int">0</value>
+									<value id="3EFF86A9" type="string">vhl.driver.enter car.driver.enter</value>
+									<value id="43E453A4" type="int">1</value>
+									<value id="4691986B" type="int">0</value>
+									<value id="4CC77F2F" type="int">0</value>
+									<value id="5AFFE35E" type="int">1</value>
+									<value id="5D655631" type="string">S_ENTERING_VEHICLE</value>
+									<value id="62E2C2CE" type="string"></value>
+									<value id="63F9EA61" type="int">2012018476</value>
+									<value id="70C67072" type="int">23</value>
+									<value id="70F24645" type="int">1</value>
+									<value id="742CDD23" type="int">64</value>
+									<value id="816BEC44" type="string">vhl.allied.exit</value>
+									<value id="855DAF02" type="int">0</value>
+									<value id="8CBAEA30" type="float">180</value>
+									<value id="A1C34309" type="int">0</value>
+									<value id="A810086F" type="int">0</value>
+									<value id="AF893859" type="string"></value>
+									<value id="B74DEE00" type="int">0</value>
+									<value id="B92848E1" type="int">0</value>
+									<value id="C6B879C0" type="int">0</value>
+									<value id="C7178584" type="string">vhl.allied.enter</value>
+									<value id="CAD390EE" type="int">0</value>
+									<value id="D0003E19" type="string">S_IDLE_VEHICLE</value>
+									<value id="D6D617CC" type="string"></value>
+									<value id="D808BFC1" type="string">LOW_LEFT</value>
+									<value id="DA72FF7B" type="string"></value>
+									<value id="EECA5657" type="int">38</value>
+									<value id="F0DB4C3B" type="int">0</value>
+									<value id="F0E7F73D" type="string"></value>
+									<value id="F6D62EA4" type="string">hud_button_02</value>
+									<value name="_class" type="string">CEnterDriverSeatAction</value>
+									<value name="_object_id" type="int">2034127295</value>
+									<value name="_object_key" type="string">{1258E27C-E408-46B6-9A64-8711D9ACC03A}</value>
+									<value name="blend_time" type="float">0.1</value>
+									<value name="disable_event" type="string"></value>
+									<value name="enable_event" type="string"></value>
+									<value name="local" type="mat">0.9999999,0,0, 0,0.9999999,0, 0,0,1, 0,0,-0.04556231</value>
+									<value name="name" type="string">EnterDriverSeatAction</value>
+									<value name="priority" type="int">10</value>
+									<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -2.354611,1.01,-0.2784971</value>
+								</object>
+							</object>
+							<object id="5EF0887D">
+								<value id="17F26974" type="vec">-0.5068378,-0.1398541,-0.01415217</value>
+								<value id="423A8370" type="int">0</value>
+								<value id="691FFFE6" type="vec">-0.5068378,-0.1398541,-0.01415217</value>
+								<value id="9576EE4E" type="int">138973236</value>
+								<value id="CD867357" type="int">8</value>
+								<value name="_class" type="string">CIKTarget</value>
+								<value name="_index0" type="int">181</value>
+								<value name="_index1" type="int">183</value>
+								<value name="_index2" type="int">182</value>
+								<value name="_index3" type="int">193</value>
+								<value name="_weight0" type="float">0.4130934</value>
+								<value name="_weight1" type="float">0.4099719</value>
+								<value name="_weight2" type="float">0.0910117</value>
+								<value name="_weight3" type="float">0.08592302</value>
+								<value name="local" type="mat">-0.1009811,0.02922104,0.9944592, 0.07490567,0.9969548,-0.02168817, -0.9920645,0.07230053,-0.1028624, -0.5068378,-0.1398541,-0.01415217</value>
+								<value name="name" type="int">158964559</value>
+							</object>
+							<object id="755CE350">
+								<value id="22C77673" type="string"></value>
+								<value id="25C4FC53" type="string"></value>
+								<value id="37755740" type="string"></value>
+								<value id="4A5063FF" type="string">local::weapon1</value>
+								<value id="5BC0764C" type="int">64</value>
+								<value id="6B97C81C" type="string">local::aimmg</value>
+								<value id="7215D216" type="int">0</value>
+								<value id="742CDD23" type="int">64</value>
+								<value id="9859712B" type="string">local::weapon1</value>
+								<value id="B4AD6A59" type="int">73</value>
+								<value id="D808BFC1" type="string"></value>
+								<value id="E62CA576" type="string"></value>
+								<value name="_class" type="string">CDriverSeatController</value>
+								<value name="_object_id" type="int">378007646</value>
+								<value name="_object_key" type="string">{5336EF67-93F2-4398-B61A-EE4FFB7EBE8F}</value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+								<value name="name" type="string">DriverSeatController</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.4466771,0.4723204,0.3621686</value>
+							</object>
+							<object id="8540DF89">
+								<value id="16A0C327" type="int">1</value>
+								<value id="191434AB" type="int">1</value>
+								<value id="1AD70819" type="int">0</value>
+								<value id="1E0C1BC2" type="string"></value>
+								<value id="2CF00DCB" type="int">0</value>
+								<value id="32D444CC" type="int">0</value>
+								<value id="37757A6D" type="string">enter_roof_from_driver</value>
+								<value id="3A1F258A" type="int">0</value>
+								<value id="3EFF86A9" type="string">vhl.defaultstunt.enter</value>
+								<value id="43E453A4" type="int">0</value>
+								<value id="4691986B" type="int">0</value>
+								<value id="4CC77F2F" type="int">0</value>
+								<value id="5AFFE35E" type="int">0</value>
+								<value id="5D655631" type="string">S_PERFORMING_STUNT</value>
+								<value id="62E2C2CE" type="string"></value>
+								<value id="63F9EA61" type="int">-1108869789</value>
+								<value id="70C67072" type="int">23</value>
+								<value id="70F24645" type="int">1</value>
+								<value id="742CDD23" type="int">82</value>
+								<value id="816BEC44" type="string"></value>
+								<value id="855DAF02" type="int">0</value>
+								<value id="8AE9358F" type="int">1</value>
+								<value id="8CBAEA30" type="float">180</value>
+								<value id="A1C34309" type="int">1</value>
+								<value id="A810086F" type="int">0</value>
+								<value id="AF893859" type="string"></value>
+								<value id="B74DEE00" type="int">0</value>
+								<value id="B92848E1" type="int">1</value>
+								<value id="C6B879C0" type="int">0</value>
+								<value id="C7178584" type="string"></value>
+								<value id="CAD390EE" type="int">0</value>
+								<value id="D0003E19" type="string">S_ROOFTOP_STUNTPOSITION_IDLE</value>
+								<value id="D6D617CC" type="string">vhl.driver.exit</value>
+								<value id="D808BFC1" type="string">CAB</value>
+								<value id="DA72FF7B" type="string"></value>
+								<value id="EECA5657" type="int">119</value>
+								<value id="F0DB4C3B" type="int">0</value>
+								<value id="F0E7F73D" type="string"></value>
+								<value id="F6D62EA4" type="string">fe_txt_156</value>
+								<value name="_class" type="string">CEnterDriverSeatFromRoofAction</value>
+								<value name="_object_id" type="int">-81161248</value>
+								<value name="_object_key" type="string">{9784D7DB-B713-4B8C-B697-E99578EBACE7}</value>
+								<value name="blend_time" type="float">0.1</value>
+								<value name="disable_event" type="string"></value>
+								<value name="enable_event" type="string"></value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0.4466771,-0.4723204,-0.3621686</value>
+								<value name="name" type="string">DriverToRoofAction</value>
+								<value name="priority" type="int">1</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							</object>
+							<object id="F89C24CA">
+								<value id="17F26974" type="vec">-0.2643874,0.7925295,-0.3984513</value>
+								<value id="423A8370" type="int">0</value>
+								<value id="691FFFE6" type="vec">-0.2039531,0.681805,-0.4332276</value>
+								<value id="9576EE4E" type="int">138973236</value>
+								<value id="CD867357" type="int">1</value>
+								<value name="_class" type="string">CIKTarget</value>
+								<value name="_index0" type="int">213</value>
+								<value name="_index1" type="int">214</value>
+								<value name="_index2" type="int">220</value>
+								<value name="_index3" type="int">128</value>
+								<value name="_weight0" type="float">0.3364134</value>
+								<value name="_weight1" type="float">0.3299121</value>
+								<value name="_weight2" type="float">0.2530413</value>
+								<value name="_weight3" type="float">0.08063327</value>
+								<value name="local" type="mat">-0.9389709,0.3435713,0.01710318, -0.330168,-0.9140648,0.2355309, 0.09655507,0.2155097,0.9717165, -0.2643874,0.7925295,-0.3984513</value>
+								<value name="name" type="int">978109618</value>
+							</object>
+						</object>
+					</object>
+				</object>
+			</object>
+		</object>
+	</object>
+</root>

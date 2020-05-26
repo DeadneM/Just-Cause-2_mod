@@ -1,0 +1,5 @@
+C:\Users\Amaury\Desktop\jc2\gibbedr171\NDesk.Options\bin\Debug\NDesk.Options.dll
+C:\Users\Amaury\Desktop\jc2\gibbedr171\NDesk.Options\bin\Debug\NDesk.Options.pdb
+C:\Users\Amaury\Desktop\jc2\gibbedr171\NDesk.Options\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amaury\Desktop\jc2\gibbedr171\NDesk.Options\obj\Debug\NDesk.Options.dll
+C:\Users\Amaury\Desktop\jc2\gibbedr171\NDesk.Options\obj\Debug\NDesk.Options.pdb

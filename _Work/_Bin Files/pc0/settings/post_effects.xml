@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<root extension=".bin">
+<container extension=".bin" format="Raw" endian="Little">
 	<object>
+		<value name="bloom" type="float">0</value>
+		<value name="blur" type="float">0.3</value>
+		<value name="contrast" type="float">1.1</value>
+		<value name="focal_distance" type="float">2E-06</value>
 		<value id="679DEF2A" type="float">1</value>
 		<value id="84A1EC42" type="float">0.8</value>
 		<value id="8B639E1E" type="float">1</value>
 		<value id="AB2627CC" type="float">1</value>
 		<value id="C2C0A469" type="float">0.87</value>
 		<value id="E57D0A03" type="float">1</value>
-		<value name="bloom" type="float">0</value>
-		<value name="blur" type="float">0.3</value>
-		<value name="contrast" type="float">1.1</value>
-		<value name="focal_distance" type="float">2E-06</value>
 	</object>
-</root>
+</container>

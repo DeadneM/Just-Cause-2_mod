@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="Raw" endian="Little">
+	<object>
+		<object id="6E1A29FD">
+			<value name="hook_model" type="string">Models/Weapons/GAE04/WEA04-Grapplinghook.lod</value>
+			<value name="wire_durability" type="float">120000</value>
+			<value name="wire_width" type="float">0.008</value>
+			<object name="actions">
+				<object id="0DFDA56D">
+					<value name="priority" type="int">10</value>
+					<value id="2CF00DCB" type="int">1</value>
+					<value id="70F24645" type="int">0</value>
+					<value id="742CDD23" type="int">-1</value>
+					<value id="EECA5657" type="int">0</value>
+					<value id="F6D62EA4" type="string"></value>
+				</object>
+				<object id="1BD56F5D">
+					<value name="priority" type="int">10</value>
+					<value id="2CF00DCB" type="int">1</value>
+					<value id="70F24645" type="int">0</value>
+					<value id="742CDD23" type="int">-1</value>
+					<value id="EECA5657" type="int">0</value>
+					<value id="F6D62EA4" type="string"></value>
+				</object>
+				<object id="8F62C916">
+					<value name="priority" type="int">10</value>
+					<value id="2CF00DCB" type="int">0</value>
+					<value id="70F24645" type="int">0</value>
+					<value id="742CDD23" type="int">-1</value>
+					<value id="EECA5657" type="int">144</value>
+					<value id="F6D62EA4" type="string">hud_button_09</value>
+				</object>
+				<object id="962EBF7C">
+					<value name="priority" type="int">10</value>
+					<value id="2CF00DCB" type="int">0</value>
+					<value id="70F24645" type="int">0</value>
+					<value id="742CDD23" type="int">-1</value>
+					<value id="EECA5657" type="int">145</value>
+					<value id="F6D62EA4" type="string">hud_button_08</value>
+				</object>
+				<object id="B35DC1F6">
+					<value name="priority" type="int">10</value>
+					<value id="2CF00DCB" type="int">0</value>
+					<value id="70F24645" type="int">0</value>
+					<value id="742CDD23" type="int">-1</value>
+					<value id="EECA5657" type="int">81</value>
+					<value id="F6D62EA4" type="string"></value>
+				</object>
+				<object id="CEC1CAC2">
+					<value name="priority" type="int">10</value>
+					<value id="2CF00DCB" type="int">0</value>
+					<value id="70F24645" type="int">0</value>
+					<value id="742CDD23" type="int">-1</value>
+					<value id="EECA5657" type="int">146</value>
+					<value id="F6D62EA4" type="string">hud_button_04</value>
+				</object>
+			</object>
+			<object name="wire_whip">
+				<value name="character_impulse" type="float">400</value>
+				<value name="damage" type="float">1000</value>
+				<value name="hit_reaction_impact_force" type="float">1500</value>
+				<value name="hook_material" type="string">Metal</value>
+				<value name="object_impulse" type="float">500</value>
+				<value id="7CADF27D" type="int">327</value>
+			</object>
+			<value id="00992CFB" type="float">55</value>
+			<value id="0E62E301" type="string">Textures/Wire_mpm.dds</value>
+			<value id="2A925441" type="float">1000</value>
+			<value id="2B8DFB8D" type="string">Hook_Diff.dds</value>
+			<value id="320B8CD2" type="float">500</value>
+			<value id="442DA943" type="string">Hook_Mpm.dds</value>
+			<value id="537A05D4" type="float">125</value>
+			<value id="72104687" type="float">1620000</value>
+			<value id="76A95A64" type="float">0.95</value>
+			<value id="76FEA4B2" type="int">2</value>
+			<value id="7A4EF581" type="float">75</value>
+			<value id="7DD628EA" type="int">1</value>
+			<value id="8E43B31E" type="float">135</value>
+			<value id="96E5B772" type="string">Textures/Wire_DIF.dds</value>
+			<value id="A73771BF" type="int">3</value>
+			<value id="AE2D91E0" type="string">Hook_Dummy.dds</value>
+			<value id="B55417AE" type="float">1000</value>
+			<value id="CAD60785" type="string">Hook_Nrm.dds</value>
+			<value id="D57278D7" type="float">1500</value>
+			<value id="DA24282B" type="float">16</value>
+			<value id="E6A244B4" type="string">Textures/Wire_nrm.dds</value>
+			<object id="1CB6BA12">
+				<value id="1394FDCC" type="float">60</value>
+				<value id="44AD22F7" type="int">3</value>
+				<value id="75719777" type="float">65</value>
+				<value id="852AE30D" type="float">70</value>
+				<value id="97CB8838" type="float">55</value>
+				<value id="A73FCA1C" type="float">100</value>
+				<value id="B064A6C1" type="float">60</value>
+				<value id="B1F3119E" type="float">80</value>
+				<value id="DDB25104" type="float">65</value>
+				<value id="FA0B2B36" type="int">0</value>
+			</object>
+			<object id="CA400F12">
+				<value id="0820EBCD" type="int">-1</value>
+				<value id="6BCC7C5A" type="int">213</value>
+				<value id="7C387BC0" type="int">204</value>
+				<value id="7DEAFFA6" type="int">203</value>
+				<value id="ADB6D249" type="int">410</value>
+				<value id="BC79634F" type="int">215</value>
+				<value id="DB9D6690" type="int">214</value>
+				<value id="F538A02D" type="int">203</value>
+			</object>
+		</object>
+	</object>
+</container>

@@ -1,5 +1,5 @@
-Alternative save location:C:\Program Files (x86)\Steam\steamapps\common\Just Cause 2\Dropzone\Binaries
+Alternative save location:C:\Users\DeYuS\Documents\1&@JEUX\JustCause2\_Work\_Mess\effects
 Use alternative save location:1
-Save xml:0
+Save xml:1
 Save on exit:0
-Last file:C:\Program Files (x86)\Steam\steamapps\common\Just Cause 2\Dropzone\Binaries\grapplingparams.bin
+Last file:C:\Users\DeYuS\Documents\1&@JEUX\JustCause2\_Work\_Mess\effects\dlc_personal_thruster.bin

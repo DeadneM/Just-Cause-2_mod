@@ -1,0 +1,11 @@
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\Gibbed.Avalanche.ArchiveViewer.exe.config
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\Gibbed.Avalanche.ArchiveViewer.exe
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\Gibbed.Avalanche.ArchiveViewer.pdb
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ArchiveViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ArchiveViewer\obj\Debug\Gibbed.Avalanche.ArchiveViewer.SaveProgress.resources
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ArchiveViewer\obj\Debug\Gibbed.Avalanche.ArchiveViewer.Viewer.resources
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ArchiveViewer\obj\Debug\Gibbed.Avalanche.ArchiveViewer.Properties.Resources.resources
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ArchiveViewer\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ArchiveViewer\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ArchiveViewer\obj\Debug\Gibbed.Avalanche.ArchiveViewer.exe
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ArchiveViewer\obj\Debug\Gibbed.Avalanche.ArchiveViewer.pdb

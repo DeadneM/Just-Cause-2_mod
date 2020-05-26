@@ -1,0 +1,12 @@
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.FileFormats\bin\Debug\Gibbed.Avalanche.FileFormats.dll
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.FileFormats\bin\Debug\Gibbed.Avalanche.FileFormats.pdb
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.FileFormats\bin\Debug\Gibbed.IO.dll
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.FileFormats\bin\Debug\Gibbed.ProjectData.dll
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.FileFormats\bin\Debug\Gibbed.IO.pdb
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.FileFormats\bin\Debug\Gibbed.ProjectData.pdb
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.FileFormats\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.FileFormats\obj\Debug\Gibbed.Avalanche.FileFormats.ShaderLibraryResources.resources
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.FileFormats\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.FileFormats\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.FileFormats\obj\Debug\Gibbed.Avalanche.FileFormats.dll
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.FileFormats\obj\Debug\Gibbed.Avalanche.FileFormats.pdb

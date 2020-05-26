@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".epe" format="Blackboard" endian="Little">
+	<object>
+		<value name="_class" type="string">CItem</value>
+		<value name="_instance_id" type="int">-1537631352</value>
+		<value name="_object_id" type="int">131843501</value>
+		<value name="enabled" type="int">1</value>
+		<value name="icon" type="int">0</value>
+		<value name="itemtype" type="int">0</value>
+		<value name="modelname" type="string">weapons\wea33\wea33-wea33.lod</value>
+		<value name="name" type="string">Handgrenade</value>
+		<value name="pickup_count" type="int">1</value>
+		<value name="world" type="mat4x4">1,0,0,0, 0,1,0,0, 0,0,1,0, 0,0,0,1</value>
+		<value id="692808C5" type="int">0</value>
+		<value id="702B9F2D" type="int">1</value>
+		<value id="86116420" type="int">1</value>
+		<value id="8D18B9E4" type="int">1</value>
+		<value id="976B6A1D" type="string">CSmartObject1</value>
+		<value id="A4968489" type="string">t{pickup.grenade({FB45A22B-36C4-472F-BED4-BD8485D2825D})}::event</value>
+		<value id="D7FA7FE3" type="string">{0BF802C8-652B-41A1-8682-B625208AAC81}</value>
+		<object id="4B78C654">
+			<value name="_class" type="string">CSmartObject</value>
+			<value name="_instance_id" type="int">-1537631352</value>
+			<value name="_object_id" type="int">1343529391</value>
+			<value name="disable" type="string"></value>
+			<value name="enable" type="string"></value>
+			<value name="enabled" type="int">1</value>
+			<value name="enter_event" type="string"></value>
+			<value name="exit_event" type="string"></value>
+			<value name="mission_name" type="string"></value>
+			<value name="model_filename" type="string"></value>
+			<value name="name" type="string">SmartObject1</value>
+			<value name="save" type="int">0</value>
+			<value name="world" type="mat4x4">1,0,0,0, 0,1,0,0, 0,0,1,0, 0,0,0,1</value>
+			<value id="08BAF9F5" type="string"></value>
+			<value id="692808C5" type="int">0</value>
+			<value id="702B9F2D" type="int">1</value>
+			<value id="7F368D35" type="string"></value>
+			<value id="86116420" type="int">1</value>
+			<value id="8D18B9E4" type="int">1</value>
+			<value id="976B6A1D" type="string">CSmartObjectTrigger1</value>
+			<value id="A4968489" type="string">t{pickup.grenade({FB45A22B-36C4-472F-BED4-BD8485D2825D})}::event</value>
+			<value id="BB801F07" type="string"></value>
+			<value id="E72F7E06" type="int">-1</value>
+			<object id="ABB091DE">
+				<value name="_class" type="string">CSmartObjectTrigger</value>
+				<value name="_object_id" type="int">849125074</value>
+				<value name="box_size" type="vec">1,1,1</value>
+				<value name="local" type="mat4x4">1,0,0,0, 0,1,0,0, 0,0,1,0, 0,0,0,1</value>
+				<value name="name" type="string">SmartObjectTrigger1</value>
+				<value id="702B9F2D" type="int">1</value>
+				<value id="86116420" type="int">1</value>
+				<value id="8D18B9E4" type="int">1</value>
+				<value id="976B6A1D" type="string">CGrenadePickupAction1</value>
+				<value id="A4968489" type="string">t{pickup.grenade({FB45A22B-36C4-472F-BED4-BD8485D2825D})}::event</value>
+				<object id="AF340425">
+					<value name="_class" type="string">CGrenadePickupAction</value>
+					<value name="_object_id" type="int">298009322</value>
+					<value name="blend_time" type="float">0.2</value>
+					<value name="disable_event" type="string"></value>
+					<value name="enable_event" type="string"></value>
+					<value name="explosive_type" type="int">0</value>
+					<value name="name" type="string">GrenadePickupAction1</value>
+					<value name="priority" type="int">1</value>
+					<value id="191434AB" type="int">0</value>
+					<value id="1AD70819" type="int">0</value>
+					<value id="1E0C1BC2" type="string"></value>
+					<value id="2CF00DCB" type="int">1</value>
+					<value id="32D444CC" type="int">0</value>
+					<value id="37757A6D" type="string"></value>
+					<value id="3A1F258A" type="int">0</value>
+					<value id="3EFF86A9" type="string"></value>
+					<value id="43E453A4" type="int">0</value>
+					<value id="4CC77F2F" type="int">0</value>
+					<value id="5AFFE35E" type="int">0</value>
+					<value id="5D655631" type="string"></value>
+					<value id="62E2C2CE" type="string"></value>
+					<value id="63F9EA61" type="int">0</value>
+					<value id="702B9F2D" type="int">1</value>
+					<value id="70F24645" type="int">1</value>
+					<value id="742CDD23" type="int">-1</value>
+					<value id="855DAF02" type="int">0</value>
+					<value id="86116420" type="int">1</value>
+					<value id="8CBAEA30" type="float">360.0</value>
+					<value id="8D18B9E4" type="int">1</value>
+					<value id="A1C34309" type="int">0</value>
+					<value id="A4968489" type="string">t{pickup.grenade({FB45A22B-36C4-472F-BED4-BD8485D2825D})}::event</value>
+					<value id="AF893859" type="string"></value>
+					<value id="B92848E1" type="int">0</value>
+					<value id="C6B879C0" type="int">0</value>
+					<value id="CAD390EE" type="int">0</value>
+					<value id="D0003E19" type="string"></value>
+					<value id="D6D617CC" type="string"></value>
+					<value id="DA72FF7B" type="string"></value>
+					<value id="EECA5657" type="int">38</value>
+					<value id="F0E7F73D" type="string"></value>
+					<value id="F6D62EA4" type="string">hud_button_12</value>
+				</object>
+			</object>
+		</object>
+	</object>
+</container>

@@ -1,0 +1,1662 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root extension=".vdoll">
+	<object>
+		<object name="_vdoll">
+			<value name="_name" type="string">CVehicleProp</value>
+			<value name="_vehicletype" type="int">3</value>
+			<value name="nof_rotors" type="int">0</value>
+			<value name="nof_wheels" type="int">3</value>
+			<object name="_default_modules">
+				<object id="1DA8EE5F">
+					<value id="F3E36D12" type="string">Editor\Vehicles\ARVE\Modules\Aerodynamics\V067_Aero.mod</value>
+					<value name="_class" type="string">CGroupModule</value>
+					<value name="_name" type="string">CGroupModule_CHelicopterAerodynamicModule</value>
+					<value name="export_grouped" type="int">1</value>
+					<value name="num_parts" type="int">3</value>
+					<object id="699769B0">
+						<value id="F3E36D12" type="string">Editor\Vehicles\ARVE\Modules\Aerodynamics\V067_Aero.mod</value>
+						<value name="_class" type="string">CHelicopterAerodynamicModule</value>
+						<value name="_name" type="string">V067_AerodynamicModule</value>
+						<value name="air_density" type="float">1.3</value>
+						<value name="center_point" type="vec">-5,0,0</value>
+						<value name="drag_coeff" type="float">1.25</value>
+						<value name="frontal_area" type="float">1</value>
+						<value name="height_coeff" type="float">0.02</value>
+						<value name="lift_coeff" type="float">0.4735</value>
+						<value name="normal" type="vec">0,1,0</value>
+					</object>
+					<object id="99CED300">
+						<value id="F3E36D12" type="string">Editor\Vehicles\ARVE\Modules\Aerodynamics\V067_Aero.mod</value>
+						<value name="_class" type="string">CHelicopterAerodynamicModule</value>
+						<value name="_name" type="string">V067_AerodynamicModule</value>
+						<value name="air_density" type="float">1.3</value>
+						<value name="center_point" type="vec">5,0,0</value>
+						<value name="drag_coeff" type="float">1.25</value>
+						<value name="frontal_area" type="float">1</value>
+						<value name="height_coeff" type="float">0.02</value>
+						<value name="lift_coeff" type="float">0.5265</value>
+						<value name="normal" type="vec">0,1,0</value>
+					</object>
+					<object id="A08DF93E">
+						<value id="F3E36D12" type="string">Editor\Vehicles\ARVE\Modules\Aerodynamics\V067_Aero.mod</value>
+						<value name="_class" type="string">CHelicopterAerodynamicModule</value>
+						<value name="_name" type="string">V067_AerodynamicModule</value>
+						<value name="air_density" type="float">1.3</value>
+						<value name="center_point" type="vec">0,0,6</value>
+						<value name="drag_coeff" type="float">2.5</value>
+						<value name="frontal_area" type="float">1</value>
+						<value name="height_coeff" type="float">0.01</value>
+						<value name="lift_coeff" type="float">0</value>
+						<value name="normal" type="vec">0,1,0</value>
+					</object>
+				</object>
+				<object id="30D1711F">
+					<value id="0D52862F" type="float">0.9</value>
+					<value id="BE8A1571" type="float">0.6</value>
+					<value id="E3E4883A" type="float">0.55</value>
+					<value id="F3E36D12" type="string">Editor\Vehicles\ARVE\Modules\Steering\V067_Steering.mod</value>
+					<value id="FDAC93A0" type="float">0.75</value>
+					<value name="_class" type="string">CHelicopterSteeringModule</value>
+					<value name="_name" type="string">V067_Steering</value>
+				</object>
+				<object id="80D35713">
+					<value id="F3E36D12" type="string">Editor\Vehicles\ARVE\Modules\Aerodynamics\V067_Rudder.mod</value>
+					<value name="_class" type="string">CGroupModule</value>
+					<value name="_name" type="string">CGroupModule_CHelicopterRudderModule</value>
+					<value name="export_grouped" type="int">1</value>
+					<value name="num_parts" type="int">4</value>
+					<object id="4B887E24">
+						<value id="CD9322F1" type="vec">0,1,0</value>
+						<value id="F3E36D12" type="string">Editor\Vehicles\ARVE\Modules\Aerodynamics\V067_Rudder.mod</value>
+						<value name="_class" type="string">CHelicopterRudderModule</value>
+						<value name="_name" type="string">V067_RudderModule</value>
+						<value name="air_density" type="float">1.3</value>
+						<value name="center_point" type="vec">0,0,0</value>
+						<value name="drag_coeff" type="float">2.75</value>
+						<value name="frontal_area" type="float">4</value>
+						<value name="height_coeff" type="float">0</value>
+						<value name="lift_coeff" type="float">6</value>
+						<value name="normal" type="vec">0,1,0</value>
+					</object>
+					<object id="9E5F154C">
+						<value id="CD9322F1" type="vec">0,1,0</value>
+						<value id="F3E36D12" type="string">Editor\Vehicles\ARVE\Modules\Aerodynamics\V067_Rudder.mod</value>
+						<value name="_class" type="string">CHelicopterRudderModule</value>
+						<value name="_name" type="string">V067_RudderModule</value>
+						<value name="air_density" type="float">1.3</value>
+						<value name="center_point" type="vec">0,0,6</value>
+						<value name="drag_coeff" type="float">0</value>
+						<value name="frontal_area" type="float">0.5</value>
+						<value name="height_coeff" type="float">0</value>
+						<value name="lift_coeff" type="float">1.1825</value>
+						<value name="normal" type="vec">0,1,0</value>
+					</object>
+					<object id="E48CCFCF">
+						<value id="CD9322F1" type="vec">1,0,0</value>
+						<value id="F3E36D12" type="string">Editor\Vehicles\ARVE\Modules\Aerodynamics\V067_Rudder.mod</value>
+						<value name="_class" type="string">CHelicopterRudderModule</value>
+						<value name="_name" type="string">V067_RudderModule</value>
+						<value name="air_density" type="float">1.3</value>
+						<value name="center_point" type="vec">0,0,0</value>
+						<value name="drag_coeff" type="float">0.95</value>
+						<value name="frontal_area" type="float">1.75</value>
+						<value name="height_coeff" type="float">0</value>
+						<value name="lift_coeff" type="float">0</value>
+						<value name="normal" type="vec">1,0,0</value>
+					</object>
+					<object id="F84E5F58">
+						<value id="CD9322F1" type="vec">0,1,0</value>
+						<value id="F3E36D12" type="string">Editor\Vehicles\ARVE\Modules\Aerodynamics\V067_Rudder.mod</value>
+						<value name="_class" type="string">CHelicopterRudderModule</value>
+						<value name="_name" type="string">V067_RudderModule</value>
+						<value name="air_density" type="float">1.3</value>
+						<value name="center_point" type="vec">0,0,-6</value>
+						<value name="drag_coeff" type="float">0</value>
+						<value name="frontal_area" type="float">0.5</value>
+						<value name="height_coeff" type="float">0</value>
+						<value name="lift_coeff" type="float">1.9175</value>
+						<value name="normal" type="vec">0,1,0</value>
+					</object>
+				</object>
+				<object id="872FCC18">
+					<value id="1AD460F8" type="float">20000</value>
+					<value id="28A5D089" type="float">17500</value>
+					<value id="2936B4B4" type="float">1000</value>
+					<value id="BD6148C1" type="float">0.9</value>
+					<value id="C522F10D" type="float">5</value>
+					<value id="D40D6067" type="float">1750</value>
+					<value id="EC5A5E47" type="float">30000</value>
+					<value id="F3E36D12" type="string">Editor\Vehicles\ARVE\Modules\Engine\V067_Eng.mod</value>
+					<value name="_class" type="string">CHelicopterEngineModule</value>
+					<value name="_name" type="string">V067_Eng</value>
+				</object>
+				<object id="99BC8593">
+					<value id="08459773" type="float">80</value>
+					<value id="2C48766B" type="float">200</value>
+					<value id="A277FE8C" type="float">0.7</value>
+					<value id="C06C5451" type="float">0.5</value>
+					<value id="F3E36D12" type="string">Editor\Vehicles\ARVE\Modules\Axis\V067_Axis_Front.mod</value>
+					<value name="_class" type="string">CWheelModule</value>
+					<value name="_name" type="string">V067_Axis_Front</value>
+					<value name="armour" type="float">20</value>
+					<value name="broken_friction" type="float">50</value>
+					<value name="broken_mass" type="float">15</value>
+					<value name="broken_radius" type="float">0.3</value>
+					<value name="friction" type="float">1</value>
+					<value name="hitpoints" type="float">200</value>
+					<value name="mass" type="float">5</value>
+					<value name="max_friction" type="float">2</value>
+					<value name="radius" type="float">0.15</value>
+					<value name="sink_friction_coeff" type="float">0</value>
+					<value name="slip_angle" type="float">0</value>
+					<value name="viscosity" type="float">0.04</value>
+					<value name="wheel_axis" type="int">0</value>
+					<value name="wheel_nr" type="int">0</value>
+					<value name="width" type="float">0.3</value>
+					<object id="89598B52">
+						<value id="F3E36D12" type="string">Editor\Vehicles\ARVE\Modules\Axis\V067_Axis_Front.mod</value>
+						<value name="_class" type="string">CSuspensionModule</value>
+						<value name="_name" type="string">CSuspensionModule</value>
+						<value name="antirollbar_strength" type="float">0</value>
+						<value name="compression" type="float">4</value>
+						<value name="direction" type="vec">0,-1,0</value>
+						<value name="length" type="float">0.15</value>
+						<value name="relaxation" type="float">5</value>
+						<value name="strength" type="float">40</value>
+					</object>
+				</object>
+				<object id="A6DB0131">
+					<value id="E8CBDA9D" type="float">1</value>
+					<value id="F3E36D12" type="string">Editor\Vehicles\ARVE\Modules\Base\ARVEDamage_Low.mod</value>
+					<value name="_class" type="string">CVehicleDamageModule</value>
+					<value name="_name" type="string">ARVEDamage_Low</value>
+					<value name="bullet_armor" type="int">5</value>
+					<value name="deform_scale" type="float">0.0033</value>
+					<value name="explosion_armor" type="int">0</value>
+					<value name="explosion_threshold" type="int">50</value>
+					<value name="glass_armor" type="int">1</value>
+					<value name="impact_armor" type="int">2</value>
+					<value name="max_health" type="int">1000</value>
+					<value name="metal_armor" type="int">5</value>
+				</object>
+				<object id="C47A759C">
+					<value id="F3E36D12" type="string">editor\vehicles\arve\modules\base\arveglobal_v010.mod</value>
+					<value name="_class" type="string">CHelicopterGlobalModule</value>
+					<value name="_name" type="string">ARVEGlobal_V010</value>
+					<value name="air_density" type="float">1.3</value>
+					<value name="boyancy" type="float">0.9</value>
+				</object>
+				<object name="CGroupModule_CBoyancyModule">
+					<value id="F3E36D12" type="string">Editor\Vehicles\SEVE\Modules\Boyuancy\V089_Bou.mod</value>
+					<value name="_class" type="string">CGroupModule</value>
+					<value name="_name" type="string">CGroupModule_CBoyancyModule</value>
+					<value name="export_grouped" type="int">1</value>
+					<value name="num_parts" type="int">10</value>
+					<object id="22D81609">
+						<value id="578CCC6B" type="float">0</value>
+						<value id="DC7C4744" type="float">20</value>
+						<value id="F3E36D12" type="string">Editor\Vehicles\SEVE\Modules\Boyuancy\V089_Bou.mod</value>
+						<value name="_class" type="string">CBoyancyModule</value>
+						<value name="_name" type="string">CBoyancyModule</value>
+						<value name="drag" type="float">0</value>
+						<value name="position" type="vec">-0.01151282,1.602097,-3.300977</value>
+						<value name="radius" type="float">0</value>
+						<value name="side_area" type="float">0</value>
+					</object>
+					<object id="7AB5BACA">
+						<value id="578CCC6B" type="float">0</value>
+						<value id="DC7C4744" type="float">20</value>
+						<value id="F3E36D12" type="string">Editor\Vehicles\SEVE\Modules\Boyuancy\V089_Bou.mod</value>
+						<value name="_class" type="string">CBoyancyModule</value>
+						<value name="_name" type="string">CBoyancyModule</value>
+						<value name="drag" type="float">0</value>
+						<value name="position" type="vec">3.271296,0.8341749,1.446801</value>
+						<value name="radius" type="float">0</value>
+						<value name="side_area" type="float">0</value>
+					</object>
+					<object id="9EFB3297">
+						<value id="578CCC6B" type="float">0</value>
+						<value id="DC7C4744" type="float">20</value>
+						<value id="F3E36D12" type="string">Editor\Vehicles\SEVE\Modules\Boyuancy\V089_Bou.mod</value>
+						<value name="_class" type="string">CBoyancyModule</value>
+						<value name="_name" type="string">CBoyancyModule</value>
+						<value name="drag" type="float">0</value>
+						<value name="position" type="vec">-3.539652,0.8341749,1.446801</value>
+						<value name="radius" type="float">0</value>
+						<value name="side_area" type="float">0</value>
+					</object>
+					<object id="AAE235A8">
+						<value id="578CCC6B" type="float">0</value>
+						<value id="DC7C4744" type="float">20</value>
+						<value id="F3E36D12" type="string">Editor\Vehicles\SEVE\Modules\Boyuancy\V089_Bou.mod</value>
+						<value name="_class" type="string">CBoyancyModule</value>
+						<value name="_name" type="string">CBoyancyModule</value>
+						<value name="drag" type="float">0</value>
+						<value name="position" type="vec">0.5508884,1.761554,1.417944</value>
+						<value name="radius" type="float">0</value>
+						<value name="side_area" type="float">0</value>
+					</object>
+					<object id="CAF5CAC0">
+						<value id="578CCC6B" type="float">0</value>
+					</object>
+				</object>
+				<object name="CGroupModule_CHelicopterRotorModule">
+					<value id="F3E36D12" type="string">editor\vehicles\arve\modules\aerodynamics\v010_rotor.mod</value>
+					<value name="_class" type="string">CGroupModule</value>
+					<value name="_name" type="string">CGroupModule_CHelicopterRotorModule</value>
+					<value name="export_grouped" type="int">1</value>
+					<value name="num_parts" type="int">1</value>
+					<object name="CHelicopterRotorModule_0">
+						<value id="05ED6760" type="vec">0,0,-1</value>
+						<value id="18BD338A" type="vec">0,0,-1</value>
+						<value id="39188B7E" type="vec">0,1.8,-4</value>
+						<value id="89BD1C71" type="int">0</value>
+						<value id="EB084B1B" type="float">1</value>
+						<value id="F3E36D12" type="string">editor\vehicles\arve\modules\aerodynamics\v010_rotor.mod</value>
+						<value id="FBD3C8C1" type="float">0.5</value>
+						<value name="_class" type="string">CHelicopterRotorModule</value>
+						<value name="_name" type="string">V010_RotorModule</value>
+						<value name="graphical_offset" type="vec">0,0.01,0.6</value>
+					</object>
+				</object>
+				<object name="CHelicopterPhysicalBaseModule">
+					<value id="3E4A3019" type="float">3</value>
+					<value id="8C241218" type="float">1.5</value>
+					<value id="A0800782" type="float">2.5</value>
+					<value id="F3E36D12" type="string">editor\vehicles\arve\modules\base\pb_v010.mod</value>
+					<value name="_class" type="string">CHelicopterPhysicalBaseModule</value>
+					<value name="_name" type="string">PB_V010</value>
+					<value name="angular_damping" type="float">0.5</value>
+					<value name="center_of_mass" type="vec">0,1.8,0</value>
+					<value name="chassi_mass" type="float">1000</value>
+					<value name="extra_forward_force" type="float">0</value>
+					<value name="extra_side_force" type="float">0</value>
+					<value name="frontal_area" type="float">0.8</value>
+					<value name="linear_damping" type="float">0</value>
+					<value name="rotor_acc_multipler" type="float">10</value>
+					<value name="rotor_acc_rpm" type="float">200</value>
+					<value name="rotor_blur_rpm" type="float">15</value>
+					<value name="rotor_blur_threshold_rpm" type="float">150</value>
+					<value name="rotor_deacc_freespin_multiplier" type="float">0.04</value>
+					<value name="rotor_deacc_multiplier" type="float">0.04</value>
+					<value name="rotor_freespin_control" type="float">9</value>
+					<value name="rotor_max_rpm" type="float">160</value>
+					<value name="rotor_trust_smooth" type="float">25000</value>
+				</object>
+			</object>
+			<object name="_families">
+				<object id="6E0662EE">
+					<value name="_class" type="string">CFamilyProp</value>
+					<value name="_name" type="string">CFamilyProp</value>
+					<value name="VehicleID" type="string">Unnamed</value>
+					<object id="4302BD63">
+						<value id="28CC5503" type="string"></value>
+						<value name="_class" type="string">CCollectionProp</value>
+						<value name="_GUID" type="int">-1080089017</value>
+						<value name="_name" type="string">HandlingUpgrades</value>
+						<object id="04368B98">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-1072061622</value>
+							<value name="_name" type="string">5</value>
+							<object name="_modules">
+								<object id="0730732D">
+									<value id="0D52862F" type="float">0.9</value>
+									<value id="BE8A1571" type="float">0.6</value>
+									<value id="E3E4883A" type="float">0.65</value>
+									<value id="FDAC93A0" type="float">0.85</value>
+									<value name="_class" type="string">CHelicopterSteeringModule</value>
+									<value name="_name" type="string">V067_Handling_Upgrd_5</value>
+								</object>
+							</object>
+						</object>
+						<object id="20C1927D">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-2069471814</value>
+							<value name="_name" type="string">1</value>
+							<object name="_modules">
+								<object id="0C6F5A93">
+									<value id="0D52862F" type="float">0.9</value>
+									<value id="BE8A1571" type="float">0.6</value>
+									<value id="E3E4883A" type="float">0.57</value>
+									<value id="FDAC93A0" type="float">0.77</value>
+									<value name="_class" type="string">CHelicopterSteeringModule</value>
+									<value name="_name" type="string">V067_Handling_Upgrd_1</value>
+								</object>
+							</object>
+						</object>
+						<object id="34A75B69">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">1889437783</value>
+							<value name="_name" type="string">3</value>
+							<object name="_modules">
+								<object id="718976D9">
+									<value id="0D52862F" type="float">0.9</value>
+									<value id="BE8A1571" type="float">0.6</value>
+									<value id="E3E4883A" type="float">0.61</value>
+									<value id="FDAC93A0" type="float">0.81</value>
+									<value name="_class" type="string">CHelicopterSteeringModule</value>
+									<value name="_name" type="string">V067_Handling_Upgrd_3</value>
+								</object>
+							</object>
+						</object>
+						<object id="555C4ACA">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-690332321</value>
+							<value name="_name" type="string">2</value>
+							<object name="_modules">
+								<object id="7DE11645">
+									<value id="0D52862F" type="float">0.9</value>
+									<value id="BE8A1571" type="float">0.6</value>
+									<value id="E3E4883A" type="float">0.59</value>
+									<value id="FDAC93A0" type="float">0.79</value>
+									<value name="_class" type="string">CHelicopterSteeringModule</value>
+									<value name="_name" type="string">V067_Handling_Upgrd_2</value>
+								</object>
+							</object>
+						</object>
+						<object id="7DB5A2BE">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-325506760</value>
+							<value name="_name" type="string">4</value>
+							<object name="_modules">
+								<object id="5E3C6BD4">
+									<value id="0D52862F" type="float">0.9</value>
+									<value id="BE8A1571" type="float">0.6</value>
+									<value id="E3E4883A" type="float">0.63</value>
+									<value id="FDAC93A0" type="float">0.83</value>
+									<value name="_class" type="string">CHelicopterSteeringModule</value>
+									<value name="_name" type="string">V067_Handling_Upgrd_4</value>
+								</object>
+							</object>
+						</object>
+						<object id="E4C04B41">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">1765172597</value>
+							<value name="_name" type="string">0</value>
+						</object>
+					</object>
+					<object id="4ADCE1FF">
+						<value id="28CC5503" type="string"></value>
+						<value name="_class" type="string">CCollectionProp</value>
+						<value name="_GUID" type="int">885066315</value>
+						<value name="_name" type="string">WeaponUpgrades</value>
+						<object id="B2050ECE">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-856914743</value>
+							<value name="_name" type="string">1</value>
+						</object>
+						<object id="DD366C0B">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">875703014</value>
+							<value name="_name" type="string">0</value>
+						</object>
+					</object>
+					<object id="52C77F76">
+						<value name="_class" type="string">CReferenceProp</value>
+						<value name="_GUID" type="int">695184003</value>
+						<value name="_name" type="string">V067-Body_ref</value>
+						<value name="_refGUID" type="int">-1499015897</value>
+						<object id="45291694">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">-1297065160</value>
+							<value name="_name" type="string">V067-Flap_CR_ref</value>
+							<value name="_refGUID" type="int">-1247073819</value>
+						</object>
+						<object id="4E628D9D">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">1574475572</value>
+							<value name="_name" type="string">Air01</value>
+							<value name="_refGUID" type="int">1574475572</value>
+						</object>
+						<object id="53F12C92">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">-580593591</value>
+							<value name="_name" type="string">Front</value>
+							<value name="_refGUID" type="int">-580593591</value>
+						</object>
+						<object id="AE91535A">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">-1818314391</value>
+							<value name="_name" type="string">V067-Suspension_CR_ref</value>
+							<value name="_refGUID" type="int">-1797587823</value>
+						</object>
+						<object id="B1D42025">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">576447376</value>
+							<value name="_name" type="string">V067-Suspension_CL_ref</value>
+							<value name="_refGUID" type="int">-298215836</value>
+						</object>
+						<object id="B5D456AD">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">1693854085</value>
+							<value name="_name" type="string">Air01</value>
+							<value name="_refGUID" type="int">1693854085</value>
+						</object>
+						<object id="C26340E0">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">328672139</value>
+							<value name="_name" type="string">V067-Door_FU1_ref</value>
+							<value name="_refGUID" type="int">-429736574</value>
+						</object>
+						<object id="C7D266E2">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">-1268487796</value>
+							<value name="_name" type="string">V067-Flap_CL_ref</value>
+							<value name="_refGUID" type="int">915352189</value>
+						</object>
+						<object id="DA35904E">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">366904388</value>
+							<value name="_name" type="string">Air01</value>
+							<value name="_refGUID" type="int">366904388</value>
+						</object>
+						<object id="E999CC5C">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">1501230292</value>
+							<value name="_name" type="string">V067-Suspension_FD_ref</value>
+							<value name="_refGUID" type="int">682941020</value>
+						</object>
+						<object id="F6CCB910">
+							<value name="_class" type="string">CReferenceProp</value>
+							<value name="_GUID" type="int">1370740836</value>
+							<value name="_name" type="string">Back</value>
+							<value name="_refGUID" type="int">1370740836</value>
+						</object>
+					</object>
+					<object id="612E7465">
+						<value id="28CC5503" type="string"></value>
+						<value name="_class" type="string">CCollectionProp</value>
+						<value name="_GUID" type="int">1326327379</value>
+						<value name="_name" type="string">TopspeedUpgrades</value>
+						<object id="41FF66EA">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-1505211698</value>
+							<value name="_name" type="string">4</value>
+							<object name="_modules">
+								<object id="E97A0A4F">
+									<value name="_class" type="string">CHelicopterGlobalModule</value>
+									<value name="_name" type="string">V067_TopSpeed_Upgrd_4</value>
+									<value name="air_density" type="float">1.22</value>
+									<value name="boyancy" type="float">0.9</value>
+								</object>
+							</object>
+						</object>
+						<object id="4267A92B">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">166002132</value>
+							<value name="_name" type="string">5</value>
+							<object name="_modules">
+								<object id="2F3C001E">
+									<value name="_class" type="string">CHelicopterGlobalModule</value>
+									<value name="_name" type="string">V067_TopSpeed_Upgrd_5</value>
+									<value name="air_density" type="float">1.2</value>
+									<value name="boyancy" type="float">0.9</value>
+								</object>
+							</object>
+						</object>
+						<object id="A5636CE9">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">1584123181</value>
+							<value name="_name" type="string">2</value>
+							<object name="_modules">
+								<object id="085437DB">
+									<value name="_class" type="string">CHelicopterGlobalModule</value>
+									<value name="_name" type="string">V067_TopSpeed_Upgrd_2</value>
+									<value name="air_density" type="float">1.26</value>
+									<value name="boyancy" type="float">0.9</value>
+								</object>
+							</object>
+						</object>
+						<object id="AE6ABB64">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-276015521</value>
+							<value name="_name" type="string">3</value>
+							<object name="_modules">
+								<object id="D2B82FC7">
+									<value name="_class" type="string">CHelicopterGlobalModule</value>
+									<value name="_name" type="string">V067_TopSpeed_Upgrd_3</value>
+									<value name="air_density" type="float">1.24</value>
+									<value name="boyancy" type="float">0.9</value>
+								</object>
+							</object>
+						</object>
+						<object id="E4AB2D36">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-385959024</value>
+							<value name="_name" type="string">1</value>
+							<object name="_modules">
+								<object id="90708C08">
+									<value name="_class" type="string">CHelicopterGlobalModule</value>
+									<value name="_name" type="string">V067_TopSpeed_Upgrd_1</value>
+									<value name="air_density" type="float">1.28</value>
+									<value name="boyancy" type="float">0.9</value>
+								</object>
+							</object>
+						</object>
+						<object id="FE47C318">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">707480124</value>
+							<value name="_name" type="string">0</value>
+						</object>
+					</object>
+					<object id="9DFD0546">
+						<value id="28CC5503" type="string"></value>
+						<value name="_class" type="string">CCollectionProp</value>
+						<value name="_GUID" type="int">961298987</value>
+						<value name="_name" type="string">ArmourUpgrades</value>
+						<object id="4A1B87C1">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">1774029213</value>
+							<value name="_name" type="string">5</value>
+							<object name="_modules">
+								<object id="C7B2D163">
+									<value id="E8CBDA9D" type="float">1</value>
+									<value name="_class" type="string">CVehicleDamageModule</value>
+									<value name="_name" type="string">ARVE_Damage_LOW_Upgrd_5.mod</value>
+									<value name="bullet_armor" type="int">5</value>
+									<value name="deform_scale" type="float">0.0033</value>
+									<value name="explosion_armor" type="int">0</value>
+									<value name="explosion_threshold" type="int">50</value>
+									<value name="glass_armor" type="int">1</value>
+									<value name="impact_armor" type="int">2</value>
+									<value name="max_health" type="int">2000</value>
+									<value name="metal_armor" type="int">5</value>
+								</object>
+							</object>
+						</object>
+						<object id="52FCCD64">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">690855678</value>
+							<value name="_name" type="string">2</value>
+							<object name="_modules">
+								<object id="ADA701C4">
+									<value id="E8CBDA9D" type="float">1</value>
+									<value name="_class" type="string">CVehicleDamageModule</value>
+									<value name="_name" type="string">ARVE_Damage_LOW_Upgrd_2.mod</value>
+									<value name="bullet_armor" type="int">5</value>
+									<value name="deform_scale" type="float">0.0033</value>
+									<value name="explosion_armor" type="int">0</value>
+									<value name="explosion_threshold" type="int">50</value>
+									<value name="glass_armor" type="int">1</value>
+									<value name="impact_armor" type="int">2</value>
+									<value name="max_health" type="int">1400</value>
+									<value name="metal_armor" type="int">5</value>
+								</object>
+							</object>
+						</object>
+						<object id="846BE4C6">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">1780229019</value>
+							<value name="_name" type="string">1</value>
+							<object name="_modules">
+								<object id="462011DA">
+									<value id="E8CBDA9D" type="float">1</value>
+									<value name="_class" type="string">CVehicleDamageModule</value>
+									<value name="_name" type="string">ARVE_Damage_LOW_Upgrd_1.mod</value>
+									<value name="bullet_armor" type="int">5</value>
+									<value name="deform_scale" type="float">0.0033</value>
+									<value name="explosion_armor" type="int">0</value>
+									<value name="explosion_threshold" type="int">50</value>
+									<value name="glass_armor" type="int">1</value>
+									<value name="impact_armor" type="int">2</value>
+									<value name="max_health" type="int">1200</value>
+									<value name="metal_armor" type="int">5</value>
+								</object>
+							</object>
+						</object>
+						<object id="94C058CB">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-811573919</value>
+							<value name="_name" type="string">0</value>
+						</object>
+						<object id="A0C3FA6D">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">917439600</value>
+							<value name="_name" type="string">3</value>
+							<object name="_modules">
+								<object id="8EB0BF0F">
+									<value id="E8CBDA9D" type="float">1</value>
+									<value name="_class" type="string">CVehicleDamageModule</value>
+									<value name="_name" type="string">ARVE_Damage_LOW_Upgrd_3.mod</value>
+									<value name="bullet_armor" type="int">5</value>
+									<value name="deform_scale" type="float">0.0033</value>
+									<value name="explosion_armor" type="int">0</value>
+									<value name="explosion_threshold" type="int">50</value>
+									<value name="glass_armor" type="int">1</value>
+									<value name="impact_armor" type="int">2</value>
+									<value name="max_health" type="int">1600</value>
+									<value name="metal_armor" type="int">5</value>
+								</object>
+							</object>
+						</object>
+						<object id="D912591C">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-538488507</value>
+							<value name="_name" type="string">4</value>
+							<object name="_modules">
+								<object id="EE8CDE17">
+									<value id="E8CBDA9D" type="float">1</value>
+									<value name="_class" type="string">CVehicleDamageModule</value>
+									<value name="_name" type="string">ARVE_Damage_LOW_Upgrd_4.mod</value>
+									<value name="bullet_armor" type="int">5</value>
+									<value name="deform_scale" type="float">0.0033</value>
+									<value name="explosion_armor" type="int">0</value>
+									<value name="explosion_threshold" type="int">50</value>
+									<value name="glass_armor" type="int">1</value>
+									<value name="impact_armor" type="int">2</value>
+									<value name="max_health" type="int">1800</value>
+									<value name="metal_armor" type="int">5</value>
+								</object>
+							</object>
+						</object>
+					</object>
+					<object id="B2984F7B">
+						<value id="28CC5503" type="string"></value>
+						<value name="_class" type="string">CCollectionProp</value>
+						<value name="_GUID" type="int">981239485</value>
+						<value name="_name" type="string">AccelerationUpgrades</value>
+						<object id="476D916B">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-632877250</value>
+							<value name="_name" type="string">1</value>
+							<object name="_modules">
+								<object id="762B4B16">
+									<value id="1AD460F8" type="float">21000</value>
+									<value id="28A5D089" type="float">18000</value>
+									<value id="2936B4B4" type="float">1000</value>
+									<value id="BD6148C1" type="float">0.9</value>
+									<value id="C522F10D" type="float">5</value>
+									<value id="D40D6067" type="float">1750</value>
+									<value id="EC5A5E47" type="float">31000</value>
+									<value name="_class" type="string">CHelicopterEngineModule</value>
+									<value name="_name" type="string">V067_Acceleration_Upgrd_1</value>
+								</object>
+							</object>
+						</object>
+						<object id="4CD59CF8">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">233069460</value>
+							<value name="_name" type="string">5</value>
+							<object name="_modules">
+								<object id="86A141DF">
+									<value id="1AD460F8" type="float">25000</value>
+									<value id="28A5D089" type="float">20000</value>
+									<value id="2936B4B4" type="float">1000</value>
+									<value id="BD6148C1" type="float">0.9</value>
+									<value id="C522F10D" type="float">5</value>
+									<value id="D40D6067" type="float">1750</value>
+									<value id="EC5A5E47" type="float">35000</value>
+									<value name="_class" type="string">CHelicopterEngineModule</value>
+									<value name="_name" type="string">V067_Acceleration_Upgrd_5</value>
+								</object>
+							</object>
+						</object>
+						<object id="6F634642">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">780434433</value>
+							<value name="_name" type="string">3</value>
+							<object name="_modules">
+								<object id="5D6FD692">
+									<value id="1AD460F8" type="float">23000</value>
+									<value id="28A5D089" type="float">19000</value>
+									<value id="2936B4B4" type="float">1000</value>
+									<value id="BD6148C1" type="float">0.9</value>
+									<value id="C522F10D" type="float">5</value>
+									<value id="D40D6067" type="float">1750</value>
+									<value id="EC5A5E47" type="float">33000</value>
+									<value name="_class" type="string">CHelicopterEngineModule</value>
+									<value name="_name" type="string">V067_Acceleration_Upgrd_3</value>
+								</object>
+							</object>
+						</object>
+						<object id="6F8BE145">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-1126028253</value>
+							<value name="_name" type="string">2</value>
+							<object name="_modules">
+								<object id="7B8F26FE">
+									<value id="1AD460F8" type="float">22000</value>
+									<value id="28A5D089" type="float">18500</value>
+									<value id="2936B4B4" type="float">1000</value>
+									<value id="BD6148C1" type="float">0.9</value>
+									<value id="C522F10D" type="float">5</value>
+									<value id="D40D6067" type="float">1750</value>
+									<value id="EC5A5E47" type="float">32000</value>
+									<value name="_class" type="string">CHelicopterEngineModule</value>
+									<value name="_name" type="string">V067_Acceleration_Upgrd_2</value>
+								</object>
+							</object>
+						</object>
+						<object id="C0E87817">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">-161717076</value>
+							<value name="_name" type="string">4</value>
+							<object name="_modules">
+								<object id="8DF82BBD">
+									<value id="1AD460F8" type="float">24000</value>
+									<value id="28A5D089" type="float">19500</value>
+									<value id="2936B4B4" type="float">1000</value>
+									<value id="BD6148C1" type="float">0.9</value>
+									<value id="C522F10D" type="float">5</value>
+									<value id="D40D6067" type="float">1750</value>
+									<value id="EC5A5E47" type="float">34000</value>
+									<value name="_class" type="string">CHelicopterEngineModule</value>
+									<value name="_name" type="string">V067_Acceleration_Upgrd_4</value>
+								</object>
+							</object>
+						</object>
+						<object id="C89C6F76">
+							<value name="_class" type="string">CNullProp</value>
+							<value name="_GUID" type="int">1893197240</value>
+							<value name="_name" type="string">0</value>
+						</object>
+					</object>
+				</object>
+			</object>
+			<object name="_parts">
+				<object id="595E2B6D">
+					<value id="F91767CB" type="int">0</value>
+					<value name="_class" type="string">CPartProp</value>
+					<value name="_GUID" type="int">-1499015897</value>
+					<value name="_name" type="string">V067-Body</value>
+					<value name="is_rotor" type="int">0</value>
+					<value name="is_staticsuspension" type="int">0</value>
+					<value name="is_steering" type="int">0</value>
+					<value name="is_suspension" type="int">0</value>
+					<value name="is_uppersteering" type="int">0</value>
+					<value name="is_wheel" type="int">0</value>
+					<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+					<value name="mass" type="int">100</value>
+					<value name="model" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067-Body.lod</value>
+					<value name="model_shrt" type="string">v067-body.lod</value>
+					<value name="part_type" type="string"></value>
+					<value name="pfx" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067_LOD1-Body_COL.pfx</value>
+					<value name="pfx_shrt" type="string">v067_lod1-body_col.pfx</value>
+					<value name="rotor_slot" type="int">0</value>
+					<value name="skin_to_parent" type="int">0</value>
+					<value name="wheel_slot" type="int">0</value>
+					<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+					<object id="790DB2CD">
+						<value id="A44C3510" type="int">1</value>
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">1370740836</value>
+						<value name="_name" type="string">Back</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067-Cockpit1-Back.lod</value>
+						<value name="model_shrt" type="string">v067-cockpit1-back.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\04_SharedAssets\Cockpit\Cockpit1_LOD1-Back_COL.pfx</value>
+						<value name="pfx_shrt" type="string">cockpit1_lod1-back_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.3960361,1.276175,-2.880615</value>
+					</object>
+					<object id="8676E165">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-298215836</value>
+						<value name="_name" type="string">V067-Suspension_CL</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067-Suspension_CL.lod</value>
+						<value name="model_shrt" type="string">v067-suspension_cl.lod</value>
+						<value name="part_type" type="string">LandingGear_CL1</value>
+						<value name="pfx" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067_LOD1-Suspension_CL_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v067_lod1-suspension_cl_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<object id="B9267A6F">
+							<value id="A44C3510" type="int">1</value>
+							<value id="F91767CB" type="int">0</value>
+							<value name="_class" type="string">CPartProp</value>
+							<value name="_GUID" type="int">366904388</value>
+							<value name="_name" type="string">Air01</value>
+							<value name="is_rotor" type="int">0</value>
+							<value name="is_staticsuspension" type="int">0</value>
+							<value name="is_steering" type="int">0</value>
+							<value name="is_suspension" type="int">0</value>
+							<value name="is_uppersteering" type="int">0</value>
+							<value name="is_wheel" type="int">1</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							<value name="mass" type="int">100</value>
+							<value name="model" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067-Tyres01-Air01.lod</value>
+							<value name="model_shrt" type="string">v067-tyres01-air01.lod</value>
+							<value name="part_type" type="string"></value>
+							<value name="pfx" type="string"></value>
+							<value name="pfx_shrt" type="string"></value>
+							<value name="rotor_slot" type="int">0</value>
+							<value name="skin_to_parent" type="int">0</value>
+							<value name="tyre_scale" type="vec">0.4145766,0.3768878,0.3768878</value>
+							<value name="wheel_slot" type="int">1</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -2.023168,0.2962501,0.6216014</value>
+						</object>
+					</object>
+					<object id="88BB762E">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">682941020</value>
+						<value name="_name" type="string">V067-Suspension_FD</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067-Suspension_FD.lod</value>
+						<value name="model_shrt" type="string">v067-suspension_fd.lod</value>
+						<value name="part_type" type="string">LandingGear_FD</value>
+						<value name="pfx" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067_LOD1-Suspension_FD_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v067_lod1-suspension_fd_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<object id="9B561692">
+							<value id="A44C3510" type="int">1</value>
+							<value id="F91767CB" type="int">0</value>
+							<value name="_class" type="string">CPartProp</value>
+							<value name="_GUID" type="int">1693854085</value>
+							<value name="_name" type="string">Air01</value>
+							<value name="is_rotor" type="int">0</value>
+							<value name="is_staticsuspension" type="int">0</value>
+							<value name="is_steering" type="int">0</value>
+							<value name="is_suspension" type="int">0</value>
+							<value name="is_uppersteering" type="int">0</value>
+							<value name="is_wheel" type="int">1</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							<value name="mass" type="int">100</value>
+							<value name="model" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067-Tyres01-Air01.lod</value>
+							<value name="model_shrt" type="string">v067-tyres01-air01.lod</value>
+							<value name="part_type" type="string"></value>
+							<value name="pfx" type="string"></value>
+							<value name="pfx_shrt" type="string"></value>
+							<value name="rotor_slot" type="int">0</value>
+							<value name="skin_to_parent" type="int">0</value>
+							<value name="tyre_scale" type="vec">0.4800577,0.4364161,0.4364161</value>
+							<value name="wheel_slot" type="int">0</value>
+							<value name="world" type="mat">0.9999999,0,0, 0,0.9999999,0, 0,0,1, 0.0003824802,0.2984921,-3.738708</value>
+						</object>
+					</object>
+					<object id="AF3826E9">
+						<value id="A44C3510" type="int">1</value>
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-580593591</value>
+						<value name="_name" type="string">Front</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067-Cockpit1-Front.lod</value>
+						<value name="model_shrt" type="string">v067-cockpit1-front.lod</value>
+						<value name="part_type" type="string"></value>
+						<value name="pfx" type="string">Models\Vehicles\04_SharedAssets\Cockpit\Cockpit1_LOD1-Front_COL.pfx</value>
+						<value name="pfx_shrt" type="string">cockpit1_lod1-front_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.3960362,1.276175,-2.880615</value>
+					</object>
+					<object id="D4C49053">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-1797587823</value>
+						<value name="_name" type="string">V067-Suspension_CR</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067-Suspension_CR.lod</value>
+						<value name="model_shrt" type="string">v067-suspension_cr.lod</value>
+						<value name="part_type" type="string">LandingGear_CR1</value>
+						<value name="pfx" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067_LOD1-Suspension_CR_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v067_lod1-suspension_cr_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<object id="4663ED54">
+							<value id="A44C3510" type="int">1</value>
+							<value id="F91767CB" type="int">0</value>
+							<value name="_class" type="string">CPartProp</value>
+							<value name="_GUID" type="int">1574475572</value>
+							<value name="_name" type="string">Air01</value>
+							<value name="is_rotor" type="int">0</value>
+							<value name="is_staticsuspension" type="int">0</value>
+							<value name="is_steering" type="int">0</value>
+							<value name="is_suspension" type="int">0</value>
+							<value name="is_uppersteering" type="int">0</value>
+							<value name="is_wheel" type="int">1</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							<value name="mass" type="int">100</value>
+							<value name="model" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067-Tyres01-Air01.lod</value>
+							<value name="model_shrt" type="string">v067-tyres01-air01.lod</value>
+							<value name="part_type" type="string"></value>
+							<value name="pfx" type="string"></value>
+							<value name="pfx_shrt" type="string"></value>
+							<value name="rotor_slot" type="int">0</value>
+							<value name="skin_to_parent" type="int">0</value>
+							<value name="tyre_scale" type="vec">0.4151092,0.377372,0.377372</value>
+							<value name="wheel_slot" type="int">2</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 1.984349,0.2992795,0.6223639</value>
+						</object>
+					</object>
+					<object id="DBFC0493">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-429736574</value>
+						<value name="_name" type="string">V067-Door_FU1</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,9.536743E-08</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067-Door_FU1.lod</value>
+						<value name="model_shrt" type="string">v067-door_fu1.lod</value>
+						<value name="part_type" type="string">Door_CL1</value>
+						<value name="pfx" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067_LOD1-Door_FU1_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v067_lod1-door_fu1_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,9.536743E-08</value>
+						<object name="_modules">
+							<object id="A6EFA36F">
+								<value name="_class" type="string">CPartDamageModule</value>
+								<value name="_name" type="string">Damage_Tail</value>
+								<value name="always_enabled" type="int">0</value>
+								<value name="break_at" type="int">-1</value>
+								<value name="damage_health" type="int">200</value>
+								<value name="max_health" type="int">10000</value>
+								<value name="should_break" type="int">1</value>
+								<value name="should_explode" type="int">0</value>
+							</object>
+						</object>
+					</object>
+					<object id="F3C1402C">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">-1247073819</value>
+						<value name="_name" type="string">V067-Flap_CR1</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067-Flap_CR.lod</value>
+						<value name="model_shrt" type="string">v067-flap_cr.lod</value>
+						<value name="part_type" type="string">Flaps_CR1</value>
+						<value name="pfx" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067_LOD1-Flap_CR_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v067_lod1-flap_cr_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+					</object>
+					<object id="FA842637">
+						<value id="F91767CB" type="int">0</value>
+						<value name="_class" type="string">CPartProp</value>
+						<value name="_GUID" type="int">915352189</value>
+						<value name="_name" type="string">V067-Flap_CL1</value>
+						<value name="is_rotor" type="int">0</value>
+						<value name="is_staticsuspension" type="int">0</value>
+						<value name="is_steering" type="int">0</value>
+						<value name="is_suspension" type="int">0</value>
+						<value name="is_uppersteering" type="int">0</value>
+						<value name="is_wheel" type="int">0</value>
+						<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+						<value name="mass" type="int">100</value>
+						<value name="model" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067-Flap_CL.lod</value>
+						<value name="model_shrt" type="string">v067-flap_cl.lod</value>
+						<value name="part_type" type="string">Flaps_CL1</value>
+						<value name="pfx" type="string">Models\Vehicles\03_AirVehicles\V067_ARVE_Speedplane\V067_LOD1-Flap_CL_COL.pfx</value>
+						<value name="pfx_shrt" type="string">v067_lod1-flap_cl_col.pfx</value>
+						<value name="rotor_slot" type="int">0</value>
+						<value name="skin_to_parent" type="int">0</value>
+						<value name="wheel_slot" type="int">0</value>
+						<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+					</object>
+					<object name="_effects">
+						<object id="03E86E56">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">41</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -0.25,0.9548299,1.305817</value>
+							<value name="usage" type="int">3</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.25,0.9548299,1.305817</value>
+						</object>
+						<object id="297D33BF">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">41</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0.25,0.9548299,1.305817</value>
+							<value name="usage" type="int">3</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0.25,0.9548299,1.305817</value>
+						</object>
+						<object id="38ED4005">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">128</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,1.157167,0.249948</value>
+							<value name="usage" type="int">1</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,1.157167,0.249948</value>
+						</object>
+						<object id="454FDEA3">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">167</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,1.07994,-0.4883891</value>
+							<value name="usage" type="int">12</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,1.07994,-0.4883891</value>
+						</object>
+						<object id="46955E1E">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">42</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0.25,0.9548299,1.305817</value>
+							<value name="usage" type="int">2</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0.25,0.9548299,1.305817</value>
+						</object>
+						<object id="6921BD55">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">406</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,1.361593,-1.786881</value>
+							<value name="usage" type="int">13</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,1.361593,-1.786881</value>
+						</object>
+						<object id="7F02C5A7">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">87</value>
+							<value name="local" type="mat">-1,0,0, 0,1,0, 0,0,1, -0.1157495,1.063283,0.46122</value>
+							<value name="usage" type="int">8</value>
+							<value name="world" type="mat">-1,0,0, 0,1,0, 0,0,1, -0.1157495,1.063283,0.46122</value>
+						</object>
+						<object id="AB327E28">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">44</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,1.19335,-0.142319</value>
+							<value name="usage" type="int">5</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,1.19335,-0.142319</value>
+						</object>
+						<object id="B137C459">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">-1</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 4.008026,0.7616255,2.467025</value>
+							<value name="usage" type="int">4</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 4.008026,0.7616255,2.467025</value>
+						</object>
+						<object id="BD2B9742">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">42</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -0.25,0.9548299,1.305817</value>
+							<value name="usage" type="int">2</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.25,0.9548299,1.305817</value>
+						</object>
+						<object id="DC115E18">
+							<value name="_class" type="string">CEffectProp</value>
+							<value name="effect" type="int">408</value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,1.336546,-1.235242</value>
+							<value name="usage" type="int">15</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,1.336546,-1.235242</value>
+						</object>
+					</object>
+					<object name="_smartobjects">
+						<value name="_object_id" type="int">1437311505</value>
+						<object id="33FA98F7">
+							<value id="08BAF9F5" type="string"></value>
+							<value id="692808C5" type="int">0</value>
+							<value id="7F368D35" type="string"></value>
+							<value id="ACB2D862" type="int">1</value>
+							<value id="BB801F07" type="string"></value>
+							<value id="E72F7E06" type="int">-1</value>
+							<value name="_class" type="string">CSmartObject</value>
+							<value name="_object_id" type="int">-2009589437</value>
+							<value name="_object_key" type="string">{F0910D2C-66BC-471B-8393-B356E39CABB4}</value>
+							<value name="disable" type="string"></value>
+							<value name="enable" type="string"></value>
+							<value name="enabled" type="int">1</value>
+							<value name="enter_event" type="string"></value>
+							<value name="exit_event" type="string"></value>
+							<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -0.1239105,1.919529,0.006427228</value>
+							<value name="mission_name" type="string"></value>
+							<value name="model_filename" type="string"></value>
+							<value name="name" type="string">SO_Body_RD</value>
+							<value name="save" type="int">0</value>
+							<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.1239105,1.919529,0.006427228</value>
+							<object id="13451E32">
+								<value id="5BC0764C" type="int">6</value>
+								<value id="742CDD23" type="int">6</value>
+								<value id="CCEAA327" type="string"></value>
+								<value id="EF33086C" type="string"></value>
+								<value name="_class" type="string">CRoofTopStuntController</value>
+								<value name="_object_id" type="int">-1852796569</value>
+								<value name="_object_key" type="string">{50CCEF20-6253-4A52-ADF3-A5BD94FD1AAD}</value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -0.005187482,-1.941353,-0.2844433</value>
+								<value name="name" type="string">RoofStuntController</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.129098,-0.02182412,-0.2780161</value>
+							</object>
+							<object id="242F1F50">
+								<value id="16A0C327" type="int">1</value>
+								<value id="191434AB" type="int">1</value>
+								<value id="1AD70819" type="int">0</value>
+								<value id="1E0C1BC2" type="string"></value>
+								<value id="2CF00DCB" type="int">0</value>
+								<value id="32D444CC" type="int">0</value>
+								<value id="37757A6D" type="string">roof_to_driver</value>
+								<value id="3A1F258A" type="int">1</value>
+								<value id="3EFF86A9" type="string">vhl.driver.enter</value>
+								<value id="43E453A4" type="int">0</value>
+								<value id="4691986B" type="int">0</value>
+								<value id="4CC77F2F" type="int">0</value>
+								<value id="5AFFE35E" type="int">0</value>
+								<value id="5D655631" type="string">S_PERFORMING_STUNT</value>
+								<value id="62E2C2CE" type="string"></value>
+								<value id="63F9EA61" type="int">-562217160</value>
+								<value id="70C67072" type="int">23</value>
+								<value id="70F24645" type="int">1</value>
+								<value id="742CDD23" type="int">34</value>
+								<value id="816BEC44" type="string"></value>
+								<value id="855DAF02" type="int">0</value>
+								<value id="8AE9358F" type="int">0</value>
+								<value id="8CBAEA30" type="float">180</value>
+								<value id="A1C34309" type="int">1</value>
+								<value id="A810086F" type="int">0</value>
+								<value id="AF893859" type="string"></value>
+								<value id="B74DEE00" type="int">0</value>
+								<value id="B92848E1" type="int">0</value>
+								<value id="C6B879C0" type="int">0</value>
+								<value id="C7178584" type="string"></value>
+								<value id="CAD390EE" type="int">0</value>
+								<value id="D0003E19" type="string">S_IDLE_VEHICLE</value>
+								<value id="D6D617CC" type="string">vhl.defaultstunt.exit</value>
+								<value id="D808BFC1" type="string">PLANE</value>
+								<value id="DA72FF7B" type="string"></value>
+								<value id="EECA5657" type="int">38</value>
+								<value id="F0DB4C3B" type="int">0</value>
+								<value id="F0E7F73D" type="string"></value>
+								<value id="F6D62EA4" type="string">hud_button_02</value>
+								<value name="_class" type="string">CEnterDriverSeatFromRoofAction</value>
+								<value name="_object_id" type="int">1391386221</value>
+								<value name="_object_key" type="string">{F8E05FD5-42BF-4170-9B9C-2F57477CCC57}</value>
+								<value name="blend_time" type="float">0.1</value>
+								<value name="disable_event" type="string"></value>
+								<value name="enable_event" type="string"></value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -0.005187482,-1.941353,-0.2844433</value>
+								<value name="name" type="string">RoofToDriverAction</value>
+								<value name="priority" type="int">1</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.129098,-0.02182412,-0.2780161</value>
+							</object>
+							<object id="4387F7C9">
+								<value name="_class" type="string">CSmartObjectTrigger</value>
+								<value name="_object_id" type="int">-943234376</value>
+								<value name="_object_key" type="string">{440077FF-B1B6-4E29-B5C9-0010D7FA09EB}</value>
+								<value name="box_size" type="vec">15.56585,14.83402,17.76398</value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -0.005187482,15.2201,-0.2844433</value>
+								<value name="name" type="string">ParachuteToRoofTrigger</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.129098,17.13963,-0.2780161</value>
+								<object id="84A52B6E">
+									<value id="191434AB" type="int">1</value>
+									<value id="1AD70819" type="int">0</value>
+									<value id="1E0C1BC2" type="string"></value>
+									<value id="2CF00DCB" type="int">0</value>
+									<value id="32D444CC" type="int">0</value>
+									<value id="37757A6D" type="string"></value>
+									<value id="3A1F258A" type="int">0</value>
+									<value id="3EFF86A9" type="string">vhl.defaultstunt.enter</value>
+									<value id="43E453A4" type="int">0</value>
+									<value id="4CC77F2F" type="int">0</value>
+									<value id="5AFFE35E" type="int">1</value>
+									<value id="5D655631" type="string">S_UPRIGHT_IDLE</value>
+									<value id="62E2C2CE" type="string"></value>
+									<value id="63F9EA61" type="int">-2009589437</value>
+									<value id="70F24645" type="int">1</value>
+									<value id="742CDD23" type="int">1</value>
+									<value id="855DAF02" type="int">0</value>
+									<value id="8CBAEA30" type="float">180</value>
+									<value id="A1C34309" type="int">1</value>
+									<value id="AF893859" type="string"></value>
+									<value id="B92848E1" type="int">0</value>
+									<value id="C6B879C0" type="int">0</value>
+									<value id="CAD390EE" type="int">0</value>
+									<value id="D0003E19" type="string">S_UPRIGHT_IDLE</value>
+									<value id="D6D617CC" type="string"></value>
+									<value id="DA72FF7B" type="string"></value>
+									<value id="EECA5657" type="int">119</value>
+									<value id="F0E7F73D" type="string"></value>
+									<value id="F6D62EA4" type="string">hud_button_01</value>
+									<value name="_class" type="string">CParachuteToSOAction</value>
+									<value name="_object_id" type="int">332682445</value>
+									<value name="_object_key" type="string">{CCD6B315-0064-4469-B831-4652C51A7EB5}</value>
+									<value name="blend_time" type="float">0.1</value>
+									<value name="disable_event" type="string"></value>
+									<value name="enable_event" type="string"></value>
+									<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0.008293672,-1.155428,0.01565055</value>
+									<value name="name" type="string">ParachuteToRoofAction</value>
+									<value name="priority" type="int">1</value>
+									<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+								</object>
+							</object>
+							<object id="4510FA6C">
+								<value name="_class" type="string">CSmartObjectTrigger</value>
+								<value name="_object_id" type="int">-906748316</value>
+								<value name="_object_key" type="string">{FFBC8EE4-0909-4ABF-B2D2-107DF8F257F4}</value>
+								<value name="box_size" type="vec">5.946879,2.58,8.138161</value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -0.005187482,0.7386472,-0.2180345</value>
+								<value name="name" type="string">GroundToRoofTrigger</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.129098,2.658176,-0.2116072</value>
+								<object id="D88FA0F2">
+									<value id="191434AB" type="int">1</value>
+									<value id="1AD70819" type="int">0</value>
+									<value id="1E0C1BC2" type="string"></value>
+									<value id="2CF00DCB" type="int">0</value>
+									<value id="304F9CD9" type="int">0</value>
+									<value id="32D444CC" type="int">0</value>
+									<value id="37757A6D" type="string">ground_to_roof_action</value>
+									<value id="3A1F258A" type="int">0</value>
+									<value id="3EFF86A9" type="string">vhl.defaultstunt.enter</value>
+									<value id="43E453A4" type="int">0</value>
+									<value id="4CC77F2F" type="int">0</value>
+									<value id="56CA6A6F" type="int">-1</value>
+									<value id="5AFFE35E" type="int">0</value>
+									<value id="5D655631" type="string">S_UPRIGHT_IDLE</value>
+									<value id="62E2C2CE" type="string"></value>
+									<value id="63F9EA61" type="int">-2009589437</value>
+									<value id="70F24645" type="int">1</value>
+									<value id="742CDD23" type="int">6</value>
+									<value id="855DAF02" type="int">0</value>
+									<value id="8CBAEA30" type="float">180</value>
+									<value id="A1C34309" type="int">1</value>
+									<value id="AF893859" type="string"></value>
+									<value id="B92848E1" type="int">0</value>
+									<value id="C6B879C0" type="int">0</value>
+									<value id="CAD390EE" type="int">0</value>
+									<value id="D0003E19" type="string">S_ROOFTOP_STUNTPOSITION_IDLE</value>
+									<value id="D6D617CC" type="string"></value>
+									<value id="DA72FF7B" type="string"></value>
+									<value id="EECA5657" type="int">119</value>
+									<value id="F0E7F73D" type="string"></value>
+									<value id="F6D62EA4" type="string">hud_button_01</value>
+									<value name="_class" type="string">CGrapplingJumpAction</value>
+									<value name="_object_id" type="int">-704881956</value>
+									<value name="_object_key" type="string">{7FD16C0D-2AA3-4FB7-9A4B-28A5AAA9065B}</value>
+									<value name="blend_time" type="float">0.1</value>
+									<value name="disable_event" type="string"></value>
+									<value name="enable_event" type="string"></value>
+									<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,-1.862645E-09</value>
+									<value name="name" type="string">GroundToRoofAction</value>
+									<value name="priority" type="int">2</value>
+									<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.129098,2.658176,-0.2116072</value>
+								</object>
+							</object>
+							<object id="7E47329F">
+								<value id="191434AB" type="int">1</value>
+								<value id="1AD70819" type="int">0</value>
+								<value id="1E0C1BC2" type="string"></value>
+								<value id="2CF00DCB" type="int">0</value>
+								<value id="32D444CC" type="int">0</value>
+								<value id="37757A6D" type="string"></value>
+								<value id="3A1F258A" type="int">0</value>
+								<value id="3EFF86A9" type="string"></value>
+								<value id="43E453A4" type="int">0</value>
+								<value id="4CC77F2F" type="int">0</value>
+								<value id="5AFFE35E" type="int">0</value>
+								<value id="5D655631" type="string">S_UPRIGHT_IDLE</value>
+								<value id="62E2C2CE" type="string"></value>
+								<value id="63F9EA61" type="int">0</value>
+								<value id="70F24645" type="int">1</value>
+								<value id="742CDD23" type="int">0</value>
+								<value id="855DAF02" type="int">0</value>
+								<value id="8CBAEA30" type="float">180</value>
+								<value id="A1C34309" type="int">1</value>
+								<value id="AF893859" type="string"></value>
+								<value id="B92848E1" type="int">0</value>
+								<value id="C6B879C0" type="int">0</value>
+								<value id="CAD390EE" type="int">0</value>
+								<value id="D0003E19" type="string">S_UPRIGHT_IDLE</value>
+								<value id="D6D617CC" type="string">vhl.defaultstunt.exit</value>
+								<value id="D808BFC1" type="string"></value>
+								<value id="DA72FF7B" type="string"></value>
+								<value id="EECA5657" type="int">71</value>
+								<value id="F0E7F73D" type="string"></value>
+								<value id="F6D62EA4" type="string">hud_button_06</value>
+								<value name="_class" type="string">CRoofToGroundJumpAction</value>
+								<value name="_object_id" type="int">-798699312</value>
+								<value name="_object_key" type="string">{1944B8CD-6826-4565-95D9-C22F8FFF4418}</value>
+								<value name="blend_time" type="float">0.1</value>
+								<value name="disable_event" type="string"></value>
+								<value name="enable_event" type="string"></value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -0.005187482,-1.941353,-0.2844433</value>
+								<value name="name" type="string">JumpToGroundAction</value>
+								<value name="priority" type="int">1</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.129098,-0.02182412,-0.2780161</value>
+							</object>
+							<object id="853637EB">
+								<value id="191434AB" type="int">1</value>
+								<value id="1AD70819" type="int">0</value>
+								<value id="1E0C1BC2" type="string"></value>
+								<value id="2CF00DCB" type="int">0</value>
+								<value id="32D444CC" type="int">0</value>
+								<value id="37757A6D" type="string"></value>
+								<value id="3A1F258A" type="int">0</value>
+								<value id="3EFF86A9" type="string"></value>
+								<value id="43E453A4" type="int">0</value>
+								<value id="4CC77F2F" type="int">0</value>
+								<value id="5AFFE35E" type="int">0</value>
+								<value id="5D655631" type="string">S_PERFORMING_STUNT</value>
+								<value id="62E2C2CE" type="string"></value>
+								<value id="63F9EA61" type="int">0</value>
+								<value id="70F24645" type="int">1</value>
+								<value id="742CDD23" type="int">1</value>
+								<value id="855DAF02" type="int">0</value>
+								<value id="8CBAEA30" type="float">180</value>
+								<value id="A1C34309" type="int">1</value>
+								<value id="AF893859" type="string"></value>
+								<value id="B92848E1" type="int">0</value>
+								<value id="C6B879C0" type="int">0</value>
+								<value id="CAD390EE" type="int">0</value>
+								<value id="D0003E19" type="string">S_PARACHUTE</value>
+								<value id="D6D617CC" type="string"></value>
+								<value id="DA72FF7B" type="string"></value>
+								<value id="EECA5657" type="int">71</value>
+								<value id="F0E7F73D" type="string"></value>
+								<value id="F6D62EA4" type="string">hud_button_04</value>
+								<value name="_class" type="string">CParachuteFromRoofAction</value>
+								<value name="_object_id" type="int">-1719355135</value>
+								<value name="_object_key" type="string">{C6745863-B131-4B6E-B8E5-DC9C0A21D3EA}</value>
+								<value name="blend_time" type="float">0.1</value>
+								<value name="disable_event" type="string"></value>
+								<value name="enable_event" type="string"></value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, -0.005187482,-1.941353,-0.2844433</value>
+								<value name="name" type="string">RoofToParachuteAction</value>
+								<value name="priority" type="int">10</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.129098,-0.02182412,-0.2780161</value>
+							</object>
+							<object id="F93B8970">
+								<value id="9576EE4E" type="int">1225475314</value>
+								<value name="_class" type="string">CHelperPoint</value>
+								<value name="_index0" type="int">50</value>
+								<value name="_index1" type="int">51</value>
+								<value name="_index2" type="int">49</value>
+								<value name="_index3" type="int">52</value>
+								<value name="_object_id" type="int">-1446093783</value>
+								<value name="_object_key" type="string">{4033A8AA-98DE-4FB9-A5DD-06D743B8DBCD}</value>
+								<value name="_weight0" type="float">0.3075476</value>
+								<value name="_weight1" type="float">0.2415835</value>
+								<value name="_weight2" type="float">0.2284838</value>
+								<value name="_weight3" type="float">0.2223851</value>
+								<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,-0.329643,0</value>
+								<value name="name" type="string">HP_Hardtop02_RD_DST</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.1239105,1.589886,0.006427228</value>
+							</object>
+						</object>
+						<object id="E126031A">
+							<value id="08BAF9F5" type="string"></value>
+							<value id="692808C5" type="int">0</value>
+							<value id="7F368D35" type="string"></value>
+							<value id="ACB2D862" type="int">1</value>
+							<value id="BB801F07" type="string"></value>
+							<value id="E72F7E06" type="int">-1</value>
+							<value name="_class" type="string">CSmartObject</value>
+							<value name="_object_id" type="int">-562217160</value>
+							<value name="_object_key" type="string">{67855804-5107-40BC-8AD3-5E5BCCD0A2E8}</value>
+							<value name="disable" type="string"></value>
+							<value name="enable" type="string"></value>
+							<value name="enabled" type="int">1</value>
+							<value name="enter_event" type="string"></value>
+							<value name="exit_event" type="string"></value>
+							<value name="local" type="mat">1,0,0, 0,0.9924831,0.1223819, 0,-0.1223819,0.9924831, 0,1.156949,-1.705937</value>
+							<value name="mission_name" type="string"></value>
+							<value name="model_filename" type="string"></value>
+							<value name="name" type="string">SO_Driver</value>
+							<value name="save" type="int">0</value>
+							<value name="world" type="mat">1,0,0, 0,0.9924831,0.1223819, 0,-0.1223819,0.9924831, 0,1.156949,-1.705937</value>
+							<object id="042FF29D">
+								<value id="16A0C327" type="int">1</value>
+								<value id="191434AB" type="int">1</value>
+								<value id="1AD70819" type="int">0</value>
+								<value id="1E0C1BC2" type="string">vhl.defaultstunt.enter</value>
+								<value id="2CF00DCB" type="int">0</value>
+								<value id="32D444CC" type="int">0</value>
+								<value id="37757A6D" type="string">enter_roof_from_driver</value>
+								<value id="3A1F258A" type="int">1</value>
+								<value id="3EFF86A9" type="string"></value>
+								<value id="43E453A4" type="int">0</value>
+								<value id="4691986B" type="int">0</value>
+								<value id="4CC77F2F" type="int">0</value>
+								<value id="5AFFE35E" type="int">0</value>
+								<value id="5D655631" type="string">S_PERFORMING_STUNT</value>
+								<value id="62E2C2CE" type="string"></value>
+								<value id="63F9EA61" type="int">-2009589437</value>
+								<value id="70C67072" type="int">23</value>
+								<value id="70F24645" type="int">1</value>
+								<value id="742CDD23" type="int">88</value>
+								<value id="816BEC44" type="string"></value>
+								<value id="855DAF02" type="int">0</value>
+								<value id="8AE9358F" type="int">1</value>
+								<value id="8CBAEA30" type="float">180</value>
+								<value id="A1C34309" type="int">1</value>
+								<value id="A810086F" type="int">0</value>
+								<value id="AF893859" type="string">vhl.driver.exit</value>
+								<value id="B74DEE00" type="int">0</value>
+								<value id="B92848E1" type="int">0</value>
+								<value id="C6B879C0" type="int">0</value>
+								<value id="C7178584" type="string"></value>
+								<value id="CAD390EE" type="int">0</value>
+								<value id="D0003E19" type="string">S_DEFAULT_STUNTPOSITION_IDLE</value>
+								<value id="D6D617CC" type="string"></value>
+								<value id="D808BFC1" type="string">PLANE</value>
+								<value id="DA72FF7B" type="string"></value>
+								<value id="EECA5657" type="int">119</value>
+								<value id="F0DB4C3B" type="int">0</value>
+								<value id="F0E7F73D" type="string"></value>
+								<value id="F6D62EA4" type="string">fe_txt_156</value>
+								<value name="_class" type="string">CEnterDriverSeatFromRoofAction</value>
+								<value name="_object_id" type="int">-2008889589</value>
+								<value name="_object_key" type="string">{E7B8FC75-82EE-4514-9F4A-A17F2DE376E5}</value>
+								<value name="blend_time" type="float">0.1</value>
+								<value name="disable_event" type="string"></value>
+								<value name="enable_event" type="string"></value>
+								<value name="local" type="mat">1,0,0, 0,0.9924831,-0.1223819, 0,0.1223819,0.9924831, 0.2337788,-0.8471946,2.204167</value>
+								<value name="name" type="string">DriverToRoofAction</value>
+								<value name="priority" type="int">1</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0.2337788,0.04637253,0.3779801</value>
+							</object>
+							<object id="2D30730C">
+								<value name="_class" type="string">CSmartObjectTrigger</value>
+								<value name="_object_id" type="int">-1219025835</value>
+								<value name="_object_key" type="string">{A5215C91-6EE0-4020-96AE-D02976FF14D7}</value>
+								<value name="box_size" type="vec">3.090279,2.776959,4.554177</value>
+								<value name="local" type="mat">1,0,0, 0,0.9924831,-0.1223819, 0,0.1223819,0.9924831, -0.02979064,0.05084699,-0.3379781</value>
+								<value name="name" type="string">EnterAirplaneTrigger</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.02979064,1.248776,-2.035152</value>
+								<object id="95E594B7">
+									<value id="16A0C327" type="int">1</value>
+									<value id="191434AB" type="int">1</value>
+									<value id="1AD70819" type="int">0</value>
+									<value id="1E0C1BC2" type="string"></value>
+									<value id="2CF00DCB" type="int">0</value>
+									<value id="32D444CC" type="int">0</value>
+									<value id="37757A6D" type="string">enter_driverseat_action</value>
+									<value id="3A1F258A" type="int">0</value>
+									<value id="3EFF86A9" type="string"></value>
+									<value id="43E453A4" type="int">1</value>
+									<value id="4691986B" type="int">0</value>
+									<value id="4CC77F2F" type="int">0</value>
+									<value id="5AFFE35E" type="int">1</value>
+									<value id="5D655631" type="string">S_ENTERING_VEHICLE</value>
+									<value id="62E2C2CE" type="string"></value>
+									<value id="63F9EA61" type="int">-562217160</value>
+									<value id="70C67072" type="int">23</value>
+									<value id="70F24645" type="int">1</value>
+									<value id="742CDD23" type="int">34</value>
+									<value id="816BEC44" type="string"></value>
+									<value id="855DAF02" type="int">0</value>
+									<value id="8CBAEA30" type="float">180</value>
+									<value id="A1C34309" type="int">0</value>
+									<value id="A810086F" type="int">0</value>
+									<value id="AF893859" type="string"></value>
+									<value id="B74DEE00" type="int">1</value>
+									<value id="B92848E1" type="int">0</value>
+									<value id="C6B879C0" type="int">0</value>
+									<value id="C7178584" type="string"></value>
+									<value id="CAD390EE" type="int">0</value>
+									<value id="D0003E19" type="string">S_IDLE_VEHICLE</value>
+									<value id="D6D617CC" type="string"></value>
+									<value id="D808BFC1" type="string">COCKPIT</value>
+									<value id="DA72FF7B" type="string"></value>
+									<value id="EECA5657" type="int">38</value>
+									<value id="F0DB4C3B" type="int">0</value>
+									<value id="F0E7F73D" type="string"></value>
+									<value id="F6D62EA4" type="string">hud_button_02</value>
+									<value name="_class" type="string">CEnterDriverSeatAction</value>
+									<value name="_object_id" type="int">168229788</value>
+									<value name="_object_key" type="string">{2068C8E5-E7FE-44A7-A882-6445E0DE4930}</value>
+									<value name="blend_time" type="float">0.1</value>
+									<value name="disable_event" type="string"></value>
+									<value name="enable_event" type="string"></value>
+									<value name="local" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,-2.980232E-08</value>
+									<value name="name" type="string">EnterDriverSeatAction</value>
+									<value name="priority" type="int">10</value>
+									<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.02979064,1.248776,-2.035152</value>
+								</object>
+							</object>
+							<object id="402D8C46">
+								<value id="191434AB" type="int">1</value>
+								<value id="1AD70819" type="int">0</value>
+								<value id="1E0C1BC2" type="string"></value>
+								<value id="2CF00DCB" type="int">0</value>
+								<value id="32D444CC" type="int">0</value>
+								<value id="37757A6D" type="string">exit_action</value>
+								<value id="3A1F258A" type="int">0</value>
+								<value id="3EFF86A9" type="string"></value>
+								<value id="43E453A4" type="int">0</value>
+								<value id="4CC77F2F" type="int">0</value>
+								<value id="5AFFE35E" type="int">0</value>
+								<value id="5D655631" type="string">S_EXITING_VEHICLE</value>
+								<value id="62E2C2CE" type="string"></value>
+								<value id="63F9EA61" type="int">0</value>
+								<value id="70F24645" type="int">1</value>
+								<value id="742CDD23" type="int">13</value>
+								<value id="855DAF02" type="int">0</value>
+								<value id="8CBAEA30" type="float">180</value>
+								<value id="960557B8" type="int">1</value>
+								<value id="97D579B2" type="vec">-1.921795,1.61705,-2.093548</value>
+								<value id="A1C34309" type="int">1</value>
+								<value id="A810086F" type="int">0</value>
+								<value id="AF893859" type="string"></value>
+								<value id="B92848E1" type="int">0</value>
+								<value id="C6B879C0" type="int">0</value>
+								<value id="CAD390EE" type="int">1</value>
+								<value id="D0003E19" type="string">S_UPRIGHT_IDLE</value>
+								<value id="D6D617CC" type="string"></value>
+								<value id="D808BFC1" type="string">COCKPIT</value>
+								<value id="DA72FF7B" type="string"></value>
+								<value id="EECA5657" type="int">38</value>
+								<value id="F0E7F73D" type="string"></value>
+								<value id="F6D62EA4" type="string">hud_button_03</value>
+								<value name="_class" type="string">CExitDriverSeatAction</value>
+								<value name="_object_id" type="int">-1502845636</value>
+								<value name="_object_key" type="string">{CDE2E783-4E44-4E28-95A5-6C13E4EA92B2}</value>
+								<value name="blend_time" type="float">0.1</value>
+								<value name="disable_event" type="string"></value>
+								<value name="enable_event" type="string"></value>
+								<value name="local" type="mat">1,0,0, 0,0.9924831,-0.1223819, 0,0.1223819,0.9924831, -1.921795,0.4092062,-0.441005</value>
+								<value name="name" type="string">ExitAirplaneAction</value>
+								<value name="priority" type="int">1</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -1.921795,1.61705,-2.093548</value>
+							</object>
+							<object id="9A047B6C">
+								<value id="191434AB" type="int">1</value>
+								<value id="1AD70819" type="int">0</value>
+								<value id="1E0C1BC2" type="string"></value>
+								<value id="2CF00DCB" type="int">0</value>
+								<value id="32D444CC" type="int">0</value>
+								<value id="37757A6D" type="string"></value>
+								<value id="3A1F258A" type="int">0</value>
+								<value id="3EFF86A9" type="string"></value>
+								<value id="43E453A4" type="int">0</value>
+								<value id="4CC77F2F" type="int">0</value>
+								<value id="5AFFE35E" type="int">0</value>
+								<value id="5D655631" type="string">S_PERFORMING_STUNT</value>
+								<value id="62E2C2CE" type="string"></value>
+								<value id="63F9EA61" type="int">0</value>
+								<value id="70F24645" type="int">1</value>
+								<value id="742CDD23" type="int">1</value>
+								<value id="855DAF02" type="int">0</value>
+								<value id="8CBAEA30" type="float">180</value>
+								<value id="A1C34309" type="int">1</value>
+								<value id="AF893859" type="string"></value>
+								<value id="B92848E1" type="int">0</value>
+								<value id="C6B879C0" type="int">0</value>
+								<value id="CAD390EE" type="int">0</value>
+								<value id="D0003E19" type="string">S_PARACHUTE</value>
+								<value id="D6D617CC" type="string">vhl.driver.exit</value>
+								<value id="DA72FF7B" type="string"></value>
+								<value id="EECA5657" type="int">71</value>
+								<value id="F0E7F73D" type="string"></value>
+								<value id="F6D62EA4" type="string">hud_button_04</value>
+								<value name="_class" type="string">CParachuteFromDriverSeatAction</value>
+								<value name="_object_id" type="int">-1769946041</value>
+								<value name="_object_key" type="string">{490FDA67-07FB-40B1-A362-EFD9F7128839}</value>
+								<value name="blend_time" type="float">0.1</value>
+								<value name="disable_event" type="string"></value>
+								<value name="enable_event" type="string"></value>
+								<value name="local" type="mat">1,0,0, 0,0.9924831,-0.1223819, 0,0.1223819,0.9924831, 0,-0.9394765,1.834703</value>
+								<value name="name" type="string">DriverToParachuteAction</value>
+								<value name="priority" type="int">1</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, 0,0,0</value>
+							</object>
+							<object id="ABE5E2DD">
+								<value id="22C77673" type="string">Up</value>
+								<value id="25C4FC53" type="string">Down</value>
+								<value id="37755740" type="string">Right</value>
+								<value id="4A5063FF" type="string">local::weapon1</value>
+								<value id="5BC0764C" type="int">34</value>
+								<value id="6B97C81C" type="string">local::aimmg</value>
+								<value id="7215D216" type="int">0</value>
+								<value id="742CDD23" type="int">34</value>
+								<value id="9859712B" type="string">local::weapon1</value>
+								<value id="B4AD6A59" type="int">79</value>
+								<value id="E62CA576" type="string">Left</value>
+								<value name="_class" type="string">CAirPlaneController</value>
+								<value name="_object_id" type="int">145745436</value>
+								<value name="_object_key" type="string">{168A3461-2DA4-408E-826D-4E232C31F1FC}</value>
+								<value name="local" type="mat">1,0,0, 0,0.9924831,-0.1223819, 0,0.1223819,0.9924831, -0.03480075,1.206958,-3.948433</value>
+								<value name="name" type="string">DriverSeatController</value>
+								<value name="world" type="mat">1,0,0, 0,1,0, 0,0,1, -0.03480075,2.838052,-5.476981</value>
+							</object>
+						</object>
+					</object>
+				</object>
+			</object>
+		</object>
+	</object>
+</root>

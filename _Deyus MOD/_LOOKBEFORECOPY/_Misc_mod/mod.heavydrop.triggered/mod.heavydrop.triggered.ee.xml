@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".epe" format="Blackboard" endian="Little">
+	<object>
+		<value name="_class" type="string">CSimpleRigidObject</value>
+		<value name="_instance_id" type="int">-1537631352</value>
+		<value name="_object_id" type="int">1186668463</value>
+		<value name="clip" type="int">1</value>
+		<value name="collision" type="string">models\weapons\wea00\wea00_lod1-c_col.pfx</value>
+		<value name="collision_effect_id_impact" type="int">-1</value>
+		<value name="collision_effect_id_roll" type="int">-1</value>
+		<value name="collision_effect_id_slide" type="int">-1</value>
+		<value name="dynamic" type="int">0</value>
+		<value name="fade_out" type="string"></value>
+		<value name="filename" type="string">weapons\wea00\wea00-c.lod</value>
+		<value name="fixed" type="int">0</value>
+		<value name="mission_name" type="string"></value>
+		<value name="name" type="string">sro.box</value>
+		<value name="pre_draw" type="int">0</value>
+		<value name="save" type="int">0</value>
+		<value name="world" type="mat4x4">1,0,0,0, 0,1,0,0, 0,0,1,0, 0,0.37,-0.28,1</value>
+		<value id="1970E210" type="int">1</value>
+		<value id="1EF7A059" type="string">{A39914A8-A1E7-437C-9142-9F887604188E}</value>
+		<value id="1F2624DB" type="int">1</value>
+		<value id="34121CAC" type="string">{614C80BF-E502-4808-9A6D-86C9BE1B0894}</value>
+		<value id="5ABE0B9E" type="string">{05CD5E11-4490-4F35-AEA4-4EA7D1B1CF3E}</value>
+		<value id="5D5396EC" type="string">{51E5628D-193A-4892-92C5-2BFC2B97B404}</value>
+		<value id="641D73F0" type="int">1</value>
+		<value id="692808C5" type="int">0</value>
+		<value id="6AE15077" type="int">0</value>
+		<value id="78F0D481" type="int">0</value>
+		<value id="8D4F3F1B" type="int">0</value>
+		<value id="976B6A1D" type="string">SPhysicsParams1</value>
+		<value id="97C00BBD" type="string"></value>
+		<value id="988E9404" type="string">{D08E30F2-DF16-4C5A-88F3-EF8BBC9E8250}</value>
+		<value id="9D2AC6FC" type="int">1</value>
+		<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+		<value id="A97A0034" type="string">{19394EAD-73E8-4F01-B60C-876E8A64B4D7}</value>
+		<value id="B9638394" type="int">0</value>
+		<value id="BFB800A8" type="string">{A8121B98-1530-40B0-9ECA-8A0A3E9FCEF9}</value>
+		<value id="C7CA479B" type="string"></value>
+		<value id="CA2FEA87" type="string">SPhysicsBuoy1</value>
+		<value id="D337272A" type="int">0</value>
+		<value id="D3E83257" type="string"></value>
+		<value id="D7FA7FE3" type="string">{D29A07B0-9FEA-4891-850F-0277EF34E1F3}</value>
+		<value id="E1C7BB88" type="int">2</value>
+		<value id="E3F8D556" type="string"></value>
+		<value id="E79AA679" type="int">1</value>
+		<value id="F23C5BDC" type="string"></value>
+		<value id="F68F92D4" type="string"></value>
+		<value id="FF56399E" type="int">0</value>
+		<object id="00CC224C">
+			<value name="_class" type="string">CShapeTrigger</value>
+			<value name="_instance_id" type="int">-1537631352</value>
+			<value name="_object_id" type="int">-98308989</value>
+			<value name="disable_event" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::weapon.pickup</value>
+			<value name="distance_safe" type="int">0</value>
+			<value name="enable_event" type="string"></value>
+			<value name="enabled" type="int">1</value>
+			<value name="enter_event" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::weapon.activate</value>
+			<value name="exit_event" type="string"></value>
+			<value name="faction" type="int">0</value>
+			<value name="ignore_faction" type="int">0</value>
+			<value name="mission_name" type="string"></value>
+			<value name="name" type="string">sht.weapon.activate</value>
+			<value name="player" type="int">1</value>
+			<value name="save" type="int">0</value>
+			<value name="subjectname" type="string"></value>
+			<value name="vehicle" type="int">0</value>
+			<value name="vehicle_type" type="int">0</value>
+			<value name="world" type="mat4x4">1,0,0,0, 0,1,0,0, 0,0,1,0, 0,0.22,1.22,1</value>
+			<value id="1F2624DB" type="int">1</value>
+			<value id="5BD55F5D" type="int">0</value>
+			<value id="6B5AFCF7" type="int">0</value>
+			<value id="6D04DEC0" type="int">1</value>
+			<value id="976B6A1D" type="string">CShapeTriggerComponent1</value>
+			<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+			<value id="A8C05BEF" type="int">3900</value>
+			<value id="D337272A" type="int">0</value>
+			<value id="E79AA679" type="int">1</value>
+			<object id="9F270AC5">
+				<value name="_class" type="string">CShapeTriggerComponent</value>
+				<value name="_object_id" type="int">1179601234</value>
+				<value name="name" type="string">stc.weapon.activate</value>
+				<value name="offset" type="mat4x4">1,0,0,0, 0,5.07,0,0, 0,0,1,0, 0,0,0,1</value>
+				<value name="size" type="vec">2,1,1</value>
+				<value name="type" type="int">0</value>
+				<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+				<value id="E79AA679" type="int">1</value>
+			</object>
+		</object>
+		<object id="0AAC169D">
+			<value name="_class" type="string">CDistanceTrigger</value>
+			<value name="_instance_id" type="int">-1537631352</value>
+			<value name="_object_id" type="int">1545153212</value>
+			<value name="disable_event" type="string"></value>
+			<value name="enable_event" type="string"></value>
+			<value name="enabled" type="int">1</value>
+			<value name="mission_name" type="string"></value>
+			<value name="name" type="string">dis.showText</value>
+			<value name="player_trigger" type="int">1</value>
+			<value name="save" type="int">0</value>
+			<value name="trigger_distance" type="float">20.0</value>
+			<value name="trigger_msg" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::show.text</value>
+			<value name="world" type="mat4x4">1,0,0,0, 0,1,0,0, 0,0,1,0, 0,-0.1076634,0.3,1</value>
+			<value id="06748BD3" type="string"></value>
+			<value id="0F245225" type="int">0</value>
+			<value id="124FBF89" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::hide.text</value>
+			<value id="1F2624DB" type="int">1</value>
+			<value id="90E11E5A" type="int">0</value>
+			<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+			<value id="B0BD5711" type="int">0</value>
+			<value id="D337272A" type="int">0</value>
+			<value id="DC6BDCB7" type="int">0</value>
+			<value id="F84C5EE8" type="int">0</value>
+		</object>
+		<object id="168EAC55">
+			<value name="_class" type="string">SPhysicsParams</value>
+			<value name="_object_id" type="int">1445596395</value>
+			<value name="angular_damping" type="float">100.0</value>
+			<value name="buoyancy" type="float">2.5</value>
+			<value name="center_of_mass" type="vec">0,-1,0.28</value>
+			<value name="drag" type="float">3000.0</value>
+			<value name="gravity" type="float">0.0</value>
+			<value name="linear_damping" type="float">0.0</value>
+			<value name="mass" type="float">2000.0</value>
+			<value name="name" type="string">PhysicsParams1</value>
+			<value name="radius" type="float">0.5</value>
+			<value name="side_area" type="float">1.0</value>
+			<value id="23E10147" type="int">0</value>
+			<value id="505A648E" type="int">1</value>
+			<value id="578CCC6B" type="float">1.0</value>
+			<value id="5BF10709" type="int">1</value>
+			<value id="976B6A1D" type="string">SPhysicsBuoy1</value>
+			<value id="9A2C8886" type="int">1</value>
+			<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+			<value id="FCC1DFD2" type="int">0</value>
+			<object id="0428B473">
+				<value name="_class" type="string">SPhysicsBuoy</value>
+				<value name="_object_id" type="int">1565903864</value>
+				<value name="name" type="string">PhysicsBuoy1</value>
+				<value name="world" type="mat4x4">1,0,0,0, 0,1,0,0, 0,0,1,0, 0,-0.0900625,0.5656484,1</value>
+				<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+			</object>
+			<object id="4BDDB402">
+				<value name="_class" type="string">SPhysicsBuoy</value>
+				<value name="_object_id" type="int">1565903864</value>
+				<value name="name" type="string">PhysicsBuoy1</value>
+				<value name="world" type="mat4x4">1,0,0,0, 0,1,0,0, 0,0,1,0, -0.3802749,-0.0900625,0.2716778,1</value>
+				<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+			</object>
+			<object id="9A647F5D">
+				<value name="_class" type="string">SPhysicsBuoy</value>
+				<value name="_object_id" type="int">1565903864</value>
+				<value name="name" type="string">PhysicsBuoy1</value>
+				<value name="world" type="mat4x4">1,0,0,0, 0,1,0,0, 0,0,1,0, 0.3793668,-0.0900625,0.276386,1</value>
+				<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+			</object>
+			<object id="F75634FA">
+				<value name="_class" type="string">SPhysicsBuoy</value>
+				<value name="_object_id" type="int">1565903864</value>
+				<value name="name" type="string">PhysicsBuoy1</value>
+				<value name="world" type="mat4x4">1,0,0,0, 0,1,0,0, 0,0,1,0, 0,-0.0900625,-0.007172793,1</value>
+				<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+			</object>
+		</object>
+		<object id="632AF883">
+			<value name="_class" type="string">CForcePulse</value>
+			<value name="_instance_id" type="int">0</value>
+			<value name="_object_id" type="int">425142122</value>
+			<value name="force_power" type="float">0.0</value>
+			<value name="name" type="string">ForcePulse1</value>
+			<value name="world" type="mat4x4">0.1,0,0,0, 0,0.3,0,0, 0,0,0.1,0, 0.03,-0.06,0.3,1</value>
+			<value id="06A05F33" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::weapon.activate</value>
+			<value id="1F2624DB" type="int">1</value>
+			<value id="593FCDBF" type="string"></value>
+			<value id="5AF29116" type="int">0</value>
+			<value id="6B47B5C3" type="int">1</value>
+			<value id="7FD59340" type="string"></value>
+			<value id="8411974A" type="float">800.0</value>
+			<value id="879640EA" type="string"></value>
+			<value id="9BD6FA33" type="string"></value>
+			<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+			<value id="CBF27B1C" type="float">0.0</value>
+			<value id="CF4F7880" type="int">1</value>
+			<value id="D337272A" type="int">1</value>
+			<value id="E17C1563" type="int">1</value>
+			<value id="E24F9E42" type="float">0.0</value>
+			<value id="E79AA679" type="int">1</value>
+		</object>
+		<object id="72CAFE31">
+			<value name="_class" type="string">CWeapon</value>
+			<value name="_instance_id" type="int">-1537631352</value>
+			<value name="_object_id" type="int">974065087</value>
+			<value name="enabled" type="int">1</value>
+			<value name="icon" type="int">0</value>
+			<value name="itemtype" type="int">0</value>
+			<value name="modelname" type="string">weapons\wea35\wea35-tte.lod</value>
+			<value name="name" type="string">wea.weapon</value>
+			<value name="pickup_count" type="int">99</value>
+			<value name="weaponname" type="string">Triggered Explosive</value>
+			<value name="world" type="mat4x4">-4.371139E-08,-1.192093E-07,1,0, -1.947072E-07,1,1.192093E-07,0, -1,-1.947072E-07,-4.371139E-08,0, 0.001323827,-0.2029967,0.2284747,1</value>
+			<value id="692808C5" type="int">0</value>
+			<value id="8FFFAD44" type="int">1</value>
+			<value id="976B6A1D" type="string">CSmartObject1</value>
+			<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+			<value id="EDBB176D" type="string"></value>
+			<object id="4B78C654">
+				<value name="_class" type="string">CSmartObject</value>
+				<value name="_instance_id" type="int">-1537631352</value>
+				<value name="_object_id" type="int">-887021848</value>
+				<value name="disable" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::weapon.pickup</value>
+				<value name="enable" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::weapon.activate</value>
+				<value name="enabled" type="int">0</value>
+				<value name="enter_event" type="string"></value>
+				<value name="exit_event" type="string"></value>
+				<value name="mission_name" type="string"></value>
+				<value name="model_filename" type="string"></value>
+				<value name="name" type="string">smo.weaponpickup</value>
+				<value name="save" type="int">0</value>
+				<value name="world" type="mat4x4">1,0,0,0, 0,1,0,0, 0,0,1,0, 0,0,0,1</value>
+				<value id="08BAF9F5" type="string"></value>
+				<value id="692808C5" type="int">0</value>
+				<value id="7F368D35" type="string"></value>
+				<value id="976B6A1D" type="string">CSmartObjectTrigger1</value>
+				<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+				<value id="BB801F07" type="string"></value>
+				<value id="E72F7E06" type="int">-1</value>
+				<object id="ABB091DE">
+					<value name="_class" type="string">CSmartObjectTrigger</value>
+					<value name="_object_id" type="int">-1477768809</value>
+					<value name="box_size" type="vec">2.5,2.5,2.5</value>
+					<value name="local" type="mat4x4">1,0,0,0, 0,1,0,0, 0,0,1,0, 0,0,0,1</value>
+					<value name="name" type="string">sot.weaponpickup</value>
+					<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+					<value id="D7FA7FE3" type="string">CWeaponPickupAction2</value>
+					<object id="AF340425">
+						<value name="_class" type="string">CGrenadePickupAction</value>
+						<value name="_object_id" type="int">-512789157</value>
+						<value name="blend_time" type="float">0.1</value>
+						<value name="disable_event" type="string"></value>
+						<value name="enable_event" type="string"></value>
+						<value name="explosive_type" type="int">1</value>
+						<value name="name" type="string">wea.weaponpickup</value>
+						<value name="priority" type="int">1</value>
+						<value id="191434AB" type="int">0</value>
+						<value id="1AD70819" type="int">0</value>
+						<value id="1E0C1BC2" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::weapon.pickup</value>
+						<value id="2CF00DCB" type="int">0</value>
+						<value id="32D444CC" type="int">0</value>
+						<value id="37757A6D" type="string"></value>
+						<value id="3A1F258A" type="int">0</value>
+						<value id="3EFF86A9" type="string"></value>
+						<value id="43E453A4" type="int">0</value>
+						<value id="4CC77F2F" type="int">0</value>
+						<value id="5AFFE35E" type="int">0</value>
+						<value id="5D655631" type="string">S_UPRIGHT_IDLE</value>
+						<value id="62E2C2CE" type="string"></value>
+						<value id="63F9EA61" type="int">0</value>
+						<value id="70F24645" type="int">1</value>
+						<value id="742CDD23" type="int">-1</value>
+						<value id="855DAF02" type="int">0</value>
+						<value id="8CBAEA30" type="float">180.0</value>
+						<value id="A1C34309" type="int">1</value>
+						<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+						<value id="AF893859" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::weapon.pickup</value>
+						<value id="B92848E1" type="int">0</value>
+						<value id="C6B879C0" type="int">0</value>
+						<value id="CAD390EE" type="int">0</value>
+						<value id="D0003E19" type="string">S_UPRIGHT_IDLE</value>
+						<value id="D6D617CC" type="string"></value>
+						<value id="DA72FF7B" type="string"></value>
+						<value id="EECA5657" type="int">38</value>
+						<value id="F0E7F73D" type="string"></value>
+						<value id="F6D62EA4" type="string">hud_button_11</value>
+					</object>
+				</object>
+			</object>
+		</object>
+		<object id="A0869EFF">
+			<value name="_class" type="string">CTargetIndicator</value>
+			<value name="_instance_id" type="int">-1537631352</value>
+			<value name="_object_id" type="int">-1550539097</value>
+			<value name="disable" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::weapon.pickup</value>
+			<value name="distance_visible" type="int">0</value>
+			<value name="enable" type="string"></value>
+			<value name="enabled" type="int">1</value>
+			<value name="mission_name" type="string"></value>
+			<value name="name" type="string">tin.weapon</value>
+			<value name="save" type="int">0</value>
+			<value name="show_text" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::show.text</value>
+			<value name="target_visible" type="int">0</value>
+			<value name="text" type="string"></value>
+			<value name="text_visible" type="int">0</value>
+			<value name="type" type="int">20</value>
+			<value name="world" type="mat4x4">1,0,0,0, 0,1,0,0, 0,0,1,0, 0,0.3702223,0.0287793,1</value>
+			<value id="1F2624DB" type="int">1</value>
+			<value id="4A310D0C" type="string"></value>
+			<value id="5151C4A9" type="int">0</value>
+			<value id="5A5C276F" type="string"></value>
+			<value id="85E79ECF" type="int">0</value>
+			<value id="88970F5D" type="string"></value>
+			<value id="976B6A1D" type="string">CShapeTrigger1</value>
+			<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+			<value id="AA855D36" type="string"></value>
+			<value id="B37A7B81" type="int">0</value>
+			<value id="B765DB41" type="int">0</value>
+			<value id="D0BD211A" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::hide.text t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::weapon.pickup</value>
+			<value id="D337272A" type="int">0</value>
+			<value id="F0023698" type="int">0</value>
+			<value id="FF04BE0D" type="int">0</value>
+		</object>
+	</object>
+	<object>
+		<value name="_class" type="string">CSimpleRigidObject</value>
+		<value name="_instance_id" type="int">-1537631352</value>
+		<value name="_object_id" type="int">-2091205968</value>
+		<value name="clip" type="int">1</value>
+		<value name="collision" type="string">models\weapons\wea00\wea00_lod1-c1_col.pfx</value>
+		<value name="collision_effect_id_impact" type="int">-1</value>
+		<value name="collision_effect_id_roll" type="int">-1</value>
+		<value name="collision_effect_id_slide" type="int">-1</value>
+		<value name="dynamic" type="int">1</value>
+		<value name="fade_out" type="string"></value>
+		<value name="filename" type="string">weapons\wea00\wea00-c1.lod</value>
+		<value name="fixed" type="int">0</value>
+		<value name="mission_name" type="string"></value>
+		<value name="name" type="string">sro.weapon.door</value>
+		<value name="pre_draw" type="int">0</value>
+		<value name="save" type="int">0</value>
+		<value name="world" type="mat4x4">1,0,0,0, 0,1,0,0, 0,0,1,0, 0,0.37,-0.28,1</value>
+		<value id="1970E210" type="int">1</value>
+		<value id="1F2624DB" type="int">1</value>
+		<value id="641D73F0" type="int">1</value>
+		<value id="692808C5" type="int">0</value>
+		<value id="6AE15077" type="int">0</value>
+		<value id="78F0D481" type="int">0</value>
+		<value id="8D4F3F1B" type="int">0</value>
+		<value id="976B6A1D" type="string">SPhysicsParams2</value>
+		<value id="97C00BBD" type="string"></value>
+		<value id="9D2AC6FC" type="int">1</value>
+		<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+		<value id="A97A0034" type="string">{DD61B8D2-A313-4E1C-8B13-DA0BDF62A321}</value>
+		<value id="B9638394" type="int">0</value>
+		<value id="C7CA479B" type="string"></value>
+		<value id="CA2FEA87" type="string">{5232F655-39E7-4BE7-8E09-B3FF25A58821}</value>
+		<value id="D337272A" type="int">0</value>
+		<value id="D3E83257" type="string"></value>
+		<value id="E1C7BB88" type="int">2</value>
+		<value id="E3F8D556" type="string"></value>
+		<value id="E79AA679" type="int">1</value>
+		<value id="F23C5BDC" type="string"></value>
+		<value id="F68F92D4" type="string"></value>
+		<value id="FF56399E" type="int">0</value>
+		<object id="670D0FB1">
+			<value name="_class" type="string">SPhysicsParams</value>
+			<value name="_object_id" type="int">1792908596</value>
+			<value name="angular_damping" type="float">100.0</value>
+			<value name="buoyancy" type="float">2.5</value>
+			<value name="center_of_mass" type="vec">0,0.17248,0.2798514</value>
+			<value name="drag" type="float">300.0</value>
+			<value name="gravity" type="float">0.0</value>
+			<value name="linear_damping" type="float">0.0</value>
+			<value name="mass" type="float">50.0</value>
+			<value name="name" type="string">PhysicsParams2</value>
+			<value name="radius" type="float">0.5</value>
+			<value name="side_area" type="float">1.0</value>
+			<value id="23E10147" type="int">0</value>
+			<value id="505A648E" type="int">0</value>
+			<value id="578CCC6B" type="float">1.0</value>
+			<value id="5BF10709" type="int">1</value>
+			<value id="9A2C8886" type="int">1</value>
+			<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+			<value id="E79AA679" type="int">1</value>
+			<value id="FCC1DFD2" type="int">0</value>
+		</object>
+	</object>
+	<object>
+		<value name="_class" type="string">CConstraint</value>
+		<value name="_instance_id" type="int">-1537631352</value>
+		<value name="_object_id" type="int">-1440048568</value>
+		<value name="disable" type="string"></value>
+		<value name="enable" type="string"></value>
+		<value name="enabled" type="int">1</value>
+		<value name="name" type="string">Constraint</value>
+		<value name="world" type="mat4x4">-4.371139E-08,0,-1,0, 0,1,0,0, 1,0,-4.371139E-08,0, 0,0.37,-0.28,1</value>
+		<value id="1F2624DB" type="int">1</value>
+		<value id="1F2F6A55" type="int">0</value>
+		<value id="3C5BB598" type="string"></value>
+		<value id="3E44CF13" type="string"></value>
+		<value id="3F7C9BF4" type="int">0</value>
+		<value id="3F9C2508" type="string">sro.box&#x7;{9D9037E7-6C31-412B-8324-D810DD8D63AE}&#x7;-1537631352&#x7;1186668463</value>
+		<value id="976B6A1D" type="string">CConstraintLimitedHingeData1</value>
+		<value id="A29C0F27" type="int">1</value>
+		<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+		<value id="C9355331" type="string">sro.weapon.door&#x7;{88D890DE-B08C-4E39-9089-310152390DEB}&#x7;-1537631352&#x7;-2091205968</value>
+		<value id="D337272A" type="int">0</value>
+		<value id="E79AA679" type="int">1</value>
+		<object id="E22868B2">
+			<value name="_class" type="string">CConstraintLimitedHingeData</value>
+			<value name="_object_id" type="int">1494395178</value>
+			<value name="name" type="string">HingeData2</value>
+			<value name="world" type="mat4x4">1,0,0,0, 0,1,0,0, 0,0,1,0, 0,0,0,1</value>
+			<value id="1F2624DB" type="int">1</value>
+			<value id="6C8D8061" type="float">1.0</value>
+			<value id="A1160541" type="float">140.0</value>
+			<value id="A4968489" type="string">t{mod.heavydrop.triggered({2BF1094E-1F5C-41BD-B656-A20B4D8EEC81})}::event</value>
+			<value id="BBB08B61" type="float">0.0</value>
+			<value id="D337272A" type="int">0</value>
+			<value id="E1186819" type="float">100.0</value>
+			<value id="E79AA679" type="int">1</value>
+		</object>
+	</object>
+</container>

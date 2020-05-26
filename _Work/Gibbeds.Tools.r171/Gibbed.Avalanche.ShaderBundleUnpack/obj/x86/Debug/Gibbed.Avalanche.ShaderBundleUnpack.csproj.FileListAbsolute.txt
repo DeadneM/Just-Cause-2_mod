@@ -1,0 +1,6 @@
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\Gibbed.Avalanche.ShaderBundleUnpack.exe.config
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\Gibbed.Avalanche.ShaderBundleUnpack.exe
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\Gibbed.Avalanche.ShaderBundleUnpack.pdb
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ShaderBundleUnpack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ShaderBundleUnpack\obj\x86\Debug\Gibbed.Avalanche.ShaderBundleUnpack.exe
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.ShaderBundleUnpack\obj\x86\Debug\Gibbed.Avalanche.ShaderBundleUnpack.pdb

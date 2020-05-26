@@ -1,0 +1,6 @@
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\Gibbed.Avalanche.SmallPack.exe.config
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\Gibbed.Avalanche.SmallPack.exe
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\Gibbed.Avalanche.SmallPack.pdb
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.SmallPack\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.SmallPack\obj\Debug\Gibbed.Avalanche.SmallPack.exe
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.SmallPack\obj\Debug\Gibbed.Avalanche.SmallPack.pdb

@@ -1,0 +1,6 @@
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\Gibbed.Avalanche.BinConvert.exe.config
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\Gibbed.Avalanche.BinConvert.exe
+C:\Users\Amaury\Desktop\jc2\gibbedr171\bin\Gibbed.Avalanche.BinConvert.pdb
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.BinConvert\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.BinConvert\obj\x86\Debug\Gibbed.Avalanche.BinConvert.exe
+C:\Users\Amaury\Desktop\jc2\gibbedr171\Gibbed.Avalanche.BinConvert\obj\x86\Debug\Gibbed.Avalanche.BinConvert.pdb
