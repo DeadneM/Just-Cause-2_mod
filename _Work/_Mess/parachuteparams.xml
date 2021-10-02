@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="Raw" endian="Little">
+	<object>
+		<object id="039AA904">
+			<value name="effect_filename" type="string">Effects\ParachuteEffectSettings\ParachuteEffects.bin</value>
+			<value name="item_id" type="string">parachute00</value>
+			<value name="model" type="string"></value>
+			<value name="pickup_event" type="string">parachute00.pickup.execute</value>
+			<value name="skeleton" type="string">animations\skeletons\syncReadThis\parachute.bsk</value>
+			<value name="state_machine" type="string">animations\statemachine\parachute.afsm</value>
+			<value id="4247FEAA" type="string">animations\animationsets\parachute.asb</value>
+			<object id="B314FDC5">
+				<value name="effect_id" type="int">-1</value>
+				<value id="0ACA21E6" type="float">1</value>
+				<value id="13E64FD4" type="vec">2,2,2</value>
+				<value id="25232863" type="string"></value>
+				<value id="2C727E62" type="float">1</value>
+				<value id="355EA7CB" type="float">1000</value>
+				<value id="7BF8E946" type="float">-1</value>
+				<value id="97395535" type="string"></value>
+				<value id="D3B54F8C" type="float">9.005</value>
+				<value id="DEF7ADD2" type="float">-1</value>
+			</object>
+		</object>
+	</object>
+</container>
